@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -226,22 +226,22 @@ Call first aider in case of injury
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-03-13 - Anna Kalorkoti (anna.kalorkoti@cantab.net))
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-13 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk)), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk))
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)

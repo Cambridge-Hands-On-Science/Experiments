@@ -2,7 +2,7 @@
 
 **Various demonstrations using a vacuum pump.** - The idea of a vaccum is very different to what we experience in everyday life, with some surprising consequences!
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,24 +117,24 @@ Call a first aider in the case of an injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net))
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-10 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-10 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-04 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2018-01-04 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2019-02-03 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-03 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Talk from CBS 2017 + 2018** - This is a series of talks from CBS 2017 and 2018 exploring games we encounter everyday and the mathematics behind them.
 
-Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk)) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -136,8 +136,8 @@ In all cases, call first aider in case of injury
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-09 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-02-09 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)

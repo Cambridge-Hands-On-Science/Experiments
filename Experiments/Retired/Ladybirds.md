@@ -2,7 +2,7 @@
 
 **Ladybird experiment done in 2008 at CBS, looking at different species of ladybirds e.g. Harlequins ** - nan
 
-Last initially checked on 2013-12-25 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on 2014-01-01 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2013-12-25 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk) and double-checked on 2014-01-01 by Sarah Wiseman (sw628@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,8 +57,8 @@ ACTION TO BE TAKEN IN THE EVENT OF AN ACCIDENT
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)

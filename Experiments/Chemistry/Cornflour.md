@@ -2,7 +2,7 @@
 
 **Explore the remarkable properties of cornflour mixed with water.** - Slimey, gooey and messy: cornflour is one of our favourite experiments! Come and stick your hands in, and figure out if it behaves like a liquid or a solid...
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2021-01-18 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2021-01-18 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -168,22 +168,22 @@ Call first aider in event of injury, who may perform an eyewash if trained and h
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk))
+**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net)), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net))
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
 
-**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-09 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-09 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)

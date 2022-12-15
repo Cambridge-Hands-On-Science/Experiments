@@ -2,7 +2,7 @@
 
 **Talk about the different parts of a tree whilst building one out of craft materials** - Can you build a tree?
 
-Last initially checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -127,16 +127,16 @@ Warn parents of the possibility of germ transfer if child has been eating straws
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-12 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-02-12 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2017-01-03 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-01-03 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-25 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2018-01-25 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2019-01-08 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-08 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk)), **Check 2**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

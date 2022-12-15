@@ -2,7 +2,7 @@
 
 **Constraining light in a stream of water, making it work like an optical fibre.** - Find out what happens when light is trapped inside a stream of water. Make a beam of light bend round corners and see how fibre optics are helping to change the world!
 
-Last initially checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -174,24 +174,24 @@ Using an LED torch - as these are typically low power and do not pose a risk to 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net))
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-02-13 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk))
+**Check 1**: 2014-02-13 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-04 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-04 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-02-03 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-03 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

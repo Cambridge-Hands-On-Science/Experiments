@@ -2,7 +2,7 @@
 
 **Statistics in the hospital** - Explore how statistics get used within a hospital with a model of radiotherapy treatment for cancer. Try and damage the tumour while minimising the effects to nearby healthy cells.
 
-Last initially checked on 2020-12-12 by Yian Aaron Koh (yak23@cam.ac.uk)) and double-checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2020-12-12 by Yian Aaron Koh (yak23@cam.ac.uk) and double-checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,8 +90,8 @@ Monte Carlo methods use similar ideas of simulating things, in fact there doesn'
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-15 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2018-12-15 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)

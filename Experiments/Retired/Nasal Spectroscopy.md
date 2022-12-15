@@ -2,7 +2,7 @@
 
 **Linking chemical functionality to smell.** - nan
 
-Last initially checked on nan by nan) and double-checked on nan by nan)
+Last initially checked on nan by nan and double-checked on nan by nan
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

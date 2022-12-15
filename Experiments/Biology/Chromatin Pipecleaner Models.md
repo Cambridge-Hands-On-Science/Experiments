@@ -2,7 +2,7 @@
 
 **Explore the world of epigenetics, using pipecleaners and corks to model DNA and the chemical changes done to it to turn genes on and off. ** - Humans have 19,000 genes. How are only certain genes turned on in each cell so that brain cells express brain genes, but not heart genes and vice versa? Here we make fun chromatin models to explore epigenetics.
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -112,12 +112,12 @@ Call a first aider in the event of an accident.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-09-25 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-09-25 - Laura Wells (lbw28@cam.ac.uk))
+**Check 1**: 2018-09-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-09-25 - Laura Wells (lbw28@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk))
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)

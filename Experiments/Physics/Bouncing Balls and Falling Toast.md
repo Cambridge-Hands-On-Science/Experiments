@@ -2,7 +2,7 @@
 
 **Looking at odd properties of bodies with spin.** - A selection of mechanics experiments which investigate the properties of bodies with added spin. From bouncing balls of walls to dropping toast from tables we find out the hidden influence of angular momentum and why it makes our carpet buttery. 
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -128,14 +128,14 @@ Call a first aider in the event of an accient.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2018-07-22 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-07-22 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-07-22 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-07-22 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

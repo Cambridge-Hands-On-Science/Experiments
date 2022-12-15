@@ -2,7 +2,7 @@
 
 **See how your bed sheets have gravity.** - Learn about the effects of gravity using a bed sheet?
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,8 +106,8 @@ There are issues with this demo, gravity is a curvature of space-time, which is 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-03 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-03 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **nan** - CBS Talk
 
-Last initially checked on 2017-02-13 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2017-02-13 by Thomas Webster (tw432@alumni.cam.ac.uk))
+Last initially checked on 2017-02-13 by Roxanne Armfield (rea41@cam.ac.uk) and double-checked on 2017-02-13 by Thomas Webster (tw432@alumni.cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,4 +35,4 @@ Will be completed when talk is completed
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-13 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-13 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk)

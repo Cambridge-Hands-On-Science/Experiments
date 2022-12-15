@@ -2,7 +2,7 @@
 
 **See things appear and vanish through the two way mirror** - nan
 
-Last initially checked on 2013-01-08 by Ophelia Crawford (oc251@cam.ac.uk)) and double-checked on 2013-01-20 by Richard Hall (rjh216@cam.ac.uk))
+Last initially checked on 2013-01-08 by Ophelia Crawford (oc251@cam.ac.uk) and double-checked on 2013-01-20 by Richard Hall (rjh216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -115,4 +115,4 @@ Ensure that the light from each lamp projects only away from the perspex, not up
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)

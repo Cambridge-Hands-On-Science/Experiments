@@ -2,7 +2,7 @@
 
 **nan** - Challenges for Peterborough Stem Festival Schools Challenge Day
 
-Last initially checked on 2019-09-20 by Esmae Jemima Woods (ejw89@cam.ac.uk)) and double-checked on 2019-09-20 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2019-09-20 by Esmae Jemima Woods (ejw89@cam.ac.uk) and double-checked on 2019-09-20 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -91,4 +91,4 @@ Some pens show up in IR, some don't. Hidden messages can be written on paper, bo
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-09-20 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2019-08-20 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2019-09-20 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2019-08-20 - Andrew Sellek (ads79@cam.ac.uk)

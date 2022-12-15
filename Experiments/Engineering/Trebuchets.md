@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -149,24 +149,24 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)), **Check 2**: 2012-01-30 - Coryan Wilson-Shah (cw412@cam.ac.uk))
+**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com), **Check 2**: 2012-01-30 - Coryan Wilson-Shah (cw412@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-10 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-10 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk))
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2019-01-30 - Helen Gildersleeves (hcg31@cam.ac.uk))
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-01-30 - Helen Gildersleeves (hcg31@cam.ac.uk)
 
-**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk))
+**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)

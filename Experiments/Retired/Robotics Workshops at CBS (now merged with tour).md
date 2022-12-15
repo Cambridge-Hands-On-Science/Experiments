@@ -2,7 +2,7 @@
 
 **Robotics Workshop run during CBS** - Robots!
 
-Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2021-01-20 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk) and double-checked on 2021-01-20 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -103,16 +103,16 @@ There is also an option to run a shorter challenge. The software will be special
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-13 - Vamsee Bheemireddy (vrb23@cam.ac.uk)), **Check 2**: 2015-02-13 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-02-13 - Vamsee Bheemireddy (vrb23@cam.ac.uk), **Check 2**: 2015-02-13 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2016-01-17 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2016-01-17 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-06 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-04 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2020-01-19 - Jean Pichon (jp622@cam.ac.uk)), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-01-19 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)

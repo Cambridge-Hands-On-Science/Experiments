@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -169,14 +169,14 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk)), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net))
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2019-01-18 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2019-01-18 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk))
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk)), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)

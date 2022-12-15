@@ -2,7 +2,7 @@
 
 **nan** - CBS talk on Yellowstone plume. Half geophys. Half magma. See google drive for PP
 
-Last initially checked on 2019-01-28 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2019-02-05 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2019-01-28 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2019-02-05 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,4 +43,4 @@ CBS talk
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-28 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2019-02-05 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-01-28 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2019-02-05 - Grace Exley (gae23@cam.ac.uk)

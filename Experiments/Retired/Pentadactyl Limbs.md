@@ -2,7 +2,7 @@
 
 **Looking at how form is linked with function with mammal limbs** - nan
 
-Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk) and double-checked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,6 +57,6 @@ More details to follow.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-12 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-02-12 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)

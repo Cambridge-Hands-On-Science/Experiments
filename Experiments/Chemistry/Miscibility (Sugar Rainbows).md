@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk))
+Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -146,20 +146,20 @@ Call first aider in the event of an emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
 
-**Check 1**: 2015-12-27 - Charis Watkins (czrw2@cam.ac.uk)), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2015-12-27 - Charis Watkins (czrw2@cam.ac.uk), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2016-02-06 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-02-06 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-02-06 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-02-06 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-07 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-07 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)

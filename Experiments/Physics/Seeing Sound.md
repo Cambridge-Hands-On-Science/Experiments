@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -159,24 +159,24 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk))
+**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-16 - Jachym Sykora (js973@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-16 - Jachym Sykora (js973@cam.ac.uk)
 
-**Check 1**: 2014-01-25 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-25 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-01-30 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-30 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2018-01-13 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-13 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-13 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk))
+**Check 1**: 2020-01-13 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
 
-**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk)), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

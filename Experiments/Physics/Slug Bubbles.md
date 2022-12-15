@@ -2,7 +2,7 @@
 
 **Does a tube of water drain more slowly with a bung in the top?** - Does the diameter effect how fast water drains from a sealed tube? Watch the bubbles produced and see which is fastest. 
 
-Last initially checked on 2022-02-09 by Emma Crickmore (elc75@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-09 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -109,22 +109,22 @@ In case of injury, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

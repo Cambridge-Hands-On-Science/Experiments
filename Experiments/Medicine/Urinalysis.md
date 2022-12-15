@@ -2,7 +2,7 @@
 
 **nan** - Practise diagnosing patients using this simple bedside test - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
+Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,20 +133,20 @@ Call a first aider in the event of reaction.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-26 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-26 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk)), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2019-01-30 - Helen Gildersleeves (hcg31@cam.ac.uk))
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-30 - Helen Gildersleeves (hcg31@cam.ac.uk)
 
-**Check 1**: 2020-01-27 - Samuel Amey (sra44@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-27 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk)), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)

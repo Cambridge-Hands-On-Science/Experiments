@@ -2,7 +2,7 @@
 
 **Maths through the medium of juggling** - Learn about sequences, periods, patterns, and the Chinese remainder theorem through the medium of juggling balls. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -99,8 +99,8 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-28 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-28 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)

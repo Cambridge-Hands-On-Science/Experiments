@@ -4,7 +4,7 @@
 
 A collection of various fossils (Sedgwick Musum Fossil Set 29)
 
-Last initially checked on 2017-01-11 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2017-02-07 by Matthew Kemp (mk775@cam.ac.uk))
+Last initially checked on 2017-01-11 by Roxanne Armfield (rea41@cam.ac.uk) and double-checked on 2017-02-07 by Matthew Kemp (mk775@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -98,6 +98,6 @@ Contact first aider if injury occurs.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-06-22 - Matthew Kemp (mk775@cam.ac.uk)), **Check 2**: 2016-06-22 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2016-06-22 - Matthew Kemp (mk775@cam.ac.uk), **Check 2**: 2016-06-22 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk))
+**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk)

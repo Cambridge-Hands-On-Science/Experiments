@@ -2,7 +2,7 @@
 
 **nan** - Talk for CBS 2020 about the physics of rockets!
 
-Last initially checked on 2020-02-02 by Benjamin Akrill (bja32@alumni.cam.ac.uk)) and double-checked on 2020-02-06 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2020-02-02 by Benjamin Akrill (bja32@alumni.cam.ac.uk) and double-checked on 2020-02-06 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -193,4 +193,4 @@ In the meantime, a list of the planned demos:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk)), **Check 2**: 2020-02-06 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2020-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2020-02-06 - Grace Exley (gae23@cam.ac.uk)

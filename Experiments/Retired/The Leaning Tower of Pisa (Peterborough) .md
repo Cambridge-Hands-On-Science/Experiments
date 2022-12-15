@@ -2,7 +2,7 @@
 
 **Looking at leaning towers, moments and centres of mass.** - Explore this famous Italian Monument while learning about centre of mass, moments and building foundations. 
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -93,8 +93,8 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk)), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)

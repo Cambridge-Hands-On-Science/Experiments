@@ -2,7 +2,7 @@
 
 **Demonstrate how the brain adapts to changes in environmental input using prism goggles. ** - See how quickly your brain adapts by wearing our prism goggles whilst playing a target-hitting game.
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -177,22 +177,22 @@ Call first aider if necessary.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-11-27 - Elizabeth Mooney (erm40@cam.ac.uk)), **Check 2**: 2012-11-27 - Beatrice Tyrrell (bet23@cam.ac.uk))
+**Check 1**: 2012-11-27 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-11-27 - Beatrice Tyrrell (bet23@cam.ac.uk)
 
-**Check 1**: 2014-01-07 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-26 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-07 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-26 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-08 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil@gmail.com))
+**Check 1**: 2015-01-08 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-01-21 - Natalie Cree (nc434@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-01-21 - Natalie Cree (nc434@cam.ac.uk)
 
-**Check 1**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2017-02-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2017-02-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2018-01-27 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)

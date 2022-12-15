@@ -2,7 +2,7 @@
 
 **nan** - What is engineering? And how can you become one? Come find out, and hopefully build something with CHaOSes very own 3D printer!
 
-Last initially checked on 2019-01-31 by Amanda Buckingham (abb53@cam.ac.uk)) and double-checked on 2019-02-05 by Esmae Jemima Woods (ejw89@cam.ac.uk))
+Last initially checked on 2019-01-31 by Amanda Buckingham (abb53@cam.ac.uk) and double-checked on 2019-02-05 by Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -55,4 +55,4 @@ Details will be fleshed out more leading up to event!
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-31 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2019-01-31 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)

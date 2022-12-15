@@ -2,7 +2,7 @@
 
 **Looking at floating and sinking using a bed of sand** - Find out more about quicksand and how sand can behave like a fluid.
 
-Last initially checked on 2020-12-28 by Holly Smith (hs606@cam.ac.uk)) and double-checked on 2020-01-17 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2020-12-28 by Holly Smith (hs606@cam.ac.uk) and double-checked on 2020-01-17 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -165,22 +165,22 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-05 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2012-01-05 - Rosy Ansell (rosemary.a.r.hunt@gmail.com), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2013-01-07 - Rachel Chapman (rc506@cam.ac.uk)), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk))
+**Check 1**: 2013-01-07 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
 
-**Check 1**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-02-16 - Peter Maynes (peter.maynes@cantab.net))
+**Check 1**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-02-16 - Peter Maynes (peter.maynes@cantab.net)
 
-**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-01-20 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-01-20 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2020-12-28 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2020-12-28 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)

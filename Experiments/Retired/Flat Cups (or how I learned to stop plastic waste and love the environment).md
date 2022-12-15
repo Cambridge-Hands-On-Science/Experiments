@@ -2,7 +2,7 @@
 
 **Flatten a cup, stretch a cup.** - Flatten a cup then stretch a cup and flatten it and stretch and flat. Look how plastic is recycled, what it's made of, and how we make things.
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -154,8 +154,8 @@ In the event that they touch anything, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-11-27 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-10 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2018-11-27 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-10 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)

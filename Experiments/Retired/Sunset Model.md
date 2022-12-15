@@ -2,7 +2,7 @@
 
 **Why is the sky blue and the sunset red?** - Have you ever wondered what makes the sky blue? Or why it stops being blue at sunset? Come along to this experiment to find out why!
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -196,24 +196,24 @@ Also see Electrical Parts RA.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-02-06 - Rosy Ansell (rosemary.a.r.hunt@gmail.com))
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-02-06 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2019-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-19 - Daniel Cropper (djc96@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-19 - Daniel Cropper (djc96@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

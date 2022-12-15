@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2021-01-21 by Esmae Jemima Woods (ejw89@cam.ac.uk)) and double-checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-21 by Esmae Jemima Woods (ejw89@cam.ac.uk) and double-checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -159,6 +159,6 @@ Last initially checked on 2021-01-21 by Esmae Jemima Woods (ejw89@cam.ac.uk)) an
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-03 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)

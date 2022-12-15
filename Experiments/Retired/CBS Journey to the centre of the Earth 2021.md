@@ -2,7 +2,7 @@
 
 **nan** - Talk for CBS
 
-Last initially checked on 2021-01-22 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,4 +90,4 @@ Talk for CBS
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2021-01-22 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Bubbles ** - Magical bubbles!!!
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -85,10 +85,10 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)

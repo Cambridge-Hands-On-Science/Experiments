@@ -3,7 +3,7 @@
 **Recipes from a Star: From Puzzling Planets to Black Holes Bizarre** - Talk given at CBS 2020.
 Recipes from a Star: From Puzzling Planets to Black Holes Bizarre: discover what stars are made of and how they form, and learn about some of the cool things that they can turn into or help create!
 
-Last initially checked on 2020-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2020-02-05 by Beatrix Huissoon (beh37@cam.ac.uk))
+Last initially checked on 2020-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2020-02-05 by Beatrix Huissoon (beh37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -96,4 +96,4 @@ TBC
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-05 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **This talk will explore the concept of parasitism and give examples of parasites in the wild that live at expenses of other animals or plants as well as explain parasites in human that can be medically important. ** - nan
 
-Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk) and double-checked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -87,8 +87,8 @@ Top tips from the most successful long-live parasites
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-07 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-02-07 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2017-02-09 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-02-09 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)

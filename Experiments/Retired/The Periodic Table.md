@@ -2,7 +2,7 @@
 
 **Explore the elements.** - Explore different elements, their uses, and how their properties relate to build up the periodic table.
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -107,8 +107,8 @@ Synthetic actinide, sample from a smoke detector. Emits mainly alpha radiation s
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)

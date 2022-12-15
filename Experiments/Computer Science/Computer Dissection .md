@@ -2,7 +2,7 @@
 
 **Dissecting a computer ** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,10 +133,10 @@ Plug - This is an old and broken USB plug. You can see how the wires go in the i
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
+Last initially checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -104,24 +104,24 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net))
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2015-12-26 - Charis Watkins (czrw2@cam.ac.uk)), **Check 2**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk))
+**Check 1**: 2015-12-26 - Charis Watkins (czrw2@cam.ac.uk), **Check 2**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)
 
-**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Hannah Thorne (hbt23@cam.ac.uk)), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2018-01-27 - Hannah Thorne (hbt23@cam.ac.uk), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2019-01-25 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2019-01-25 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)), **Check 2**: 2020-01-18 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-18 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk))
+**Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)

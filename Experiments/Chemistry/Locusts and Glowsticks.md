@@ -2,7 +2,7 @@
 
 **Using glow sticks to talk about chemical kinetics.** - What do glowsticks and locusts have in common? Watch what happens as we heat them up and cool them down - how long can you get your glowstick to glow? How fast can you make the locusts move?
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -227,24 +227,24 @@ Do not demonstrate if you find yourself to be allergic to locusts. Call a first 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-16 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-16 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net)), **Check 2**: 2014-01-25 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-25 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-25 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2017-01-25 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2020-01-15 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-15 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-01-15 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-15 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk)), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)

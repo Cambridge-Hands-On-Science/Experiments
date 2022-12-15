@@ -2,7 +2,7 @@
 
 **nan** - 2021 CBS talk about density and ocean mixing.
 
-Last initially checked on 2021-01-22 by Hero Ross Bain (hrb47@cam.ac.uk)) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Hero Ross Bain (hrb47@cam.ac.uk) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,6 +106,6 @@ Fill cylindrical vase half with salt-saturated water and then top-up with fresh 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-05 - Hero Ross Bain (hrb47@cam.ac.uk)), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Hero Ross Bain (hrb47@cam.ac.uk), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Hero Ross Bain (hrb47@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Hero Ross Bain (hrb47@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)

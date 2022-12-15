@@ -2,7 +2,7 @@
 
 **Demonstrating the power of a carbon dioxide fire extinguisher.** - What does a fire need to burn, and how can we put it out? Find out how we can put out a candle with a cupful of gas!
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -112,24 +112,24 @@ If vinegar gets in eyes, we have eyewash in the first aid box. The demonstrator 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk))
+**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net)), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2015-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2015-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)

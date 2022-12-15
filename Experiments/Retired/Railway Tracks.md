@@ -2,7 +2,7 @@
 
 **How the shape of wheels helps trains go round corners** - Explore the shape of train wheels encountering equilibria and stability.
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -107,10 +107,10 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)

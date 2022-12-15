@@ -2,7 +2,7 @@
 
 **How do vending machines identify coins?** - Why are wheels round? How do vending machines identify coins? Explore the answers to these questions by looking at some alternative shapes of constant width, maybe the circle isn't as unique as you first thought. 
 
-Last initially checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -119,10 +119,10 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-12 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-12 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)

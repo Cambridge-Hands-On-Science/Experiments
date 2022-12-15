@@ -2,7 +2,7 @@
 
 **Igniting cotton wool by compressing a cylinder of air.** - nan
 
-Last initially checked on 2019-01-01 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2019-01-01 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2019-01-01 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk) and double-checked on 2019-01-01 by Matthew Le Maitre (msl54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -47,16 +47,16 @@ This one is £36 and I think Dave's are bigger but more expensive.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-06 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-01-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)

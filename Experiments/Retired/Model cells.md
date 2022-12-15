@@ -2,7 +2,7 @@
 
 **Box of model cells** - You'll often see these model cells helping to explain other biology experiments, but one day they may get their own solo careers...
 
-Last initially checked on 2019-01-12 by Amanda Buckingham (abb53@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2019-01-12 by Amanda Buckingham (abb53@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -59,18 +59,18 @@ These cells are often used with microscopes and kiwi DNA, and can be split betwe
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk))
+**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com))
+**Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk)), **Check 2**: 2016-02-01 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-01 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk))
+**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-18 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-18 - Polly Hooton (prh43@cam.ac.uk)

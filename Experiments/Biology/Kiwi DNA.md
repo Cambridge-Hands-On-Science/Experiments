@@ -2,7 +2,7 @@
 
 **Breaking open cells of a kiwi fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in kiwi fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2022-02-26 by Hayoung Choi (hc585@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-26 by Hayoung Choi (hc585@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -258,24 +258,24 @@ If child ingests small part of model, call first aider immediately.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2015-01-06 - Kym Neil (kym.e.neil@gmail.com)), **Check 2**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net))
+**Check 1**: 2015-01-06 - Kym Neil (kym.e.neil@gmail.com), **Check 2**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk)), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk))
+**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk)
 
-**Check 1**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk)), **Check 2**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-14 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-14 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

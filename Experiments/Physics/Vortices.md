@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -193,14 +193,14 @@ Switch off power and call first aider in case of injury. In very poor visibility
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2018-01-04 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-04 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2019-02-05 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2019-02-05 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)

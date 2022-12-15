@@ -2,7 +2,7 @@
 
 **Removing copper oxides from coins.** - Those grubby coppers in your pocket or purse can be shined up in minutes, give it a try and find out how it works.
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -105,24 +105,24 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2013-01-07 - Rachel Chapman (rc506@cam.ac.uk)), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk))
+**Check 1**: 2013-01-07 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net)), **Check 2**: 2014-01-23 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-12-28 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-28 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net))
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
 
-**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-07 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-07 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)

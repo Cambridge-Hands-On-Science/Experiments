@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - What type of bone are SKULLS? What are their features and how are they linked to their FUNCTION? You can find out how different animals evolved to suit their habits and their habitats and some fascinating comparisons between species!
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -224,8 +224,8 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-08 - Jennifer Simpson (jks61@cam.ac.uk)), **Check 2**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-01-08 - Jennifer Simpson (jks61@cam.ac.uk), **Check 2**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2020-12-30 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2020-12-30 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)

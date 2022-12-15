@@ -2,7 +2,7 @@
 
 **How can we use arches to hold up a cathedral?** - See how simple shapes can fit together to hold up a large structure, like a cathedral!
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -180,24 +180,24 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net))
+**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-01-24 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-01-24 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-12 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-12 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-04 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-04 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk))
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **A collection of various fossils (Sedgwick Musum Fossil Set 2)** - Travel back in time through millions of years of Earth's history! If you've ever wanted to see what strange creatures lived in the past then take a look at these fabulous fossil!
 
-Last initially checked on 2017-12-19 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2017-12-27 by Matthew Kemp (mk775@cam.ac.uk))
+Last initially checked on 2017-12-19 by Roxanne Armfield (rea41@cam.ac.uk) and double-checked on 2017-12-27 by Matthew Kemp (mk775@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -147,10 +147,10 @@ These early tree ferns are from the Carboniferous period. At this time much of t
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-11 - Matthew Kemp (mk775@cam.ac.uk)), **Check 2**: 2015-02-11 - Elizabeth Pearmain (ejp69@cam.ac.uk))
+**Check 1**: 2015-02-11 - Matthew Kemp (mk775@cam.ac.uk), **Check 2**: 2015-02-11 - Elizabeth Pearmain (ejp69@cam.ac.uk)
 
-**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk))
+**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk)
 
-**Check 1**: 2017-12-19 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-12-27 - Matthew Kemp (mk775@cam.ac.uk))
+**Check 1**: 2017-12-19 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-12-27 - Matthew Kemp (mk775@cam.ac.uk)

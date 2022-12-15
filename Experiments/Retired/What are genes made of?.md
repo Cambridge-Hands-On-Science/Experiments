@@ -2,7 +2,7 @@
 
 **Biology lecture used for CBS 2011** - nan
 
-Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk)) and double-checked on 2015-01-23 by Kym Neil (kym.e.neil@gmail.com))
+Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk) and double-checked on 2015-01-23 by Kym Neil (kym.e.neil@gmail.com)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -136,10 +136,10 @@ That's because both you and the kiwi are made up of cells and the cells in the k
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk))
+**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
 
-**Check 1**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com))
+**Check 1**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)

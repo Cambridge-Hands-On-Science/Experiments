@@ -2,7 +2,7 @@
 
 **Learn about codes and ciphers** - Learn about codes and ciphers through a selection of demonstrations of different methods using whiteboards and padlocks. 
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -205,10 +205,10 @@ So you can solve some discrete log stuff (which is used in DiffieHelam and ElGam
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2020-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)

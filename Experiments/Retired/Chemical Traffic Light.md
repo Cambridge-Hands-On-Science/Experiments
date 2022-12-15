@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2020-12-28 by Holly Smith (hs606@cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2020-12-28 by Holly Smith (hs606@cam.ac.uk) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -108,6 +108,6 @@ https://eic.rsc.org/classroom/exhibition-chemistry/beyond-the-blue-bottle/200004
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-12-28 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-12-28 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)

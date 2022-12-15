@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -116,26 +116,26 @@ In the event of eating, advise them that the reactants are all edible but to see
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk))
+**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk)
 
-**Check 1**: 2013-12-15 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2013-12-15 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-02 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-02 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2015-01-20 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-18 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2015-01-20 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-18 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2017-02-06 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-06 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-07 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2019-01-10 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-10 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-01-08 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-16 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2020-01-08 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-16 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)

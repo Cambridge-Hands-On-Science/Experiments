@@ -2,7 +2,7 @@
 
 **nan** - CBS! 2019 talk about radioactivity. Find out how chain reactions power the world with flaming demos of chain reactions, a real Geiger counter and balloons!
 
-Last initially checked on 2019-02-07 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2019-02-07 by Thomas Webster (tw432@alumni.cam.ac.uk))
+Last initially checked on 2019-02-07 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2019-02-07 by Thomas Webster (tw432@alumni.cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -122,4 +122,4 @@ Use the Geiger counter to test whether things are radioactive or not and to show
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-02-07 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-02-07 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2019-02-07 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-02-07 - Thomas Webster (tw432@alumni.cam.ac.uk)

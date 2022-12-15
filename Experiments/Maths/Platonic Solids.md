@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -76,10 +76,10 @@ The platonic solids have been historicaly important, with Greek philosophers bel
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

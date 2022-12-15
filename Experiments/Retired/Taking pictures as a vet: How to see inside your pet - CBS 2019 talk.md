@@ -2,7 +2,7 @@
 
 **nan** - X-rays are an extremely useful type of image that are used by vets almost every day. When might a vet need to take an X-ray? How do X-ray machines work? What can you see on an X-ray image? And what do X-rays of different animals look like? 
 
-Last initially checked on 2019-01-12 by Jennifer Simpson (jks61@cam.ac.uk)) and double-checked on 2019-01-12 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2019-01-12 by Jennifer Simpson (jks61@cam.ac.uk) and double-checked on 2019-01-12 by Matthew Le Maitre (msl54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -65,4 +65,4 @@ Light Box- If available to use in this demonstration, the light box may be used 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-12 - Jennifer Simpson (jks61@cam.ac.uk)), **Check 2**: 2019-01-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-12 - Jennifer Simpson (jks61@cam.ac.uk), **Check 2**: 2019-01-12 - Matthew Le Maitre (msl54@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **nan** - Demos for a Crash, Bang, Squelch! public talk featuring examples of steganography and cryptography.
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Matthew Le Maitre (msl54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -203,4 +203,4 @@ In the event of an accident, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-02 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2021-01-22 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-02 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2021-01-22 - Beatrix Huissoon (beh37@cam.ac.uk)

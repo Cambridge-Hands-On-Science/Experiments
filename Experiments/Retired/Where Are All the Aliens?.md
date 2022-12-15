@@ -2,7 +2,7 @@
 
 **Where might aliens live, how can we look for them and why haven't we found any?** - CBS Talk 2017/18
 
-Last initially checked on 2018-02-06 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2018-02-06 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+Last initially checked on 2018-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2018-02-06 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -123,6 +123,6 @@ Previously included:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)

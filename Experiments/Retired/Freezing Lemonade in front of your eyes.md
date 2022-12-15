@@ -2,7 +2,7 @@
 
 **Freezing lemonade by opening its lid** - Open a bottle of lemonade and watch it freeze solid!
 
-Last initially checked on 2020-12-27 by Holly Smith (hs606@cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2020-12-27 by Holly Smith (hs606@cam.ac.uk) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -80,8 +80,8 @@ Dissolved CO2 lowers the melting/freezing temperature of lemonade in the same wa
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-12 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2018-12-12 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2020-12-27 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-12-27 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)

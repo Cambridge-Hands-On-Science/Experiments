@@ -2,7 +2,7 @@
 
 **Adding numbers using mechanical calculators.** - Electronic calculators are everywhere but how can we get these machines to understand simple tasks like addition? Explore some of the first decimal calculators and then explore modern binary arithmetic. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -143,14 +143,14 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tom Comerford (tafc2@cam.ac.uk)), **Check 2**: 2015-02-12 - Zephyr Penoyre (jp576@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tom Comerford (tafc2@cam.ac.uk), **Check 2**: 2015-02-12 - Zephyr Penoyre (jp576@cam.ac.uk)
 
-**Check 1**: 2016-12-09 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk))
+**Check 1**: 2016-12-09 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2019-02-04 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2019-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2019-02-04 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)

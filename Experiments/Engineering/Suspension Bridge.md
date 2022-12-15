@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -195,26 +195,26 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)), **Check 2**: 2012-01-30 - Coryan Wilson-Shah (cw412@cam.ac.uk))
+**Check 1**: 2011-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com), **Check 2**: 2012-01-30 - Coryan Wilson-Shah (cw412@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-01-26 - Oliver John (oaj24@cam.ac.uk)), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-01-26 - Oliver John (oaj24@cam.ac.uk), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-07 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-09 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2020-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-09 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2021-01-07 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-09 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2021-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-09 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

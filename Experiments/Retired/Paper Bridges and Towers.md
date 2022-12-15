@@ -2,7 +2,7 @@
 
 **A workshop that involves designing and building structures out of paper** - nan
 
-Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -114,12 +114,12 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-01-17 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2016-01-17 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk)), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)

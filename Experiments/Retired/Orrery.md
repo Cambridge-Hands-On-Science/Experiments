@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on nan by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and double-checked on nan by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -63,10 +63,10 @@ Call first aider in the event of an accident.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-11 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-02-11 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk)

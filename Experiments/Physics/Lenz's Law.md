@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -96,10 +96,10 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2021-01-03 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-03 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

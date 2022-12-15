@@ -2,7 +2,7 @@
 
 **nan** - How predictable are volcanic eruptions? Try your hand at assessing the hazard of an unpredictable volcano and decide for yourself when to evacuate the thriving town in the shadow of Party Popper Mountain!
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -125,8 +125,8 @@ Different brands of party popper will need different numbers of washer to go off
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-06 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-06 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk))
+**Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)

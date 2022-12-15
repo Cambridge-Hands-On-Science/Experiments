@@ -2,7 +2,7 @@
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -243,8 +243,8 @@ Keep magnet in labelled, sealed box at all times. Do not allow magnet to leave e
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2020-02-05 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk)), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)

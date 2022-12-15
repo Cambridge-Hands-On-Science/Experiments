@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners! ** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -176,24 +176,24 @@ In case of injury, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith@cantab.net)), **Check 2**: 2012-01-25 - Daniel Obute (rdo23@cam.ac.uk))
+**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith@cantab.net), **Check 2**: 2012-01-25 - Daniel Obute (rdo23@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
 
-**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2015-01-21 - Jessica Gorman (jrg63@cam.ac.uk))
+**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-21 - Jessica Gorman (jrg63@cam.ac.uk)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk)
 
-**Check 1**: 2017-02-07 - Jessica Gorman (jrg63@cam.ac.uk)), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-02-07 - Jessica Gorman (jrg63@cam.ac.uk), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2019-01-24 - Jennifer Simpson (jks61@cam.ac.uk))
+**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-24 - Jennifer Simpson (jks61@cam.ac.uk)
 
-**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -176,18 +176,18 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-10-23 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-10-23 - Robert Gayer (rg478@cam.ac.uk))
+**Check 1**: 2015-10-23 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-10-23 - Robert Gayer (rg478@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2019-08-31 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2019-09-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2019-08-31 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2019-09-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

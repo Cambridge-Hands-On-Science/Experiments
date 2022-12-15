@@ -2,7 +2,7 @@
 
 **Making giant soap bubbles and looking at how they behave in different shaped frames.** - I'm forever blowing bubbles... but why aren't any of them square? Can you make a square bubble? Come and have a go...
 
-Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -107,22 +107,22 @@ Call a first aider in the event if an accident.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2012-12-13 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk))
+**Check 1**: 2012-12-13 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
 
-**Check 1**: 2014-02-03 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk))
+**Check 1**: 2014-02-03 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2017-01-24 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2017-01-24 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)

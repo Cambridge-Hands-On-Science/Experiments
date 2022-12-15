@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-07 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-07 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -267,20 +267,20 @@ Skin getting caught between cutlery and magnet
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net))
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
 
-**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-05 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-05 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2019-01-21 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-01-21 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-01-11 - Emma Crickmore (elc75@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-11 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk)

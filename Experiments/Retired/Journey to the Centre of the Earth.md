@@ -2,7 +2,7 @@
 
 **nan** - Go on a journey to the centre of the Earth using rock samples from deep in the Earth and outer space.
 
-Last initially checked on nan by nan) and double-checked on nan by nan)
+Last initially checked on nan by nan and double-checked on nan by nan
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

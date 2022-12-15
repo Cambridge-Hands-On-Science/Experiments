@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2016-02-11 by Andrei Ruskuc (ar720@cam.ac.uk)) and double-checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk))
+Last initially checked on 2016-02-11 by Andrei Ruskuc (ar720@cam.ac.uk) and double-checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -248,4 +248,4 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-11 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-02-11 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk)

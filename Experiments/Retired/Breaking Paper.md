@@ -2,7 +2,7 @@
 
 **Stretch pieces of paper to demonstrate just how strong paper is under tension.** - Stretching paper until it breaks can need a surprising amount of force. Find out how much and why aeroplanes and boats have rounded windows. 
 
-Last initially checked on 2018-01-07 by Joanna Tumelty (jt574@cam.ac.uk)) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2018-01-07 by Joanna Tumelty (jt574@cam.ac.uk) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -89,16 +89,16 @@ PLEASE REMOVE BATTERIES FROM FORCE METER WHEN PACKING AWAY - the batteries have 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)), **Check 2**: 2012-01-29 - Philip Garsed (pgarsed@gmail.com))
+**Check 1**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com), **Check 2**: 2012-01-29 - Philip Garsed (pgarsed@gmail.com)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk)
 
-**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)

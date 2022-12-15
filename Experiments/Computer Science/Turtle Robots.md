@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes. ** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -144,12 +144,12 @@ In the event of accident, call a first aider/mechanic.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-07-22 - Benjamin Akrill (bja32@alumni.cam.ac.uk)), **Check 2**: 2018-07-24 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2018-07-22 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-07-24 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-02-04 - Emma Crickmore (elc75@cam.ac.uk))
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-04 - Emma Crickmore (elc75@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)

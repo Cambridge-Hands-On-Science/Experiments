@@ -2,7 +2,7 @@
 
 **Modelling Evolution by Game Theory** - Simulate populations and explore stable and unstable equilibrium by using Game Theory to model animal behaviour in sharing a food supply.  
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,14 +133,14 @@ In case of injury call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-12-07 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk))
+**Check 1**: 2016-12-07 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-02-05 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk)), **Check 2**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!** - Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2021-01-07 by Samuel Amey (sra44@cam.ac.uk)) and double-checked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2021-01-07 by Samuel Amey (sra44@cam.ac.uk) and double-checked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -101,16 +101,16 @@ In case of injury, call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-12-30 - Alexander Nottingham (an369@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2014-12-30 - Alexander Nottingham (an369@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-27 - Natalie Cree (nc434@cam.ac.uk)), **Check 2**: 2016-02-03 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-12-27 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-03 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-08 - Gemma Shaw (gcs33@cam.ac.uk)), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2018-01-08 - Gemma Shaw (gcs33@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53@cam.ac.uk))
+**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53@cam.ac.uk)
 
-**Check 1**: 2020-01-07 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-25 - Bryony Yates (by250@cam.ac.uk))
+**Check 1**: 2020-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Bryony Yates (by250@cam.ac.uk)
 
-**Check 1**: 2021-01-07 - Samuel Amey (sra44@cam.ac.uk)), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2021-01-07 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)

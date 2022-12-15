@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-06 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-06 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,18 +117,18 @@ In case of accident, wash the affected area with clean water.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-24 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2017-01-24 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-04 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-02-04 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-14 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-01-14 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)

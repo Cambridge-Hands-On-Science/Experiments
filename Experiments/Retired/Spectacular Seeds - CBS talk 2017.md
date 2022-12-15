@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2017-02-13 by Sarah Wiseman (sw628@cam.ac.uk)) and double-checked on 2017-02-13 by Sonja Dunbar (sonjaddunbar@gmail.com))
+Last initially checked on 2017-02-13 by Sarah Wiseman (sw628@cam.ac.uk) and double-checked on 2017-02-13 by Sonja Dunbar (sonjaddunbar@gmail.com)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -69,4 +69,4 @@ Detecting the right conditions; light, water, smoke (not sure how any of these w
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-13 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2017-02-13 - Sonja Dunbar (sonjaddunbar@gmail.com))
+**Check 1**: 2017-02-13 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2017-02-13 - Sonja Dunbar (sonjaddunbar@gmail.com)

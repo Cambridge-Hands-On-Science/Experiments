@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -181,18 +181,18 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-02-23 - Philip Garsed (pgarsed@gmail.com)), **Check 2**: 2014-02-24 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2014-02-23 - Philip Garsed (pgarsed@gmail.com), **Check 2**: 2014-02-24 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-02-12 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-02-12 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk)), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)

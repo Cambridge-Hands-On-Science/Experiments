@@ -3,7 +3,7 @@
 **Anatomical model of the half jaw, parts can be removed to show structure of the teeth.** - An enlarged model of the jaw with some giant teeth that can be opened up.  Find out why we have milk teeth, why there are different types of teeth and why different species have different teeth.
 
 
-Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -70,24 +70,24 @@ OTHER THINGS TO TALK ABOUT:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk)), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net))
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-23 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-23 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-23 - Jessica Gorman (jrg63@cam.ac.uk)), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-23 - Jessica Gorman (jrg63@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

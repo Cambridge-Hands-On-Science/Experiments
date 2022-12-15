@@ -2,7 +2,7 @@
 
 **Make fascinating bubbles which rather than floating on water actually sink.** - nan
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -98,22 +98,22 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-08 - Maya Petek (mp630@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-08 - Maya Petek (mp630@cam.ac.uk)
 
-**Check 1**: 2014-01-15 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk))
+**Check 1**: 2014-01-15 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk)
 
-**Check 1**: 2015-01-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-01-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-13 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-13 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-01-25 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-25 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2017-12-26 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2@cam.ac.uk))
+**Check 1**: 2017-12-26 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2@cam.ac.uk)
 
-**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -132,24 +132,24 @@ This was used in passages and tombs, before the true arch was developed.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)), **Check 2**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com))
+**Check 1**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk), **Check 2**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-01-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-08 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk))
+**Check 1**: 2019-01-08 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)
 
-**Check 1**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk))
+**Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk)

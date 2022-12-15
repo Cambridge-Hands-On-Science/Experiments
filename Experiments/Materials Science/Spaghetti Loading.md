@@ -2,7 +2,7 @@
 
 **nan** - This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -179,14 +179,14 @@ In case of contact, advise parents to take children to GP if illness develops.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-18 - Laura Wells (lbw28@cam.ac.uk)), **Check 2**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2018-01-18 - Laura Wells (lbw28@cam.ac.uk), **Check 2**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-08-11 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2018-08-11 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-08-11 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2018-08-11 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-18 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

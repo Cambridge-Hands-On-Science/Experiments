@@ -2,7 +2,7 @@
 
 **nan** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-23 by Emma Crickmore (elc75@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-23 by Emma Crickmore (elc75@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -76,18 +76,18 @@ Call first aider if required.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2017-02-06 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-06 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk)), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk))
+**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
 
-**Check 1**: 2019-02-02 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-02-02 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-02-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-02-02 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-01-23 - Emma Crickmore (elc75@cam.ac.uk))
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-23 - Emma Crickmore (elc75@cam.ac.uk)

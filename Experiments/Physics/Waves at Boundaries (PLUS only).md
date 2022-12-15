@@ -2,7 +2,7 @@
 
 **A few demos of transmission/reflection of waves at boundaries** - nan
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -99,14 +99,14 @@ Follow procedures in Sounds from an Oven Shelf.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-12 - Tom Comerford (tafc2@cam.ac.uk)), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-12 - Tom Comerford (tafc2@cam.ac.uk), **Check 2**: 2017-02-12 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2019-12-28 - Lucy Hart (ljfh2@cam.ac.uk)), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2019-12-28 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

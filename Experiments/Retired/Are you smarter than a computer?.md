@@ -3,7 +3,7 @@
 **Artificial Intelligence** - What does it mean to be intelligent? Can computers be intelligent? Are they more intelligent than us?
 Explore some of the questions in AI, meet a few different AIs and compete and befriend them and find out the maths of how they work.
 
-Last initially checked on 2018-12-11 by Thomas Webster (tw432@alumni.cam.ac.uk)) and double-checked on 2018-12-12 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2018-12-11 by Thomas Webster (tw432@alumni.cam.ac.uk) and double-checked on 2018-12-12 by Matthew Le Maitre (msl54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -123,4 +123,4 @@ See also RA for Rock Paper Scissors Glove and Mechanical Calculation
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-11 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-12-11 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)

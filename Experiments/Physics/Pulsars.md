@@ -2,7 +2,7 @@
 
 **nan** - An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk))
+Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -88,12 +88,12 @@ Call a first aider in the event of an emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)

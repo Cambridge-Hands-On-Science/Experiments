@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-06 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-06 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -65,10 +65,10 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-09 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk)), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2022-02-06 - Lauren Mason (llm34@cam.ac.uk))
+**Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-06 - Lauren Mason (llm34@cam.ac.uk)

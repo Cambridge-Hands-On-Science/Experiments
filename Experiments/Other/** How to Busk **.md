@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -129,8 +129,8 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-21 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-21 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2019-01-21 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-21 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-01-28 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-01-28 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)

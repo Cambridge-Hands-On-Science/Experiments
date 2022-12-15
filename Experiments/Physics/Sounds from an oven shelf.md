@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.** - nan
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -95,24 +95,24 @@ Call a first aider in the case of an injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net))
+**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-04 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-01-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk)), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)

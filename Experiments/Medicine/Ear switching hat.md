@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -113,24 +113,24 @@ Call a first aider in the event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-16 - Jonathon Holland (jaah2@cantab.net)), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net))
+**Check 1**: 2012-01-16 - Jonathon Holland (jaah2@cantab.net), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
 
-**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil@gmail.com))
+**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk)
 
-**Check 1**: 2017-02-09 - Fiona Coventry (fiona.coventry@cantab.net)), **Check 2**: 2017-02-10 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2017-02-09 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-10 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2018-01-27 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-24 - Jennifer Simpson (jks61@cam.ac.uk))
+**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-24 - Jennifer Simpson (jks61@cam.ac.uk)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)

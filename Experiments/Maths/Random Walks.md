@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -146,20 +146,20 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-01-20 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-01-27 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-20 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-27 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-31 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-31 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk)), **Check 2**: 2017-02-08 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk), **Check 2**: 2017-02-08 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)

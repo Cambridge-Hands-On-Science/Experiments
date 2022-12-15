@@ -2,7 +2,7 @@
 
 **nan** - Can you work out the colour of your own hat?
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -77,12 +77,12 @@ What if we allow passing: a simple strategy is to have one person guess, and the
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2018-01-16 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-16 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk)), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)

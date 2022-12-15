@@ -2,7 +2,7 @@
 
 **nan** - Seeing how different sized bird beaks will result in speciation based on food availability
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -105,12 +105,12 @@ In case of reaction, call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-03 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-02-03 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2019-01-24 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-24 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)

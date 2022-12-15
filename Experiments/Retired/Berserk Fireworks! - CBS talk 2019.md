@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2019-02-06 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2019-02-07 by Holly Smith (hs606@cam.ac.uk))
+Last initially checked on 2019-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2019-02-07 by Holly Smith (hs606@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -235,4 +235,4 @@ In the meantime, a list of the demos in the talk:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-02-06 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2019-02-07 - Grace Exley (gae23@cam.ac.uk))
+**Check 1**: 2019-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2019-02-07 - Grace Exley (gae23@cam.ac.uk)

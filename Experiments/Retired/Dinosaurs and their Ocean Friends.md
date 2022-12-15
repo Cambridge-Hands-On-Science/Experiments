@@ -2,7 +2,7 @@
 
 **A collection of Mesozoic vertebrate fossils** - Ever wanted to see how big a T-rex's claws were, or how tiny its brain was? Ever wanted to touch real dinosaur bones or hold fossilised shark poo? Then this experiment is for you!
 
-Last initially checked on 2016-01-19 by Tim Morgan Boyd (tmb58@cam.ac.uk)) and double-checked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net))
+Last initially checked on 2016-01-19 by Tim Morgan Boyd (tmb58@cam.ac.uk) and double-checked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,12 +133,12 @@ Contact first aider if injury occurs.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-08 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-08 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2014-01-17 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-02-08 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-17 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-02-08 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-19 - Matthew Kemp (mk775@cam.ac.uk)), **Check 2**: 2015-01-19 - Elizabeth Pearmain (ejp69@cam.ac.uk))
+**Check 1**: 2015-01-19 - Matthew Kemp (mk775@cam.ac.uk), **Check 2**: 2015-01-19 - Elizabeth Pearmain (ejp69@cam.ac.uk)
 
-**Check 1**: 2016-01-19 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-01-19 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net)

@@ -2,7 +2,7 @@
 
 **Looking at how materials fluoresce in UV light.** - The world looks different when it's lit by UV... see how you can use this type of light to make clothes look extra-bright, find out whether banknotes are real or fake, and revive dead glowsticks.
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -287,24 +287,24 @@ Make sure anyone in contact with the glow stick washes their hands immediately a
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net)), **Check 2**: 2012-03-13 - Anna Kalorkoti (anna.kalorkoti@cantab.net))
+**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-13 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk)), **Check 2**: 2014-01-21 - Chris Hardy (cjh206@cam.ac.uk))
+**Check 1**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk), **Check 2**: 2014-01-21 - Chris Hardy (cjh206@cam.ac.uk)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2017-01-17 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2016-01-30 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-01-17 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2016-01-30 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Hannah Thorne (hbt23@cam.ac.uk)), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk))
+**Check 1**: 2018-01-27 - Hannah Thorne (hbt23@cam.ac.uk), **Check 2**: 2017-02-13 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-01 - Emma Vinen (Ev312@cam.ac.uk))
+**Check 1**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-01 - Emma Vinen (Ev312@cam.ac.uk)
 
-**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk)), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk))
+**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)

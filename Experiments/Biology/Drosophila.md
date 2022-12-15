@@ -2,7 +2,7 @@
 
 **This experiment aims to introduce kids to a wonderful model organism, the Drosophila fruit fly.** - You'll have seen some of these fruit flies before: these cool and beautiful little creatures have shown us how genes can be inherited (by following patterns of features like eye colours), and how genes work.
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -87,24 +87,24 @@ In the event of an incident, demonstrator must regain the petri dish/vial and di
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2015-01-07 - Chloe Hammond (cjh214@cam.ac.uk))
+**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-01-07 - Chloe Hammond (cjh214@cam.ac.uk)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk)), **Check 2**: 2016-01-05 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-01-05 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk)), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2018-01-29 - Sarah Wiseman (sw628@cam.ac.uk)), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2018-01-29 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk)), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk))
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)

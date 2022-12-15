@@ -2,7 +2,7 @@
 
 **Game introducing the phases of matter and phase changes** - Outside game introducing the concept of different phases of matter and the different ways to transition between them.
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -80,18 +80,18 @@ Knock out game (maybe once they're getting tired, or from the start because you'
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-04-07 - William Benfold (wjb42@cam.ac.uk)), **Check 2**: 2014-04-07 - Beatrice Tyrrell (bet23@cam.ac.uk))
+**Check 1**: 2014-04-07 - William Benfold (wjb42@cam.ac.uk), **Check 2**: 2014-04-07 - Beatrice Tyrrell (bet23@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2017-01-18 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2017-01-18 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2018-01-30 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2018-01-30 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk))
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)

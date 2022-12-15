@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -208,24 +208,24 @@ In the event if an injury, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
 
-**Check 1**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk)), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk))
+**Check 1**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net)), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2014-01-02 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-01-02 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-01-02 - Holly Davis (hd308@cam.ac.uk))
+**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-01-02 - Holly Davis (hd308@cam.ac.uk)
 
-**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2018-01-30 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2018-01-30 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
 
-**Check 1**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk))
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)

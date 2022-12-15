@@ -2,7 +2,7 @@
 
 **A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived millions of years ago.
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -489,22 +489,22 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk)), **Check 2**: 2012-01-14 - Adam Casey (ac675@cam.ac.uk))
+**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-14 - Adam Casey (ac675@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-02-11 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-02-11 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2015-01-19 - Matthew Kemp (mk775@cam.ac.uk)), **Check 2**: 2015-01-19 - Elizabeth Pearmain (ejp69@cam.ac.uk))
+**Check 1**: 2015-01-19 - Matthew Kemp (mk775@cam.ac.uk), **Check 2**: 2015-01-19 - Elizabeth Pearmain (ejp69@cam.ac.uk)
 
-**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk))
+**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-02-07 - Matthew Kemp (mk775@cam.ac.uk)
 
-**Check 1**: 2017-12-19 - Roxanne Armfield (rea41@cam.ac.uk)), **Check 2**: 2017-12-27 - Matthew Kemp (mk775@cam.ac.uk))
+**Check 1**: 2017-12-19 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-12-27 - Matthew Kemp (mk775@cam.ac.uk)
 
-**Check 1**: 2019-02-02 - Helen Gildersleeves (hcg31@cam.ac.uk)), **Check 2**: 2019-02-03 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2019-02-02 - Helen Gildersleeves (hcg31@cam.ac.uk), **Check 2**: 2019-02-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Helen Gildersleeves (hcg31@cam.ac.uk)), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Helen Gildersleeves (hcg31@cam.ac.uk), **Check 2**: 2020-02-06 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)), **Check 2**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk))
+**Check 1**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -82,26 +82,26 @@ It can be useful to ask the children how the other blocks would have to move to 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-01-22 - Anna Kalorkoti (anna.kalorkoti@cantab.net)), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk))
+**Check 1**: 2011-01-22 - Anna Kalorkoti (anna.kalorkoti@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
 
-**Check 1**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)), **Check 2**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com))
+**Check 1**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk), **Check 2**: 2012-01-26 - Rosy Ansell (rosemary.a.r.hunt@gmail.com)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
 
-**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-01-18 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk)), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk))
+**Check 1**: 2015-02-01 - Benjamin Lai (bl337@cam.ac.uk), **Check 2**: 2015-02-11 - Sarah Wiseman (sw628@cam.ac.uk)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk))
+**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2015-12-27 - Andrei Ruskuc (ar720@cam.ac.uk)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk)), **Check 2**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk))
+**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-01 - Joanna Tumelty (jt574@cam.ac.uk)
 
-**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-07 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk)), **Check 2**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2020-01-03 - Oliver John (oaj24@cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-03 - Oliver John (oaj24@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk)), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)

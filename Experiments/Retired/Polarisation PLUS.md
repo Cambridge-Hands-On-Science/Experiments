@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - nan
 
-Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on nan by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on nan by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,8 +117,8 @@ If there's time, and the conditions are right, you could comment on the Brewster
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-12-08 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)), **Check 2**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-12-08 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-01-19 - Daniel Cropper (djc96@cam.ac.uk)), **Check 2**: 2020-01-22 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-19 - Daniel Cropper (djc96@cam.ac.uk), **Check 2**: 2020-01-22 - Beatrix Huissoon (beh37@cam.ac.uk)

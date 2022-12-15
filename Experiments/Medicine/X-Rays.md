@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -170,24 +170,24 @@ Others:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk)), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net))
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net)), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk)), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2016-02-07 - Charis Watkins (czrw2@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-02-07 - Charis Watkins (czrw2@cam.ac.uk)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk))
+**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)
 
-**Check 1**: 2019-12-23 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2019-12-23 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

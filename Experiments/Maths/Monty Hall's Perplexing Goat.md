@@ -2,7 +2,7 @@
 
 **A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.** - A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk))
+Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -259,14 +259,14 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)), **Check 2**: 2018-01-18 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-18 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk))
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2019-01-31 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
 
-**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk))
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)

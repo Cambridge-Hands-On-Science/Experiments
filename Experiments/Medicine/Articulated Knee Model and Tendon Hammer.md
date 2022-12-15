@@ -2,7 +2,7 @@
 
 **A spare plastic skeleton leg, now with added ligaments.** - Come and see the complexity behind how your knee works!
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
+Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -186,24 +186,24 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith@cantab.net)), **Check 2**: 2012-01-25 - Daniel Obute (rdo23@cam.ac.uk))
+**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith@cantab.net), **Check 2**: 2012-01-25 - Daniel Obute (rdo23@cam.ac.uk)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
 
-**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk))
+**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk)), **Check 2**: 2015-01-21 - Jessica Gorman (jrg63@cam.ac.uk))
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-21 - Jessica Gorman (jrg63@cam.ac.uk)
 
-**Check 1**: 2016-02-07 - Jessica Gorman (jrg63@cam.ac.uk)), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk))
+**Check 1**: 2016-02-07 - Jessica Gorman (jrg63@cam.ac.uk), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk)
 
-**Check 1**: 2017-02-07 - Jessica Gorman (jrg63@cam.ac.uk)), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net))
+**Check 1**: 2017-02-07 - Jessica Gorman (jrg63@cam.ac.uk), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2018-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk))
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk)), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk)), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk))
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)

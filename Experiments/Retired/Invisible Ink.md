@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net)) and double-checked on 2015-02-13 by Joseph Hooton (jh795@cam.ac.uk))
+Last initially checked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net) and double-checked on 2015-02-13 by Joseph Hooton (jh795@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,4 +64,4 @@ Other things to talk about: cryptography.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk))
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)

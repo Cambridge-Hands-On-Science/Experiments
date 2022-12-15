@@ -2,7 +2,7 @@
 
 **Various demonstrations with liquid nitrogen** - nan
 
-Last initially checked on 2021-01-05 by Holly Smith (hs606@cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-05 by Holly Smith (hs606@cam.ac.uk) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -188,18 +188,18 @@ You get a lot of gas produced so a lot of foam, and some of the foam will freeez
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)), **Check 2**: 2013-01-08 - Maya Petek (mp630@cam.ac.uk))
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-08 - Maya Petek (mp630@cam.ac.uk)
 
-**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)), **Check 2**: 2014-02-16 - Brett Abram (ba305@cam.ac.uk))
+**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-16 - Brett Abram (ba305@cam.ac.uk)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk)), **Check 2**: 2015-01-12 - Tom Comerford (tafc2@cam.ac.uk))
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-12 - Tom Comerford (tafc2@cam.ac.uk)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk))
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk))
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Andrei Ruskuc (ar720@cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2019-01-01 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
 
-**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk)), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-02-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-02-05 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-05 - Holly Smith (hs606@cam.ac.uk)), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-05 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2017-02-11 by Tim Morgan Boyd (tmb58@cam.ac.uk)) and double-checked on 2017-02-11 by Haydn James Lloyd (hjl43@cam.ac.uk))
+Last initially checked on 2017-02-11 by Tim Morgan Boyd (tmb58@cam.ac.uk) and double-checked on 2017-02-11 by Haydn James Lloyd (hjl43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -58,4 +58,4 @@ The bottle must be made of polycarbonate (look for the mark ‘PC’ on the base
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-11 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2017-02-11 - Haydn James Lloyd (hjl43@cam.ac.uk))
+**Check 1**: 2017-02-11 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2017-02-11 - Haydn James Lloyd (hjl43@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **nan** - Virtual Talk for CBS 2021 about the physics of rockets!
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Josh Garfinkel (jlg70@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -179,4 +179,4 @@ A list of the planned demos:
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2021-01-22 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Josh Garfinkel (jlg70@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **A demonstration to show how insects use hormone to co-ordinate metamorphosis.** - nan
 
-Last initially checked on 2013-12-26 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on nan by nan)
+Last initially checked on 2013-12-26 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk) and double-checked on nan by nan
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -146,6 +146,6 @@ Many other animals (humans included) have endocrine system and many of our bodil
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)

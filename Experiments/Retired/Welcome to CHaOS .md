@@ -2,7 +2,7 @@
 
 **Chaos theory by CHaOS ** - Get introduced with our namesake theory of chaos and recreate some of the original experiments that inspired this field. 
 
-Last initially checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -122,8 +122,8 @@ Encourage children to behave sensibly. Do not do experiment where it is likely t
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-12 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2018-12-12 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk))
+**Check 1**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)

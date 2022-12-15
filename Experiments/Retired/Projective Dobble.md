@@ -2,7 +2,7 @@
 
 **The maths of Dobble** - Introduction to axiomatic maths and projective geometry via the card game Dobble. Learn how to make your own Dobble decks by constructing the "axioms of Dobble" from the rules, then developing methods to build these.
 
-Last initially checked on nan by nan) and double-checked on nan by nan)
+Last initially checked on nan by nan and double-checked on nan by nan
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

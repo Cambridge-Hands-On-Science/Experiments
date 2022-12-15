@@ -4,7 +4,7 @@
 Now with added Covid-19!
 Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -451,14 +451,14 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk)), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk))
+**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk)), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk)), **Check 2**: 2019-01-23 - Amanda Buckingham (abb53@cam.ac.uk))
+**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-23 - Amanda Buckingham (abb53@cam.ac.uk)
 
-**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk))
+**Check 1**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
 
-**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk))
+**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk))
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)

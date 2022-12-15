@@ -2,7 +2,7 @@
 
 **Find paradoxes with this popular puzzle.** - By splitting a square up into lots of shapes see how we can make some interesting forms and find some intriguing paradoxes.
 
-Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk)) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -74,12 +74,12 @@ Rearranging shaped tiles
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-02-02 - Zephyr Penoyre (jp576@cam.ac.uk)), **Check 2**: 2014-02-08 - Nunu Tao (nmt26@cam.ac.uk))
+**Check 1**: 2014-02-02 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-02-08 - Nunu Tao (nmt26@cam.ac.uk)
 
-**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
-**Check 1**: 2015-12-18 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk))
+**Check 1**: 2015-12-18 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
 
-**Check 1**: 2017-01-09 - Joanna Tumelty (jt574@cam.ac.uk)), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk))
+**Check 1**: 2017-01-09 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk)), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk))
+**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)

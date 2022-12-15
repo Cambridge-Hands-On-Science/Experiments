@@ -3,7 +3,7 @@
 **Newton's laws, stable equilibria, drag, lift, Magnus Effect** - How can you make things float and fly on air alone?
 Explore the physics of floating, lift and stability!
 
-Last initially checked on 2018-12-13 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2018-12-12 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2018-12-13 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2018-12-12 by Matthew Le Maitre (msl54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -219,6 +219,6 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk)), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk))
+**Check 1**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk)), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk))
+**Check 1**: 2018-12-13 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
