@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - nan
 
-Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)) and doublechecked on nan by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on nan by Margaret Johncock (mllyj2@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

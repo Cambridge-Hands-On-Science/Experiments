@@ -2,7 +2,7 @@
 
 **Looking at how materials fluoresce in UV light.** - The world looks different when it's lit by UV... see how you can use this type of light to make clothes look extra-bright, find out whether banknotes are real or fake, and revive dead glowsticks.
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

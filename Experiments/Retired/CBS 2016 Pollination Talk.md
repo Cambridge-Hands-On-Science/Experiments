@@ -2,7 +2,7 @@
 
 **Pollination! How plants exploit anything that moves!** - nan
 
-Last initially checked on 2016-02-04 by Sonja Dunbar (sonjaddunbar@gmail.com)) and doublechecked on 2016-02-05 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2016-02-04 by Sonja Dunbar (sonjaddunbar@gmail.com)) and double-checked on 2016-02-05 by Sarah Wiseman (sw628@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

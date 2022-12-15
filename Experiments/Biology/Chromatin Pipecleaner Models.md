@@ -2,7 +2,7 @@
 
 **Explore the world of epigenetics, using pipecleaners and corks to model DNA and the chemical changes done to it to turn genes on and off. ** - Humans have 19,000 genes. How are only certain genes turned on in each cell so that brain cells express brain genes, but not heart genes and vice versa? Here we make fun chromatin models to explore epigenetics.
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

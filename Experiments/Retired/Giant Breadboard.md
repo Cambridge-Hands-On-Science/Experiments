@@ -2,7 +2,7 @@
 
 **Make circuits using giant components** - Explore circuit basics, different components, logic gates, speakers, buzzers and build your own heat alarms and more. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

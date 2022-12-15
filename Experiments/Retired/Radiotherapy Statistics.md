@@ -2,7 +2,7 @@
 
 **Statistics in the hospital** - Explore how statistics get used within a hospital with a model of radiotherapy treatment for cancer. Try and damage the tumour while minimising the effects to nearby healthy cells.
 
-Last initially checked on 2020-12-12 by Yian Aaron Koh (yak23@cam.ac.uk)) and doublechecked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2020-12-12 by Yian Aaron Koh (yak23@cam.ac.uk)) and double-checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

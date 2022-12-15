@@ -2,7 +2,7 @@
 
 **nan** - Can you work out the colour of your own hat?
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk)) and doublechecked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **Series of specimens and posters to show the world of bacteria and parasites.** - nan
 
-Last initially checked on 2013-12-25 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and doublechecked on 2014-01-01 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2013-12-25 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on 2014-01-01 by Sarah Wiseman (sw628@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **Igniting cotton wool by compressing a cylinder of air.** - nan
 
-Last initially checked on 2019-01-01 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and doublechecked on 2019-01-01 by Matthew Le Maitre (msl54@cam.ac.uk))
+Last initially checked on 2019-01-01 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2019-01-01 by Matthew Le Maitre (msl54@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

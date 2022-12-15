@@ -2,7 +2,7 @@
 
 **This experiment aims to introduce kids to a wonderful model organism, the Drosophila fruit fly.** - You'll have seen some of these fruit flies before: these cool and beautiful little creatures have shown us how genes can be inherited (by following patterns of features like eye colours), and how genes work.
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

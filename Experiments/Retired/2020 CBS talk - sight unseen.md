@@ -4,7 +4,7 @@
 
 possible demos RA'ed below
 
-Last initially checked on 2021-01-21 by Käthe-Marie White (kmw54@cam.ac.uk)) and doublechecked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-21 by Käthe-Marie White (kmw54@cam.ac.uk)) and double-checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

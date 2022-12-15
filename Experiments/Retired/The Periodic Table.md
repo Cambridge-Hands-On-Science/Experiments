@@ -2,7 +2,7 @@
 
 **Explore the elements.** - Explore different elements, their uses, and how their properties relate to build up the periodic table.
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

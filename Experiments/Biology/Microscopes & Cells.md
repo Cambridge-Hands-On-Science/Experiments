@@ -2,7 +2,7 @@
 
 **Examining a variety of objects under a microscope, including a variety of slides** - All sorts of things can be viewed down a microscope! This might include the biology lesson classic of an onion skin, the shapes of salt and sugar crystals, the eye of the insect you found in your tent, a drop of puddle water... 
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **Anatomical model of an eye with removable parts to show the structures inside. ** - Use our amazing model of a human eye to see the intricate structures which allow us to see the world.
 
-Last initially checked on 2019-01-25 by Matt Worssam (mdw47@cam.ac.uk)) and doublechecked on 2019-02-02 by Esmae Jemima Woods (ejw89@cam.ac.uk))
+Last initially checked on 2019-01-25 by Matt Worssam (mdw47@cam.ac.uk)) and double-checked on 2019-02-02 by Esmae Jemima Woods (ejw89@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

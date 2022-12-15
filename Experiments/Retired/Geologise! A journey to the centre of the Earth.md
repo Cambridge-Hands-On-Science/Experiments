@@ -2,7 +2,7 @@
 
 **How the structure and composition of the Earth's interior can be inferred without actually going there** - nan
 
-Last initially checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk)) and doublechecked on 2016-02-11 by Matthew Kemp (mk775@cam.ac.uk))
+Last initially checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk)) and double-checked on 2016-02-11 by Matthew Kemp (mk775@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **Functional model of the larynx** - A working model of the larynx which uses a hand pump to force air across two closely-apposed rubber sheets (i.e. vocal cords) to make a sound.
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and doublechecked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
+Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

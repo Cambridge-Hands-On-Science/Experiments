@@ -2,7 +2,7 @@
 
 **nan** - This is a CBS talk by Dave and Rosy Ansell from CBS 2018 and is transcribed from their notes. 
 
-Last initially checked on nan by nan) and doublechecked on nan by nan)
+Last initially checked on nan by nan) and double-checked on nan by nan)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

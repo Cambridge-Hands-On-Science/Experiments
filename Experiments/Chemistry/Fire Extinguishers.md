@@ -2,7 +2,7 @@
 
 **Demonstrating the power of a carbon dioxide fire extinguisher.** - What does a fire need to burn, and how can we put it out? Find out how we can put out a candle with a cupful of gas!
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

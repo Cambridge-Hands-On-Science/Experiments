@@ -2,7 +2,7 @@
 
 **Plant evolution timeline and matching plants with their pollinators** - nan
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk))
+Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

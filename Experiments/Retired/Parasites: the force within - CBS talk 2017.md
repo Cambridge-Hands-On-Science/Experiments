@@ -2,7 +2,7 @@
 
 **This talk will explore the concept of parasitism and give examples of parasites in the wild that live at expenses of other animals or plants as well as explain parasites in human that can be medically important. ** - nan
 
-Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and doublechecked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk))
+Last initially checked on 2018-02-02 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on 2018-02-07 by Sarah Wiseman (sw628@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

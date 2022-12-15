@@ -2,7 +2,7 @@
 
 **Finding interesting maths in everyday traffic** - Does building bypasses make journeys faster? How can we optimise traffic flows? What causes traffic jams? Why do I stop for no reason? What's a stationary wave?
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

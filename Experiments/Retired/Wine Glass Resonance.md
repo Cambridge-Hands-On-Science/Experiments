@@ -2,7 +2,7 @@
 
 **Making a wine glass resonate using sound** - nan
 
-Last initially checked on 2013-01-08 by Ophelia Crawford (oc251@cam.ac.uk)) and doublechecked on 2013-01-20 by Richard Hall (rjh216@cam.ac.uk))
+Last initially checked on 2013-01-08 by Ophelia Crawford (oc251@cam.ac.uk)) and double-checked on 2013-01-20 by Richard Hall (rjh216@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

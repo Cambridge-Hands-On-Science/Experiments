@@ -2,7 +2,7 @@
 
 **How do vending machines identify coins?** - Why are wheels round? How do vending machines identify coins? Explore the answers to these questions by looking at some alternative shapes of constant width, maybe the circle isn't as unique as you first thought. 
 
-Last initially checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

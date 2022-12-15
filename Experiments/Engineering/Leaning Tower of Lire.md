@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2022-02-06 by Lauren Mason (llm34@cam.ac.uk))
+Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-06 by Lauren Mason (llm34@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

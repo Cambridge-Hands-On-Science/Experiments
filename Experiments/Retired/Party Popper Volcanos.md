@@ -2,7 +2,7 @@
 
 **nan** - How predictable are volcanic eruptions? Try your hand at assessing the hazard of an unpredictable volcano and decide for yourself when to evacuate the thriving town in the shadow of Party Popper Mountain!
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and doublechecked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

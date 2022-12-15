@@ -2,7 +2,7 @@
 
 **Game, set and maths** - Explore the maths of simple games 
 
-Last initially checked on 2021-01-17 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-17 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

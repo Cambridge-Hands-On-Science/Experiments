@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and doublechecked on 2022-02-06 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)) and double-checked on 2022-02-06 by Peter Methley (pm631@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

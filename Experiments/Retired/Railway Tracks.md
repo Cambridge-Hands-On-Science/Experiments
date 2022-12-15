@@ -2,7 +2,7 @@
 
 **How the shape of wheels helps trains go round corners** - Explore the shape of train wheels encountering equilibria and stability.
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

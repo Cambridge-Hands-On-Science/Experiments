@@ -2,7 +2,7 @@
 
 **nan** - Ever wondered what ocean acidification actually means? Find out what happened to the oceans and the life that thrives there when CO2 is added to the atmosphere!
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and doublechecked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

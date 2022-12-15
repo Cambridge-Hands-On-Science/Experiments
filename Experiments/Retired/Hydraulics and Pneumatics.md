@@ -2,7 +2,7 @@
 
 **nan** - Investigate the power of pressure, lift heavy objects and move things at a difference.
 
-Last initially checked on nan by nan) and doublechecked on nan by nan)
+Last initially checked on nan by nan) and double-checked on nan by nan)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

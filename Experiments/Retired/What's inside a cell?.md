@@ -2,7 +2,7 @@
 
 **Biology lecture used for CBS 2012** - nan
 
-Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk)) and doublechecked on 2016-02-11 by Craig Burns (cpb57@cam.ac.uk))
+Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk)) and double-checked on 2016-02-11 by Craig Burns (cpb57@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

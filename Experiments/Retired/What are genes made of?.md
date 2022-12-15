@@ -2,7 +2,7 @@
 
 **Biology lecture used for CBS 2011** - nan
 
-Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk)) and doublechecked on 2015-01-23 by Kym Neil (kym.e.neil@gmail.com))
+Last initially checked on 2015-12-30 by Natalie Cree (nc434@cam.ac.uk)) and double-checked on 2015-01-23 by Kym Neil (kym.e.neil@gmail.com))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

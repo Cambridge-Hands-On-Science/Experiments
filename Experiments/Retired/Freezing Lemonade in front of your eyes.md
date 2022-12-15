@@ -2,7 +2,7 @@
 
 **Freezing lemonade by opening its lid** - Open a bottle of lemonade and watch it freeze solid!
 
-Last initially checked on 2020-12-27 by Holly Smith (hs606@cam.ac.uk)) and doublechecked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2020-12-27 by Holly Smith (hs606@cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

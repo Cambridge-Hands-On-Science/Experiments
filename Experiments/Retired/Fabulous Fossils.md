@@ -2,7 +2,7 @@
 
 **A collection of various fossils (Sedgwick Musum Fossil Set 2)** - Travel back in time through millions of years of Earth's history! If you've ever wanted to see what strange creatures lived in the past then take a look at these fabulous fossil!
 
-Last initially checked on 2017-12-19 by Roxanne Armfield (rea41@cam.ac.uk)) and doublechecked on 2017-12-27 by Matthew Kemp (mk775@cam.ac.uk))
+Last initially checked on 2017-12-19 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2017-12-27 by Matthew Kemp (mk775@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

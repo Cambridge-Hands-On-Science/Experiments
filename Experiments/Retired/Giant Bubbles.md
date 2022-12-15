@@ -2,7 +2,7 @@
 
 **Making giant soap bubbles and looking at how they behave in different shaped frames.** - I'm forever blowing bubbles... but why aren't any of them square? Can you make a square bubble? Come and have a go...
 
-Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and doublechecked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2021-01-20 by Polly Hooton (prh43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

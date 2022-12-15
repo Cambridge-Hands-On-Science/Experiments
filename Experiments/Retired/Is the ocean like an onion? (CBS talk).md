@@ -2,7 +2,7 @@
 
 **nan** - 2021 CBS talk about density and ocean mixing.
 
-Last initially checked on 2021-01-22 by Hero Ross Bain (hrb47@cam.ac.uk)) and doublechecked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
+Last initially checked on 2021-01-22 by Hero Ross Bain (hrb47@cam.ac.uk)) and double-checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

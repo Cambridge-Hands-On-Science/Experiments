@@ -2,7 +2,7 @@
 
 **nan** - Talk for CBS
 
-Last initially checked on 2020-02-05 by Sophie Miocevich (srm81@cam.ac.uk)) and doublechecked on 2020-02-06 by Beatrix Huissoon (beh37@cam.ac.uk))
+Last initially checked on 2020-02-05 by Sophie Miocevich (srm81@cam.ac.uk)) and double-checked on 2020-02-06 by Beatrix Huissoon (beh37@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

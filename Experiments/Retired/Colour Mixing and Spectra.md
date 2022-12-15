@@ -2,7 +2,7 @@
 
 **Primary coloured LED lamps for experimenting with light colour mixing** - How many colours can you make? With our coloured lights, find out how you can make every colour imaginable from just three colours, find out how your computer monitor works and get to see some really funky shadows!
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

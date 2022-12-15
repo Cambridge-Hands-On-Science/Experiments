@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
+Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

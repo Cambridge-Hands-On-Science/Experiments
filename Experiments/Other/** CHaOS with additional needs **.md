@@ -2,7 +2,7 @@
 
 **Guide to demonstrating via gestures** - Advice for how to demonstrate experiments without speaking, seeing or anything else this may be for children who aren't fluent in English, have special educational requirements or various other reasons. 
 
-Last initially checked on nan by nan) and doublechecked on nan by nan)
+Last initially checked on nan by nan) and double-checked on nan by nan)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

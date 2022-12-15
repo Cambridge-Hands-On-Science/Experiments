@@ -2,7 +2,7 @@
 
 **Robotics Workshop run during CBS** - Robots!
 
-Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and doublechecked on 2021-01-20 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)) and double-checked on 2021-01-20 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

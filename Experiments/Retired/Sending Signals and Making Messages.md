@@ -2,7 +2,7 @@
 
 **Communications lecture used for CBS 2014 and 2015 and other past CBS years** - A fun talk about how humans have communicated over the years and how we can talk to each other privately in the modern world, with a few simple demonstrations of how the internet works and how to keep messages secret using encryption. 
 
-Last initially checked on 2015-02-13 by Vamsee Bheemireddy (vrb23@cam.ac.uk)) and doublechecked on 2015-02-13 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2015-02-13 by Vamsee Bheemireddy (vrb23@cam.ac.uk)) and double-checked on 2015-02-13 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **A demonstration to show how insects use hormone to co-ordinate metamorphosis.** - nan
 
-Last initially checked on 2013-12-26 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and doublechecked on nan by nan)
+Last initially checked on 2013-12-26 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk)) and double-checked on nan by nan)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

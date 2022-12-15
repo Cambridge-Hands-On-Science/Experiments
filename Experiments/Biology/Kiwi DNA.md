@@ -2,7 +2,7 @@
 
 **Breaking open cells of a kiwi fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in kiwi fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2022-02-26 by Hayoung Choi (hc585@cam.ac.uk)) and doublechecked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-02-26 by Hayoung Choi (hc585@cam.ac.uk)) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

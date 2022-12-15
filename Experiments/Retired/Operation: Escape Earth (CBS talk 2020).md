@@ -2,7 +2,7 @@
 
 **nan** - Talk for CBS 2020 about the physics of rockets!
 
-Last initially checked on 2020-02-02 by Benjamin Akrill (bja32@alumni.cam.ac.uk)) and doublechecked on 2020-02-06 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2020-02-02 by Benjamin Akrill (bja32@alumni.cam.ac.uk)) and double-checked on 2020-02-06 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

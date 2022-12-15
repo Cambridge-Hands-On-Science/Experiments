@@ -2,7 +2,7 @@
 
 **Lasers: around the world in 0.1344 seconds, CBS talk 2015** - What's the fastest way to send messages around the world? Find out in this talk!
 
-Last initially checked on 2015-02-12 by Jasmine Rivett (jphr2@cam.ac.uk)) and doublechecked on 2015-02-13 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2015-02-12 by Jasmine Rivett (jphr2@cam.ac.uk)) and double-checked on 2015-02-13 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

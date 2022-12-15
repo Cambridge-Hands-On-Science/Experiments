@@ -2,7 +2,7 @@
 
 **See how your bed sheets have gravity.** - Learn about the effects of gravity using a bed sheet?
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
+Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

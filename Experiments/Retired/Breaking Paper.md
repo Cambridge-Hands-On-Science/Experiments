@@ -2,7 +2,7 @@
 
 **Stretch pieces of paper to demonstrate just how strong paper is under tension.** - Stretching paper until it breaks can need a surprising amount of force. Find out how much and why aeroplanes and boats have rounded windows. 
 
-Last initially checked on 2018-01-07 by Joanna Tumelty (jt574@cam.ac.uk)) and doublechecked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2018-01-07 by Joanna Tumelty (jt574@cam.ac.uk)) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

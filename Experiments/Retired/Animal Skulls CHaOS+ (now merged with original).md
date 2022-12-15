@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - What type of bone are SKULLS? What are their features and how are they linked to their FUNCTION? You can find out how different animals evolved to suit their habits and their habitats and some fascinating comparisons between species!
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and doublechecked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk)) and double-checked on 2021-01-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

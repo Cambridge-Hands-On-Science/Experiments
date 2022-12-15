@@ -2,7 +2,7 @@
 
 **A collection of Mesozoic vertebrate fossils** - Ever wanted to see how big a T-rex's claws were, or how tiny its brain was? Ever wanted to touch real dinosaur bones or hold fossilised shark poo? Then this experiment is for you!
 
-Last initially checked on 2016-01-19 by Tim Morgan Boyd (tmb58@cam.ac.uk)) and doublechecked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net))
+Last initially checked on 2016-01-19 by Tim Morgan Boyd (tmb58@cam.ac.uk)) and double-checked on 2016-01-23 by Fiona Coventry (fiona.coventry@cantab.net))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

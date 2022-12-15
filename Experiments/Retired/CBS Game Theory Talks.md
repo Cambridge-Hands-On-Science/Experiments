@@ -2,7 +2,7 @@
 
 **Talk from CBS 2017 + 2018** - This is a series of talks from CBS 2017 and 2018 exploring games we encounter everyday and the mathematics behind them.
 
-Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk)) and doublechecked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
+Last initially checked on 2018-01-02 by Thomas Webster (tw432@alumni.cam.ac.uk)) and double-checked on 2018-01-12 by Josh Garfinkel (jlg70@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

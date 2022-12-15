@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

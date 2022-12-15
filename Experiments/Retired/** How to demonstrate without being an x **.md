@@ -2,7 +2,7 @@
 
 **Demonstrating without knowing** - Often you may have to demonstrate an experiment with which you have no knowledge about, there are lots of ways to use the experiments to talk about science and experiments without being competent at the subject.  
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

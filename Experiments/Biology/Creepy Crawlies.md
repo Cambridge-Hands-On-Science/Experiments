@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and doublechecked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk))
+Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk)) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

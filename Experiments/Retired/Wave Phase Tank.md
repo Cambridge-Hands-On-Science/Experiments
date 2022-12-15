@@ -2,7 +2,7 @@
 
 **nan** - Y shaped wave tank that allows two children to make waves that then combine in or out of phase.
 
-Last initially checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk)) and doublechecked on 2015-02-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
+Last initially checked on 2016-02-11 by Charis Watkins (czrw2@cam.ac.uk)) and double-checked on 2015-02-12 by Richard "Miffles" Mifsud (rwm41@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

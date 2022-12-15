@@ -2,7 +2,7 @@
 
 **To understand the functionality of feathers in dinosaurs** - nan
 
-Last initially checked on 2016-02-14 by Roxanne Armfield (rea41@cam.ac.uk)) and doublechecked on 2016-02-15 by Charis Watkins (czrw2@cam.ac.uk))
+Last initially checked on 2016-02-14 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2016-02-15 by Charis Watkins (czrw2@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

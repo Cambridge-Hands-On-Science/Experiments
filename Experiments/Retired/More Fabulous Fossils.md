@@ -4,7 +4,7 @@
 
 A collection of various fossils (Sedgwick Musum Fossil Set 29)
 
-Last initially checked on 2017-01-11 by Roxanne Armfield (rea41@cam.ac.uk)) and doublechecked on 2017-02-07 by Matthew Kemp (mk775@cam.ac.uk))
+Last initially checked on 2017-01-11 by Roxanne Armfield (rea41@cam.ac.uk)) and double-checked on 2017-02-07 by Matthew Kemp (mk775@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

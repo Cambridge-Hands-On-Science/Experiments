@@ -2,7 +2,7 @@
 
 **Popular medical lecture involving a pressure cuff.** - nan
 
-Last initially checked on 2016-01-05 by Charlotte Attwood (ca402@cam.ac.uk)) and doublechecked on 2016-01-14 by Jessica Gorman (jrg63@cam.ac.uk))
+Last initially checked on 2016-01-05 by Charlotte Attwood (ca402@cam.ac.uk)) and double-checked on 2016-01-14 by Jessica Gorman (jrg63@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

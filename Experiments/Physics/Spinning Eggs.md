@@ -2,7 +2,7 @@
 
 **How to test if an egg is uncooked or hard boiled.** - Can you tell the difference between a hard-boiled egg and a raw egg without breaking them?
 
-Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk))
+Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

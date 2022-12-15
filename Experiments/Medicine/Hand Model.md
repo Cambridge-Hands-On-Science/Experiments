@@ -2,7 +2,7 @@
 
 **Large working model of a hand and forearm, with all the tendons to show how a hand works.** - Take control of an <em>enormous</em> hand, playing the part of the muscles that control it! Can you work out how to make a fist? Why are there tendons running down both sides of the fingers?  And exactly how are your thumbs different to your fingers?
 
-Last initially checked on 2022-01-26 by Hayoung Choi (hc585@cam.ac.uk)) and doublechecked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
+Last initially checked on 2022-01-26 by Hayoung Choi (hc585@cam.ac.uk)) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

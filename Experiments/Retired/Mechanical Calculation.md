@@ -2,7 +2,7 @@
 
 **Adding numbers using mechanical calculators.** - Electronic calculators are everywhere but how can we get these machines to understand simple tasks like addition? Explore some of the first decimal calculators and then explore modern binary arithmetic. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

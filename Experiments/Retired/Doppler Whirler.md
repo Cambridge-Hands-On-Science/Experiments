@@ -3,7 +3,7 @@
 **Spin me round** - You spin me right round, baby, like a doppler whirler, baby, right round round round
 All I know is that you'll hear the pitch shifts as this spins round 
 
-Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and doublechecked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
+Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk)) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

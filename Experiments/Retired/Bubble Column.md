@@ -2,7 +2,7 @@
 
 **Explore the wonderous shapes made by simple air bubbles in water.** - nan
 
-Last initially checked on 2011-12-30 by Mark Durkee (mark.durkee@cantab.net)) and doublechecked on nan by nan)
+Last initially checked on 2011-12-30 by Mark Durkee (mark.durkee@cantab.net)) and double-checked on nan by nan)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2017-02-13 by Sarah Wiseman (sw628@cam.ac.uk)) and doublechecked on 2017-02-13 by Sonja Dunbar (sonjaddunbar@gmail.com))
+Last initially checked on 2017-02-13 by Sarah Wiseman (sw628@cam.ac.uk)) and double-checked on 2017-02-13 by Sonja Dunbar (sonjaddunbar@gmail.com))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

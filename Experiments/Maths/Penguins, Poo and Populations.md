@@ -2,7 +2,7 @@
 
 **Counting when we can't count ** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and doublechecked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
+Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk)) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->

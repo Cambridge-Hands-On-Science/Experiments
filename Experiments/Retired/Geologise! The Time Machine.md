@@ -2,7 +2,7 @@
 
 **Travel through time with Geologise! and see how geology can ** - CBS Talk - Go on a journey through time with the Geologise! crew and see how the study of geology can show what happened millions of years ago.
 
-Last initially checked on 2017-02-13 by Matthew Kemp (mk775@cam.ac.uk)) and doublechecked on 2017-02-13 by Thomas Webster (tw432@alumni.cam.ac.uk))
+Last initially checked on 2017-02-13 by Matthew Kemp (mk775@cam.ac.uk)) and double-checked on 2017-02-13 by Thomas Webster (tw432@alumni.cam.ac.uk))
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
