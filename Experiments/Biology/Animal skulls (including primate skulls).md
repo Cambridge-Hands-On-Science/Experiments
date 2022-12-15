@@ -1,4 +1,4 @@
-# Animal skulls (including primate skulls) 
+# Animal skulls (including primate skulls)
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
