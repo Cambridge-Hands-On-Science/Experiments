@@ -5,8 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,7 +44,6 @@ Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double
 - 
 - CHaOS+ only:
 - Diagrams of wing cross sections / streamlines around an aerofoil
-- 
 
 <br/>
 
@@ -55,12 +53,10 @@ In a nutshell
 -------------
 
 
-
 Show how flowing air acts on object in or next to it.
 
 How to set up the experiment
 ----------------------------
-
 
 
 Note: The big blower is not necessary but makes a nice show. It may cause the circuit breakers to go off, so check first so that you don't cause a power outage a the beginning of the session.
@@ -75,11 +71,9 @@ How to proceed
 --------------
 
 
-
 This is a suggestion on how to proceed with the demonstration. The demonstrator should encourage the kids to try and figure parts of explanation out by themselves by asking the right questions, so that they stay focused. There's a lot in here: you may not explain all of it! 
 
 ### Straws and pingpong balls
-
 
 
 Take a straw and bend it in right angle. You can start by asking the kids if they can think of a way to balance the ball on top of the short end (not holding it by hand). Two ways are quite good: sucking and blowing. (Simple balancing it is possible but very hard.)
@@ -88,7 +82,7 @@ If you suck the air from under the ball, the air pressure from the outside will 
 
 If you blow into the long end and hold the short end upwards, you are able to balance a pingpong ball on the stream. (The straw end needs to be vertical and you have to blow quite hard.) It requires a bit of practice. Let the kids have a go at it. Give each a new straw and dispose of them afterwards to avoid spread of infection. Demonstrating what goes on is easier with the blowers. It's the same on a larger scale.
 ![](http://old.chaosscience.org.uk/sites/default/files/blow1.gif)
-### A bit of theory - what are forces
+### **A bit of theory - what are forces**
 
 
 Hold a ball in mid air and ask them what is going to happen if you let go. Show them that they are right. Now ask them why the ball falls down. You should get to gravitational force. Explain what a force is. That it is what makes things move, for example pushing, pulling, gravity, magnetic force, friction. Explain that if something isn't moving, the forces must be balanced (they are pulled down by gravity but pushed up by the ground).
@@ -97,11 +91,9 @@ Tell them about Newton's third law - action and reaction. If you push or pull so
 ### Wooden Rocket 'Puzzle'
 
 
-
 Put the rocket on a flat surface with the tip of the orange 'rocket' pointing upwards. Explain that the aim is to get the rocket out of the container without touching the container. (Hopefully they'll come up with blowing on it after doing the ping-pong straw experiment - though it's really not obvious when you first look at it that it's going to work!). You can then demonstrate that indeed the rocket does jump out of it's container (literally!) if you blow on it. I find that it works best if you blow at about 45 degrees to horizontal - have a practice yourself before hand. (I can generally get it to go the highest when I blow straight across the rocket, but this makes it harder to aim and half the time I just end up blowing the whole thing across the desk). The kids can then have a go themselves. There are some anti-bacterial wipes to use on the rocket afterwards. Explain that the air in the container with the rocket is forced out, bringing the rocket with it - another example of air creating a force. (Air pressure decreases over the top of the rocket when you blow over it creating a pressure gradient, the air needs to be replenished from somewhere and part of it comes from inside the container. The explanation inside the rocket box says 'A short, sharp breath of air directed across the top of the puzzle creates a fierce vacuum, causing the wooden rocket to take off' , however I think vacuum is a bit extreme but if that makes more sense to the group you're explaining it to?)
 
 ### Blowers and beach balls
-
 
 
 Preferably use the big blower for this. If you place the ball in the air stream it will balance on it and not fall off. You can demosnstrate that it always balances at the same height. If you hold the ball at the edge of the stream you can feel how it is pulled in. You can let the kids to feel it too. You can use the screwdriver with haztape to demonstrate the direction of the stream.
@@ -113,7 +105,6 @@ This can also be illustrated by tilting the smaller blower, and having it keep t
 ![](http://old.chaosscience.org.uk/sites/default/files/blow2.gif)
 ![](http://old.chaosscience.org.uk/sites/default/files/blow3.gif)
 ### A bit on stability
-
 
 
 By the time you're reading this we should have a few beach balls of various sizes in the box, if not shout at Zephyr...
@@ -133,7 +124,6 @@ Note, there is another effect with very small balls, like the ping pongs balls, 
 ### Aeroplane wing
 
 
-
 When you tilt the small blower so that the stream of air is horizontal, you can demonstrate the forces acting on the aeroplane wing. Children should be able to feel the air pushing the plane upwards when it is held horizontally. The wings are designed to maximise the upward thrust (which means they push down air significantly) while the backward thrust is minimised (we don’t want the wings to slow down the plane too much). Tilting the wing in the airstream results in greater upward force but also greater backwards force. Let the kids feel it but be careful so that the wing doesn’t fly off and hit them in the face. 
 
 Two possible explanations you can use: 
@@ -143,11 +133,8 @@ One way to think about this is again with Newton's Third Law. The curvature of t
 Or using air pressure to explain: When the plane moves forward it pushes air out of the way, over and under the wing. As the top of the wing is curved more than the bottom of the wing, the air has to go further to get over the top and so it has to move faster. Bernoulli's principle says that the pressure is lowered when the air speeds up, so the air pressure above the wing is lower than the pressure below it, and the wing (and plane) is pulled upward (ie the same way things get sucked into a vacuum), opposing the gravity pulling it down. 
 [note: this doesn't explain *why* the air has to move faster over the wing - the air stream moving over the top of the wing has to move through a narrowing space due to the curvature, but with a constant volume per time (like water through a tube that then gets narrower).]
 
-### Bits from older explanation
 
-
-
-*** OTHER THINGS TO TALK ABOUT *** 
+### **Other things to talk about**:
 
 Have you ever noticed your ears going pop as your train goes through a tunnel?
 
@@ -171,7 +158,6 @@ PLUS Explanation
 ----------------
 
 
-
 Aims
 - Newton's Laws and Stable Equilibria
 - Drag Forces
@@ -190,11 +176,9 @@ What are Newton's Laws? How might they be relevant here?
 
 Here the ball hangs in equilibrium - weight and drag must balance.
 
-
 How does weight vary with height?  
 
 Weight essentially constant over the range of the room compared to the radius of the Earth (if they are familiar with binomial expansions could show this mathematically by expanding F = - GMm/(r+h)^2 ). 
-
 
 How would we expect the velocity to vary with distance? Can we draw a graph of this (i.e. velocity on y as function of height on x)?   
 
@@ -207,7 +191,6 @@ Well collimated at exit - velocity gradient 0 - can show this using streamers. F
 What factors will affect the drag?   
 
 Relative velocity of wind/object (you feel a force from the air if you run as well as on a windy day, easy to run with wind than into it), size of object, shape (streamlined), also properties of fluid - density, viscosity
-
 
 In fact the functional form is as follows: At high velocities, inertia effects dominate with constant drag coeffcient:  
 
@@ -222,7 +205,6 @@ F = 6*pi*eta*rv
 C = eta/(pdv) )  
 
 Note in each case - increasing function of velocity.
-
 
 Therefore, what would you do if you were building something?   
 
@@ -249,7 +231,7 @@ Up - weight greater - falls. Down - drag greater - rises.
 
 This is an example of being stable, when we move away we return. Also described as negative feedback. What other examples of stability are in this problem? Hint: look for other directions that things can move (ball as a whole has 3 directions it can move, with each point having 3 relative to ball):   
 
-- The ball doesn't explode or collapse - e.g. the pressure inside goes up if we try to squeeze it. (Accounts for one degree of freedom - distance from centre of mass.)   
+- The ball doesn't explode or collapse - e.g. the pressure inside goes up if we try to squeeze it. (Accounts for one degree of freedom - distance from centre of mass.) 
 
 - The ball often settles a particular way up with nearish the valve at the bottom. Rotational stability familiar from measuring the centre of mass -
  if we move away we get a moment that moves us back. (A second degree of freedom - azimuthal angle from centre of mass.)   
@@ -285,7 +267,6 @@ Important to visualise streamlines using streamers at variety of places - note s
 
 #### Bernoulli's Equation
 
-  
 
 For a unit volume of incompressible fluid (suprisingly good even for gas), energy conservation gives us (derivation not needed here, we are looking at mathematical reasoning):   
 
@@ -298,7 +279,6 @@ P is pressure, p is the density, v is the velocity, gh is gravitational potentia
 What happens if the velocity at a given height changes?   
 
 Pressure must change to balance.
-
 
 Thus, why does the ball stay in? Try the ping-pong ball. Why does it not stay in?   
 
@@ -322,7 +302,6 @@ Why does this happen? Can we draw diagram of flow lines?
 Cups drag air as they rotate- adds to motion on one side and detracts on the other meaning there is a velocity and hence pressure difference.   
 
 This is known as the Magnus effect. One example is rotor ships. Perhaps more common is the spin on a ball in sports e.g. football, golf, table tennis.
-
 
 
 <br/>
@@ -441,7 +420,33 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 <br/>
 
-('Objects above the fan', 'Blower, or objects lifted by the blower, may disturb overhead objects such as lightweight ceiling tiles, causing them to fall down and potentially injure someone.', 'All', 3, 2, 6, 'Be careful to check above the blower for anything that might be disturbed when choosing where to place it. If this is unavoidable, then make sure the power is sufficiently low that nothing will be disturbed. If an incident occurs, turn off the fans, clean up and call a first aider if necessary', 2, 2, 4, 'Plastic cups (PLUS)', 'They may hit someone when launched.', 'All', 4, 1, 4, 'Only launch cups in a controlled manner where there is a clear area to do so allowing for things veering off course.\r\nCall a first aider in the event of an accident.', 2, 1, 2)
+### **Hazard**: Objects above the fan
+
+**Description**: Blower, or objects lifted by the blower, may disturb overhead objects such as lightweight ceiling tiles, causing them to fall down and potentially injure someone.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelikhood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Be careful to check above the blower for anything that might be disturbed when choosing where to place it. If this is unavoidable, then make sure the power is sufficiently low that nothing will be disturbed. 
+
+If an incident occurs, turn off the fans, clean up and call a first aider if necessary
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+### **Hazard**: Plastic cups (PLUS)
+
+**Description**: They may hit someone when launched.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+
+**Mitigation**: Only launch cups in a controlled manner where there is a clear area to do so allowing for things veering off course.
+
+Call a first aider in the event of an accident.
+
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 <br/>
 
@@ -472,3 +477,5 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 **Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
