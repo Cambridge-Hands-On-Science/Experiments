@@ -2,7 +2,7 @@
 
 **Peering at the outside world through a lens.** - The camera obscura uses a lens to project an image of the outside world onto a white screen inside the CHaOS event. Can you figure out why it's upside down?
 
-Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -44,7 +44,7 @@ This is a large experiment with 3 parts.
 
 Set Up
 
-- Position the darkroom, and the camera obscura lens, such that it is looking out on a brightly lit, active area with, if possible, plenty of depth for varying focus. Ideally it's a good idea not to let people (parents/ demonstrators) congregte just in front of the lens... out of focus legs blocking most of the picture aren't very exciting! 
+- Position the darkroom, and the camera obscura lens, such that it is looking out on a brightly lit, active area with, if possible, plenty of depth for varying focus. Ideally it's a good idea not to let people (parents/ demonstrators) congregate just in front of the lens... out of focus legs blocking most of the picture aren't very exciting! 
 
 - Cut a hole for the lens at about child's eye level (or find a suitable hole), and tape the lens and sheath in place. 
 
@@ -59,7 +59,6 @@ Set Up
 - Tape up the poster of the eye somewhere
 
 
-
 Demonstrating
 
 (This is one approach to demonstrating this experiment. It's quite long so it might be wise to split it between 2 people.)
@@ -71,7 +70,7 @@ Demonstrating
 
 1b. Either holding the white board yourself, or getting the children to hold it, position the board so that the image is in focus on it. Ask them what they can see and get them to realise it's an image of outside.
 
-1c. Ask them what's wrong with the image. Eventually they'll get that it's upside down. Try turning the board over and show that it doesn't make a difference. If one is wearing a white T-shirt, try getting the image focused on them, if not, use your arm... make it clear there's nothing special about the paper- it's the light coming in. 
+1c. Ask them what's wrong with the image. Eventually they'll get that it's upside down. Try turning the board over and show that it doesn't make a difference. If one is wearing a white T-shirt, try getting the image focused on them, if not, use your arm... make it clear there's nothing special about the paper - it's the light coming in. 
 
 1d. Move the board around and show that the image is blurry unless it's in the right position.
 
@@ -127,7 +126,9 @@ Demonstrating
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Make sure the lens won't fall on floor, e.g. by using tape. Clear up broken glass immediately and keep people away while doing so. Call a first aider in the event of an injury.
+**Mitigation**: Make sure the lens won't fall on floor, e.g. by using tape. Clear up broken glass immediately and keep people away while doing so. 
+
+Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -141,7 +142,9 @@ Demonstrating
 
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
-**Mitigation**: Demonstrator to make sure that the lens is not positioned in direct sunlight. Call a first aider in the event of an accident.
+**Mitigation**: Demonstrator to make sure that the lens is not positioned in direct sunlight. 
+
+Call a first aider in the event of an accident.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -170,3 +173,5 @@ Demonstrating
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
