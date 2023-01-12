@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,11 +36,11 @@ Last initially checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ## Experiment Explanation 
 
-** OVERVIEW ***
+### **Overview**:
 
 This experiment exhibits vortices, in particular in smoke rings. and vortices in water flowing between 2 bottles.
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### **Basic procedure and explanation**:
 
 CARE: Check fire alarm status of the venue - machine shouldn't produce very hot smoke so heat sensor shouldn't be affected however smoke detectors will be. Consider isolating alarms and the risk of doing so in that venue. Alternatively demonstrate outside.
 In the event that the alarm goes off, switch of power and follow standard fire procedure (as per venue RA). Open windows and doors to ventilate area.
@@ -56,7 +56,7 @@ Using a vortex like this we can transmit forces through a fluid over much longer
 You can talk about how the smoke machine works. It pulls in the fluid from the tank and heats it causing it to vaporise and form a cloud. The fluid is a mixture of water and glycol or glycerine. You can then talk along the lines of phases of matter and the transition from liquid to gas. You can talk about why we can see the smoke but the normal gases in the air are transparent. This is because the sheer number of water droplets making up the smoke. Normally light is scattered slightly by gases in the air but because there's not that many molecules we can't really see it. The sheer number in the smoke means it's scattered a lot after only a short distance, hence why we can see it. It's a white colour as it scatters all wavelength equally. It's slightly grey because of some of the absorption from the other parts. (I think this is true at least.) 
 
 
-*** OTHER THINGS TO TALK ABOUT ***
+### **Other things to talk about**:
 
 Pipe smokers can make smoke rings, as can volcanos! You can also see air in water rings from dolphins and scuba divers.
 
@@ -204,3 +204,5 @@ Switch off power and call first aider in case of injury. In very poor visibility
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
