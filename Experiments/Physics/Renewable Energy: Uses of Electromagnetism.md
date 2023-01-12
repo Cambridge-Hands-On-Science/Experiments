@@ -2,7 +2,7 @@
 
 **Making power using wind and water!** - Explore how we can use the power of electromagnetism to power our day to day lives!
 
-Last initially checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -72,10 +72,10 @@ This is a better version of the previous one, but it's all hidden in a box which
 Power generation: How many watts are the bulbs you have at home? If it's this hard to turn a handle to make 10W of bulbs light, how hard would it be to power all the bulbs in your house? How about all the bulbs, TVs,... in town X? This is really where our power comes from, what better ways are there of turning the handle (wind farms are the easiest example for small kids
 - Hamster in a wheel. This is like bike light dynamos! Sadly hamsters don't travel in our boxes very well.
 - Wind power. You can try the model turbine with a hair dryer or fan.
-- Water power. We use these in dams where the water flows down and through a turbine. To use this put one end of the tubing on a tap and the other in the sink, this model the water flowing down hill.
+- Water power. We use these in dams where the water flows down and through a turbine. To use this put one end of the tubing on a tap and the other in the sink, this model the water flowing down hill. Fossil fuel and nuclear power plants use the same sort of turbine, but powered by steam rather than water.
 
 
-There's also the solar power but that uses a different principle. 
+There's also the solar power but that uses a different principle - semiconductors.
 
 <br/>
 
@@ -114,7 +114,7 @@ Pad edges of magnet to reduce finger trap.
 
 <br/>
 
-### **Hazard**: Rotating motor
+### **Hazard**: Rotating parts in generators
 
 **Description**: Children could trap fingers in the rotating parts.
 
@@ -145,30 +145,15 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 <br/>
 
-### **Hazard**: Motor connections
+### **Hazard**: Heavy generators
 
-**Description**: Can short-circuit and get hot, which could potentially lead to burns.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
-
-**Mitigation**: Demonstrator to turn off power supply to motor when not in use.
-In the event of an accident, turn off electricity at mains. Call first aider in case of injury. In event of fire, follow procedure in venue RA (raise alarm, evacuate)
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
-
-### **Hazard**: Heavy generators/motors
-
-**Description**: Motors falling on people.
+**Description**: Generators falling on people.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Use clamps to keep generators and motor firmly attached to table.
+**Mitigation**: Use clamps to keep generators firmly attached to table.
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -186,3 +171,5 @@ Call first aider in event of injury.
 **Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
