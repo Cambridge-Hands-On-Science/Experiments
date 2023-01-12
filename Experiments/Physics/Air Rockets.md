@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle air rockets along a rope** - 5, 4, 3, 2, 1, Lift Off! With a lemonade bottle and a bike pump, we'll show you how to make a rocket! How high can you get it to fly?
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -20,11 +20,11 @@ Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ## Equipment Needed 
 - **This experiment can take place outdoors**
-- * Pump
-- * Bung with hole or with valve
-- * Rope
-- * Lemonade (or other fizzy drink) bottle with tube attached for the rope to run through (something with low friction so that the bottle will come back down again and fly further).
-- * Launch stand
+- Pump
+- Bung with hole or with valve
+- Rope
+- Lemonade (or other fizzy drink) bottle with tube attached for the rope to run through (something with low friction so that the bottle will come back down again and fly further)
+- Launch stand
 
 <br/>
 
@@ -66,10 +66,12 @@ N.B. A good trick with families or other groups is to challenge them to get the 
 **Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10
 
 **Mitigation**: Keep people away from the rope (which the rocket travels on) by blocking off any area where the rope is below head height with chairs, hazard tape or similar. Make sure the person launching the rocket doesn't lean into its path (try to keep the pump as far away from the rocket as the hose will allow - we have lengthened the hose to make this job easier). Also locate the experiment sensibly, bearing in mind walkways that people will want to use in the venue, roads etc and wind direction.
+
 If done without a guide rope, cordon off sufficiently large area to ensure it lands within it. Check prevalent wind direction as well by test firing the rocket before people come.
+
 If using the rope to limit range, the areas in which the rocket might land (accounting for prevalent wind direction and lean of the launch stand) must still be cordoned off as there are two hazards - both from the rocket falling on someone and the trip hazard due to the rope.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (hopefully better than the first)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
 
 <br/>
 
@@ -81,7 +83,9 @@ If using the rope to limit range, the areas in which the rocket might land (acco
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Check bottle for cracks and other damage before use. Any damaged bottles should be cut or marked to show they cannot be used if they cannot be disposed of immediately. Only use 2L "fizzy drink" bottles (Coke, Fanta, etc.) with thick walls, not bottles for still drinks which are not (always) suitable for pressurising. If possible, wear safety goggles.  In the event of an accident call a first aider.
+**Mitigation**: Check bottle for cracks and other damage before use. Any damaged bottles should be cut or marked to show they cannot be used if they cannot be disposed of immediately. Only use 2L "fizzy drink" bottles (Coke, Fanta, etc.) with thick walls, not bottles for still drinks which are not (always) suitable for pressurising. If possible, wear safety goggles.
+
+In the event of an accident call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -97,7 +101,7 @@ If using the rope to limit range, the areas in which the rocket might land (acco
 
 **Mitigation**: The provisions for ensuring people aren’t hit by the bottle keep visitors away from the rope. Try using thick/bright-coloured rope so it is easily visible. Keep rope ends tucked away and off the ground if possible. If the ends are on the ground, tape it firmly.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (hopefully better than the first)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -124,3 +128,5 @@ If using the rope to limit range, the areas in which the rocket might land (acco
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
