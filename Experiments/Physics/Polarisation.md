@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - Experiment with the properties of light as certain filters block light, but only in certain directions!
 
-Last initially checked on 2022-02-09 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -141,7 +141,7 @@ If you have the space and at least 3 people, then instead of using finger grills
 
 
 - The crystals of calcite twist light as it travels through, so can appear lighter or darker than the background when placed between the crossed polarisers.
-- If v. keen can try and explain birefringence. (Can the person who added this try and explain as I don't know what it is - TW)
+- If v. keen can try and explain birefringence - section below.
 
 ### CPLs
 
@@ -207,7 +207,7 @@ The box contains two pieces of card, with waves drawn on them, which slot togeth
 
 You can then explain that, since the rotation depends on the second polarisation being shifted by a integer-plus-half multiple of the wavelength, only certain wavelengths of light will be transmitted through the second filter. This accounts for the colours observed - an extinction spectrum. You can use the Michel-Levy chart to show how the colour depends on the thickness of the material. The sellotape board is a good prop for explicitly showing this dependence, since the colours only change when pieces of tape cross over.
 
-You can also expand on what sort of materials exhibit birefringence - typically these are materials with some sort of preferred direction, such as polymers in which the molecules are aligned in a certain direction (e.g. due to injection moulding - this can be seen in the pieces of ruler) or certain crystal structures.
+You can also expand on what sort of materials exhibit birefringence - typically these are materials with some sort of preferred direction (anisotropic), such as polymers in which the molecules are aligned in a certain direction (e.g. due to injection moulding - this can be seen in the pieces of ruler) or certain crystal structures.
 
 The calcite is more strongly birefringent and thicker than the rulers: if you place the calcite over a line and look through it, you should see the line splitting into two (provided the calcite is clear enough!). This could be related to the difference in 'speed' between the two axes corresponding to a difference in refractive index. The difference in refractive index, through Snell's law, creates a difference in the angle of the light leaving the block, causing two images to be seen (Double Refraction).
 
@@ -240,23 +240,81 @@ If there's time, and the conditions are right, you could comment on the Brewster
 
 ## Risk Assessment
 
-('Broken objects (i.e. rulers)', 'Possible cuts from sharp edges.', 3, 2, 6, 'Do not allow children to bend items to point where they are likely to break. Remove items which are broken.\r\nCall first aider in event of injury. Stop experiment if required.', 2, 2, 4)
+### **Hazard**: Broken objects (i.e. rulers)
+
+**Description**: Possible cuts from sharp edges.
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Do not allow children to bend items to point where they are likely to break. Remove items which are broken.
+
+Call first aider in event of injury. Stop experiment if required.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overally: 4
 
 <br/>
 
-('Light box and cables', 'Box is a trip hazard if placed on the floor. Electrical cables also present a trip hazard.', 4, 3, 12, 'Make sure equipment is safely and securely placed, at the side of the dark room out of the way of where people are walking. Do not allow the power cable to run across a walkway.\r\nCall a first aider in the event of an emergency.', 2, 3, 6)
+### **Hazard**: Light box and cables
+
+**Description**: Box is a trip hazard if placed on the floor. Electrical cables also present a trip hazard.
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overally: 12
+
+**Mitigation**: Make sure equipment is safely and securely placed, at the side of the dark room out of the way of where people are walking. Do not allow the power cable to run across a walkway.
+
+Call a first aider in the event of an emergency.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
-('Light box', 'Electrical hazard', 4, 4, 16, 'See electrical parts RA', 2, 3, 6)
+### **Hazard**: Light box
+
+**Description**: Electrical hazard
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+
+**Mitigation**: See electrical parts RA 
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
-('Light box (bulbs heating up)', 'Possible burns due to contact with hot surface.', 3, 3, 9, 'Turn off box between demonstrations to prevent excessive heating, or otherwise monitor for overheating and be prepared to take a break and let it cool down. Do not let children touch the light box.\r\nCall a first aider in the event of an emergency.', 2, 3, 6)
+### **Hazard**: Light box (bulbs heating up)
+
+**Description**: Possible burns due to contact with hot surface.
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Turn off box between demonstrations to prevent excessive heating, or otherwise monitor for overheating and be prepared to take a break and let it cool down. Do not let children touch the light box.
+
+Call a first aider in the event of an emergency.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
-('Fast moving slinky', 'Someone could get hit by the slinky or trip over it.', 3, 2, 6, 'Don’t have the slinky across somewhere people will be walking, and make sure that no one is standing where they could be hit.\r\nCall a first aider in the event of an emergency.', 2, 2, 4)
+### **Hazard**: Fast moving slinky.
+
+**Description**: Someone could get hit by the slinky or trip over it.
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Don’t have the slinky across somewhere people will be walking, and make sure that no one is standing where they could be hit.
+
+Call a first aider in the event of an emergency.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -283,3 +341,5 @@ If there's time, and the conditions are right, you could comment on the Brewster
 **Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
