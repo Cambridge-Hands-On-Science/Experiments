@@ -35,7 +35,9 @@ Last initially checked on 2022-01-23 by Margaret Johncock (mllyj2@cam.ac.uk) and
 **OVERVIEW**
 Cabbage juice is used as a pH indicator to demonstrate the concept of pH. Paper dipped in cabbage juice will change colours when dipped in an acid (vinegar/lemon juice) or base (bicarb).
 
-Tips for demonstrating: If the kids want to, let them take home the pH paper!
+Tips for demonstrating: 
+- If the kids want to, let them take home the pH paper!
+- Adding indicator to the liquids gives a much better colour change than using the filter paper. 
 
 **BASIC PROCEDURE AND EXPLANATION** 
 Before Event:
@@ -55,6 +57,7 @@ At Event:
 9) Show them your “mystery” liquids (vinegar, water and bicarb/water) – ask them to use the indicator paper to determine which one is an acid/base.
 10) Discuss why the indicator paper doesn't change colour when dipped in water as it's neither an acid nor a base - explain the concept of neutral substances.
 11) You can also use a pipette to add a couple of drops of acidic/basic solution to the cup with cabbage juice in to make that change colour.
+12) Ask them what will happen if you add an acid and base together. Try mixing lemon juice and bicarb, then testing the pH. 
 
 **OTHER THINGS TO TALK ABOUT**
 1) Structure of atoms
@@ -62,7 +65,7 @@ At Event:
 -talk about how electrons have negative charge and protons in the nucleus have positive charge
 -can they explain how the electrons orbit rather than flying off? Get them to think about magnets attracting each other if struggling
 -talk about how acids are solutions with free protons and how this allows most indicators to gain a proton/H+ in acidic conditions to change colours (contrast with how red cabbage loses an OH group as described below)
-2)How can the cabbage juice act as an indicator?
+2) How can the cabbage juice act as an indicator?
 -red cabbage contains coloured pigments called “anthocyanins” which have antioxidant properties
 -in acidic conditions they lose an –OH group, and gain it in basic conditions
 -most indicators gain an H+ in acidic conditions and lose in again in basic conditions
