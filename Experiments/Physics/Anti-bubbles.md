@@ -2,7 +2,7 @@
 
 **Make fascinating bubbles which rather than floating on water actually sink.** - nan
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,6 @@ What to Do
 ----------
 
 
-
 Add 3-4 tsp of salt into the wash bottle, or rather more into a washing up liquid bottle and then top it up with water.
 
 Add some washing up liquid into the tank of water - probably 2-3 times stronger than normal washing up water.
@@ -48,13 +47,11 @@ What may Happen
 ---------------
 
 
-
 On the top mostly you will produce normal drops, but sometimes you will see what look like bubbles but if you look closer they reflect light much better and they have far more momentum skittering across the surface.
 If you look from the side you sometimes see bubbles which actually sink rather than float.
 
 What is going on?
 -----------------
-
 
 
 You are creating what are known as antibubbles. A conventional bubble is air surrounded by a thin film of water in air, an antibubble is the other way around, water surrounded by a thin film of air in water.
@@ -117,3 +114,5 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
