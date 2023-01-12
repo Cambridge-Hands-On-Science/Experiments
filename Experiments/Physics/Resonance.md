@@ -1,8 +1,8 @@
 # Resonance
 
-**What is the link between earthquakes and cello strings?** - nan
+**What is the link between earthquakes and cello strings?** 
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,7 +35,7 @@ Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 It's a collection of experiments illustrating resonance: the Earthquake Table lets you build towers and see what happens to them when vibrated near the resonant frequence, the Dog On A Swing gets across the basic idea of resoanance, the Giant Pan Pipes show how resonant air makes music, and the 'cello is a string driven by an oscillating electromagnet, which gets excited at resonance.
 
-*** OVERVIEW ***
+### **Overview**:
 
 When you shake things too quickly or slowly, nothing much happens, but if you shake them at just the right rate - the rate they naturally shake at if you push them - the shaking builds up and builds up.
 
@@ -58,7 +58,7 @@ Tips for demonstrating:
 - The experiment links well with Seeing Sound, and can share equipment and demonstrators.
 
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### **Basic procedure and explanation**:
 
 - Start by getting someone to turn the handle of the earthquake table slowly. A tower three blocks high works best. It shouldn't shake very far. Then ask what they think it will do if they shake it much faster. Will it wobble more?
 
@@ -77,14 +77,14 @@ Tips for demonstrating:
 - Hit the tuning fork and explain that the note that you hear corresponds to the resonant frequency of the tuning fork. Again, draw a parallel to the swing and that the note you hear is the frequency at which the tuning fork 'likes' to vibrate. With older kids you can talk about how initially the fork is vibrating at lots of frequencies but all the ones which aren't the resonant one decay quickly, like how the swing's amplitude quickly decays if you push it at the wrong frequency. 
 
 
-*** OTHER THINGS TO TALK ABOUT ***
+### **Other things to talk about**:
 
 - All sorts of things can resonate, and we'd often rather they didn't. Many people will have heard about the millenium footbridge in London, which wobbled as people found themselves walking in step with the wobbling. It had to be closed, and was fixed by fitting damping, which is also the way a car's suspension tries to avoid resonating. Going further back, the Tacoma Narrows bridge failed catastrophically due to resonance with the wind.
 
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS ***
+### **Science background for demonstrators**:
 
-Anything that you know about resonance will come in useful for this experiment. Most things can be modelled as damped, driven harmonic oscillators, yielding a second-order differential equation with a sinusoidal right-hand side and a familiar set of solutions. Trying to go into mathematical detail with little children is a mistake, though. Even the words `resonant frequency' can be off-putting.
+Anything that you know about resonance will come in useful for this experiment. Most things can be modelled as damped, driven harmonic oscillators, yielding a second-order differential equation with a sinusoidal right-hand side and a familiar set of solutions. Trying to go into mathematical detail with little children is a mistake, though. Even the words 'resonant frequency' can be off-putting.
 
 You may like to note (so to speak) that the pan pipes are tuned to a pentatonic scale.
 
@@ -194,3 +194,5 @@ Call first aider in case of injury.
 **Check 1**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-21 - Josh Garfinkel (jlg70@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
