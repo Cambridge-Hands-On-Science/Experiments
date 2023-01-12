@@ -2,7 +2,7 @@
 
 **Looking at how materials fluoresce in UV light.** - The world looks different when it's lit by UV... see how you can use this type of light to make clothes look extra-bright, find out whether banknotes are real or fake, and revive dead glowsticks.
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,7 +26,7 @@ Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and doub
 - Glowsticks
 - Highlighters
 - Sun cream
-- Board coated with glow in the dark paint
+- Board covered with glow in the dark paint
 - Also useful:
 - Banknotes, driving license (anything with UV security markings)
 
@@ -37,18 +37,15 @@ Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and doub
  In a nutshell..
 ----------------
 
-
 Show kids that there's more to light than the colours that they can see- and how this can explain why some ordinary things glow in "black light"
 
  How to set up the equipment
 ----------------------------
 
-
 This is best set up on the floor so that you don't look directly at the bulb. Put the lead and switches of the box towards you, with the flat side of the box towards your audience. The experiment is better in a dark corner/ in a dedicated dark room area. See the Risk Assessment for more details, but do thing about avoiding trailing wires in the dark! Also, there should be a power lead for the light box with this kit- please don't pack it with the main box of extension cables! There's lots of extra things in the box- if you keep them in the empty blue box when you're not using them it's easier to find them in the dark/ helps people avoid tripping over them!
 
 What does the box do?
 ---------------------
-
 
 Turn over the box **with both lights switched off**, and show the kids the two bulbs. One is for "ordinary/normal" white light. The other bulb is a UV bulb- a kind of light human eyes can't see. There is a switch for each on the back. Turn it back over as soon as you're done with this to avoid UV directly into people's eyes.
 
@@ -56,7 +53,6 @@ See Risk Assessment for more details, but briefly: this particular UV light is p
 
  What is light/ UV light?
 -------------------------
-
 
 The light most of us are really familiar with is white light. But that's actually a mixture of different colours. Most of the time we can't tell that, but sometimes we can see these colours split up, like in a rainbow.
 
@@ -70,7 +66,6 @@ It's weird to think that there's kinds of light we can't see, but not all kinds 
 But what about wavelength/ spectra?
 -----------------------------------
 
-
 Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about UV/ IR before, and you can overwhelm them. You can come back to this later on once you'rve showed them some of the cool things that glow!
 
 EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electromagnetic radiation". One way of understanding this is to say that all these kinds of light have different sizes of wavelength. There's some charts in the box that you can point at when you explain this. Start with the rainbow: Red light waves are wider/longer than blue light waves. Following on from that, infra-red has longer waves than red light; UV has a shorter waves than blue. If you go further outside that you can see microwaves (that you can cook with) and radio waves (which can hold information. like music). These have a longer wavelength, much longer than infra-red. If you go the other way you get to X-rays- these have smaller waves than UV!
@@ -80,7 +75,6 @@ Energy: Another way of viewing the light is as a stream of particles. We call th
 
 Some things glow if you put them under UV light
 -----------------------------------------------
-
 
 Put an object from the box under the UV light. Boring old white paper works- though pretty patterns on driving licenses/ credit cards/ banknotes are a good start if you have them! Either way, this first item should glow! Here's a way of explaining this...
 
@@ -98,45 +92,38 @@ Wikipedia has a more precise explanation, but it depends on understanding lots o
 Where are UV lights used in everyday life?
 ------------------------------------------
 
-
 ### In shops, to check if money is fake! (See markings on banknotes)
-
-
 
 Ask if they've ever seen notes being checked in shops. You can ask parents if they have a five pound note you can borrow briefly. If you look at the note, there are all kinds of features visible to the eye (metal strip, watermark etc.) but if you put the note under the UV light, you can see extra information, like the value of the note. This is useful in preventing forgery because printing with UV sensitive ink is difficult and expensive. Again, the UV gives the special inks energy so they give out light. Don't forget to give the fiver back
 
 ### In discos, to make white things look super bright!
 
-
 You might have seen this!
 
 Fluorescent objects in the box
 Highlighters:
-Fairly boring in white light, but spectacular under UV. Draw on white paper or non-fluorescent card, on even a smiley face on the back of your hand!
+- Fairly boring in white light, but spectacular under UV. Draw on white paper or non-fluorescent card, on even a smiley face on the back of your hand!
 
 Glowsticks:
-- show them glow sticks in the UV - which will glow. Glow sticks get their energy from a chemical reaction rather than UV, if you give them energy from UV they will still glow though
+- Show them glow sticks in the UV - which will glow. Glow sticks get their energy from a chemical reaction rather than UV, if you give them energy from UV they will still glow though
 
-Tonic water
-This is probably the brightest fluorescence in the box, so I usually leave it until last. It's quinine that's causing the glow- this compound is more famous for helping to kill malaria parasites when it was added to tonic water. In the past it was in much higher doses than it is now.
+Tonic water:
+- This is probably the brightest fluorescence in the box, so I usually leave it until last. It's quinine that's causing the glow- this compound is more famous for helping to kill malaria parasites when it was added to tonic water. In the past it was in much higher doses than it is now.
+
+Glow in the dark board:
+- There is also a board coated with the phosphorescent paint - put it under the UV light for 10 seconds (or more - doesn't do any harm), then turn the light off and let them see how the board carries on glowing. Turn the light back on and invite them to put their hands on the board. Make sure they keep their hands in the same place for at least 10 seconds, and see if they can guess what the board will look like after they take their hands away - the effect will be most long-lasting if you turn the UV light off at almost the same time as they take their hands off the board. Some parents may want to take photos!
 
 For more info on tonic water visit: http://en.wikipedia.org/wiki/Tonic\_water
 
-Washing powder
-Residual powder makes your clothes look whiter by helping balance out the yellower colours of sad old white clothes.
+Washing powder: 
+- Residual powder makes your clothes look whiter by helping balance out the yellower colours of sad old white clothes.
 **This gets everywhere, need to replace blocks!!**
 
-Phosphorescent things in the box
-Phosphorescence is very like fluorescence a chemical in the paint absorbs energy from the UV light, but instead of releasing it again in miliseconds, it releases it slowly over minutes.
-
-Glow in the dark stars:
-As above!
+Phosphorescent things in the box (glow in the dark stars):
+- Phosphorescence is very like fluorescence a chemical in the paint absorbs energy from the UV light, but instead of releasing it again in miliseconds, it releases it slowly over minutes.
 
 Glow in the dark paint: tube (not presently available)
-Apparently this stains, so don't open the tube! (There is some phosphorescent paint, this does the same thing as fluorescent dyes but releases the energy much more slowly -> glow in the dark stars etc. NB: this should be well wrapped in plastic (whilst being non-toxic it is very staining) - you can often see it glowing through the container.)
-
-Glow in the dark board
-There is also a board coated with the phosphorescent paint - put it under the UV light for 10 seconds (or more - doesn't do any harm), then turn the light off and let them see how the board carries on glowing. Turn the light back on and invite them to put their hands on the board. Make sure they keep their hands in the same place for at least 10 seconds, and see if they can guess what the board will look like after they take their hands away - the effect will be most long-lasting if you turn the UV light off at almost the same time as they take their hands off the board. Some parents may want to take photos!
+- Apparently this stains, so don't open the tube! (There is some phosphorescent paint, this does the same thing as fluorescent dyes but releases the energy much more slowly -> glow in the dark stars etc. NB: this should be well wrapped in plastic (whilst being non-toxic it is very staining) - you can often see it glowing through the container.)
 
 Why is there sunscreen in the box?
 
@@ -152,7 +139,7 @@ Why is there sunscreen in the box?
 
 I start off trying to get the idea across, that UV is a colour, but you just can't see it..
 
-What colours are there in a Rainbow? -> ROYGBIV..
+What colours are there in a rainbow? -> ROYGBIV..
 
 Have you thought that there might be some other colours that you can't see? If they are older ask them if they have heard of infra red, microwaves, radio waves, X-rays, UV -> they are all colours of light that your eye can't see
 
@@ -183,11 +170,9 @@ Glow sticks get their energy from a chemical reaction rather than UV, if you giv
 Paper money and driving licences (security marking)!
 Driving licences also have patterns only visible in UV.
 
-**Links to IR**
+**Links to IR** 
+
 This experiment often links well if placed near IR or demonstrated as a pair. You'll find the lights in IR can be too bright to see UV florescence. If separate demonstrations try and place slightly further apart or use the boxes as a screen otherwise switch them off as you move across.
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
 
 <br/>
 
@@ -308,3 +293,5 @@ Make sure anyone in contact with the glow stick washes their hands immediately a
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
