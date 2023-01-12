@@ -1,8 +1,8 @@
 # Cloud Formation in a Bottle
 
-**Demonstrate cloud formation as air pressure drops.** - nan
+**Demonstrate cloud formation as air pressure drops.**
 
-Last initially checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -27,9 +27,6 @@ Last initially checked on 2022-02-09 by Vanness Lai Wye Junn (vwjl2@cam.ac.uk) a
 A smoking (recently blown-out) match is dropped into a lemonade bottle containing a little water. The bottle is closed and then squeezed, held for a few moments, and released. This step may need to be repeated a few times. When you release the bottle clouds should nucleate on the nuclei provided by the smoke particles.
 
 By squeezing the bottle you increase the pressure inside it and also the temperature. This causes the liquid inside to evaporate and form water vapor. Then, when the bottle is released, the pressure decreases again and the temperature drops. This fall in temperature allows the water molecules in the bottle to condense around the smoke particles, forming a cloud. 
-
-
-
 
 <br/>
 
@@ -63,6 +60,7 @@ Contact a first aider.
 **Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
 
 **Mitigation**: Keep flammable materials away from experiment. Avoid blowing on the match to extinguish it. Have a fire extinguisher available. Fight fire if safe to do so - can also use the cup of water if it is a small fire.
+
 If fire gets out of control evacuate area and call 999.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 5
@@ -78,6 +76,7 @@ If fire gets out of control evacuate area and call 999.
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Have paper towels handy and dry any spills immediately.
+
 Contact a first aider in the event of an accident.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -121,3 +120,5 @@ Contact a first aider in the event of an accident.
 **Check 1**: 2022-05-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk), **Check 2**: 2022-02-27 - Andrew Sellek (ads79@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
