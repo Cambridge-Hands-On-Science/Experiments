@@ -2,7 +2,7 @@
 
 **Making power using wind and water!** - Explore how we can use the power of electromagnetism to power our day to day lives!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-12 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,7 +26,6 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 - Green rotating generator.  Clamps to attach it to a table.
 - Wooden box with bulbs/handle/generator
 - (these are taken from the electromagnetism experiment)
-- 
 - Invitica Renewable Energy Kit
 - This has a base station, a extension piece, wind turbine, water turbine, solar panel (not that useful for this) and some plastic tubing. There's also a manual explaining how it links into curriculum. The base station has 4 inserts which you can use, an ammeter, a buzzer, a light and some gear things.
 
@@ -139,7 +138,7 @@ Contact a first aider in the event of an injury.
 
 **Mitigation**: Place generator on flat surface so visitors can't catch their fingers underneath so easily.
 Tell visitors to hold only the rotating part of the generator handle and not the entire handle.
-Keep control of the visitors at all times and don't let them get overexcited while turning the handle
+Keep control of the visitors at all times and don't let them get overexcited while turning the handle.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -153,7 +152,7 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Use clamps to keep generators firmly attached to table.
+**Mitigation**: Use clamps to keep generators firmly attached to table, ensure table is stable.
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -172,4 +171,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Johan Kidger (jpk51@cam.ac.uk)
