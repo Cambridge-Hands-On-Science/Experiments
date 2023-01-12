@@ -2,7 +2,7 @@
 
 **Explore the remarkable properties of cornflour mixed with water.** - Slimey, gooey and messy: cornflour is one of our favourite experiments! Come and stick your hands in, and figure out if it behaves like a liquid or a solid...
 
-Last initially checked on 2023-01-12 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-12 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-12 by Jessica Trevelyan (jet81@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -217,4 +217,4 @@ Call first aider in event of injury, who may perform an eyewash if trained and h
 
 **Check 1**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-12 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
