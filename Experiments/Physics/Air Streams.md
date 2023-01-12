@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-12 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,22 +26,22 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 - Stream stabiliser for the big blower (a hollow box open on one end and with a grid on the opposite end)
 - 'Small' blower (in box)
 - 2 x variable power switches for blowers.
-- 
+
 - Floating Objects:
 - Beach Balls
 - Ping-pong balls
 - Aeroplane wing
 - Plastic cups and elastic bands
-- 
+
 - Also Useful:
 - Screwdriver with haztape streamer (for showing streamlines)
 - Paper
-- 
+
 - CHaOS only:
 - Bendy straws (consumable), must have reasonably wide holes.
 - Small wooden rocket puzzle
 - Anti-bacteria wipes (consumable)
-- 
+
 - CHaOS+ only:
 - Diagrams of wing cross sections / streamlines around an aerofoil
 
@@ -478,4 +478,4 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
