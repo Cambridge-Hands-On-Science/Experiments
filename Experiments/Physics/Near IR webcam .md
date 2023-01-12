@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -44,7 +44,6 @@ What is light/ IR light?
 ------------------------
 
 
-
 The light most of us are really familiar with is white light. But that's actually a mixture of different colours. Most of the time we can't tell that, but sometimes we can see these colours split up, like in a rainbow.
 
 Do you know the colours of the rainbow? Ask them to tell you!
@@ -56,7 +55,6 @@ It's weird to think that there's kinds of light we can't see, but not all kinds 
 
 But what about wavelength/ spectra?
 -----------------------------------
-
 
 
 Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about IR/UV before, and you can overwhelm them. You can come back to this later on once you'rve showed them some of the cool things you can see with the IR camera!
@@ -107,7 +105,6 @@ The greater temperature causes a decrease in local density which results in the 
 
 The final piece of the puzzle, thermal transpiration, was theorized by Osborne Reynolds in an unpublished paper that was refereed by Maxwell, who then published his paper which contained a critique of the mathematics in Reynolds's unpublished paper. Maxwell died that year and the Royal Society refused to publish Reynolds's critique of Maxwell's rebuttal to Reynolds's unpublished paper, as it was felt that this would be an inappropriate argument when one of the people involved had already died. Reynolds found that if a porous plate is kept hotter on one side than the other, the interactions between gas molecules and the plates are such that gas will flow through from the cooler to the hotter side. The vanes of a typical Crookes radiometer are not porous, but the space past their edges behaves like the pores in Reynolds's plate. On average, the gas molecules move from the cold side toward the hot side whenever the pressure ratio is less than the square root of the (absolute) temperature ratio. The pressure difference causes the vane to move, cold (white) side forward due to the tangential force of the movement of the rarefied gas moving from the colder edge to the hotter edge.
 
-
 There are lots of cool things to look at according to this:
 http://www.hoagieshouse.com/IR/
 
@@ -145,6 +142,7 @@ Call first aider in case of injury
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Do not allow children to touch lamps, do not place too near the darkroom wall, or any flammable object. Turn off between demonstrations.
+
 In the event of broken glass, move public away and clear up mess carefully as soon as possible. In the event of injury, call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -161,7 +159,9 @@ In the event of broken glass, move public away and clear up mess carefully as so
 
 **Mitigation**: Ensure lamp is stable and not easy to knock over.
 Consider using LED bulb rather than fluorescent bulb for the energy efficient one if available.
-If lamp becomes broken, keep the public well away from the area, and ventilate area where breakage occurred. Take usual precautions for collection of broken glass. Do not use a standard vacuum cleaner for cleaning up dust; instead, pick up pieces/dust with a damp cloth or damp paper towels, or sticky tape for the smallest dust. Place materials, including the cloth/towels, in a sturdy closed container to avoid generating dust. After you have picked up all that you can, then vacuum the area. Finally, ventilate the room where the breakage occurred. Call first aider in case of injury
+If lamp becomes broken, keep the public well away from the area, and ventilate area where breakage occurred. Take usual precautions for collection of broken glass. Do not use a standard vacuum cleaner for cleaning up dust; instead, pick up pieces/dust with a damp cloth or damp paper towels, or sticky tape for the smallest dust. Place materials, including the cloth/towels, in a sturdy closed container to avoid generating dust. After you have picked up all that you can, then vacuum the area. Finally, ventilate the room where the breakage occurred. 
+
+Call first aider in case of injury
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -190,6 +190,7 @@ If lamp becomes broken, keep the public well away from the area, and ventilate a
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Try to keep cables out of thoroughfare. If cables must be placed somewhere people are likely to be walking, tape them down. 
+
 Call first aider in case of injury
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -245,3 +246,5 @@ Call first aider in case of injury
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
