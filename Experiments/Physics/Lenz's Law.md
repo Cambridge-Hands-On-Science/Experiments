@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,9 +35,9 @@ Get a volunteer to hold the pipe and challenge them to put the magnet it and cat
 
 This is because the moving magnet is inducing an electrical current in the metal. There are two ways to explain why this causes it to slow down:
 
-[easier]Some energy is needed to make the electrical current (like turning the handle before). This time the energy comes from the falling magnet, and when it loses kinetic energy it slows down.
+Easier - Some energy is needed to make the electrical current (like turning the handle before). This time the energy comes from the falling magnet, and when it loses kinetic energy it slows down.
 
-[harder]Eddy currents of electricity are formed, and these create an electromagnetic effect opposing the motion of the magnet, hence it slows down.
+Harder - Eddy currents of electricity are formed, and these create an electromagnetic effect opposing the motion of the magnet, hence it slows down.
 
 There is also green 'iron filing' paper, which shows up the movement of a magnet through it. You can use this to 'see' the movement of the magnet inside the copper pipe.
 
@@ -59,6 +59,7 @@ People may say it's to do with the metal being magnetic, but it's really not. Co
 Use the minimum number of free magnets. Keep the magnets under control.
 Cover with tape to reduce impact, and contain any shards.
 Pad edges of magnet to reduce finger trap.
+
 Call first aider in case of injury
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -88,6 +89,7 @@ Call first aider in case of injury
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Demonstrator should hold pipe for younger kids and monitor use for others.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -103,3 +105,5 @@ Call first aider in case of injury.
 **Check 1**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-03 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
