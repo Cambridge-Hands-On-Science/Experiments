@@ -32,8 +32,11 @@ Last initially checked on yyyy-mm-dd by Name (email@cam.ac.uk) and double-checke
 **Other**
 
 **Requires Electricity** (Please also refer to the Electrical Hazards risk assessment)
+
 **Requires Water**
+
 **Outside** (Recommended to demonstrate outside at CBS - see separate risk assessment)
+
 **Darkroom** (Recommended to demonstrate in the darkroom at CBS - see separate risk assessment)
 
 **CHaOS+** (More complex explanations suitable for older children are available)
@@ -55,27 +58,28 @@ Last initially checked on yyyy-mm-dd by Name (email@cam.ac.uk) and double-checke
 
 <!-- Here are some example headings to follow, but feel free to ignore these and / or make your own! -->
 
-**In a nutshell.....**
+### In a nutshell.....
 
 
-**Set-up**
+### Set-up
 
 
-**How to demonstrate**
+### How to demonstrate
 If you need an image, insert it like this:
 
 <center>
 <div style="width:10cm">
 <img src="./images/test.jpg">
+  
 <i>Figure caption</i>
 </div>
 </center>
 
 
-**CHaOS+ Explanation**
+### CHaOS+ Explanation
 
 
-**Packing away**
+### Packing away
 
 
 <br/>
