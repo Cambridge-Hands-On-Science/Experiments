@@ -142,6 +142,8 @@ If you have the space and at least 3 people, then instead of using finger grills
 
 - The crystals of calcite twist light as it travels through, so can appear lighter or darker than the background when placed between the crossed polarisers.
 - If v. keen can try and explain birefringence - section below.
+- Calcite crystals make double images! The images can be blurry so this may be hard to see. Try looking through the crystal at a line drawn on paper or the numbers on a ruler.
+- Light slows down and travels at a different speed in some materials, so the light path bends (refraction). In calcite the speed is different for the two polarisations (birefringence - see below), so the bending is different for the two polarisations. This means there are two paths for the crystal and so you see two images (double refraction).
 
 ### CPLs
 
