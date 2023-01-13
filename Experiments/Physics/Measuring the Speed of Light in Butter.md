@@ -2,7 +2,7 @@
 
 **Measure the speed of light** - Measure the speed of light using butter and a microwave!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,12 +31,12 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
-Explain how light is a wave and that microwaves are just some wavelength of this. A microwave has a generator, the nodes and antinodes have different energy levels, the rotation means food gets heated evenly. (aninodes max heat, nodes have no heating bar diffusion)
+Explain how light is a wave and that microwaves are just some wavelength of this. A microwave has a generator, the nodes and antinodes have different energy levels, the rotation means food gets heated evenly. (Antinodes max heat, nodes have no heating bar diffusion)
 Remove the turntable from the microwave, this allows us to identify the hotspots. To do so take some cardboard/paper plate and spread a fine layer of spread evenly across it. Place in the microwave for a few seconds. You should notice a pattern in the melted butter, if not keep microwaving it until you see things. 
 Use the ruler to measure the distance between the hotspots. this gives us half the wavelength of microwaves. 
 Then speed of light = wavelength * frequency. The frequency of microwaves is around 2.5Ghz. 
 The speed of light is 29,979,245,800 cm/sec (as you'll probably measure the distance in cm)
-For thought how can you improve the accuracy? Choose some other em wave, better generator, deal with reflection inside the microwave.
+For thought how can you improve the accuracy? Choose some other EM wave, better generator, deal with reflection inside the microwave.
 
 <br/>
 
@@ -64,7 +64,9 @@ For thought how can you improve the accuracy? Choose some other em wave, better 
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Be careful when removing things from the microwave. Microwave for appropriate time and don't over cook. Ensure children adequately supervised. Allow item to cool before children measure if needed. Run any burns under a tepid water for an appropriate length of time.
+**Mitigation**: Be careful when removing things from the microwave, avoid using bare hands. Microwave for appropriate time and don't over cook. Ensure children adequately supervised. Allow item to cool before children measure if needed. Run any burns under a tepid water for an appropriate length of time.
+
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -84,6 +86,22 @@ For thought how can you improve the accuracy? Choose some other em wave, better 
 
 <br/>
 
+### **Hazard**: Electrical Cables
+
+**Description**: Trip Hazard.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Try to keep cables out of thoroughfare. If cables must be placed somewhere people are likely to be walking, tape them down.
+
+Call first aider in case of injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
@@ -92,4 +110,4 @@ For thought how can you improve the accuracy? Choose some other em wave, better 
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
