@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ This experiment exhibits vortices, in particular in smoke rings. and vortices in
 ### **Basic procedure and explanation**:
 
 CARE: Check fire alarm status of the venue - machine shouldn't produce very hot smoke so heat sensor shouldn't be affected however smoke detectors will be. Consider isolating alarms and the risk of doing so in that venue. Alternatively demonstrate outside.
-In the event that the alarm goes off, switch of power and follow standard fire procedure (as per venue RA). Open windows and doors to ventilate area.
+In the event that the alarm goes off, switch off power and follow standard fire procedure (as per venue RA). Open windows and doors to ventilate area.
 
 This experiment is about smoke rings, but, to understand why they happen, it's best to start with something simple, like pouring water between two bottles. Have you ever noticed what water does when it goes down a plughole? Does it just go straight down? With any luck, your audience will have already noticed that it doesn't, but it's still useful to show them a simple vortex in action using the pair of bottles connected by a plastic connector. The water can't just go straight through (because air needs to go the other way), so it forms a vortex and thus air can go straight up through the middle. If you use a lot of water then you'll be able to see the air bubbles coming up followed by a jet of water. 
 
@@ -68,11 +68,11 @@ Test with another shaped opening by sticking a piece of card over the front of t
 
 The ring is stable as air in the centre of the vortex is moving faster than the air at the edges, this causes a twisting motion. This shape is stable as fast air is at a lower pressure so in relation to the stationary air at higher pressure there's a force keeping it in a ring. When it slows the pressure difference decreases and the ring expands as the pressure in the ring increases. 
 
-If you touch the ring it breaks as its a big disruption to the stability. 
+If you touch the ring it breaks as it's a big disruption to the stability. 
 
 You can attempt to get them to interfere and can see some repelling (not sure why it happens though) they can theoretically merge or destroy too but hard to do. The best way to get them to merge seems to be having two people stand next to each other and both fire forwards and slightly together at the same speed. You need the rings to meet along the same plane and spinning in the same direction to interfere constructively.
 
-There's also no net movement of air, think about what this would do to the pressure, air just rotates around the vortex. The smoke is highlighting the forward flow, where we to fill the room with smoke and fire clean air vortices we'd see reversed motion of smokey air. To try and demo this I have some silicone bracelets, if you imagine these are the smoke ring and then try and roll them along your wrist you'll see that the bracelet spins as it moves. 
+There's also no net movement of air, think about what this would do to the pressure, air just rotates around the vortex. The smoke is highlighting the forward flow: were we to fill the room with smoke and fire clean air vortices, we'd see reversed motion of smokey air. To try and demo this I have some silicone bracelets, if you imagine these are the smoke ring and then try and roll them along your wrist you'll see that the bracelet spins as it moves. 
 
 Apparently, you can generate smoke rings by shaking an incense stick. You can also do this at home with a coke bottle, a balloon (or small cardboard box) and an incense stick.
 
@@ -205,4 +205,4 @@ Switch off power and call first aider in case of injury. In very poor visibility
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
