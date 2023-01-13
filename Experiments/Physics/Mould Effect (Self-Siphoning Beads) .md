@@ -63,7 +63,7 @@ This experiment can work well for floating however, you'll want to use the short
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Do not hold above anyone. Do not use glass beakers; use plastic to avoid any cuts.
+**Mitigation**: Do not hold directly above anyone. Do not use glass beakers; use plastic to avoid any cuts.
 
 Call a first aider in the case of an injury.
 
@@ -79,7 +79,7 @@ Call a first aider in the case of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If standing elevated  to demonstrate then ask audience to stand back further. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
 
 In case of injury, call a first aider.
 
