@@ -157,6 +157,7 @@ Call first aider if required.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Frame is designed to be stable and far stronger than it needs to be, and should not collapse if correctly put up. It would, however, be possible for it to be pulled over by kids pulling hard on the ropes after raising the weight to its maximum height and pulling sideways, demonstrator should familiarise themselves with the stability of the frame so that they know what directions and forces might present a risk.
+
 Demonstrator can lean/pull on the frame to counter these forces and prevent frame from sliding. Demonstrator to secure opposite leg to pulley in use. Ensure bolt at top is secure. Experiment should always be closely supervised when in use.
 
 Call first aider if required.
