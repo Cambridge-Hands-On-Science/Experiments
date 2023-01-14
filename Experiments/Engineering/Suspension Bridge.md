@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -27,7 +27,7 @@ Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ## Experiment Explanation 
 
-*** OVERVIEW ****
+### **Overview**
 
 A suspension bridge made from rope and wood that children can walk across!
 
@@ -46,7 +46,7 @@ Other things to talk about:
 Tips for demonstrating: Don't be fazed by the crowds - keep control and take time to ask questions and demonstrate the science. If children are beginning to run over the bridge or get overexcited, limit the number of children on the bridge to one at a time.
 
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### **Basic procedure and explanation**
 
 Get children to walk over the bridge, then ask them questions. On a busy day you could stand blocking the entrance to the bridge until a group have listened to the science, then let them walk over.
 
@@ -61,7 +61,7 @@ Because the rope is sagging, we need these big wooden piers to hold it up. We do
 What about the roadway bending? Put one kid on and see how much the roadway is bent. Will the roadway be more or less bent if you add more kids all along the bridge? So the roadway doesn't bend if you spread out the load. Real suspension bridges don't bend as cars go across them! This is because the deck is usually either a beam or a truss, so can spread out the loads like when people stand all along our bendy roadway. If a train goes over the bridge then the engine is a very heavy load in one place so it will bend, so we don't tend to use suspension bridges for railways.
 
 
-*** OTHER THINGS TO TALK ABOUT ***
+### **Other things to talk about**
 
 Real life suspension bridges. Severn bridge. Clifton bridge in Bristol. Menai and Conwy suspension bridges in Wales. Humber bridge. Union bridge (over River Tweed). Brooklyn bridge in new york. Golden Gate bridge at the entrance to San Francisco Bay.
 
@@ -72,7 +72,7 @@ Building them in real life. Steel cables not rope. Need to sig down through eart
 Talk about tension and compression. Rope is good under tension, brick cracks under tension. Making steel rope - wind strands of iron into a small length, wind many of them together. Testing for strength!
 
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS ***
+### **Science background for demonstrators**
 
 'Why' suspension bridges are a good idea is to do with the stability of tension - no need to waste strength and weight resisting buckling, so can make lighter and hence longer spans. Resistance to buckling is mostly a geometric effect. We really need a good demo to communicate this. This is in contrast to the strength of materials in tension and compression - most do better in compression as cracks are such a big problem in tension.
 
@@ -125,19 +125,18 @@ Call first aider/999 if required.
 
 ### **Hazard**: Bridge
 
-**Description**: Falls to the ground from the bridge, possibly complicated by entanglement
-in the ropes.
+**Description**: Falls to the ground from the bridge, possibly complicated by entanglement in the ropes.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: The bridge should not be PUT UP on a hard surface. Grass is preferable, or
-mats may be used. The DEMONSTRATOR must supervise children carefully while
-crossing, and be ready to catch very small children if the parent isn't.
-Control how many children are on it at a time, and do not allow jumping,
-swinging or climbing on or off part way through.
+**Mitigation**: The bridge should not be PUT UP on a hard surface. Grass is preferable, or mats may be used. The DEMONSTRATOR must supervise children carefully while crossing, and be ready to catch very small children if the parent isn't.
+
+Control how many children are on it at a time, and do not allow jumping, swinging or climbing on or off part way through.
+
 Anyone tangled in the ropes may need to be untangled.
+
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -152,8 +151,8 @@ Call first aider if required.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: The crossbars should be covered with hazard tape when PUT UP, and more
-hazard tape tied on slightly below, to make them obvious.
+**Mitigation**: The crossbars should be covered with hazard tape when PUT UP, and more hazard tape tied on slightly below, to make them obvious.
+
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -162,15 +161,14 @@ Call first aider if required.
 
 ### **Hazard**: Separate rope and weight
 
-**Description**: Trip hazard from the separate rope and weight used to explain the
-principle.
+**Description**: Trip hazard from the separate rope and weight used to explain the principle.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: The rope and weight should be put safely out of the way - e.g. under the
-bridge - when they aren't being used by the DEMONSTRATOR.
+**Mitigation**: The rope and weight should be put safely out of the way - e.g. under the bridge - when they aren't being used by the DEMONSTRATOR.
+
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -179,14 +177,14 @@ Call first aider if required.
 
 ### **Hazard**: Finger trap
 
-**Description**: Finger-trap between planks on the deck of the bridge, and in the
-karabiners.
+**Description**: Finger-trap between planks on the deck of the bridge, and in the karabiners.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: The bridge is designed to minimize this problem. The DEMONSTRATOR should keep children away from the underside while it's in use, and warn that karabiners can pinch during assembly.
+
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -218,3 +216,5 @@ Call first aider if required.
 **Check 1**: 2021-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-09 - Lucy Hart (ljfh2@cam.ac.uk)
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk)
