@@ -33,7 +33,7 @@ Here is a hopefully not too ropey write-up of what is an awesome experiment (I h
 
 **The bag**
 
-First, get the kids try and lift the bag, and then like a Christmas turkey get them to guess the weight. Wild guesses will ensue. Tell them there are 4x2l bottles in the bag. Ask them how heavy 1L of water is. (Wild guesses). Tell them that 1kg = 1L of water. Then get them to tell you how heavy the bag is (4x2=8 is surprisingly difficult). 8kg of weight is how heavy the bag is (or 80N downwards), so how much force do you need to apply to lift it slowly? Just over 8kg worth of weight (or 80N). I think we have bagged that idea, let’s move on. Maybe say that as far as you pull down, the bag lifts up, as it maybe is useful to say that at this point so they are thinking of it…
+First, get the kids try and lift the bag, and then like a Christmas turkey get them to guess the weight. Wild guesses will ensue. Tell them there are 4x2L bottles in the bag. Ask them how heavy 1L of water is. (Wild guesses). Tell them that 1kg = 1L of water. Then get them to tell you how heavy the bag is (4x2=8 is surprisingly difficult). 8kg of weight is how heavy the bag is (or 80N downwards), so how much force do you need to apply to lift it slowly? Just over 8kg worth of weight (or 80N). I think we have bagged that idea, let’s move on. Maybe say that as far as you pull down, the bag lifts up, as it maybe is useful to say that at this point so they are thinking of it…
 
 **First Pulley**
 
