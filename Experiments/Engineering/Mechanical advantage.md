@@ -141,6 +141,7 @@ Call first aider if required.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Water weights should be double wrapped with translucent/transparent plastic, or bottle caps gaffered in place. Cloth/mop should be available to mop up spills. Situate experiment away from mains electricals where possible. If any electrical equipment may be affected make sure it is turned off.
+
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
