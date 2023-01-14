@@ -2,8 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
-
+Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-14 by Johan Kidger (jpk51@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -68,7 +67,7 @@ It can be useful to ask the children how the other blocks would have to move to 
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Blocks are designed to be fairly light and covered with rubber. Demonstrators may need to help younger children carry the blocks.
+**Mitigation**: Blocks are designed to be fairly light and covered with rubber. Demonstrators may need to help younger children carry the blocks. When taking apart ensure feet are sufficiently far back.
 
 Call a first aider in the case of an injury.
 
@@ -134,7 +133,7 @@ Call first aider in event of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Make sure that the bridge is erected somewhere the floor is flat, with no sharp corners to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
+**Mitigation**: Make sure that the bridge is erected somewhere the floor is flat, with no sharp corners or objects to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
 
 Call first aider in the event of an accident.
 
@@ -168,4 +167,4 @@ Call first aider in the event of an accident.
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)
