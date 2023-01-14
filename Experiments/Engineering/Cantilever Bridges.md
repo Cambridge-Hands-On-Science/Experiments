@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,9 +54,9 @@ Extension: Why does the block not fall into the river? One answer is that the bl
 
 Do this one next, once they've succeeded at the first bridge. This gap is the width of three bricks. If you hold a brick partially across the gap/on the end of the support and let it go, it falls- why? (The brick/the forces acting on the brick aren't balanced.) How can you balance the blocks? (Think of a see-saw.) How can you get more of the block to go across the gap? (Balance it on the other side). 
 
-Try to do this yourself before you demonstrate the experiment. The most obvious design uses 8 blocks ( 2 towers of 1;2;1), the fewest we've see it done in is 5, but this doesn't look much like any bridge we've ever seen! It's not as stable - why?
+Try to do this yourself before you demonstrate the experiment. The most obvious design uses 8 blocks (2 towers of 1;2;1), the fewest we've see it done in is 5, but this doesn't look much like any bridge we've ever seen! It's not as stable - why?
 
-Look for mirror lines/ symmetry: this is a simple way of making sure the towers are balanced. For the most common 8 block design the two towers are symmetrical, and each tower is symmetrical in the line above the support/ along the middle layer of bricks. (This is also true of the most common version of the third bridge). 
+Look for mirror lines/symmetry: this is a simple way of making sure the towers are balanced. For the most common 8 block design the two towers are symmetrical, and each tower is symmetrical in the line above the support/ along the middle layer of bricks. (This is also true of the most common version of the third bridge). 
 
 It can be a bit of a surprise to find out how much of this is not obvious to some children. Many will start trying to build something like an arch, or want to put supports in the river. The first thing is to get them to see that combining bits of structure that tip over in opposite directions can produce something that balances. 
 
@@ -194,4 +194,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)
