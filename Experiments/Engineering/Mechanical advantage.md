@@ -3,7 +3,7 @@
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
 
-Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -21,7 +21,7 @@ Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and doub
 - **This experiment can take place outdoors**
 - Tripod
 - Various pulleys
-- Water weights
+- Water weights in bag
 
 <br/>
 
@@ -76,9 +76,8 @@ Figure 3:
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Water weights are used - intrinsically soft with no sharp edges. Demonstrator to inspect the ropes prior to use for signs of wear and replace as necessary. The ropes have soft stoppers on them (knots which get stuck at the pulley) so that the weight can't hit the ground. Also make sure small humans don't suddenly let go of the rope.
-Call a first aider in the event of an accident.
-
+**Mitigation**: Water weights are used - intrinsically soft with no sharp edges. Demonstrator to inspect the ropes prior to use for signs of wear and replace as necessary. The ropes have soft stoppers on them (knots which get stuck at the pulley) so that the weight can't hit the ground. Also make sure small humans don't suddenly let go of the rope. Ensure people don't walk underneath frame.
+Call a first aider in the event of an accident. 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
@@ -105,12 +104,12 @@ When picking it up, bend at the knees. Or if you must bend at the hips, make sur
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Ropes are relatively short, making it difficult for sufficient heating to cause burn to occur. Demonstrator to discourage audience members from running rope through hands.
+**Mitigation**: Ropes are relatively short, making it difficult for sufficient heating to cause burn to occur. Demonstrator to discourage audience members from running rope through hands. Demonstrator ready to hold onto rope or bag if necessary.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -146,13 +145,14 @@ Call first aider if required.
 
 ### **Hazard**: Frame
 
-**Description**: Impact injury due to frame collapsing.
+**Description**: Impact injury due to frame collapsing or sliding.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Frame is designed to be stable and far stronger than it needs to be, and should not collapse if correctly put up. It would, however, be possible for it to be pulled over by kids pulling hard on the ropes after raising the weight to its maximum height and pulling sideways, demonstrator should familiarise themselves with the stability of the frame so that they know what directions and forces might present a risk. Demonstrator can lean/pull on the frame to counter these forces. Experiment should always be closely supervised when in use.
+**Mitigation**: Frame is designed to be stable and far stronger than it needs to be, and should not collapse if correctly put up. It would, however, be possible for it to be pulled over by kids pulling hard on the ropes after raising the weight to its maximum height and pulling sideways, demonstrator should familiarise themselves with the stability of the frame so that they know what directions and forces might present a risk.
+Demonstrator can lean/pull on the frame to counter these forces and prevent frame from sliding. Demonstrator to secure opposite leg to pulley in use. Ensure bolt at top is secure. Experiment should always be closely supervised when in use.
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -165,12 +165,12 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Ensure rope does not lay across anywhere the public may walk.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -197,3 +197,5 @@ Call first aider if required.
 **Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk), **Check 2**: 
