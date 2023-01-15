@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-15 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -81,6 +81,7 @@ Give everything a wash, ideally with hot, soapy water. Dry the box (by leaving i
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Clear up spills as soon as possible if on a slippery floor. Do experiment outside if possible. Do experiment in tray to avoid spilled liquid going on floor. Put wet floor sign down if needed.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -96,8 +97,11 @@ Call first aider in case of injury.
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
 **Mitigation**: Do experiment in a clear lidded fish tank so kids are not peering over the top to see what is happening and tell them to stay a good distance back, keep lid opening faced towards demonstrator. It is important to keep the kids under control. Try to keep control over at least one of the reagents, so the kids can't just do it themselves.
+
 Ensure the top of the tank is not at eye level (it is possible for a small volume of the reagents to be propelled through the crack between the top of the tank and the lid). Run a length of plastic tape along the hinged side (which should be closest to your audience) to prevent splattering.
+
 Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the cannister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes. 
+
 Eyewash should be kept in Mini Explosions box. If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -113,7 +117,9 @@ Eyewash should be kept in Mini Explosions box. If solution or reactants have ent
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Do not let the kids do the reactions themselves or leave them alone with the experiment.
+
 It is important to keep the kids under control. Try to keep control over both reagents. Warn children not to eat/put hands in mouth.
+
 In the event of eating, advise them that the reactants are all edible but to seek medical attention if they start to feel very bad as experiment has been in cupboard for unknown amount of time.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -146,4 +152,4 @@ In the event of eating, advise them that the reactants are all edible but to see
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-15 - Jamie Barrett (jb2369@cam.ac.uk)
