@@ -3,7 +3,7 @@
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
 
-Last initially checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk) and double-checked on 2023-01-15 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -94,6 +94,7 @@ Call a first aider in the event of an accident.
 
 **Mitigation**: The weight isn't that much (6kg or so) in the first place.
 To mitigate, do not let small humans pick up the bag themselves. Hand it to them slowly. If you see them start to bend over (either pulled by the weight or otherwise), take the bag off them.
+
 When picking it up, bend at the knees. Or if you must bend at the hips, make sure to keep your back straight.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -206,4 +207,4 @@ Call first aider if required.
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk), **Check 2**: 2023-01-15 - Jamie Barrett (jb2369@cam.ac.uk)
