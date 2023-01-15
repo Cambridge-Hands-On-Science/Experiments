@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2022-01-13 by Peter Methley (pm631@cam.ac.uk) and double-checked on
+Last initially checked on 2023-01-13 by Peter Methley (pm631@cam.ac.uk) and double-checked on
 
 **Frequency of use:** 4
 
@@ -61,8 +61,8 @@ Put the end of the green tube into the tray of soapy water so that it sits flat 
 
 <center>
 <div style="width:15cm">
-<img src="./images/Bubbly Crystals Photo.png" style="width:10cm"><br/>
-<img src="./images/Bubbly Crystals Setup.png"><br/>
+<img src="./images/Bubbly_Crystals_Photo.png" style="width:10cm"><br/>
+<img src="./images/Bubbly_Crystals_Setup.png"><br/>
 <i>Fig 1: the setup for the experiment.</i>
 </div>
 </center>
@@ -103,7 +103,7 @@ _A: By putting the next layer of spheres in the gaps between those in the first 
 
 <center>
 <div style="width:10cm">
-<img src="./images/3D HCP.png"><br/>
+<img src="./images/3D_HCP.png"><br/>
 <i>Fig 3 : 3D close-packed structures</i>
 <!-- Andrew suggests getting a model of this! -->
 </div>
@@ -123,7 +123,7 @@ _A: 30°. A rotation of 60° will bring the lattice back into alignment._
 
 <center>
 <div style="width:10cm">
-<img src="./images/Grain boundaries.png"><br/>
+<img src="./images/Grain_boundaries.png"><br/>
 <i>Fig 4: three grains, with the lattice orientations for each drawn. Note the defects on the grain boundaries. Screenshot from the Bragg video.</i>
 </div>
 </center>
@@ -261,6 +261,6 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Check 1**: 2022-06-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 22-06-09 - Emma Crickmore (elc75@cam.ac.uk)
 
-**Check 1**: 2022-01-13 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-13 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
