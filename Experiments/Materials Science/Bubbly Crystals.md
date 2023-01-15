@@ -61,8 +61,8 @@ Put the end of the green tube into the tray of soapy water so that it sits flat 
 
 <center>
 <div style="width:15cm">
-<img src="./images/Bubbly_Crystals_Photo.png" style="width:10cm"><br/>
-<img src="./images/Bubbly_Crystals_Setup.png"><br/>
+<img src="./images/Bubbly_Crystals_photo.png" style="width:10cm"><br/>
+<img src="./images/Bubbly_Crystals_setup.png" style="width:15cm"><br/>
 <i>Fig 1: the setup for the experiment.</i>
 </div>
 </center>
@@ -123,7 +123,7 @@ _A: 30°. A rotation of 60° will bring the lattice back into alignment._
 
 <center>
 <div style="width:10cm">
-<img src="./images/Grain_boundaries.png"><br/>
+<img src="./images/Grain_boundaries.png" style="width:10cm"><br/>
 <i>Fig 4: three grains, with the lattice orientations for each drawn. Note the defects on the grain boundaries. Screenshot from the Bragg video.</i>
 </div>
 </center>
@@ -142,7 +142,7 @@ The grains themselves can also change shape (also permanently/plastically). This
 
 <center>
 <div style="width:10cm">
-<img src="./images/Dislocation.png"><br/>
+<img src="./images/Dislocation.png" style="width:10cm"><br/>
 <i>Fig 5: Dislocation within a bubble ‘crystal’. Note how there is an extra column of bubbles on the top compared to the bottom. This dislocation has a Burgers vector of 1 bubble diameter to the left, and will move to the left to relieve the applied stress. Screenshot from the Bragg video.</i>
 </div>
 </center>
