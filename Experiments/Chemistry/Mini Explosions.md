@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,24 +17,27 @@ Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- Lemon Juice (and maybe vinegar)
-- Bicarb
+- Lemon Juice (or vinegar, but this reacts faster and smells bad!)
+- Bicarbonate of soda
 - A couple of washing up bowls
 - Teaspoon or similar for scooping bicarb
 - Clear plastic box with the hinged lid
-- Green tray to catch any leakage from clear plastic box (doesn't live in blue box)
-- (All of this lives in a large blue box with white lid)
+- (All of this lives in a large blue box with white lid – note that this is shared with Fire Extinguishers)
+- Green or black tray to catch any leakage from clear plastic box (doesn't live in blue box)
 
 <br/>
 
 ## Experiment Explanation 
 
-**In a nutshell.....**
-Acid + Carbonate -> Salt + Water + Carbon Dioxide
+### In a nutshell.....
+Acid + Carbonate → Salt + Water + Carbon Dioxide
 Production of carbon dioxide in a sealed container to produce explosions.
 
-**How to set up the experiment**
-Initially, mix lemon juice (about 1/4 fill the cannister) and bicarb (1/4 of a teaspoon) in the film cannister with the lid off, so that the kids can see it frothing up. Ask them where they think the bubbles are coming from/what's in the bubbles (space for a bit of a discussion of different gases here, many of them will have heard of CO2). 
+### How to set up the experiment
+Set up the clear plastic box in a large tray, with the lid opening towards you. **Important:** Stick some gaffer tape along the hinge line facing the audience to prevent lemon juice escaping through the crack. Fill one of the smaller Tupperware containers with water to use for washing out film canisters.
+
+### Demonstrating the experiment
+Initially, mix lemon juice (about 1/8 fill the cannister) and bicarb (1/4 of a teaspoon) in the film cannister with the lid off, so that the kids can see it frothing up. If the kids seem responsible, you can add the bicarb and let a volunteer add a squirt of lemon juice. Ask them where they think the bubbles are coming from/what's in the bubbles (space for a bit of a discussion of different gases here, many of them will have heard of CO₂). 
 
 Get them to think about what lemon juice is like (sour therefore an acid), and what else is sour (vinegar, other citrus juice..) and discuss that any acid can let out the gas that's "trapped" in the powder. Possibly also discuss use of bicarb in baking - heating it up releases gas, which puts bubbles in your cakes.
 
@@ -46,21 +49,24 @@ Some children ask why there is no 'fire' if it is an explosion. It can be worth 
 
 There are 2 slightly different approaches:
 
-Method 1
+#### Method 1 (easier and effective)
+Fill the cannister about 1/6 of the way with lemon juice (or let a responsible volunteer do it), press bicarb into the well in the centre of the lid. Invert the lid and make sure the bicarb stays stuck in there. Inside the plastic box, with the lid partly shut, gently put the lid on the cannister; the bicarb is now held at the top of the cannister away from the lemon juice.
 
+Invert the cannister, place it on the bottom of the box, and shut the lid fully (it's often a good idea to have the lid partially shut before you invert the cannister to reduce the risk of it getting on you). The bicarb and lemon juice will mix, pressure builds, and the pot will explode upwards. The less lemon juice there is, the more time you have before the explosion but the explosion is no less vigorous (assuming the seal is good), since the film cannister will always pop at the same pressure and a slower reaction will build up pressure more slowly. You could ask older children to work this fact out for themselves.
+
+#### Method 2
 Put some lemon juice in the cannister, put a piece of tissue paper over the top of the cannister with bicarb on top of that, push the lid on so it hold the tissue paper. The bicarb is now held at the top of the pot away from the lemon juice.
 Put the cannister upside down in the clear plastic tank and shut the lid (it's often a good idea to have the lid partially shut before you invert the cannister to reduce the risk of it getting off you). The bicarb and lemon juice will mix and the pot will explode upwards.
 
-Method 2
-
-Put some lemon juice in the cannister, press bicarb into the well in the centre of the lid. The bicarb is now held at the top of the pot away from the lemon juice. Put the lid on gently.
-Put the cannister upside down in the clear plastic tank and shut the lid (it's often a good idea to have the lid partially shut before you invert the cannister to reduce the risk of it getting on you). The bicarb and lemon juice will mix and the pot will explode upwards.
-
 It's usually a good idea to try both methods before the kids arrive and see which one works better for you and the type of film cannister you happen to have.
 
-**Some film cannisters explode better than others, so it is worth trying different ones to make sure you are using the right lid. The oval ones work really well.** Ask a committee member or experienced demonstrator. The black circular one that has a deep lid also works really well. 
+**Some film cannisters explode better than others, so it is worth trying different ones to make sure you are using the right lid. The translucent white plastic ones work really well.** Ask a committee member or experienced demonstrator.
 
-Other things to think about: vinegar (acetic acid) is a stronger acid than lemon juice (citric acid); if using vinegar expect this reaction to be quite quick... (can talk about why stronger acids cause a faster reaction).
+### Other things to think about
+Vinegar (acetic acid) is a stronger acid than lemon juice (citric acid); if using vinegar expect this reaction to be quite quick... (can talk about why stronger acids cause a faster reaction). You could also link the experiment to a rocket launch – the cannister shoots upwards because the gas pressure pushes the CO₂ and liquid out of the bottom, generating an upwards reaction force. Rockets work in the same way by forcing gas out of the back at great speed (though this is normally powered by combustion rather than an acid-base reaction).
+
+### Packing away
+Give everything a wash, ideally with hot, soapy water. Dry the box (by leaving it out or using paper towels). Put everything (except the big tray) back in the big blue box – to make everything fit you will probably need to put smaller components (e.g. the tub of film cannisters) inside the clear plastic box.
 
 <br/>
 
@@ -139,3 +145,5 @@ In the event of eating, advise them that the reactants are all edible but to see
 **Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
