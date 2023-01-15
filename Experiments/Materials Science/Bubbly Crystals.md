@@ -70,10 +70,10 @@ Put the end of the green tube into the tray of soapy water so that it sits flat 
 ### Making Bubbles
 
 The weight of the gas generator causes it to sink into the water, pressurising the air inside the green bottle. <br/>
-_(CHaOS+: calculate the pressure using $\Delta p = \rho_w g \Delta h = m_\mathrm{gas~gen}g / A$)_ <br/>
+_(CHaOS+: calculate the pressure using_ $\Delta p = \rho_w g \Delta h = m_\mathrm{gas~gen}g / A$) <br/>
 This can escape (very slowly) through the small tube and into the water, making bubbles. <br/>
-_Q: What will be the effect on flow of increasing the pressure $\Delta p$ / radius of tube $r$ / length of tube $L$ / fluid viscosity $μ$?_ <br/>
-\_A: Flow rate $Q$ calculated using Hagen-Poiseuille Equation: $Q \approx \pi r^4 \Delta p / 8\mu L$ (Not exact as air is compressible). As the air is used up, the bottle sinks lower, maintaining a constant $\Delta h$ and therefore flow rate, so the bubbles stay the same size.)_
+_Q: What will be the effect on flow of increasing the pressure_ $\Delta p$ _/ radius of tube_ $r$ _/ length of tube_ $L$ _/ fluid viscosity_ $μ$? <br/>
+_A: Flow rate_ $Q$ _calculated using Hagen-Poiseuille Equation:_ $Q \approx \pi r^4 \Delta p / 8\mu L$ _(Not exact as air is compressible). As the air is used up, the bottle sinks lower, maintaining a constant_ $\Delta h$ _and therefore flow rate, so the bubbles stay the same size.)_
 
 If all is well, small bubbles should now be coming out of the tube and settling on the surface of the water. If not, try pressing down on the gas generator – if this works then you might need to add more weight so it works automatically. Otherwise, try checking the seal of the cap on the green bottle in the gas generator.
 
@@ -117,7 +117,7 @@ After enough bubbles have accumulated, you should see that the lattice is not go
 
 <!-- To do: include a rock or etched metal object that shows the polycrystalline structure clearly -->
 
-_A 2D lattice can be described by two **lattice vectors**, $\mathbf{a}$ and $\mathbf{b}$. Translation by either of these (or a linear combination of their integer multiples) will leave the lattice invariant. Ask the student to point out the lattice vectors, maybe on a scaled-up drawing of the lattice. The misorientation between two grains is the smallest angle between equivalent lattice vectors in each grain._<br/>
+_A 2D lattice can be described by two **lattice vectors**,_ $\mathbf{a}$ _and_ $\mathbf{b}$. _Translation by either of these (or a linear combination of their integer multiples) will leave the lattice invariant. Ask the student to point out the lattice vectors, maybe on a scaled-up drawing of the lattice. The misorientation between two grains is the smallest angle between equivalent lattice vectors in each grain._<br/>
 _Q: What is the maximum misorientation in this HCP lattice?_<br/>
 _A: 30°. A rotation of 60° will bring the lattice back into alignment._
 
