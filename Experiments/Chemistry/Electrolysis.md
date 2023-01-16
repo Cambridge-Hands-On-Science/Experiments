@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-16 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -98,6 +98,7 @@ Parents and teenagers will be interested in the hydrogen cars angle. With this a
 
 **Mitigation**: Designed so any excess gas vents to the outside, so even if the power is left on there will be no major build-up of gas.
 The chamber is made out of a tough plastic (PET) that won't shatter. There is a polycarbonate blast shield in case something does go wrong.
+
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -114,6 +115,7 @@ Call first aider in event of injury.
 
 **Mitigation**: The valve at the top of the mixing chamber is designed so it defaults to be open, so gas won't build up when you are not paying attention.
 The explosion is separated from this chamber by water so it shouldn't ignite. The explosion occurs behind a blast shield.
+
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -129,6 +131,7 @@ Call first aider in event of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
 **Mitigation**: Use deionised water (chloride ions have been removed), and use MgSO4 as an electrolyte as this will not decompose before the water. Experiment must only be set up by a demonstrator familiar with the apparatus and the solution required.
+
 In the event of an incident, turn off power, remove any casualty from area, call first aider and ventilate the area.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -144,7 +147,9 @@ In the event of an incident, turn off power, remove any casualty from area, call
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column.
+
 Use less gas if the explosions are too loud.
+
 Seek GP’s advice in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 3
@@ -160,6 +165,7 @@ Seek GP’s advice in the event of injury.
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
 **Mitigation**: Make the explosion chamber quite high, so you can't look in the top. Ball is very light and would not hurt much.
+
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -175,8 +181,11 @@ Call first aider in event of injury.
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
 **Mitigation**: Ensure that apparatus is secure and tightly roped to a fixed support before filling (also prevents risk of tower falling). Do not fill/top up apparatus whilst power unit is nearby. Keep power unit raised above level of base of apparatus.
+
 If solution splashes onto power supply turn off immediately at mains and close experiment.
+
 In case of injury call a first aider (and turn off power if safe to do so).
+
 See electrical parts RA.
 
 **After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
@@ -192,6 +201,7 @@ See electrical parts RA.
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
 **Mitigation**: Ensure the tower is stable (i.e. on level ground). Do not allow children to climb/push the tower.
+
 In the event if an injury, call a first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -207,6 +217,7 @@ In the event if an injury, call a first aider.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Do not leave these "loose" parts of the experiment lying around.
+
 In the event if an injury, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -237,4 +248,4 @@ In the event if an injury, call a first aider.
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369@cam.ac.uk)
