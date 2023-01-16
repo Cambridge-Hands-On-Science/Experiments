@@ -2,7 +2,7 @@
 
 **Demonstrating the power of a carbon dioxide fire extinguisher.** - What does a fire need to burn, and how can we put it out? Find out how we can put out a candle with a cupful of gas!
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-16 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -76,8 +76,11 @@ Other types of fire extinguishers are powder or foam which work by smothering th
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
 **Mitigation**: Use a tealight rather than a more standard candle: short, stable candle contained within metal holder. Make sure tealight is on a ceramic plate or something that will not burn.  Also make sure it's not in a location where it is under or can be accidentally knocked onto something flammable (e.g. knocking it from a table to the carpet).
+
 Do not leave lit candle unattended.
+
 Keep tight control of matches. Ensure no flammable materials are near the lighted candle. Know where the nearest (proper) fire extinguisher is.
+
 In case of fire follow local procedure (see venue RA).
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -92,7 +95,8 @@ In case of fire follow local procedure (see venue RA).
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Put the candle in a good place to run the whole experiment before lighting it, then do not touch the candle once it's been lit. Don't let kids get hold of candle / matches. Don’t leave the tealight lit for extended periods. 
+**Mitigation**: Put the candle in a good place to run the whole experiment before lighting it, then do not touch the candle once it's been lit. Don't let kids get hold of candle/matches. Don’t leave the tealight lit for extended periods. 
+
 Call first aider in event of injury. Run burns under cold water for at least 10 minutes.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -108,7 +112,9 @@ Call first aider in event of injury. Run burns under cold water for at least 10 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Ensure children have no exposed cuts before starting the demonstration. Minimal contact with vinegar anyway. Use a small amount of reactants to avoid bubbles spilling out.
+
 Don't let kids lean in too close to vinegar + bicarb reaction (to avoid possibility of bubbles splashing into eyes etc).
+
 If vinegar gets in eyes, we have eyewash in the first aid box (and there should be some in the Mini Explosions box). The demonstrator must know where the eyewash is located and allow a trained first aider to perform eyewash.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -139,4 +145,4 @@ If vinegar gets in eyes, we have eyewash in the first aid box (and there should 
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369@cam.ac.uk)
