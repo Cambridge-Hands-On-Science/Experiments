@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-17 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -74,6 +74,7 @@ The glycerine that the polyacrylamide is dissolved is used as a cough mixture an
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Stop kids from eating polymer. Use a very high molecular weight of polyacrylimide so there are no monomers. Children must not handle the slime during the activity!
+
 Polyacrylimide is not harmful if ingested or touched. Advise parents if it is ingested and to see their GP should illness develop.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -89,6 +90,7 @@ Polyacrylimide is not harmful if ingested or touched. Advise parents if it is in
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Encourage children to be sensible and warn them not to run/play with the fork. Keep track of the fork location at all times and put away if necessary.
+
 Call first aider in event of injury
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -104,6 +106,7 @@ Call first aider in event of injury
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Clear up any spills immediately.
+
 Call first aider in event of injury
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -134,4 +137,4 @@ Call first aider in event of injury
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
