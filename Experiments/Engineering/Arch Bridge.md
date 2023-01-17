@@ -2,8 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
-
+Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-14 by Johan Kidger (jpk51@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -26,7 +25,7 @@ Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ## Experiment Explanation 
 
-*** OVERVIEW ****
+### **Overview**:
 
 This is an arch bridge built of 5 identical blocks, which the children can then walk over.
 
@@ -40,7 +39,7 @@ Forces on blocks.
 Tips for demonstrating:
 The blocks are quite heavy for small children, so you may need to lift them for them/get parents to help. Don't let them jump on the bridge/too many on at once - jumping off sideways may cause the bridge to fall to the side, too many children on at once may push each other off.
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### **Basic procedure and explanation**:
 
 To build the arch bridge, get the children to place the wooden supports between the ends of the bridge (say there like the scaffolding used around the edge of buildings or under bridges), then get them to add the blocks, starting at the ends. If they have trouble working out which way round to put the blocks try showing them the trapezium shaped side of the block. Ask them whether the longer or shorter side needs to go on top to make the arch shape.
 
@@ -60,23 +59,85 @@ It can be useful to ask the children how the other blocks would have to move to 
 
 ## Risk Assessment
 
-('Blocks', 'May fall on feet and injure people.', 4, 2, 8, 'Blocks are designed to be fairly light and covered with rubber. Demonstrators may need to help younger children carry the blocks.\r\nCall a first aider in the case of an injury.', 2, 2, 4)
+### **Hazard**: Blocks
+
+**Description**: May fall on feet and injure people.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Blocks are designed to be fairly light and covered with rubber. Demonstrators may need to help younger children carry the blocks. When taking apart ensure feet are sufficiently far back.
+
+Call a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-('Bridge Collapse', 'Bridge may collapse due to instability. Blocks may become smooth over time and slip against each other causing bridge collapse. Could result in people falling off bridge or being hit by falling blocks.', 3, 3, 9, 'Demonstrators should test the bridge by walking over it before any children do. Children should not be allowed to jump off the bridge sideways, as this may cause the bridge to fall.Blocks should be checked for smoothness at the beginning of the event. Demonstrator should remain vigilant for blocks slipping during the event.\r\nDemonstrator must stop experiment if they suspect that the blocks are getting smooth.\r\nCall first aider in the event of injury.', 2, 3, 6)
+### **Hazard**: Bridge Collapse
+
+**Description**: Bridge may collapse due to instability. Blocks may become smooth over time and slip against each other causing bridge collapse. Could result in people falling off bridge or being hit by falling blocks.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Demonstrators should test the bridge by walking over it before any children do. Children should not be allowed to jump off the bridge sideways, as this may cause the bridge to fall. Blocks should be checked for smoothness at the beginning of the event. Demonstrator should remain vigilant for blocks slipping during the event.
+
+Demonstrator must stop experiment if they suspect that the blocks are getting smooth.
+
+Call first aider in the event of injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
-('Blocks', 'May trap fingers between blocks during construction.', 3, 2, 6, 'Demonstrators may wish to help small humans when placing the blocks. Mention that it is better to hold them across their sides rather than ends.\r\nCall a first aider in the event of an emergency.', 2, 2, 4)
+### **Hazard**: Blocks
+
+**Description**: May trap fingers between blocks during construction.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Demonstrators may wish to help small humans when placing the blocks. Mention that it is better to hold them across their sides rather than ends.
+
+Call a first aider in the event of an emergency.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-('Built bridge', 'Children/demonstrator falling off the bridge.', 3, 3, 9, "Make sure that the bridge is erected somewhere the floor is flat, with no sharp corners to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.\r\nCall first aider in the event of an accident.", 2, 3, 6)
+### **Hazard**: Blocks
+
+**Description**: Being hit by carried blocks.
+
+**Affected people**: All 
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Small or overexcited children should be supervised when moving blocks. Demonstrator should volunteer to do it themselves.
+
+Call first aider in event of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
-('Bridge scaffolding', 'Being hit by carried bridge scaffolding', 2, 3, 6, 'Small or overexcited children should be supervised when moving bridge scaffolding. Demonstrator should volunteer to do it themselves. \r\nCall first aider in event of injury.', 1, 3, 3)
+### **Hazard**: Built bridge
+
+**Description**: Children/demonstrator falling off the bridge.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Make sure that the bridge is erected somewhere the floor is flat, with no sharp corners or objects to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
+
+Call first aider in the event of an accident.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -105,3 +166,5 @@ It can be useful to ask the children how the other blocks would have to move to 
 **Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
+
+**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)

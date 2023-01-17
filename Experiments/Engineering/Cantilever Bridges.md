@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2022-02-01 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-04 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -32,20 +32,17 @@ Basically you want to get across that you have to balance everything, and if the
 Setting up the experiment:
 --------------------------
 
-
 Kids: works best on the floor, as the blocks don't fall too far when stacks topple! Get everyone to sit on the floor around the board/ pile of bricks
 Grown ups: we've run this at an adults-only science evening, on a table, which worked fine. But adults are much less confident about stacking blocks than kids are!
 
 The challenge:
 --------------
 
-
 The challenge is to build three bridges across the river. There are two rules...
 1) You're only allowed to use the wooden blocks
 2) The wooden blocks can only stand on the support blocks, not on the land (it's marshland, too soggy!) or in the river (cheating!)
 
 ### The first bridge (smallest gap)
-
 
 
 Start with this one, as everyone can do it! The first gap is easy, as you can just put a block across it. 
@@ -55,12 +52,11 @@ Extension: Why does the block not fall into the river? One answer is that the bl
 ### The second bridge (bigger gap)
 
 
-
 Do this one next, once they've succeeded at the first bridge. This gap is the width of three bricks. If you hold a brick partially across the gap/on the end of the support and let it go, it falls- why? (The brick/the forces acting on the brick aren't balanced.) How can you balance the blocks? (Think of a see-saw.) How can you get more of the block to go across the gap? (Balance it on the other side). 
 
-Try to do this yourself before you demonstrate the experiment. The most obvious design uses 8 blocks ( 2 towers of 1;2;1), the fewest we've see it done in is 5, but this doesn't look much like any bridge we've ever seen! It's not as stable - why?
+Try to do this yourself before you demonstrate the experiment. The most obvious design uses 8 blocks (2 towers of 1;2;1), the fewest we've see it done in is 5, but this doesn't look much like any bridge we've ever seen! It's not as stable - why?
 
-Look for mirror lines/ symmetry: this is a simple way of making sure the towers are balanced. For the most common 8 block design the two towers are symmetrical, and each tower is symmetrical in the line above the support/ along the middle layer of bricks. (This is also true of the most common version of the third bridge). 
+Look for mirror lines/symmetry: this is a simple way of making sure the towers are balanced. For the most common 8 block design the two towers are symmetrical, and each tower is symmetrical in the line above the support/ along the middle layer of bricks. (This is also true of the most common version of the third bridge). 
 
 It can be a bit of a surprise to find out how much of this is not obvious to some children. Many will start trying to build something like an arch, or want to put supports in the river. The first thing is to get them to see that combining bits of structure that tip over in opposite directions can produce something that balances. 
 
@@ -87,7 +83,6 @@ For engineers: The third gap is more difficult, with the number of blocks you ha
  These bridges exist in reality!
 --------------------------------
 
-
 **Note: some of the pictures in the box are arch bridges that go with the arch bridge experiment (which doesn't have its own box). Try not to confuse the two - the forces aren't the same in each.**
 
 You can compare the bridge to the Forth Bridge: a real example of a cantilever bridge. There are photos in the box. This bridge is in Scotland, and is famous for being so long that by the time you've finished painting one end that you need to go and start painting the other end!
@@ -107,26 +102,71 @@ A primitive form of arch was called the Corbeled arch, this is basically two of 
 This was used in passages and tombs, before the true arch was developed.
 ![](https://old.chaosscience.org.uk/sites/default/files/tomb.jpg)
 
-
-
-
 <br/>
 
 ## Risk Assessment
 
-('Tower of blocks', 'A very tall tower may mean bricks have enough energy to bruise when the tower falls down.', 3, 2, 6, 'Demonstrator to monitor building, anticipate collapse, and get children to stand back.\r\nCall a first aider in the case of an injury.', 2, 2, 4)
+### **Hazard**: Tower of blocks
+
+**Description**: A very tall tower may mean bricks have enough energy to bruise when the tower falls down.
+
+**Affected People**: All (especially children)
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back.
+
+Call a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-('Board/ Blocks on floor', 'There is a trip hazard from the board or blocks placed on the floor.', 4, 2, 8, "Don't put the experiment in an area which is likely to be used as a thoroughfare.\r\nCall first aider in the event of injury.", 2, 2, 4)
+### **Hazard**: Board/ Blocks on floor
+
+**Description**: There is a trip hazard from the board or blocks placed on the floor.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare.
+
+Call first aider in the event of injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-('Gaps between boards', 'Children may pinch their fingers in between the boards on the floor.', 2, 2, 4, 'Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor.\r\nCall first aider in the event of an accident.', 1, 2, 2)
+### **Hazard**: Gaps between boards
+
+**Description**: Children may pinch their fingers in between the boards on the floor.
+
+**Affected People**: All (especially children)
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor.
+
+Call first aider in the event of an accident.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
-('Blocks', 'Possible splinters from the wooden blocks.', 2, 3, 6, 'Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth.\r\nCall first aider in event of injury.', 1, 3, 3)
+### **Hazard**: Blocks
+
+**Description**: Possible splinters from the wooden blocks.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth.
+
+Call first aider in event of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -153,3 +193,5 @@ This was used in passages and tombs, before the true arch was developed.
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-04 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -34,11 +34,11 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
-What it it?
+What is it?
 -----------
 
 
-Take a normal webcam, remove the IR filter and replace it with crossed polars or a piece of exposed colour film and hey presto you have a near IR camera. Practical point:- the webcam has a focusing ring in front of the lens, which may be turned during an event, causing the image to become blurred. If this happens, ask a committee member to show you how to focus it (there is a knack, and if you it wrong you can jam the focus). 
+Take a normal webcam, remove the IR filter and replace it with crossed polars or a piece of exposed colour film and hey presto you have a near IR camera. Practical point: the webcam has a focusing ring in front of the lens, which may be turned during an event, causing the image to become blurred. If this happens, ask a committee member to show you how to focus it (there is a knack, and if you do it wrong you can jam the focus). 
 
 What is light/ IR light?
 ------------------------
@@ -49,9 +49,9 @@ The light most of us are really familiar with is white light. But that's actuall
 Do you know the colours of the rainbow? Ask them to tell you!
 [Red -> Orange -> Yellow -> Green -> Blue -> Indigo -> Violet (basically purple!)]
 
-It turns out that there are more kinds of light than our eyes can see. Some kinds of light are "redder" than red is - we call that kind of light "infra-red" . You might have seen images from cameras that can detect this kind of light, perhaps watching animals at night on TV, or police chase criminals with helicopters. At the other end of the rainbow there are other kinds of light that we can't see. These are more blue/ more purple than violet, and we call this kind of light "ultra violet".
+It turns out that there are more kinds of light than our eyes can see. Some kinds of light are "redder" than red is - we call that kind of light "infra-red" . You might have seen images from cameras that can detect this kind of light, perhaps watching animals at night on TV, or police chase criminals with helicopters. At the other end of the rainbow there are other kinds of light that we can't see. These are more blue / more purple than violet, and we call this kind of light "ultra violet".
 
-It's weird to think that there's kinds of light we can't see, but not all kinds of eyes detect the same light. For example, some people can't tell red and green apart, which is called "colour blindness". Another example: some insects, such as bees, can see UV light. Some types of flowers have extra patterns in UV, so this helps them find the nectar in the middle of a flower! (How cool is that?!)
+It's weird to think that there are kinds of light we can't see, but not all kinds of eyes detect the same light. For example, some people can't tell red and green apart, which is called "colour blindness". Another example: some insects, such as bees, can see UV light. Some types of flowers have extra patterns in UV, so this helps them find the nectar in the middle of a flower! (How cool is that?!)
 
 But what about wavelength/ spectra?
 -----------------------------------
@@ -59,7 +59,7 @@ But what about wavelength/ spectra?
 
 Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about IR/UV before, and you can overwhelm them. You can come back to this later on once you'rve showed them some of the cool things you can see with the IR camera!
 
-EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electromagnetic radiation". One way of understanding this is to say that all these kinds of light have different sizes of wavelength. There's some charts in the box that you can point at when you explain this. Start with the rainbow: Red light waves are wider/longer than blue light waves. Following on from that, infra-red has longer waves than red light; UV has a shorter waves than blue. If you go further outside that you can see microwaves (that you can cook with) and radio waves (which can hold information. like music). These have a longer wavelength, much longer than infra-red. If you go the other way you get to X-rays- these have smaller waves than UV!
+EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electromagnetic radiation". One way of understanding this is to say that all these kinds of light have different sizes of wavelength. There are some charts in the box that you can point at when you explain this. Start with the rainbow: Red light waves are wider/longer than blue light waves. Following on from that, infra-red has longer waves than red light; UV has a shorter waves than blue. If you go further outside that you can see microwaves (that you can cook with) and radio waves (which can hold information, like music). These have a longer wavelength, much longer than infra-red. If you go the other way you get to X-rays - these have smaller waves than UV!
 
 What do I look at with the camera?
 ----------------------------------
@@ -73,7 +73,7 @@ Things to look at:
 
 Coke is transparent, as are some plastics (shaver casing, sample of smoked glass).
 
-Bank notes have lines. Try looking at the Queen's head on a £5 (old ones or new polymer ones both have the same effect!) or £20 note.
+Bank notes have lines. Try looking at the Queen's head on a £5 or £20 note (old ones or new polymer ones both have the same effect!)
 
 CD can be used as a diffraction grating to produce a 'rainbow' - shifted position.
 
@@ -203,7 +203,7 @@ Call first aider in case of injury
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Do not let children drink the Coke. In the event of drinking, call first aider. Coke bottle is sealed with tape.
 
@@ -219,7 +219,7 @@ Call first aider in case of injury
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Keep excitable children away from the radiometer. Don't let them touch the radiometer - there's no need to. Keep it in a safe place, either in sight, or away. If the radiometer does smash, clear up immediately and clear the area until safe.
+**Mitigation**: Keep excitable children away from the radiometer. Don't let them touch the radiometer - there's no need to. Keep it in a safe place, either in sight, or away and consider taping down. If the radiometer does smash, clear up immediately and clear the area until safe.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -247,4 +247,4 @@ Call first aider in case of injury
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)

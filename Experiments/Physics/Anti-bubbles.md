@@ -1,8 +1,8 @@
 # Anti-bubbles
 
-**Make fascinating bubbles which rather than floating on water actually sink.** - nan
+**Make fascinating bubbles which rather than floating on water actually sink.**
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -73,7 +73,7 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Clear up any spillage immediately. Ensure there are no electric components on ground near the experiment. Call first aider in case of injury.
+**Mitigation**: Clear up any spillage immediately. Have mops or paper towels ready. Ensure there are no electric components on ground near the experiment. Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -115,4 +115,4 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Letting a chain pull itself out of a beaker under its own gravity** - Why on earth do the beads have to go up to come down?! Watch them fly out of a beaker, looping and corkscrewing, and find out about the amazing Mould Effect!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -30,10 +30,6 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 ## Experiment Explanation 
 
 https://www.wired.com/2013/07/the-physics-of-that-gravity-defying-chain-of-metal-beads/
-
-https://www.youtube.com/watch?v=\_dQJBBklpQQ
-
-https://www.youtube.com/watch?v=-eEi7fO0\_O0
 
 https://www.youtube.com/watch?v=6ukMId5fIi0
 
@@ -67,7 +63,7 @@ This experiment can work well for floating however, you'll want to use the short
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Do not hold above anyone. Do not use glass beakers; use plastic to avoid any cuts.
+**Mitigation**: Do not hold directly above anyone. Do not use glass beakers; use plastic to avoid any cuts.
 
 Call a first aider in the case of an injury.
 
@@ -83,7 +79,7 @@ Call a first aider in the case of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If standing elevated  to demonstrate then ask audience to stand back further. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
 
 In case of injury, call a first aider.
 
@@ -184,4 +180,4 @@ Call a first aider in case of emergency.
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)

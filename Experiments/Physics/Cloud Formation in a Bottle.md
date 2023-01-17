@@ -2,7 +2,7 @@
 
 **Demonstrate cloud formation as air pressure drops.**
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -42,6 +42,7 @@ By squeezing the bottle you increase the pressure inside it and also the tempera
 
 **Mitigation**: Only demonstrator to use matches; ensure that matchbox is not available to be grabbed by children.
 Demonstrator to strike and extinguish matches away from self but also to take care not to strike immediately towards visitors.
+When dropping match into bottle, avoid having hand directly above match.
 Ensure match is no longer lit when dropped into bottle. (There should be visible smoke)
 Have a cup (or similar, not flammable) of water to hand to take matches which might be lit and not used.
 Run burns under tepid water for at least 10 minutes.
@@ -63,7 +64,7 @@ Contact a first aider.
 
 If fire gets out of control evacuate area and call 999.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
 <br/>
 
@@ -73,7 +74,7 @@ If fire gets out of control evacuate area and call 999.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 12
 
 **Mitigation**: Have paper towels handy and dry any spills immediately.
 
@@ -121,4 +122,4 @@ Contact a first aider in the event of an accident.
 
 **Check 1**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk), **Check 2**: 2022-02-27 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)

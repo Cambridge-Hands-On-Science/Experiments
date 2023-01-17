@@ -152,8 +152,7 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Use clamps to keep generators firmly attached to table, ensure table is stable
-Call first aider in event of injury.
+**Mitigation**: Use clamps to keep generators firmly attached to table, ensure table is stable; Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
