@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,6 @@ Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-- **Darkroom needed**
 - **Electricity needed**
 - Box in which is mounted a signal generator and audio amplifier, with cables.
 - Loudspeaker
@@ -109,7 +108,7 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Keep oscilloscope away from edges of table. In the event that the oscilloscope falls, switch it off. Clear up broken glass. Call first aider in case of injury. Close experiment if necessary.
+**Mitigation**: Keep oscilloscope away from edges of table, or keep in the opened box if convenient. In the event that the oscilloscope falls, switch it off. Clear up broken glass. Call first aider in case of injury. Close experiment if necessary.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -180,3 +179,5 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 **Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 
