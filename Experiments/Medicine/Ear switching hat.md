@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-18 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -62,7 +62,9 @@ Hearing is even all the more clever when you take into account how the hair cell
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Warn children not to shout loudly into ears, and make sure you talk quietly into the ears. Call a first aider in the event of an injury.
+**Mitigation**: Warn children not to shout loudly into ears, and make sure you talk quietly into the ears. 
+
+Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -77,6 +79,7 @@ Hearing is even all the more clever when you take into account how the hair cell
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Tell child to sit down if they feel disorientated/dizzy. Before letting the child close their eyes make sure the area has no sharp objects, near sharp drops and isn't too crowded.
+
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -91,7 +94,9 @@ Call a first aider in the event of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Warn child not to pull hat off quickly to avoid injury, especially with long hair. Call a first aider in case of injury.
+**Mitigation**: Warn child not to pull hat off quickly to avoid injury, especially with long hair. 
+
+Call a first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -134,3 +139,5 @@ Call a first aider in the event of injury.
 **Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - Jamie Barrett (jb2369@cam.ac.uk)
