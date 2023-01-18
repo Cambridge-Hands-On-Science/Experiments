@@ -1,8 +1,8 @@
 # Sounds from an oven shelf
 
-**Get very strange sounds from an oven shelf.** - nan
+**Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -78,7 +78,7 @@ Call a first aider in the case of an injury.
 
 <br/>
 
-### **Hazard**: Fingers
+### **Hazard**: Head
 
 **Description**: Head banging - with the slinky version, over-vigorous nodding not in a clear space may cause someone to bang their head.
 
@@ -116,3 +116,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**:
