@@ -6,6 +6,9 @@ Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
+**Busking**
+
+**Floating**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
