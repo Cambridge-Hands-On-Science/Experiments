@@ -2,7 +2,7 @@
 
 **Racing jam jars down a gentle slope, to see how filling them affects the speed.** - Find out about rotational mechanics by racing jam jars of differing weights downhill. 
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,7 +22,7 @@ Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and d
 - Jar half full of water
 - Jar full of water
 - Full jar of jam
-- 
+
 - *You will also need:*
 - Gentle slope - Large wooden board. There is one dedicated to this purpose, but if that cannot be found, the archbridge base should work instead if not in use.
 - A couple of things of obvious different weights to drop that won't break. Two rolls of gaffa of different sizes works nicely.
@@ -169,7 +169,7 @@ Call first aider in case of injury.
 
 ### **Hazard**: Objects on surfaces
 
-**Description**: Jars falling off the bench and hitting people.
+**Description**: Jars falling off the bench and hitting people, or breaking and making sharp pieces of glass which can cause cuts.
 
 **Affected People**: All
 
@@ -203,3 +203,5 @@ Call first aider in case of injury.
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**:
