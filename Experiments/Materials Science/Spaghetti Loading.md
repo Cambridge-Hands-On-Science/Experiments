@@ -2,7 +2,7 @@
 
 This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -95,6 +95,7 @@ An I-shaped beam is used by engineers because it can achieve a similar strength 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Clear spaghetti debris from table throughout the experiment. Instruct kids to throw away spaghetti pieces as the experiment progresses rather than at the end. Also make sure fractured pieces are not held near the face. Do the experiment in a tray.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -110,6 +111,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Clear spaghetti debris as much as you can throughout the experiment. As above, do the experiment in a tray to try to contain most of the shards.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -125,6 +127,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Forewarn students and when bending spaghetti, bend away from self and away from others.
+
 In case of injury call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -140,6 +143,7 @@ In case of injury call first aider.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Set-up on table to avoid toes. Have ‘drop zone’, no fingers under masses. Use light masses (10-50g) to avoid heavy masses hurting fingers.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -155,6 +159,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Instruct students to not eat the spaghetti. Use different strands for each student, and for each group.
+
 In case of contact, advise parents to take children to GP if illness develops.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -175,4 +180,4 @@ In case of contact, advise parents to take children to GP if illness develops.
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), 
+**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **CHeck 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
