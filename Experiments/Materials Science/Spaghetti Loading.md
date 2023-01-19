@@ -11,7 +11,7 @@ Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-c
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Materials Science**
+**CHaOS+** (More complex explanations suitable for older children are available)
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
