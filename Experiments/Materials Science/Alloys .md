@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2022-02-07 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -152,7 +152,11 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
 
-**Mitigation**: Demonstrator to control heat gun. Do not leave on. Keep flammable material away from the heat gun and use with heat proof mat. Use stand instead of lying heat gun on a surface. Do not touch the heat gun. Keep the temperature setting low. In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. Follow venue RA protocols in case of fire.
+**Mitigation**: Demonstrator to control heat gun. Do not leave on. Keep flammable material away from the heat gun and use with heat proof mat. Use stand instead of lying heat gun on a surface. Do not touch the heat gun. Keep the temperature setting low. 
+
+In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. 
+
+Follow venue RA protocols in case of fire.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -165,7 +169,11 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Do not let anyone near the heated wire. The wire is thin and should cool within a few seconds, but care should be taken with the tongs. If possible, obtain a heat-resistant mat to lay the tongs/wire on after heating. In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. Follow venue RA protocols in case of fire.
+**Mitigation**: Do not let anyone near the heated wire. The wire is thin and should cool within a few seconds, but care should be taken with the tongs. If possible, obtain a heat-resistant mat to lay the tongs/wire on after heating. 
+
+In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. 
+
+Follow venue RA protocols in case of fire.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6  
 
@@ -174,11 +182,11 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Description**: Cuts
 
-**Affected People**: all
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Make sure sharp ends are doubled back
+**Mitigation**: Make sure sharp ends are doubled back.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -187,7 +195,7 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Description**: Stabbing self/others
 
-**Affected People**: all
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
@@ -200,11 +208,11 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Description**: Skin getting caught between cutlery and magnet
 
-**Affected People**: public
+**Affected People**: Public
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Use weak magnet so won’t cause harm if occurs
+**Mitigation**: Use weak magnet so won’t cause harm if occurs.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -213,7 +221,7 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Description**: Ingestion and risk of accidentally hitting children when arms fly apart from breaking.
 
-**Affected People**: public
+**Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
@@ -244,4 +252,4 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), 
+**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
