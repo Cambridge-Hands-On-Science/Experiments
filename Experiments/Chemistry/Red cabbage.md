@@ -2,7 +2,7 @@
 
 **Making a natural pH indicator.** - We use a little red cabbage juice to find out more about acids and bases in the world around us.
 
-Last initially checked on 2022-01-23 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2022-01-23 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -123,17 +123,17 @@ If ingested, advise parents that reactants are all edible, but to seek medical a
 
 ### **Hazard**: Liquids
 
-**Description**: Mixing acidic and alkali solutions would result in a reaction, causing solution to be spilt. Spillages may be a slip hazard.
+**Description**: Mixing acidic and alkali solutions would result in a reaction, causing bubbles to form. Spillages may be a slip hazard, but are unlikely to happen since acid and base used are weak.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Do not mix the solutions.
 Clear spills promptly, use wet floor sign if needed. 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -160,3 +160,5 @@ Call first aider in case of injury.
 **Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-19 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 
