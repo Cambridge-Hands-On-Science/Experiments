@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-01-28 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,6 +43,7 @@ In the case of speaking to a friend or when you listen to the oven shelf, the vi
 The ability of sound to reach someone's ear also depends on the ability of the air next to the ear drum to vibrate. In the same way as a high frequency (pitch) vibration can transfer more energy to the air from the oven shelf because it has less time to get out of the way, a high frequency sound will transfer more energy from the air to your eardrum so the sound is loud. Low frequency sounds vibrate the air much more slowly, and so the air seems relatively more sloppy and doesn't transfer energy so well so they sound much quieter. So both low and high frequency sounds are produced by the oven shelf but it's only the high frequencies that vibrate the air by your ear drum much so the shelf sounds tinny and high pitched.
 
 In order to hear the low frequencies, you need to create a stiff connection between the oven shelf and your ears. The string wrapped around your fingers provides this connection. The string is taut and stiff and can transmit both high and low frequencies. When you add the high and low frequencies together, the oven shelf suddenly sounds like a gong.
+
 What about in the real world?
 
 This is why your voice sounds different to everyone else and when you hear it recorded. Everyone else just hears you though the air, but you hear yourself through the bones in your skull as well, so different pitches will reach your ears than other people's. 
@@ -54,11 +55,13 @@ http://www.thenakedscientists.com/HTML/content/kitchenscience/exp/the-secret-sou
 In case someone of a more mathematical background is asking, it's the impedance mismatch between the shelf and the air that filters out the low sounds (acting as a high pass filter). We could get those sounds to the air better if we passed them through a series of media with different impedances instead of a big jump. The string has an impedance much closer to that of the shelf (being a solid and all) so there is less of a mismatch and better transmission.
 
 One of the most familiar forms of impedance matching from school is the use of special gels with ultrasound scanning to ensure that more of the sound passes into the body rather than being reflected from the skin.
+
 In fact, there are even more everyday occurrences. Some instruments such as acoustic guitars have a "soundboard" - essentially the front face of the instrument - and air cavity, connected to the strings via a bridge. The structure of this system amplifies the vibrations, particularly low frequencies, not by adding any energy (as in an electric guitar, which use electromagnets to sense the vibrations), but by a kind of impedance matching. If I understand correctly, the larger area of the soundboard, as well as the ability of the air in the cavity to resonate, are key to this.
 
-Why labour this?
+Why labour this? 
 Well, you can get the same oven-shelf effect from a slinky, and the listener can excite the vibrations by nodding their head.
 The extra cool part is that rather than sounding like a boring old gong or clock tower, the complex pulses reverberating up and down sound like a Star Wars laser battle.
+
 If you listen very carefully without the strings you can hear the low laser battle sounds.
 But, if you put a plastic cup in the top of the slinky, it couples to its vibrations and the cup is able to act like a soundboard of a guitar and everyone can hear the effect without the need for string!
 
@@ -75,6 +78,7 @@ But, if you put a plastic cup in the top of the slinky, it couples to its vibrat
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Encourage children to put their knuckles, not their fingers, in their ears.
+
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -90,6 +94,7 @@ Call a first aider in the case of an injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Make sure the participants have sufficient space to take part.
+
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -120,4 +125,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
