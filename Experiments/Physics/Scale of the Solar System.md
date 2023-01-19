@@ -2,7 +2,7 @@
 
 **By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!** - By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!
 
-Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -110,4 +110,4 @@ Call a first aider in the event of swallowing/choking
 
 **Check 1**: 2022-12-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
-**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Lauren Mason (llm34@cam.ac.uk)
