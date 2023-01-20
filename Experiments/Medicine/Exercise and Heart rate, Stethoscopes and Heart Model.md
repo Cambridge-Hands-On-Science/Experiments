@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2022-02-26 by Hayoung Choi (hc585@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -168,7 +168,7 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Check child s asthma status with parent or with teacher (or with child itself if old enough) before doing experiment. Do not allow child to exercise if asthma is severe, and DO NOT ALLOW AN ASTHMATIC CHILD TO DO EXPERIMENT IF THEY DO NOT HAVE AN INHALER . In case of an attack, sit child down, keep them calm, locate inhaler for child to self-administer. Call first aider.
+**Mitigation**: Check child's asthma status with parent or teacher (or with child themselves if old enough) before doing experiment. Do not allow child to exercise if asthma is severe, and DO NOT ALLOW AN ASTHMATIC CHILD TO DO EXPERIMENT IF THEY DO NOT HAVE AN INHALER . In case of an attack, sit child down, keep them calm, locate inhaler for child to self-administer. Call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -210,7 +210,7 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn t be an issue). Do not let children play with experiments unattended. Call first aider in case of ingestion and encourage the child to cough.
+**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn't be an issue). Do not let children play with experiments unattended. Call first aider in case of ingestion and encourage the child to cough.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -246,27 +246,13 @@ Heart.
 
 ### **Hazard**: Stethoscopes
 
-**Description**: Yanking of stethoscope causing injury
+**Description**: Yanking or swinging of stethoscope causing injury
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Keep children under control, and if children are misbehaving, don t give them a stethoscope. Call first aider if necessary.
-
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
-
-<br/>
-
-### **Hazard**: Stethoscopes
-
-**Description**: If using stethoscopes in Heart Rate and Exercise experiment, risk of injury from swinging stethoscope if child starts jumping/running whilst wearing it.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
-
-**Mitigation**: Ensure stethoscopes are removed before doing exercise. In case of accident, call a first aider.
+**Mitigation**: Ensure stethoscopes are removed before doing exercise. Keep children under control, and if children are misbehaving, don't give them a stethoscope. Call first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -280,7 +266,7 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Keep children under control, and if children are misbehaving, don t give them a stethoscope Ensure stethoscopes are removed before doing exercise. Call first aider if necessary.
+**Mitigation**: Keep children under control, and if children are misbehaving, don't give them a stethoscope. Ensure stethoscopes are removed before doing exercise. Call first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -309,3 +295,5 @@ Heart.
 **Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
+
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
