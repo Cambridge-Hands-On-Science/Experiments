@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-01-21 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,19 +22,17 @@ Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and doub
 - 18 x AA Batteries  (Currently there are 16 rechargeable and 2 non rechargeable)
 - 2 x Recharge stations
 - 1 x Green fabric with blue fabric "pond" sewn on
-- 
 - Worshops:
 - 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from Robogals Cambridge
-- 
 - 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Robogals Cambridge
-- 
 - Assorted paper and pens
+- As many charged batteries as possible for CBS
 
 <br/>
 
 ## Experiment Explanation 
 
- **On Tour**
+**On Tour**
 **Set up:**
 **For the computer:**
 Turn on the CHaOS laptop (currently 2,3 and 4 have the software installed but it is free to download from the lego website)
@@ -103,15 +101,14 @@ For people who really know what's going on, you could talk about vehicles with m
 PLUS Explanation
 ----------------
 
-
 The line following works well for this age as most have not done significant amounts of programming so it will still be a challenge. For students who complete that quickly you can push them further. Instruct them to start far from the blue and travel in a straight line until they hit the pond then follow it around, stopping when they get to a red piece of card. 
 
 You should not let yourself be restricted by these instructions if you have other ideas of how to run this. There is a huge potential of things that could be done.
 
 The below sections are not part of a demonstration but are retained as they could be used in future designs
+
  Maze
 -----
-
 
 A simple maze can be created with the wooden blocks or cardboard. The challenge is to program the robot so that it can navigate its way through the maze without any outside influence once it has started. This can be be done in several ways that progressively advance in difficulty:
 1. Dead reckoning: the robot is programmed to move forward a certain angle, turn, move forward another certain amount and so on. This requires no sensor use and the robot is likely to generate errors in its positioning as it moves further. The robot could potentially fitted with a missile to try and hit targets once it has been through the maze.
@@ -123,7 +120,6 @@ This compares well with the simple Turtle Robots which are often used like this 
 Robot Writer
 ------------
 
-
 The A3 sheet will be placed under the wooden blocks used for the maze so that it does not slide. The robot will be equipped with a pen holder arm that will be raised or lowered as necessary. This arm could be stationary relative to the robot or could move, allowing more effective writing to be used. The movements are likely to be by dead reckoning.
 Children could be instructed to program the robot to make letters of the alphabet and write words. A simple task could be for them to write the word CHaOS. They would create a sub-program for the letter "H" and then add it to to subprograms created by the demonstrator that write the other letters.
 Potential inputs could be morse code claps to be picked up by a microphone and subsequently written down by the robot. This bit is likely to be too advanced for the time we have but could be used in less time sensitive places such as public events.
@@ -131,20 +127,6 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 <br/>
 
 ## Risk Assessment
-
-### **Hazard**: Hazard
-
-**Description**: Risk
-
-**Affected People**: Affected Person(s)
-
-**Before Mitigation**: Likelihood: Likelihood, Severity: Severity, Overall: Overall
-
-**Mitigation**: Mitigation
-
-**After Mitigation**: Likelihood: Likelihood, Severity: Severity, Overall: Overall
-
-<br/>
 
 ### **Hazard**: Power cables
 
@@ -162,7 +144,7 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 
 ### **Hazard**: Electrical components
 
-**Description**: Various risks associated with electrical components
+**Description**: Various risks associated with electrical components.
 
 **Affected People**: All
 
@@ -171,6 +153,63 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 **Mitigation**: All laptop chargers will be PAT checked for safety and will be kept out of reach of children. See electrical parts RA.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
+### **Hazard**: Small Lego parts
+
+**Description**: Choking hazard for small Lego components.
+
+**Affected People**: Mainly young children
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+
+**Mitigation**: All participants will be monitored regularly by demonstrators to ensure they do not put Lego in their mouths. The robots are largely pre-built, minimising visitors’ use of individual parts, and any modifications will be supervised by a demonstrator. Particularly young children will be supervised closely and if at CBS, will also be under parental supervision, though it is unlikely that very young children will be present as the workshop is targeted at older children. Call a first aider if choking occurs.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
+### **Hazard**: Robots and laptops
+
+**Description**: Robots/laptops falling off tables and hitting small
+children/sitting children.
+
+**Affected People**: Children
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Robots should be used on the floor unless they are immobile or all children present are standing and have their heads above the edge of the table. Laptops if used on tables shouldn’t be moving around, and should be far enough away from table edges. Call a first aider if required.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+<br/>
+
+### **Hazard**: Motors
+
+**Description**: Short circuits.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+
+**Mitigation**: Motors are sealed in a robust manner, so any short circuits will result in a simple failure, with no risk to users. In the very unlikely event of an exposed short, voltages and currents used are very low (powered by 4 AA batteries), so present no significant risk to users. If short circuit occurs, power down the robot and do not use the kit further. Call a first aider if required.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+<br/>
+
+### **Hazard**: Gearing system
+
+**Description**: Things like hair wrapping around moving motors.
+
+**Affected People**: All, particularly those with long hair
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Motors are sealed, so hair is unlikely to be caught, though it may be caught by gearing systems. All visitors will be made aware of the risk and asked to ensure any dangling objects on their person are kept out of the way and advised to tie long hair up if they might lean near the gearing system. They will also be made aware of the emergency stop, which will shut off all motors instantaneously. Immediately stop robot if anything is caught in motors. Call a first aider if required.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -191,3 +230,5 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 **Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-01-21 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
