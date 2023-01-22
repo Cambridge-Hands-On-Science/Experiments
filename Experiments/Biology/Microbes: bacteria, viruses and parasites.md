@@ -4,7 +4,7 @@
 Now with added Covid-19!
 Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -370,11 +370,11 @@ We’ve come incredibly close to eradicating polio in recent years, and it’s n
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 6
 
 **Mitigation**: Keep all props in contained area and pick up any fallen toys as soon as is safe. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4
 
 <br/>
 
@@ -462,3 +462,5 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 **Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
+
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), 
