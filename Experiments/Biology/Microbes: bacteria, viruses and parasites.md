@@ -370,11 +370,11 @@ We’ve come incredibly close to eradicating polio in recent years, and it’s n
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Keep all props in contained area and pick up any fallen toys as soon as is safe. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
