@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ Some things to talk about:
 
 - Why we have 2 bones in forearm
 
-- How many bones in fingers/hand/body? Often good to get them to guess how many bones there are in the hand and then explain why each finger has 3 bones etc.
+- How many bones in fingers/hand/body (3, 27, 206)? Often good to get them to guess how many bones there are in the hand and then explain why each finger has 3 bones etc.
 
 - Where are smallest and largest bones?
 
@@ -204,4 +204,4 @@ Also watch for things falling off Boris!
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), 
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-22 - Emily Wolfenden (elw74@cam.ac.uk)
