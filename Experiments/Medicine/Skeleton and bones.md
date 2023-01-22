@@ -98,7 +98,7 @@ HIP REPLACEMENT
 **Mitigation**: Make sure children do not go too near protruding parts; use tape or sugru (kind of like blue-tack but it sets, can often be found in Boris' box or toolbox) to cover up the more dangerous parts of the skeleton.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -154,7 +154,7 @@ Call first aider if necessary.
 
 **Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell when talking about skeleton and organs. Stop if someone looks unwell/ goes pale. Fresh air/sugar/lying down all help recover or avoid injury. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -172,7 +172,7 @@ It is difficult to keep Boris' limbs under control when single-handedly carrying
 Always watch where you're going with either the box or Boris.
 Also watch for things falling off Boris!
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
