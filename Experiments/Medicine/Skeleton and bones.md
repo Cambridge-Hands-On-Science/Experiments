@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -98,7 +98,7 @@ HIP REPLACEMENT
 **Mitigation**: Make sure children do not go too near protruding parts; use tape or sugru (kind of like blue-tack but it sets, can often be found in Boris' box or toolbox) to cover up the more dangerous parts of the skeleton.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 2
 
 <br/>
 
@@ -154,7 +154,7 @@ Call first aider if necessary.
 
 **Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell when talking about skeleton and organs. Stop if someone looks unwell/ goes pale. Fresh air/sugar/lying down all help recover or avoid injury. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 4
 
 <br/>
 
@@ -172,7 +172,7 @@ It is difficult to keep Boris' limbs under control when single-handedly carrying
 Always watch where you're going with either the box or Boris.
 Also watch for things falling off Boris!
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 2
 
 <br/>
 
@@ -203,3 +203,5 @@ Also watch for things falling off Boris!
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), 
