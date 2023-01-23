@@ -1,4 +1,4 @@
-# Welcome to CHaOS 
+# Welcome to CHaOS (Theory)
 
 **Chaos theory by CHaOS ** - Get introduced with our namesake theory of chaos and recreate some of the original experiments that inspired this field. 
 
