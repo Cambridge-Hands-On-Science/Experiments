@@ -7,7 +7,9 @@ Last initially checked on 2019-01-12 by Jennifer Simpson (jks61@cam.ac.uk) and d
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Biology**
+**Medicine**
+
+**Veterinary**
 
 **CBS only** (Non-transportable experiments that tend to be used for CBS only.)
 
