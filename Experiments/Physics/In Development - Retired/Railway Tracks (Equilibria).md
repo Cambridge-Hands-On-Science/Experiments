@@ -1,4 +1,4 @@
-# Railway Tracks
+# Railway Tracks (Equilibria)
 
 **How the shape of wheels helps trains go round corners** - Explore the shape of train wheels encountering equilibria and stability.
 
@@ -9,7 +9,7 @@ Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and doubl
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Engineering**
+**Physics**
 
 **In development** (This experiment doesn't actually exist yet, but might in the future!)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
