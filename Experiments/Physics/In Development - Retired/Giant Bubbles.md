@@ -9,7 +9,7 @@ Last initially checked on 2021-01-19 by Jared Jeyaretnam (jaj55@alumni.cam.ac.uk
 
 **CBS only** (Non-transportable experiments that tend to be used for CBS only.)
 
-**Chemistry**
+**Physics**
 
 **Retired** (An elderly experiment no longer in active use.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
