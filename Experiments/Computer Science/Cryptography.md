@@ -11,7 +11,7 @@ Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and doub
 
 **Computer Science**
 
-**In development** (This experiment doesn't actually exist yet, but might in the future!)
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
