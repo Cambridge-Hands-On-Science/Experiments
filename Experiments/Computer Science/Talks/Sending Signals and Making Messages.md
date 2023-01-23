@@ -9,7 +9,7 @@ Last initially checked on 2015-02-13 by Vamsee Bheemireddy (vrb23@cam.ac.uk) and
 
 **CBS Talk**
 
-**Engineering**
+**Computer Science**
 
 **Demo only** (Demonstration type experiments and lectures, not suitable for assignment for standard events.)
 
