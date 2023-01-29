@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-29 by Joshua Wu (jw2311@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -91,7 +91,8 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign.\r\nCall a first aider in the case of an injury.
+**Mitigation**: Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign.
+Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -106,7 +107,8 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Check for cracks before starting demonstrating. If the Pyrex does break, dispose of it carefully. Be especially careful of any pieces that are in the oil as they will be INVISIBLE, so it is better to pour the oil out rather than fishing for them.\r\nIn the event of an accident call a first aider.
+**Mitigation**: Check for cracks before starting demonstrating. If the Pyrex does break, dispose of it carefully. Be especially careful of any pieces that are in the oil as they will be INVISIBLE, so it is better to pour the oil out rather than fishing for them.
+In the event of an accident call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -120,7 +122,8 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Ensure only one child is 'investigating' the spheres at a time so that they can be monitored. If they burst the sphere ensure that they don't rub their eyes and that they wipe their hands.\r\nCall a first aider in the case of an injury, who may perform an eyewash if trained and happy to do so.
+**Mitigation**: Ensure only one child is 'investigating' the spheres at a time so that they can be monitored. If they burst the sphere ensure that they don't rub their eyes and that they wipe their hands.
+Call a first aider in the case of an injury, who may perform an eyewash if trained and happy to do so.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -134,7 +137,8 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Don't set up in a high-traffic area (where people might walk through it), and make sure people don't lean in close. Ends of skewers have plastic on, so should be non-issue.\r\nCall a first aider in the case of an injury.
+**Mitigation**: Don't set up in a high-traffic area (where people might walk through it), and make sure people don't lean in close. Ends of skewers have plastic on, so should be non-issue.
+Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
 
@@ -148,7 +152,8 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 2, Severity: 2 Overall: 4
 
-**Mitigation**: Keep an eye on children, and mention not to eat the sweets or Plasticine\r\nIn the event that something is eaten, warn parents/relevant adult.
+**Mitigation**: Keep an eye on children, and mention not to eat the sweets or Plasticine
+In the event that something is eaten, warn parents/relevant adult.
 
 **After Mitigation**: Likelihood: 1, Severity: 2 Overall: 2
 
@@ -178,4 +183,4 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
 
-**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
