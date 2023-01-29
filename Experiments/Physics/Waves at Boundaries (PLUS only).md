@@ -2,7 +2,7 @@
 
 **A few demos of transmission/reflection of waves at boundaries** - nan
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-29 by Joshua Wu (jw2311@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -99,4 +99,4 @@ Follow procedures in Oil and Pyrex.
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
