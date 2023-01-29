@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,7 +25,7 @@ Last initially checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 - Coffee jar with pre-prepared spheres - optional
 - Rope to illustrate wavefronts/boundaries -optional
 - 
-- Also contains the box for Waves at Boundaries, which should in turn contain
+- USED TO contain the box for Waves at Boundaries, which should in turn contain
 - 
 - A wave model
 - Plasticine for weights
@@ -82,23 +82,75 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 ## Risk Assessment
 
-('Vegetable oil', 'The oil is very slippery, and could cause a nasty slip hazard if spilled.', 4, 3, 12, 'Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign.\r\nCall a first aider in the case of an injury.', 2, 3, 6)
+
+### **Hazard**: Vegetable oil
+
+**Description**: The oil is very slippery, and could cause a nasty slip hazard if spilled.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+
+**Mitigation**: Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign.\r\nCall a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
-('Pyrex bowl', 'If the Pyrex bowls broke they would be sharp and could result in cuts.', 2, 3, 6, 'Check for cracks before starting demonstrating. If the Pyrex does break, dispose of it carefully. Be especially careful of any pieces that are in the oil as they will be INVISIBLE, so it is better to pour the oil out rather than fishing for them.\r\nIn the event of an accident call a first aider.', 1, 3, 3)
+
+### **Hazard**: Pyrex Bowl
+
+**Description**: If the Pyrex bowls broke they would be sharp and could result in cuts.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Check for cracks before starting demonstrating. If the Pyrex does break, dispose of it carefully. Be especially careful of any pieces that are in the oil as they will be INVISIBLE, so it is better to pour the oil out rather than fishing for them.\r\nIn the event of an accident call a first aider.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
-('Sodium polyacrylate spheres', 'Children eating sodium polyacrylate spheres and spheres bursting/choking hazard if children swallow spheres.', 2, 5, 10, "Ensure only one child is 'investigating' the spheres at a time so that they can be monitored. If they burst the sphere ensure that they don't rub their eyes and that they wipe their hands.\r\nCall a first aider in the case of an injury, who may perform an eyewash if trained and happy to do so.", 1, 5, 5)
+### **Hazard**: Sodium polyacrylate spheres
+
+**Description**: Children eating sodium polyacrylate spheres and spheres bursting/choking hazard if children swallow spheres.
+
+**Affected People**: Demonstratees / Bystanders
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+
+**Mitigation**: Ensure only one child is 'investigating' the spheres at a time so that they can be monitored. If they burst the sphere ensure that they don't rub their eyes and that they wipe their hands.\r\nCall a first aider in the case of an injury, who may perform an eyewash if trained and happy to do so.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 <br/>
 
-('Skewers', 'Ends of skewers could be sharp (could stab/cut people)', 2, 2, 4, "Don't set up in a high-traffic area (where people might walk through it), and make sure people don't lean in close. Ends of skewers have plastic on, so should be non-issue.\r\nCall a first aider in the case of an injury.", 1, 1, 1)
+### **Hazard**: Skewers
+
+**Description**: Ends of skewers could be sharp (could stab/cut people)
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Don't set up in a high-traffic area (where people might walk through it), and make sure people don't lean in close. Ends of skewers have plastic on, so should be non-issue.\r\nCall a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
 
 <br/>
 
-('Swallowing sweets/marshmallows', 'Audience could try to eat them, which is unsanitary.', 2, 2, 4, 'Keep an eye on children, and mention not to eat the sweets or Plasticine\r\nIn the event that something is eaten, warn parents/relevant adult.', 1, 2, 2)
+### **Hazard**: Swallowing sweets/marshmallows
+
+**Description**: Audience could try to eat them, which is unsanitary.
+
+**Affected People**: Demonstratees
+
+**Before Mitigation**: Likelihood: 2, Severity: 2 Overall: 4
+
+**Mitigation**: Keep an eye on children, and mention not to eat the sweets or Plasticine\r\nIn the event that something is eaten, warn parents/relevant adult.
+
+**After Mitigation**: Likelihood: 1, Severity: 2 Overall: 2
 
 <br/>
 
@@ -125,3 +177,5 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 **Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+
+**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
