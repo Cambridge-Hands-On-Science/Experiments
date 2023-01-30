@@ -2,7 +2,7 @@
 
 **Functional model of the intestine** - Everyone knows that your intestines are long, but how long is long? Find out with our scale fabric model, and you might be surprised!
 
-Last initially checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-30 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,6 +17,7 @@ Last initially checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk) and do
 <br/>
 
 ## Equipment Needed 
+
 - Model of the intestine, which can be used to explain the digestive process to children.
 - May also include tube made from chopped-off tights and a smooth plastic ball.
 
@@ -33,7 +34,7 @@ ACTIVITIES:
 
 THINGS TO TALK ABOUT:
 
-- Basic theory of digestion, i.e."what happens to the food once we’ve eaten it?"
+- Basic theory of digestion, i.e. "what happens to the food once we’ve eaten it?"
 - What you need to make digestion effective: surface area of the intestine; how to increase surface area (ridges, length of intestine- use model to demonstrate)
 - Things that can go wrong: diarrhoea, constipation, etc.
 
@@ -81,6 +82,7 @@ OTHER THINGS TO TALK ABOUT:
 - Things that can go wrong: diarrhoea, constipation, malabsorption, inflammatory bowel disease etc... see below for ideas:
 
 Diarrhoea – ask who knows what this is?! 
+
 - It’s watery, frequent stool. 
 - Very important to kids in developing countries especially – losing so much water (and you can lose blood too – this is called dysentery, which happens with Shigella and Amboebiasis) can be fatal. 
 - With cholera you are losing so much water so quickly that it is pretty much literally a battle to give the patient enough water. 
@@ -95,6 +97,7 @@ Ask them if they think it’s important that you keep your cellular ions at a co
 Ions are lost into the intestine because inflammation at its mucosal surface makes it leaky.
 
 Malabsorption:
+
 - What if a surgeon cuts out half your small intestine because it got damaged in a skiing accident or whatever? 
 - Do you think your intestine will work as well? 
 - What do you think happens if your villi are destroyed? 
@@ -102,6 +105,7 @@ Malabsorption:
 - The patient (usually a child) becomes thin and malnourished, slows down their growth and can become deficient in micronutrients, eg. vitamins, which are usually absorben in the small intestine. 
 
 Villi are also destroyed in Inflammatory Bowel Disease (these diseases are Crohn’s disease and Ulcerative Colitis). 
+
 - Ulcerative colitis tends to affect the large bowel almost exclusively, decreasing its ability to absorb water. Therefore someone with Ulcerative Colitis will get watery stools. The tissue gets so inflamed (or I guess you could say “attacked” to younger kids) that it bleeds, which can be noticed in stools. 
 - Crohn’s can affect the small intestine and cause malabsorption of lots of nutrients, carbohydrates, and lipids.
 
@@ -124,7 +128,9 @@ Examples of bacteria that are damaging in the gut include Campylobacter and some
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Supervise children carefully and do not allow them to wrap model around neck. Call first aider in case of accident
+**Mitigation**: Supervise children carefully and do not allow them to wrap model around neck. 
+
+Call first aider in case of accident
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -138,7 +144,9 @@ Examples of bacteria that are damaging in the gut include Campylobacter and some
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Supervise children carefully, only allow them to walk (not run) across the room and do not allow it at all if there is insufficient space or the room is busy.  Call first aider in case of accident
+**Mitigation**: Supervise children carefully, only allow them to walk (not run) across the room and do not allow it at all if there is insufficient space or the room is busy. 
+
+Call first aider in case of accident
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -152,7 +160,9 @@ Examples of bacteria that are damaging in the gut include Campylobacter and some
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Only have one ball out at a time and keep an eye on where it is. Pick up ball if it falls on floor. Call first aider in case of accident
+**Mitigation**: Only have one ball out at a time and keep an eye on where it is. Pick up ball if it falls on floor. 
+
+Call first aider in case of accident
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -182,4 +192,4 @@ Examples of bacteria that are damaging in the gut include Campylobacter and some
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-01-22 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-01-22 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369@cam.ac.uk)
