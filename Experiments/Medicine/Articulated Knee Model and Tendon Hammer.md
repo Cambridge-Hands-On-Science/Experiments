@@ -37,11 +37,8 @@ Ideas for What to Do:
 - Ask them if they know what holds the bones together in the body (ligaments - could compare these to tendons attaching muscle to bone if they've had a look at the giant hand model). Ask them if they have heard about ligaments before (they may have heard of injuries to cruciate ligaments etc. - ACL tear is a common injury to occur to footballers)
 - The model shows the patellar ligament, anterior and posterior cruciate ligaments, and medial and lateral collateral ligaments. It also has the quadriceps tendon, which is not attached at the proximal end because it's a tendon not a ligament and attaches to the quadriceps muscle. You could perhaps flex the knee and get the kid to 'be' the quadriceps, pulling on the tendon to straighten the leg. You could talk about the location of the patella (kneecap) and how it is a vital component in how the knee works mechanically.
 - Cruciate ligaments - could talk about how 'cruciate' means 'crossed', let them look at how the ligaments cross within the joint. They may well have heard of these being injured in skiing or something. 
-
-Anterior cruciate - limits anterior draw of tibia on femur, tight in extension, tested by pulling the tibia forwards. You could perhaps show how, if it was ruptured, the tibia would move excessively far forwards. 
-
-Posterior cruciate - limits anterior slide of femur on tibia, tested by pushing tibia backwards, used on hills and stairs (so if you've ruptured it, you cannot walk down stairs as the femur will slide too far forwards on the tibia). 
-
+ - Anterior cruciate - limits anterior draw of tibia on femur, tight in extension, tested by pulling the tibia forwards. You could perhaps show how, if it was ruptured, the tibia would move excessively far forwards. 
+ - Posterior cruciate - limits anterior slide of femur on tibia, tested by pushing tibia backwards, used on hills and stairs (so if you've ruptured it, you cannot walk down stairs as the femur will slide too far forwards on the tibia). 
 - You could also talk about what else is missing from the model - evidently there are lots more tendons and muscle attachments, and also the medial and lateral menisci helping to shape the articulating surfaces (again they may have heard of these in the context of sporting injuries). 
 
 **Tendon Hammer**
