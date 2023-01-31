@@ -2,7 +2,7 @@
 
 **A spare plastic skeleton leg, now with added ligaments.** - Come and see the complexity behind how your knee works!
 
-Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-31 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -37,11 +37,12 @@ Ideas for What to Do:
 - Ask them if they know what holds the bones together in the body (ligaments - could compare these to tendons attaching muscle to bone if they've had a look at the giant hand model). Ask them if they have heard about ligaments before (they may have heard of injuries to cruciate ligaments etc. - ACL tear is a common injury to occur to footballers)
 - The model shows the patellar ligament, anterior and posterior cruciate ligaments, and medial and lateral collateral ligaments. It also has the quadriceps tendon, which is not attached at the proximal end because it's a tendon not a ligament and attaches to the quadriceps muscle. You could perhaps flex the knee and get the kid to 'be' the quadriceps, pulling on the tendon to straighten the leg. You could talk about the location of the patella (kneecap) and how it is a vital component in how the knee works mechanically.
 - Cruciate ligaments - could talk about how 'cruciate' means 'crossed', let them look at how the ligaments cross within the joint. They may well have heard of these being injured in skiing or something. 
+
 Anterior cruciate - limits anterior draw of tibia on femur, tight in extension, tested by pulling the tibia forwards. You could perhaps show how, if it was ruptured, the tibia would move excessively far forwards. 
+
 Posterior cruciate - limits anterior slide of femur on tibia, tested by pushing tibia backwards, used on hills and stairs (so if you've ruptured it, you cannot walk down stairs as the femur will slide too far forwards on the tibia). 
+
 - You could also talk about what else is missing from the model - evidently there are lots more tendons and muscle attachments, and also the medial and lateral menisci helping to shape the articulating surfaces (again they may have heard of these in the context of sporting injuries). 
-
-
 
 **Tendon Hammer**
 
@@ -56,7 +57,6 @@ THINGS TO TALK ABOUT:
 
 TIPS FOR DEMONSTRATING:
 - It is often difficult to show the reflexes on the kid. A good idea is to try it out on yourself first. If all else fails, you could try to demonstrate some other reflexes; i.e. demonstrate blinking; demonstrate the pupil reflex (get one kid to close their eyes for a bit and then open them; does the pupil size change?) - you can have one kid doing it whilst the others watch and then swap, so everyone gets to see them
-
 
 BASIC PROCEDURE AND EXPLANATION:
 
@@ -121,6 +121,7 @@ This usually works better if the kids are a bit older:
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Make sure children do not go too near protruding parts; use tape to cover up the more dangerous parts of the skeleton.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -136,6 +137,7 @@ Call first aider in case of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Make sure children do not put fingers between bones, and ensure that leg is in a stable position when they do touch it.
+
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -151,6 +153,7 @@ Call a first aider in the event of injury.
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Do not leave the leg where it may fall on someone.
+
 Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -165,7 +168,9 @@ Call a first aider in the event of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Do not let children use tendon hammer or leg without supervision, don't let them get boisterous and over-excited with these items. Call first aider in event of injury.
+**Mitigation**: Do not let children use tendon hammer or leg without supervision, don't let them get boisterous and over-excited with these items.
+
+Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -180,6 +185,7 @@ Call a first aider in the event of an injury.
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Use medics who have been taught how to use the hammer, or someone who has been shown by a committee medic how to use the hammer. Do not use tendon hammer with excessive force.
+
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -210,4 +216,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-31 - Jamie Barrett (jb2369@cam.ac.uk)
