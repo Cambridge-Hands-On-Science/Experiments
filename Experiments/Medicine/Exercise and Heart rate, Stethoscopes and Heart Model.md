@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-31 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,7 +53,8 @@ So, why does your heart rate go up?
 (N.B. I find this experiment is quite useful with groups of lively children, as provided you can get them to be reasonably sensible and you have enough space, they can jump up and down until they're quite tired and then they will often sit down calmly and listen to the explanation afterwards!)
 
 **Heart Model and Diagrams**
-ACTIVITIES:
+
+ACTIVITIES
 - Let the kids take the model apart and let them figure out how it all fits together
 
 THINGS TO TALK ABOUT
@@ -61,7 +62,7 @@ THINGS TO TALK ABOUT
 - Structure and function of the heart
 - Things that can go wrong (valve defects, heart attack etc)
 
-TIPS FOR DEMONSTRATING:
+TIPS FOR DEMONSTRATING
 - It is quite surprising how little most people know about circulation. It is therefore very important to find out how much the kid knows already and work from that.
 - I have included a very basic script for explaining circulation below - you would obviously have to adapt that to the age of the kid and to what he/she knows already.
 
@@ -168,7 +169,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Check child's asthma status with parent or teacher (or with child themselves if old enough) before doing experiment. Do not allow child to exercise if asthma is severe, and DO NOT ALLOW AN ASTHMATIC CHILD TO DO EXPERIMENT IF THEY DO NOT HAVE AN INHALER . In case of an attack, sit child down, keep them calm, locate inhaler for child to self-administer. Call first aider.
+**Mitigation**: Check child's asthma status with parent or teacher (or with child themselves if old enough) before doing experiment. Do not allow child to exercise if asthma is severe, and DO NOT ALLOW AN ASTHMATIC CHILD TO DO EXPERIMENT IF THEY DO NOT HAVE AN INHALER. 
+
+In case of an attack, sit child down, keep them calm, locate inhaler for child to self-administer. Call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -182,7 +185,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Make sure exercise area is clear, use on-the-spot exercise e.g. star jumps if space is limited. Call a first aider in the event of injury.
+**Mitigation**: Make sure exercise area is clear, use on-the-spot exercise e.g. star jumps if space is limited.
+
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -196,7 +201,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Demonstrator to ensure floor area is clear and dry. If area becomes wet, locate a mop and dry the area. Call first aider in case of injury.
+**Mitigation**: Demonstrator to ensure floor area is clear and dry. If area becomes wet, locate a mop and dry the area.
+
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -210,7 +217,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn't be an issue). Do not let children play with experiments unattended. Call first aider in case of ingestion and encourage the child to cough.
+**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn't be an issue). Do not let children play with experiments unattended.
+
+Call first aider in case of ingestion and encourage the child to cough.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -224,7 +233,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Sharp points filed down to be as safe as reasonably possible. Call a first aider in case of injury.
+**Mitigation**: Sharp points filed down to be as safe as reasonably possible.
+
+Call a first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -252,7 +263,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ensure stethoscopes are removed before doing exercise. Keep children under control, and if children are misbehaving, don't give them a stethoscope. Call first aider if necessary.
+**Mitigation**: Ensure stethoscopes are removed before doing exercise. Keep children under control, and if children are misbehaving, don't give them a stethoscope.
+
+Call first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -266,7 +279,9 @@ Heart.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Keep children under control, and if children are misbehaving, don't give them a stethoscope. Ensure stethoscopes are removed before doing exercise. Call first aider if necessary.
+**Mitigation**: Keep children under control, and if children are misbehaving, don't give them a stethoscope. Ensure stethoscopes are removed before doing exercise.
+
+Call first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -296,4 +311,4 @@ Heart.
 
 **Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
 
-**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-31 - Jamie Barrett (jb2369@cam.ac.uk)
