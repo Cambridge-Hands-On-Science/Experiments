@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-05 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,33 +18,33 @@ Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Equipment Needed 
 - Various different skulls and a pile of laminated photos
-- 
+
 - Box 1
 - Mammals: sheep, dog, cat, fox, mole, rabbit, roe deer
 - Birds:  magpie, pigeon, oystercatcher, duck (one complete, one in parts), parrots
 - Other: gulper shark jaw, striped snakehead fish, snake (some kind of boa), Siamese Crocodile
-- 
 - (nb: The magpie and pidgeon skulls are sometimes moved into animal cognition)
-- 
+
 - Box 2
 - Primates: human, chimp, gorilla, orangutan (all models)
-- 
+
 - For CBS,  some can also be borrowed from the zoology museum.
-- 
+
 - Pictures of the animals
 
 <br/>
 
 ## Experiment Explanation 
 
-***OVERVIEW***
+ **OVERVIEW**
 
 We have some skulls of different animals. Each has different adaptations relating to the animal’s lifestyle and environment. Looking at a skull’s characteristics, such as teeth, eye placement and size, scientists can determine whether the animal was an herbivore, carnivore, or omnivore, and if the animal was a predator or prey animal.
 
-***SETTING OUT THE EXPERIMENT***
+**SETTING OUT THE EXPERIMENT**
+
 In a calm event it can be nice to set out all the skulls on a table, with all the photo cards spread out in front of them so that you can play a matching game. In a busier event or with an excited group of kids it's probably better to have them in the big blue boxes and pull out one skull at a time, or choose a few skulls you like that fit a narrative (e.g. comparing herbivores and carnivores) and have just those out. That makes it easier to control which kids are holding the skull(s) and it makes it easier to control the questions, as you don't have to jump backwards and forwards between lots of different animals!
 
-***BASIC PROCEDURE AND EXPLANATION***
+**BASIC PROCEDURE AND EXPLANATION**
 
 Unlike some of the other biology experiments, the animal skulls experiment has no fixed story line. This makes it much more flexible, so you can talk about the skulls that you find cool or know more about. (No-one will know which ones you've left in the box!).
 
@@ -105,8 +105,11 @@ NOSES
 Possibly start by asking what is missing (nose, ears, eyes and other soft tissues) - they are not part of the skeleton, made of either cartilige or muscles and nerves. The kids can think about the differences in nose sizes, do they think that cats have a better sense of smell than dogs? etc (dogs are 10,000 times more sensitive to odors than humans). Apart from food, what else do animals need noses for? (smelling mould, predators, recognising family members, detecting when another animal is in heat). The sheep skull has large nasal cavities, with delicate rolls of (turbinate) bones, which support a large area of nasal epithelium (skin inside the nose) for many, many scent receptors and to reduce heat/moisture loss.
 
 Nose length varies in dog species-
+
 Dolicephalic- long nosed breeds like greyhounds
+
 Brachycephalic- short nosed breeds like pugs
+
 Mesocephalic- medium nosed breeds like terriers
 
 EYE PLACEMENT AND SIZE (particularly relevant to mammals)
@@ -132,7 +135,6 @@ Pigeons, by contrast, seem to be less "intelligent". If a pigeon is taught that 
 
 NB Unlike most other apes, orangutans are shy, solitary animals. They live alone in large territories. This is probably due to their eating habits; they need a large area in order to get enough food and too many orangutans in one area might lead to starvation. However, they are very intelligent. They have been known to use found objects as tools; for example, they use leaves as umbrellas to keep the rain from getting them wet. They also use leaves as cups to help them drink water.
 
-
 *** OTHER THINGS TO TALK ABOUT ***
 
 Can the child think of any other distinctively-shaped skulls that animals have, and why might they have developed to be like that? E.g. crocodile, hammerhead shark, elephant (tusks)...
@@ -143,8 +145,6 @@ If the child is old enough and seems keen, you might want to touch on the concep
 
  PLUS Explanation
 -----------------
-
-
 
 Animal skulls experiment is flexible and you can talk about the skulls that you find cool or know more about.
 
@@ -165,7 +165,9 @@ Bone is made of 1/3 organic type 1 collagen and 2/3 hydroxyapatite with adsorbed
 - The mandible is used for creating a hinge join at the temporomandibular joint which allows jaw movement
 - The mandibular symphysis is the joint in the chin where the two bones of either side of the mandible are fused– note that this is one of the most common ‘fractures’ to result from cat/car impacts. The symphysis fuses in horse around two years of age and may also fuse into a ‘synostosis’ late in life in ruminants.
 - Other holes in the skull are for nerves e.g. the supraorbital foramen which you can feel in the middle of your eyebrow and which carries the supraorbital nerve, part of the frontal nerve, in tern part of the opthalmic nerve (1/3 of the trigeminal nerve) which carries sensory information (touch, heat, pain etc) from the eye region (but not the image from the retina, which is transmitted via the optic nerve). This nerve is particularly prominent on the horse skull (see below).
+
 The cranial nerves are:
+
 I- Olfactory nerve
 II- Optic nerve
 III- Oculomotor nerve
@@ -178,7 +180,9 @@ IX- Glossopharyngeal nerve
 X- Vagus nerve
 XI- Accessory nerve
 XII- Hypoglossal nerve
+
 These allow the brain to connect to send and receive signals from the rest of the body.
+
 * Can then move onto the other skulls - discuss the features of the skulls and how these relate to the demands that the animal has to cope with in its environment. Why might the adaptations help the animal to succeed in its environment/why might the animal have developed these skull features? You might want to discuss each skull in turn, or you may prefer to talk about a particular 'theme' i.e. teeth, brain size across a number of skulls at once
 * Allow the students to handle skulls so they can feel how delicate/sturdy they are
 * Note that delicate skulls have a small piece of red gaffa on their boxes - only let children handle these if you think they will be careful enough with them!
@@ -186,6 +190,7 @@ These allow the brain to connect to send and receive signals from the rest of th
 Basic information about the skulls is as in the regular explanation. Extra things to mention for CHaOS+ are:
 
 TEMPOROMANDIBULAR JOINT
+
 This is the 'jaw joint between the cranium and the mandible. In carnivores it is quite limited to a dorsoventral hinge movement (in badgers the lower jaw is so firmly hinged that it cannot be detached). In contrast, in herbivores there is much lateral grinding movement as well. The temporomandibular joints each contain a disk similar to the menisci of the stifle, and like the menisci, the disks may help to partition the movements of the jaw joint into compartments (hinge-like between disk and mandible, translation between disk and skull)
 
 It may also be helpful to draw out these comparative anatomy points from domestic breeds:
@@ -217,7 +222,9 @@ Extremely delicate skulls– sometimes the occiput falls off, which is the bones
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Remind children to handle skulls carefully; in particular, be careful not to pinch fingers/hands in the jaw.
+
 Demonstrator should visually inspect skulls before use - any skulls with sharp edges may need to be smoothed off or replaced.
+
 Call first aider in event of incident.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -233,6 +240,7 @@ Call first aider in event of incident.
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Demonstrator only have a few skulls present at a time to minimise risk of children picking up or playing with skulls. Demonstrator to keep an eye on anybody holding skulls. If a skull smashes, clear it up immediately with dustpan and brush.
+
 Call first aider in event of injuries.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -248,6 +256,7 @@ Call first aider in event of injuries.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: We have boiled the skulls we found in bleach for a few hours to sterilise them. Please note, however, this does not necessarily mean that the skulls are completely sterile now. One could give the skulls a gentle clean with disinfecting wipes if they're on hand.
+
 Call first aider to properly dress and sterilise wounds. Warn parents of the possibility of infection if a child does cut him/herself on the skull. Advise parents to take child to a doctor if the cut looks infected.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -277,3 +286,5 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 **Check 1**: 2020-12-30 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-05 - Jamie Barrett (jb2369@cam.ac.uk)
