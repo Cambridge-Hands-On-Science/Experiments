@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2022-02-01 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -176,20 +176,6 @@ In case of a child (or adult) tripping over, call first aider.
 
 <br/>
 
-### **Hazard**: Preservative if any of the jars are used as well
-
-**Description**: Could escape if jars are broken/opened. Preservative is 1% Propylene phenoxetol, which should not be irritant to eyes or skin at that concentration, but which may be harmful if ingested. (If asked about the toxicity of propylene phenoxetol, mention that it is used as a preservative in personal care products and it is chemically inert).
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
-
-**Mitigation**: Keep a careful eye on the jars and do not let anyone open them. They should all be taped up around the top - if the tape is coming off redo it. If any liquid leaks, clear it up straight away, preferably wearing gloves, then wash your hands immediately. Advise any children to wash their hands immediately if any liquid goes on their skin.
-
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
-
-<br/>
-
 ## Risk Assessment Check History 
 
 **Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
@@ -213,3 +199,5 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**:
