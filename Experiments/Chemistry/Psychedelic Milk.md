@@ -2,7 +2,7 @@
 
 **See the amazing patterns made by food colouring and detergent in milk.** - A little milk, a little food dye, a little washing-up liquid... and an amazing display of colour. See the stunning swirling effects from disrupting the surface tension.
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -123,3 +123,5 @@ In the event of an incident, call a first aider.
 **Check 1**: 2020-01-12 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
