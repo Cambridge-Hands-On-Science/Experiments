@@ -2,7 +2,7 @@
 
 **Rapid crystal growth from sodium acetate.** - Find out about how handwarmers work, and see solid crystals form in seconds right in front of your eyes. 
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,7 +26,7 @@ Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 - Cling film (not value cling film as it doesn't cling very well in this situation)
 - Cold water tray
 - 
-- You will probably need one person making the solution and the other demonstrating.
+- **You will probably need one person making the solution and the other demonstrating.**
 
 <br/>
 
@@ -192,3 +192,5 @@ Call a first aider if there’s an accident.
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
