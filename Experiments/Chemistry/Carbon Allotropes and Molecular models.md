@@ -1,8 +1,8 @@
 # Carbon Allotropes and Molecular models
 
-**nan** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
+**Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-23 by Emma Crickmore (elc75@cam.ac.uk)
+Last initially checked on 2022-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-23 by Emma Crickmore (elc75@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,7 +25,7 @@ Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Experiment Explanation 
 
-Start of by discussing the Periodic Table, and how the valency of a compound can be determined from this. You'll need to talk about the groups going down the table and how the group number corresponds to the number of outer shell electrons of the elements in that group. You might want to talk a little bit about the behaviour of the elements in each group - like how group 1 alkali metals are really reactive in water (some kids might have seen Li or K in water at school), or perhaps how group 0 (Noble gases) are happy as they are and are unreactive. Introduce the idea of full outer shells - this should make covalent bonding a bit easier to understand.
+Start off by discussing the Periodic Table, and how the valency of a compound can be determined from this. You'll need to talk about the groups going down the table and how the group number corresponds to the number of outer shell electrons of the elements in that group. You might want to talk a little bit about the behaviour of the elements in each group - like how group 1 alkali metals are really reactive in water (some kids might have seen Li or K in water at school), or perhaps how group 0 (Noble gases) are happy as they are and are unreactive. Introduce the idea of full outer shells - this should make covalent bonding a bit easier to understand.
 
 Introduce covalent, ionic and metallic bonding, using the diagrams provided in the kit.
 - Covalent bond = shared pair of electrons. Normally get this between non-metals, things with a small difference in electronegativity (this could be a little complicated to explain, but try to talk about the nucleus pulling the electrons towards it; more positive nucleus will be better at pulling electrons towards it than a big, diffuse one, kind of like a tug-of-war). Examples include CO2, O2, CH4... Also giant covalent structures, like diamond or SiO2 - very high melting points because covalent bonds are strong.
@@ -91,3 +91,5 @@ Call first aider if required.
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-23 - Emma Crickmore (elc75@cam.ac.uk)
+
+**Check 1**: 2022-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
