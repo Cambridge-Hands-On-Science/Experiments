@@ -23,7 +23,7 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - Measuring cylinder or something equivalently long and thin
 - Vegetable oil
 - Other containers for mixing
-- 
+
 - For ice part
 - Plastic measuring cylinder
 - Dyed ice cubes
@@ -35,7 +35,7 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 Here's How:
 
-(Line up five glasses. Add 1 tablespoon (15 g) of sugar to the first glass, 2 tablespoons (30 g) of sugar to the second glass, 3 tablespoons of sugar (45 g) to the third glass, and 4 tablespoons of sugar (60 g) to the fourth glass. The fifth glass remains empty.
+Line up five glasses. Add 1 tablespoon (15 g) of sugar to the first glass, 2 tablespoons (30 g) of sugar to the second glass, 3 tablespoons of sugar (45 g) to the third glass, and 4 tablespoons of sugar (60 g) to the fourth glass. The fifth glass remains empty.
 Add 3 tablespoons (45 ml) of water to each of the first 4 glasses. Stir each solution. If the sugar does not dissolve in any of the four glasses, then add one more tablespoon (15 ml) of water to each of the four glasses.
 Add 2-3 drops of red food colouring to the first glass, yellow food colouring to the second glass, green food colouring to the third glass, and blue food colouring to the fourth glass. Stir each solution - might want to prepare the solutions before, depends how long this actually takes. If making or replenishing solutions while demonstrating, you can get children to stir (watch they don't eat it!).
 Now let's make a rainbow using the different density solutions. Fill the last glass about one-fourth full of the blue sugar solution.
