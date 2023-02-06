@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-checked on
+Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,6 +54,7 @@ Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-chec
 *** EXTRA INFO ***
 
 **BEES**
+
 Larvae -> Pupae -> Worker/Queen
 1) Social Structure of Bees (http://www.indianchild.com/honey\_bee.htm)
 - Each bee colony has a very organized social structure.
@@ -200,4 +201,4 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
