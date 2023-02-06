@@ -1,8 +1,8 @@
 # Tree
 
-**nan** - nan
+**Tree** - Tree? Tree!
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -176,7 +176,7 @@ In any case, flowering produces masses of seeds, typically suspended from the en
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Place wood away from edges of tables.
+**Mitigation**: Place wood away from edges of tables for wood measure.
 In case of injury, call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -234,3 +234,5 @@ In case of injury, call first aider.
 **Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-12 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
