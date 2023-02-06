@@ -32,7 +32,7 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 ## Experiment Explanation 
 
- In a nutshell..
+ In a nutshell...
 ----------------
 
 
