@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
-Last initially checked on 2023-02-05 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-05 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -135,7 +135,7 @@ Pigeons, by contrast, seem to be less "intelligent". If a pigeon is taught that 
 
 NB Unlike most other apes, orangutans are shy, solitary animals. They live alone in large territories. This is probably due to their eating habits; they need a large area in order to get enough food and too many orangutans in one area might lead to starvation. However, they are very intelligent. They have been known to use found objects as tools; for example, they use leaves as umbrellas to keep the rain from getting them wet. They also use leaves as cups to help them drink water.
 
-*** OTHER THINGS TO TALK ABOUT ***
+**OTHER THINGS TO TALK ABOUT**
 
 Can the child think of any other distinctively-shaped skulls that animals have, and why might they have developed to be like that? E.g. crocodile, hammerhead shark, elephant (tusks)...
 
@@ -239,7 +239,7 @@ Call first aider in event of incident.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Demonstrator only have a few skulls present at a time to minimise risk of children picking up or playing with skulls. Demonstrator to keep an eye on anybody holding skulls. If a skull smashes, clear it up immediately with dustpan and brush.
+**Mitigation**: Demonstrator only have a few skulls present at a time to minimise risk of children picking up or playing with skulls. Demonstrator to keep an eye on anybody holding skulls. If a skull smashes, clear it up immediately with dustpan and brush. Any damaged skulls with sharp edges should be repaired as soon as possible - demonstrator should notify committee if this is needed. 
 
 Call first aider in event of injuries.
 
@@ -287,4 +287,4 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-02-05 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-02-05 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
