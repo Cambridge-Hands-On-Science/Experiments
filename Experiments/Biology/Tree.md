@@ -99,11 +99,13 @@ Not every annual ring is the same:
 • If the rings are narrow on one side of a tree with wide rings on the other, the tree was either crowded on the side of the tree where the rings are narrow or exposed to the wind.
 • The side with wider rings shows the tree had more space to grow or was sheltered from strong winds.
 ![](http://old.chaosscience.org.uk/sites/default/files/Bark_3.JPG)
+
 BAMBOO
 ------
 
 
 *Time to branch out a bit…*
+
 Brief(ish) version:
 -------------------
 
