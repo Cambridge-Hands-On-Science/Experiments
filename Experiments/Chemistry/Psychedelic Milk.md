@@ -2,7 +2,7 @@
 
 **See the amazing patterns made by food colouring and detergent in milk.** - A little milk, a little food dye, a little washing-up liquid... and an amazing display of colour. See the stunning swirling effects from disrupting the surface tension.
 
-Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-07 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -29,9 +29,11 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 Taken from Dave's Naked Scientists explanation: http://www.thenakedscientists.com/HTML/content/kitchenscience/exp/psychedelic-milk/
 
 **In a nutshell** 
+
 Investigate how reducing surface tension can lead to pretty patterns that move in milk using food colouring and washing up liquid.
 
 **How to set up the experiment** 
+
 1) Add about 1cm depth of milk to the bottom of your bowl.
 2) Pour a few drops of each colour of food colouring onto different places on the surface of the milk (be sparing)
 3) Add a drop of washing up liquid somewhere in the bowl.
@@ -39,6 +41,7 @@ Investigate how reducing surface tension can lead to pretty patterns that move i
 5) After a minute or so and everything has stopped moving, add another somewhere else.
 
 **What you need to know during the event**
+
 1) Milk is mostly water, and water has a property called surface tension. This is because all the water molecules are strongly attracted to other water molecules, but not to air. Therefore the water molecules try to make the surface (the interface between the water and air) as small as possible. This is why raindrops are approximately spherical - the shape with the minimal surface for its volume.
 
 2) The food colouring is less dense than the milk so it floats on the surface. This is because the milk has lots of substances dissolved in it such as calcium, making it more dense than the food colouring (which is almost entirely water). 
@@ -48,6 +51,7 @@ Investigate how reducing surface tension can lead to pretty patterns that move i
 4) The food colouring is forced downwards and there is a current below the surface flowing back towards the washing up liquid pulling the food colouring along. It then floats back up to the surface producing beautiful patterns.
 
 **Want to know more?**
+
 A washing up liquid molecule is made up of a water loving head and a water hating tail, so when you add it to water the molecules arrange themselves over the surface - head inwards. The water is strongly attracted to the heads of these molecules, so is now stops trying to reduce its surface area, and the surface tension is far weaker.
 
 The bubbles in washing up liquid are not originally there - they get added because people associate bubbles with cleanliness...
@@ -65,6 +69,7 @@ The bubbles in washing up liquid are not originally there - they get added becau
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
 **Mitigation**: If children get their fingers in the washing up liquid, tell them not to put their fingers near their eyes and ensure they rinse it off.
+
 If washing up liquid gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -80,6 +85,7 @@ If washing up liquid gets into an eye, demonstrator must call a first aider and 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Use a relatively harmless surfactant (standard washing up liquid) and watch the kids so they don't try to lick their fingers or drink any part of the experiment.  Food colouring probably shouldn't be ingested in large quantities, and the milk has likely been in the cupboard for a while.
+
 In the event of an incident, call a first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -124,4 +130,4 @@ In the event of an incident, call a first aider.
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Jamie Barrett (jb2369@cam.ac.uk)
