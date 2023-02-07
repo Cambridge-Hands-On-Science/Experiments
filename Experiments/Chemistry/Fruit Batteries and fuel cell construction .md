@@ -2,7 +2,7 @@
 
 **Use fruit to make a battery** - How does electricity work? Find out how using a fruit!
 
-Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-02-06 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-07 by Joshua Wu (jw2311@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,4 +133,4 @@ In case of accident, wash the affected area with clean water.
 
 **Check 1**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)
