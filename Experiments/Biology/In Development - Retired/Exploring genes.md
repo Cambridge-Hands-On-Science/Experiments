@@ -17,10 +17,10 @@ Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- 	DNA model (in clear plastic box). The model uncoils, and can be split into two strands. There’s a round black stand for this is the box too. [DNA MODEL IS CURRENTLY BROKEN]
+- 	DNA model (in clear plastic box). The model uncoils, and can be split into two strands. There’s a round black stand for this is the box too. [DNA MODEL STAND IS CURRENTLY BROKEN]
 - 	2 x plates of plastic bacteria. The GFP plate can be used to explain how you can insert useful genes into an organism (and it glows in the dark!). The pBlue plate can be used to explain how you can select a colony with the right gene it if you’re doing cloning
 - 	Box of lab plastic ware (falcon tubes and eppendorfs), which can be used to show how molecular biologists use small volumes in the lab
-- 	Pipette (20 ul Gilson, on loan so please take care of it!)
+- 	Pipette (20 ul Gilson, on loan so please take care of it!) [MISSING]
 - 	Pipette tips (1-20 ul)
 - 	2 x model gels, plus "tank" (use with crocodile clips and laminated sketch of battery to describe running the gel)
 - 	Coloured dye for gel (use only 1-2 ul when you load each lane)
