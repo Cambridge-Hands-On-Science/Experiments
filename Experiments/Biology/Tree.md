@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-09 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,7 +18,8 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 ## Equipment Needed 
 - **This experiment can take place outdoors**
-- Lumps of wood in a small grey box
+- Lumps of wood in a small grey box, including pieces of trunk, and bamboo
+- Pictures and explanatory diagrams
 
 <br/>
 
@@ -235,4 +236,4 @@ In case of injury, call first aider.
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk)
