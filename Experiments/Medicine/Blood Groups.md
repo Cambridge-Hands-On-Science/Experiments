@@ -186,4 +186,4 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2022-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
+**Check 1**: 2022-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
