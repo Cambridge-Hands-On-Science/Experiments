@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -61,7 +61,7 @@ Another manifestation of this is rubbing your hands on rough and smooth sandpape
 You get a similar reaction as the temperature - it is very strange, as there is nothing physical changing in your hands this time...
 
 
-I think you have vibration sensors in your skin which detect the amount of vibration, instead of each movement, and the nervous system must just me more sensitive to changes than absolute values in general??
+I think you have vibration sensors in your skin which detect the amount of vibration, instead of each movement, and the nervous system must just be more sensitive to changes than absolute values in general??
 
 
 ### Additional background for demonstrators
@@ -95,7 +95,7 @@ The "amount of bumpiness" you perceive (not the frequency), according to my book
 
 I think we must be able to perceive the frequency of the bumps by amassing information from which specific fibres are firing action potentials.
 
-I wonder then, why it is that when you go from v. bumpy to q. bumpy, the resultant feeling is "smooth" ( and why from smooth to q. bumpy the feeling is "v. bumpy")? I'd say it might be to do with the sorts of receptors that are firing changing so quickly - perhaps this is a brainstem or a cerebral mechanism for alerting you to changes? You could wire things up in the brainstem so that a decent period of all one frequency/intensity pattern caused all the receptors that weren't involved in that pattern to senstize. Or perhaps the sensitization occurs higher up in the consciousness scale - the brain actively n the lookout for changes.
+I wonder then, why it is that when you go from v. bumpy to q. bumpy, the resultant feeling is "smooth" ( and why from smooth to q. bumpy the feeling is "v. bumpy")? I'd say it might be to do with the sorts of receptors that are firing changing so quickly - perhaps this is a brainstem or a cerebral mechanism for alerting you to changes? You could wire things up in the brainstem so that a decent period of all one frequency/intensity pattern caused all the receptors that weren't involved in that pattern to senstize. Or perhaps the sensitization occurs higher up in the consciousness scale - the brain is actively in the lookout for changes.
 
 On a neural/receptor level, it is hard to account for because the changes to the receptors are not gradual (eg. a slow warming of the hand as it enters warmer water) but instant. But I may be entirely wrong...!
 
@@ -180,3 +180,5 @@ Call first aider in event of injury.
 **Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk)
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**:
