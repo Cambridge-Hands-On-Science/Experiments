@@ -2,7 +2,7 @@
 
 **Why are blood groups important?** - What are 'blood groups'? Why is it important to match blood groups for transfusion? Find out with our colourful demonstration.
 
-Last initially checked on 2023-01-29 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-01-29 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
