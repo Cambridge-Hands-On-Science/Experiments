@@ -2,7 +2,7 @@
 
 **Talk about the different parts of a tree whilst building one out of craft materials** - Can you build a tree?
 
-Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -141,4 +141,4 @@ Warn parents of the possibility of germ transfer if child has been eating straws
 
 **Check 1**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk),
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
