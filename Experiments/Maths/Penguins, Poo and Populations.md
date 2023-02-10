@@ -1,8 +1,8 @@
 # Penguins, Poo and Populations
 
-**Counting when we can't count ** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
+**Counting when we can't count** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,3 +133,5 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 **Check 1**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2022-02-10 - Margaret Johncock (mllyj2@cam.ac.uk)
