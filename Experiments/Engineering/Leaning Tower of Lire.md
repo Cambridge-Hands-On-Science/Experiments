@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2023-02-09 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-02-06 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-02-09 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-02-11 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,11 +45,11 @@ The maximum turns out to be 1/2 + 1/4 = 3/4.
 
 Ask them how far out they think they can reach? Can they get arbitarily far if they can make N large?
 
-It turns out you can, the optimum is 1/2*\sum\_{i=1}^{N} 1/i. This is half the harmonic series so it does in fact diverge, which you can show as 2^n terms in a row are all greater than 1/2^n so sum to 1. However it doesn't diverge quickly! To span a gap of 1,2,3,4,5,6,... you need N=4, 31, 227, 1674, 12367, 91380, ...
+It turns out you can, the optimum is $\frac{1}{2}* \sum_{i=1}^{N} \frac{1}{i}$. This is half the harmonic series so it does in fact diverge, which you can show as $2^n$ terms in a row are all greater than $(\frac{1}{2})^n$ so sum to 1. However it doesn't diverge quickly! To span a gap of 1,2,3,4,5,6,... you need N=4, 31, 227, 1674, 12367, 91380, ...
 
 Asymptotically this is roughly log(N)
 
-You can allow multiple blocks per level if you like, this copies cantilever bridges and the solution is the same. Counterbalancing gives the optimum and it scales like N^{1/3}.
+You can allow multiple blocks per level if you like, this copies cantilever bridges and the solution is the same. Counterbalancing gives the optimum and it scales like $N^{1/3}$.
 
 
 
@@ -66,7 +66,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back.\r\nCall a first aider in the case of an injury.
+**Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back. Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -81,7 +81,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare.\r\nCall first aider in the event of injury.
+**Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare. Call first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -95,7 +95,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor.\r\nCall first aider in the event of an accident.
+**Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor. Call first aider in the event of an accident.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -109,7 +109,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth.\r\nCall first aider in event of injury.
+**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth. Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -125,4 +125,4 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-06 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk)
+**Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
