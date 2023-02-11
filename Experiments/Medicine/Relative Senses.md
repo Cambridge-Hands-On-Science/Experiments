@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-11 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -99,7 +99,7 @@ I wonder then, why it is that when you go from v. bumpy to q. bumpy, the resulta
 
 On a neural/receptor level, it is hard to account for because the changes to the receptors are not gradual (eg. a slow warming of the hand as it enters warmer water) but instant. But I may be entirely wrong...!
 
-As far as the eye is concerned, I think the small size of the iris makes the room look dark when you come indoors, but there's also something the eye does to adjust its way of looking at things to enable it to see changes in light and dark at any level of light on an absolutely enormous scale (10^1- 10^20, I think). This it does chemically, i think, by allowing the light to "bleach out" the activity of some receptors... I think...
+As far as the eye is concerned, I think the small size of the iris makes the room look dark when you come indoors, but there's also something the eye does to adjust its way of looking at things to enable it to see changes in light and dark at any level of light on an absolutely enormous scale (10^1 - 10^20, I think). This it does chemically, i think, by allowing the light to "bleach out" the activity of some receptors... I think...
 
 
 
@@ -181,4 +181,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
