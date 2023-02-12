@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,9 +19,9 @@ Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and dou
 ## Equipment Needed 
 - Dissection kit
 - Chopping board
-- Eye protection for demonstrators
-- 
-- Consumables:
+- Eye protection for demonstrators  
+ 
+Consumables:
 - Sheep's Eyeballs, ordered from Blades (~25 required for CBS)
 - Non-latex gloves
 - Yellow clinical waste bags/other disposal system as appropriate and agreed with Zoology staff
@@ -34,11 +34,11 @@ Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and dou
 
 STEP 1: Look at intact eye:
 
-- see where the eye muscles insert. We have a small model with elastic bands to demonstrate how these work to move the eye in the socket, combinations of muscles mean you can move them in all directions. 
+- See where the eye muscles insert. We have a small model with elastic bands to demonstrate how these work to move the eye in the socket, combinations of muscles mean you can move them in all directions. 
 
 - See where the optic nerve enters the eye, explaining what it does, plus talking about blind spot 
 
-- Curvature of cornea - also acts like a lens, but we can't change its shape like we can the lens inside the eye to focus on objects. In humans, the cornea contributes about ¾ of the eye’s total refractive power (ability to focus light).
+- Curvature of cornea - also acts like a lens, but we can't change its shape like we can the lens inside the eye to focus on objects. In humans, the cornea contributes about 2/3 of the eye’s total refractive power (ability to focus light).
 
 STEP 2: Cut around the junction between the cornea and the scelera to remove the cornea:
 
@@ -50,9 +50,9 @@ STEP 2: Cut around the junction between the cornea and the scelera to remove the
 
 - ‘Red-eye’ in photos happens because the flash makes the iris constrict, but not quickly enough to stop most of the bright light entering the eye. The light from the flash goes into the eye and reflects off the retina at the back of it, making the pupil appear bright red.
 
-STEP 3: Cut the globe in half (as in so cornea on one half, optic nerve on the other):
+STEP 3: Cut the globe in half (coronal slice - so cornea on one half, optic nerve on the other):
 
-- look inside! 
+- Look inside! 
 
 STEP 4: Remove lens to look at it:
 
@@ -60,23 +60,28 @@ STEP 4: Remove lens to look at it:
 
 STEP 5: In the back half of the eye:
 
-- see where the optic nerve leaves – ask the child where it goes (to the back of the brain where the visual cortex is). This is an opportunity to talk about the function of nerves if the child is keen.
+- See where the optic nerve leaves – ask the child where it goes (to the back of the brain where the visual cortex is). This is an opportunity to talk about the function of nerves if the child is keen.
 
-- the point where the optic nerve leaves is called the blind spot. There are no light sensitive cells here so you are actually blind in this bit of your eye. You can talk here about when Mum/Dad is driving the car and they have to turn around to check their blind spot before overtaking. 
+- The point where the optic nerve leaves is called the blind spot. There are no light sensitive cells here so you are actually blind in this bit of your eye. You can talk here about when Mum/Dad is driving the car and they have to turn around to check their blind spot before overtaking. 
 
-- see it’s dark, this is so it absorbs the maximum amount of light
+- See that it’s dark; this is so it absorbs the maximum amount of light
 
-- in sheep's eye there’s an iridescent coloured part, called the tapetum lucidum (‘bright carpet’ in Latin), just behind the retina. It reflects light back to the retina, increasing the amount of light that the retina receives. This helps animals such as the sheep to see better at night. We don’t have a tapetum lucidum so we can hardly see at all in the dark. Ask the child if they have ever seen a photo of their/their friend’s cat/dog. Animal’s eyes often appear to glow blue, yellow or green in photos because of the light from the flash reflecting off the coloured tapetum.
+- In sheep's eye there’s an iridescent coloured part, called the tapetum lucidum (‘bright carpet’ in Latin), just behind the retina. It reflects light back to the retina, increasing the amount of light that the retina receives. This helps animals such as the sheep to see better at night. We don’t have a tapetum lucidum so we can hardly see at all in the dark. Ask the child if they have ever seen a photo of their/their friend’s cat/dog. Animal’s eyes often appear to glow blue, yellow or green in photos because of the light from the flash reflecting off the coloured tapetum.
 
 
 ***OTHER THINGS TO TALK ABOUT***
 
 Once you’ve discussed the main features of the eye there are a couple more things you could touch on:
 
-Short/long sightedness and how it is corrected. Short sightedness is when the lens is too thick so light focuses in front of the retina, and is corrected with a CONCAVE lens. Long sightedness is when the lens is too flat so light focuses behind the retina and is corrected with a CONVEX lens. This is discussed in the camera obscura experiment which can be found in the dark room with the Physics experiments.
+Short/long sightedness and how it is corrected:  
+Short sightedness is when the lens is too thick so light focuses in front of the retina, and is corrected with a CONCAVE lens.  
+Long sightedness is when the lens is too flat so light focuses behind the retina and is corrected with a CONVEX lens.  
+This is discussed in the camera obscura experiment which can be found in the dark room with the Physics experiments.
 
-The retinal cells (rods and cones), how they work (in simple terms!) and the differences between them.
-
+The retinal cells (rods and cones), how they work (in simple terms!) and the differences between them.  
+Cones are used to see colour.  
+Rods are used when it is darker.  
+The retinal cells contain a photopigment (opsins) that absorbs light and produces an electrical signal.
 <br/>
 
 ## Risk Assessment
@@ -162,3 +167,5 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-12 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**:
