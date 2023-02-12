@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2022-02-06 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,7 +64,9 @@ Things to talk about:
 
 
 (more suggestions welcome)
-
+Set up instructions:
+---------------------
+The spagetti spoon end should be on the same side of the base which has the small loop and the 2 prongs. Use the firing pins (narrow metal rods attached to brown pipe cleaners and strings) to connect the metal end of the looped rope to the ring under the spagetti spoon. The looped rope can be attached to the prongs to adjust the launch height. Fire the trebuchet by pulling out the firing pin with the string. 
 
 
 
@@ -80,7 +82,7 @@ Things to talk about:
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Instruct kids and demonstrators to fire the trebuchet by standing to one side. Do not let them stand over it and put their face in the way. Safety goggles should be available for anyone who wants them.
+**Mitigation**: Instruct kids and demonstrators to fire the trebuchet by standing to one side and pulling out the firing pin. Do not let them stand over it and put their face in the way. Safety goggles should be available for anyone who wants them.
 In the event of an accident, call a first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -116,7 +118,20 @@ Call first aider if required.
 **After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
 <br/>
+### **Hazard**: Firing pins
 
+**Description**: Ends of rod and pipe cleaners could be sharp and cause injury.
+
+**Affected People**: Anyone operating the trebuchets
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Ends of firing pins should be sanded down to remove any sharp edges. Demonstrator to check edges are suffiently blunt before using. Instruct people to hold firing pin by the pipecleaner. Demonstrator to check no pipecleaner ends are stick out.
+Call first aider if required.
+
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+<br/>
 ### **Hazard**: Arm and support gap
 
 **Description**: Trapping fingers between arm and support when the trebuchet is fired.
@@ -125,7 +140,7 @@ Call first aider if required.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: The supports are solid to reduce possibility of fingers being in way of arm. Given the launch position, it is highly unlikely that the person discharging the weapon will be at risk of this. Therefore, one must be aware of anyone else who may get in the way.
+**Mitigation**: The supports are solid to reduce possibility of fingers being in way of arm. Given the launch position, it is highly unlikely that the person discharging the weapon will be at risk of this. Therefore, one must be aware of anyone else who may get in the way. Firing pins have string attached so trebuchet can be fired from a distance.
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -170,3 +185,5 @@ Call first aider if required.
 **Check 1**: 2021-01-05 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
