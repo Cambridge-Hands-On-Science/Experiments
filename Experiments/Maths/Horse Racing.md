@@ -7,13 +7,11 @@ Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and dou
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Maths**
-
-**Probability**
-
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
 **Maths**
+
+**Probability**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
