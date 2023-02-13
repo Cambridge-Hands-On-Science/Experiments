@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-13 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -118,6 +118,7 @@ Call first aider if required.
 **After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
 <br/>
+
 ### **Hazard**: Firing pins
 
 **Description**: Ends of rod and pipe cleaners could be sharp and cause injury.
@@ -132,6 +133,7 @@ Call first aider if required.
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 <br/>
+
 ### **Hazard**: Arm and support gap
 
 **Description**: Trapping fingers between arm and support when the trebuchet is fired.
@@ -186,4 +188,4 @@ Call first aider if required.
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-13 - Asmita Niyogi (an637@cam.ac.uk)
