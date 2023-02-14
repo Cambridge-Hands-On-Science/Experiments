@@ -2,7 +2,7 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Emma Crickmore (elc75@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -102,7 +102,7 @@ An example lots of people like is Monopoly, it's an irreducible markov chain and
 
 ### **Hazard**: Small parts
 
-**Description**: Children swallowing Duplo pieces, potential choking hazard
+**Description**: Children swallowing Duplo pieces, potential choking hazard.
 
 **Affected People**: Public
 
@@ -129,6 +129,7 @@ Call first aider in case of injury.
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
+
 ### **Hazard**: Cards
 
 **Description**: Cards are slippery if stood on.
@@ -138,7 +139,7 @@ Call first aider in case of injury.
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Discourage people from actually stepping on the cards.
-Call first aider in case of injury..
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 1, Overall: 2
 
@@ -164,4 +165,4 @@ Call first aider in case of injury..
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk)
 
-**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
