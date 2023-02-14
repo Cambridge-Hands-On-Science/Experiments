@@ -2,7 +2,7 @@
 
 **Show kids how disease dynamics, with a model of Citrus Canker spreading through a population of orange trees** - Exploring the concept of disease spread and biological modelling. 
 
-Last initially checked on 2023-01-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on
+Last initially checked on 2023-01-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -81,26 +81,28 @@ Useful info and set up
 Set up a fairly basic run of the model
 
 Epidemiology
-• Model type = non cryptic infection, no death 
-• Expected primary infections = 0 
-• Expected exposed period = 100 days 
-• Expected cryptic period = 100 days 
-• Landscape type = random 
-• Dispersal kernel =100m 
-• Kernel type = exponential 
-• Stopping condition = epidemic eradicated (this can take a long time but you actually see the infection end (you can speed up running time)
+ - Model type = non cryptic infection, no death 
+ - Expected primary infections = 0 
+ - Expected exposed period = 100 days 
+ - Expected cryptic period = 100 days 
+ - Landscape type = random 
+ - Dispersal kernel =100m 
+ - Kernel type = exponential 
+ - Stopping condition = epidemic eradicated (this can take a long time but you actually see the infection end (you can speed up running time)
+
 Weather
-• low weather severity 
+ - low weather severity 
+
 Control 
-• Disable Control 
+ - Disable Control 
 (second time around) 
-• Cull radius = 100m 
-• First survey = 0 days 
-• Fraction unsurveyed = 0 
-• Detection probability = 80% 
-• Survey interval = 90 days 
-• Expected notice period = 60 days 
-• Notice variability = 0
+ - Cull radius = 100m 
+ - First survey = 0 days 
+ - Fraction unsurveyed = 0 
+ - Detection probability = 80% 
+ - Survey interval = 90 days 
+ - Expected notice period = 60 days 
+ - Notice variability = 0
 
 **Start by talking about the spread of diseases:** 
  
@@ -166,7 +168,7 @@ Landscape type - can simulate two neighboring plots of orange trees in a grove o
 
 Stopping condition - the simulation can either stop after a set period of time or once the disease has been bought under control (it's more satisfying to let it run until either you or the disease have 'won') 
  
-**Weather 
+**Weather** 
 Citrus canker is spread by in water droplets so it spreads more quickly between plants in high severity (wetter and windier) weather. It 'll be easier to start by keeping the weather the same throughout the trial (go for low severity throughout, you'll have a greater chance of 'beating' the disease) 
 
 Probability that a low/high weather severity index - these two parameters alter the changeability of the weather, if the cursor is to the right for both then the weather will remain constant throughout the experiment, if to the left then the weather will oscillate between high and low 
@@ -194,7 +196,7 @@ Notice variability - standard deviation of time between finding and culling a gi
 
 Cull together - remove all trees simultaneously 
 
-Disable control - no intervention, watch spread of unopposed disease**
+Disable control - no intervention, watch spread of unopposed disease
 
 <br/>
 
@@ -261,4 +263,4 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
 
-**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-14 - Asmita Niyogi (an637@cam.ac.uk)
