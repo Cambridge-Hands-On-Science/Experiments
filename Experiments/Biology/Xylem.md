@@ -61,10 +61,15 @@ Cross section through a plant stem
 ***Discussion***
 
 If someone asks why the flowers are coloured, I would explain that the plants were able to move the dye colour in the water up into the flower (maybe use absorb, transport for older children).
+
 I would then start with the analogy of circulatory systems in humans, get the children to find their veins, ask if they know why they are important – for transporting important things like sugars for energy around the body – talk about how when they eat food and it gets digested in the stomach, those sugars need to be transported to other parts of the body, for example their legs if they run. Then you explain how plants are no different – they need to move different resources around their body too.
+
 Next ask children where plants get water from (the ground), so how does it get all the way up to the top of the plant, even a really tall tree? Hopefully they’ll say they suck it up or similar. Then I would either compare it to a straw, if you suck on one end because you want a drink you lift the liquid up and the leaves need to get water, or for older children I might explain the evaporation part in the leaves, and with water continuously evaporating it needs to be replaced and creates a force to draw the water up. Then introduce them to the concept of xylem vessels if that seems appropriate. Explain that plants have specific ‘veins’ to transport water.
+
 So, how does the dye get there? I would move on to talk about water, and ask if they know that certain things dissolve in water, like salt or sugar – hence you can get flavoured waters. Our dye is just the same, another molecule that dissolves/mixes with water, so gets carried along too. But it can’t then escape the petals, so the colour stays there and create our coloured flowers.
+
 If someone asks about multicoloured flowers – then you can go back to the veins/arteries analogy and explain how different blood vessels in humans take blood to specific areas, and the same is true for plants.
+
 If it seems appropriate, you can also talk about phloem, that transport things back down to the roots – such as sugars that they make via photosynthesis (roots are underground, no light = no photosynthesis), and how this is similar to blood transporting sugars from our intestines to other parts of the body.
 At various points in the talk, you have the opportunity to bring in the microscope slides of xylem and phloem vessels (if they are available), doing so can draw more interest, and you can compare the size of what they can see in the celery to the size magnified under the microscope. Keen people/skilled people can create a microscope slide right there and then from the celery and put it under a microscope, although this requires a scalpel to be in the vicinity of the children and can be tricky to get thin enough!
 
