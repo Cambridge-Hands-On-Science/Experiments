@@ -60,7 +60,9 @@ What if we allow passing: a simple strategy is to have one person guess, and the
 <br/>
 
 ## Risk Assessment
+
 ### **Hazard**: Hat corners
+
 **Description**: Risk that children will poke their eyes with pointy hat corners.
 
 **Affected People**: children
@@ -73,19 +75,24 @@ Call first aider in case of injury.
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall:2 
 
 <br/>
+
 ### **Hazard**: Hats
+
 **Description**: Risk that hats will fall on floor and children will slip on them.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
 
-**Mitigation**: Make sure you know where hats are at all times and that children are not running around in a way that could be dangerous if hats fall.\r\nCall a first aider in the event of an injury.
+**Mitigation**: Make sure you know where hats are at all times and that children are not running around in a way that could be dangerous if hats fall.
+Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
+
 ### **Hazard**: Paper
+
 **Description**: Risk that children will cut themselves on paper edges.
 
 **Affected People**: children
