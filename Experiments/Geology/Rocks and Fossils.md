@@ -2,12 +2,10 @@
 
 **A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived millions of years ago.
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
-
-**Geology**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
@@ -508,3 +506,5 @@ If a child is distressed, put away the sample, assure the child that it's just a
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk)
+
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
