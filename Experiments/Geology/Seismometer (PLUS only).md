@@ -2,12 +2,10 @@
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-15 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
-
-**Geology**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
@@ -123,121 +121,74 @@ Lithosphere --> strong but brittle solid layer
 
 ## Risk Assessment
 
-Lego Seismometer and Laptop
-<table border=1>
-<tr><td>Hazard</td>
-<td>Risk</td>
-<td>Affected Person(s)</td>
-<td>Likelihood</td>
-<td>Severity</td>
-<td>Overall</td>
-<td>Mitigation</td>
-<td>Likelihood</td>
-<td>Severity</td>
-<td>Overall</td>
-</td></tr>
-<tr><td> 
-Jumping
-</td><td>
-Whilst jumping a child may injure themselves.
-</td><td>
-Public
-</td><td>
-2
-</td><td>
-2
-</td><td>
-4
-</td> <td>
-Do not ask them to jump if the floor seems dangerous or they do not seem steady on their feet. Avoid doing this activity near to steps / uneven floors.
+### **Hazard**: Jumping
+
+**Description**: Whilst jumping a child may injure themselves
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Do not ask them to jump if the floor seems dangerous or they do not seem steady on their feet. Avoid doing this activity near to steps / uneven floors.
 In case of injury call a first aider.
-</td><td>
-1
-</td><td>
-2
-</td><td>
-2
-</td></tr>
-<tr><td> Lego parts / tennis ball fillings </td><td>
-Small parts can be swallowed or choked on.
-</td><td>
-Public
-</td><td>
-2
-</td><td>
-5
-</td><td>
-10
-</td> <td>
-Keep the seismometer in one piece. If small children are watching, no touching. Keep careful watch on tennis ball fillings and don't allow very small children to open the tennis balls.
-</td><td>
-1
-</td><td>
-5
-</td><td>
-5
-</td></tr>
-<tr><td> Sharp seismometer parts </td><td>
-Some parts are sharp or could trap fingers.
-</td><td>
-All
-</td><td>
-2
-</td><td>
-3
-</td><td>
-6
-</td> <td>
-If small children are watching, no touching. Warn children of any sharp or trappy parts. Demonstrator be aware of risk and be careful of sharp parts.
-</td><td>
-1
-</td><td>
-3
-</td><td>
-3
-</td></tr>
-<tr><td> Filled tennis balls </td><td>
-Tennis balls could be thrown which may cause minor injury.
-</td><td>
-All
-</td><td>
-2
-</td><td>
-2
-</td><td>
-4
-</td> <td>
-Be aware of what children are doing with tennis balls and restrict their use if necessary.
-</td><td>
-1
-</td><td>
-2
-</td><td>
-2
-</td></tr>
-</td></tr>
-<tr><td> Magnet to test tennis ball innards </td><td>
-Small, choking hazard. Risk of trapping fingers. Could affect pacemakers etc.
-</td><td>
-All
-</td><td>
-2
-</td><td>
-5
-</td><td>
-10
-</td> <td>
-Keep magnet in labelled, sealed box at all times. Do not allow magnet to leave experiment area. Warning sign regarding presence of magnet.
-</td><td>
-1
-</td><td>
-5
-</td><td>
-5
-</td></tr>
 
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 
 
+<br/>
 
+### **Hazard**: Lego parts / tennis ball fillings
+
+**Description**: Small parts can be swallowed or choked on.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 
+
+**Mitigation**: Keep the seismometer in one piece. If small children are watching, no touching. Keep careful watch on tennis ball fillings and don't allow very small children to open the tennis balls.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 
+
+<br/>
+
+### **Hazard**: Sharp seisometer parts
+
+**Description**: Some parts are sharp or could trap fingers.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 
+
+**Mitigation**: If small children are watching, no touching. Warn children of any sharp or trappy parts. Demonstrator be aware of risk and be careful of sharp parts.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
+
+### **Hazard**: Filled tennis balls
+
+**Description**: Tennis balls could be thrown which may cause minor injury.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Be aware of what children are doing with tennis balls and restrict their use if necessary.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+<br/>
+
+### **Hazard**: Magnet to test tennis ball innards
+
+**Description**: Small, choking hazard. Risk of trapping fingers. Could affect pacemakers etc.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+
+**Mitigation**: Keep magnet in labelled, sealed box at all times. Do not allow magnet to leave experiment area. Warning sign regarding presence of magnet.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 
 
 <br/>
 
@@ -248,3 +199,5 @@ Keep magnet in labelled, sealed box at all times. Do not allow magnet to leave e
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
