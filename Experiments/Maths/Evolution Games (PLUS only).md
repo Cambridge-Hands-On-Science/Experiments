@@ -14,6 +14,8 @@ Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and dou
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Demo only** (Demonstration type experiments and lectures, not suitable for assignment for standard events.)
+
+**CHaOS+**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
