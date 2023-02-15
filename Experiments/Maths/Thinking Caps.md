@@ -2,12 +2,10 @@
 
 **nan** - Can you work out the colour of your own hat?
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
-
-**Maths**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
@@ -62,16 +60,41 @@ What if we allow passing: a simple strategy is to have one person guess, and the
 <br/>
 
 ## Risk Assessment
+### **Hazard**: Hat corners
+**Description**: Risk that children will poke their eyes with pointy hat corners.
 
-('Hat corners', 'Risk that children will poke their eyes with pointy hat corners.', 2, 2, 4, 'Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.\r\nCall first aider in case of injury.', 1, 2, 2)
+**Affected People**: children
+
+**Before Mitigation**: Likelihood: 2 , Severity: 2, Overall: 4
+
+**Mitigation**: 'Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.
+Call first aider in case of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall:2 
 
 <br/>
+### **Hazard**: Hats
+**Description**: Risk that hats will fall on floor and children will slip on them.
 
-('Hats', 'Risk that hats will fall on floor and children will slip on them.', 2, 2, 4, 'Make sure you know where hats are at all times and that children are not running around in a way that could be dangerous if hats fall.\r\nCall a first aider in the event of an injury.', 1, 2, 2)
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
+
+**Mitigation**: Make sure you know where hats are at all times and that children are not running around in a way that could be dangerous if hats fall.\r\nCall a first aider in the event of an injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
+### **Hazard**: Paper
+**Description**: Risk that children will cut themselves on paper edges.
 
-('Paper', 'Risk that children will cut themselves on paper edges.', 2, 2, 4, 'Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.\r\nCall first aider in case of injury.', 1, 2, 2)
+**Affected People**: children
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.\r\nCall first aider in case of injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -86,3 +109,5 @@ What if we allow passing: a simple strategy is to have one person guess, and the
 **Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
