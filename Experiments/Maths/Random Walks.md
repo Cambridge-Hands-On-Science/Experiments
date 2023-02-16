@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -66,13 +66,13 @@ It may be the better options for events with younger children, where the concept
 
 --Real World Applications--
 
-If you fancy it, theirs a great analogy between this experiment and genetic drift. Genes that develop in populations of animals normally have some selective bias for either adoption throughout the population or deletion. But genetic drift is the process of random genetic evolution, and has a strong analogy in a biased coin toss. From this it's possible to see that even a positive evolution (one that natural selection favours some percentage of the time) may be deleted by chance, or a deleterious one spread throughout the entire population.
+If you fancy it, there's a great analogy between this experiment and genetic drift. Genes that develop in populations of animals normally have some selective bias for either adoption throughout the population or deletion. But genetic drift is the process of random genetic evolution, and has a strong analogy in a biased coin toss. From this it's possible to see that even a positive evolution (one that natural selection favours some percentage of the time) may be deleted by chance, or a deleterious one spread throughout the entire population.
 
 The key idea here is that when there is one or more boundary, i.e. the edge of the board, we see markedly different behaviour to that we'd expect for an infinite number of tests, where deleterious mutations would never remain in the population and we'd always expect to the brick to end up on the side that it's biased towards eventually.
 
-There are many other examples of random walks in nature, like photons in the solar atmosphere which take thousands of years to complete a 'drunkards walk' from the centre to surface of the sun and only eight minutes to make it all the way out to earth. More complex examples include the game of life, a simulation of how populations grow, receded and migrate over time. You could even mention the fact that for some random walks, even in infinite time you would not expect it to pass through all points. 
+There are many other examples of random walks in nature, like photons in the solar atmosphere which take thousands of years to complete a 'drunkard's walk' from the centre to surface of the sun and only eight minutes to make it all the way out to earth. More complex examples include the game of life, a simulation of how populations grow, receded and migrate over time. You could even mention the fact that for some random walks, even in infinite time you would not expect it to pass through all points. 
 
-If you waned to link to something else you can use the monopoly print out to demonstrate a random walk on the board. If you land on community chest or chance there's another random element you could move else where but it's possibly best to ignore this. If you roll 3 doubles in a row you go to jail. If you can find put properties of this walk you'd be able to gain an advantage at this game. You can see the Kruskal's Count experiment for some other ideas related to this.
+If you wanted to link to something else you can use the monopoly print out to demonstrate a random walk on the board. If you land on community chest or chance there's another random element you could move else where but it's possibly best to ignore this. If you roll 3 doubles in a row you go to jail. If you can find put properties of this walk you'd be able to gain an advantage at this game. You can see the Kruskal's Count experiment for some other ideas related to this.
 
 --Transience/Recurrence--
 By flipping two coins you can do a random walk in 2d, ask people if you think you'd be able to get back to the start, will it take longer to fall off an edge. Then repeat in 3d where this isn't true.
@@ -106,7 +106,7 @@ Call first aider if child swallows, if choking encourage child to cough while aw
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first.  Don't let children retrieve lost coins
+**Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children (if older) toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first.  Don't let children retrieve lost coins.
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -162,4 +162,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
