@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-17 by John Leung (cfl35@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -135,3 +135,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2021-01-04 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-02-17 - John Leung (cfl35@cam.ac.uk)
