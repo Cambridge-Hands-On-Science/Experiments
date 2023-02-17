@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
+Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2021-01-22 by Grace Exley (gae23@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -12,6 +12,7 @@ Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and doubl
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Other**
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -31,7 +32,7 @@ Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and doubl
 
 ## Experiment Explanation 
 
-Busking is a CHaOS activity slightly unlike any other, instead of aiming to teach people science you're aiming to street sell them an opportuninty to be taught science.
+Busking is a CHaOS activity slightly unlike any other, instead of aiming to teach people science you're aiming to street sell them an opportunity to be taught science.
 You need to think about where you're busking, too far away from the venue and you'll struggle to convince them to go out of their way and also think about why people are walking past. While a railway station will give you a high footfall most people are rushing for trains. Ideal places are markets, libraries and city centre shops (where people might go to browse). If you're near enough to the venue that you can catch people who are leaving, it can be good to take some evaluations forms and encourage them to fill them out as they leave!
 You want to grab people's attention and tell them something about the science, get them to have a go and touch if possible. You're really aiming to get them to move on to the venue so don't dive into heavy science. Emphasis on that it's free parents may be worried you're trying to sell them things. You can also tell them how it can be only 5 minutes (once they're in the venue they'll hopefully be kept through other means).
 It's fine to send non-committee out to do this too. If the venue is really empty, setting out experiments that take up lots of space outside can be a good way of drawing people in (provided you have appropriate space, power supplies etc.). 
@@ -134,3 +135,6 @@ It's worth noting some councils in the UK have restrictions on street trading an
 **Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-01-28 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+
