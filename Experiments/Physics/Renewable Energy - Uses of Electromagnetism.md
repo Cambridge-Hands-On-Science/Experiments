@@ -33,6 +33,8 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
+Lives in Electromagnetism Box. Commonly done alongside Electromagnetism and Lenz's Law.
+
 ### 1. Generating Power
 
 
