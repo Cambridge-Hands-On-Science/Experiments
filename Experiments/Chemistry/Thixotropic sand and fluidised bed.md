@@ -2,7 +2,7 @@
 
 **Looking at floating and sinking using a bed of sand** - Find out more about quicksand and how sand can behave like a fluid.
 
-Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -199,4 +199,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2020-12-28 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
