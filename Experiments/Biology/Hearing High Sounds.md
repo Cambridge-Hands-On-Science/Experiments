@@ -2,7 +2,7 @@
 
 **See who is better at hearing high pitched sounds: kids or adults!** - See who is better at hearing high pitched sounds: kids or adults!
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,4 +53,4 @@ Test the hearing of people of lots of different ages. Record your results.
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
