@@ -2,10 +2,12 @@
 
 **The maths of Dobble** - Introduction to axiomatic maths and projective geometry via the card game Dobble. Learn how to make your own Dobble decks by constructing the "axioms of Dobble" from the rules, then developing methods to build these.
 
-Last initially checked on nan by nan and double-checked on nan by nan
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
+
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Games**
 
@@ -15,7 +17,6 @@ Last initially checked on nan by nan and double-checked on nan by nan
 
 **Maths**
 
-**In development** (This experiment doesn't actually exist yet, but might in the future!)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -56,13 +57,13 @@ Now with 4 symbols and 2 per card we can't quite have dominoes like before but w
 
 6) For any symbol, there's a card without that symbol. (If you want to allow 1 card decks you'll need to rephrase this)
 
-What about 4 symbols and 3 per card? Have a try and whatever happens it seems like axioms (1) keeps failing, we can't get exactly one symbol. But we'll actually need to prove it! If we have three symbols and two cards then there are six symbols we need to pick however there are only 4 symbols available. Since we need to stick to (3) we end up with two symbols in common. This argument is called the pigeon hole principle. Formally we'd argue there's a symbol on both cards, 4 remaining slots and 3 symbols that can be used (as by (3) the repeated one can't appear again) thus by pidgeonhole there's a repeat.
+What about 4 symbols and 3 per card? Have a try and whatever happens it seems like axiom (1) keeps failing, we can't get exactly one symbol. But we'll actually need to prove it! If we have three symbols and two cards then there are six symbols we need to pick however there are only 4 symbols available. Since we need to stick to (3) we end up with two symbols in common. This argument is called the pigeonhole principle. Formally we'd argue there's a symbol on both cards, 4 remaining slots and 3 symbols that can be used (as by (3) the repeated one can't appear again) thus by pigeonhole there's a repeat.
 
 Now we move up to 5 symbols and 3 per card. We can get two cards but then get stuck trying to make a card without the common symbol. So if we move to 6 symbols we get a 3 card deck! But we can actually do better. We can add a fourth card by taking the unmatched symbol from each and making a new card.
 
-So far we've found nice Dobble decks at 3 and 6, is there anything special about these? It turns out the triangular numbers have an important link and we can make Dobble decks with a triangular number s of symbols per card we can make (s+1) cards using T(s) symbols using the same pattern. 
+So far we've found nice Dobble decks at 3 and 6, is there anything special about these? It turns out the triangular numbers have an important link and we can make Dobble decks with a triangular number $s$ of symbols per card we can make $(s+1)$ cards using $T(s)$ symbols using the same pattern. 
 
-***********************Projective Geometry****************************
+### Projective Geometry
 Lots of times in Maths we want to take our axioms (which describe a thing we want to find out about) and then show some kind of object we understand satisfies those axioms. For Dobble one such setting is that of geometry. We'll now start interpretting our original Dobble axioms but in a geometric sense. Instead of saying "symbol" we're going to say "point" and instead of "card" we're going to say "line". A line has lots of points much like a card has lots of symbols. A deck is now a collection of lines. So now our axioms become.
 
 1) For any two lines there exists exactly one point appearing on both lines. (i.e. Every pair of lines has a unique intersection)
@@ -82,7 +83,7 @@ The next concept that makes projective planes interesting is duality. This means
 
 We can also make projective planes from usual planes by introducing some new "points at infinity" for each direction we could head towards infinity in. On a 3x3 square grid this is up, right up diagonal, right, right down diagonal. While we could go down to infinity as we wrap around that's the same as going up. 
 
-Now lets show how we make a Dobble deck from a grid like this. We work through each of the parallel lines in those four directions. For each of the three parallel lines we choose a symbol and place that on all 3 cards, we also place this symbol on the "point at infinity" for this direction. This gives us 4 symbols on all our finite cards and 3 on all our "point at infinity" cards. However the easy way to solve this is to add a new infinite symbol to these four "points at infinity" cards. This represents the "line at infinity".
+Now let's show how we make a Dobble deck from a grid like this. We work through each of the parallel lines in those four directions. For each of the three parallel lines we choose a symbol and place that on all 3 cards, we also place this symbol on the "point at infinity" for this direction. This gives us 4 symbols on all our finite cards and 3 on all our "point at infinity" cards. However the easy way to solve this is to add a new infinite symbol to these four "points at infinity" cards. This represents the "line at infinity".
 
 The actual game of Dobble is made in this fashion! It just uses a 7x7 grid and there are more points at infinity corresponding to making "knights moves" in different directions. You can lay out an actual game of Dobble like this and try it. Sadly with 8 symbols per card and 57 symbols you can get 57 different cards, however a commercial game of Dobble only has 55. 
 
@@ -94,9 +95,22 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 ## Risk Assessment
 
-Laminated things are tasty and sometimes pointy.
+### **Hazard**: Laminated card
+
+**Description**: Edges of plastic may be sharp, which could lead to cuts or minor injuries. Young children may try to put them in their mouth, leading to spread of infection.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Make sure sharp corners on the cards have been rounded out. Don't let very young children who could potentially hurt themselves handle the cards.
+
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 <br/>
 
 ## Risk Assessment Check History 
+
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+
 
