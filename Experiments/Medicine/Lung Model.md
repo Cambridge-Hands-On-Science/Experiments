@@ -2,7 +2,7 @@
 
 **Working model of the lungs with diaphragm and rib cage.** - Use our interactive model to find out how we breathe.
 
-Last initially checked on 2023-01-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on
+Last initially checked on 2023-02-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,7 +19,7 @@ Last initially checked on 2023-01-18 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 ## Equipment Needed 
 - **Electricity needed**
 - Lung model
-- Standard CHaOS power pack plugged in to mains supply.
+- Standard CHaOS power supply plugged in to mains.
 
 <br/>
 
@@ -27,7 +27,7 @@ Last initially checked on 2023-01-18 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 A model of the lungs to show how the diaphragm and rib cage cause the lungs to inflate and deflate. 
 
-Explanation:
+### Explanation:
 
 Begin with general concepts…
 
@@ -46,12 +46,12 @@ Then onto how the model works…
 8. Then breathing out – ribs move down and inwards, and diaphragm moves back up – do it on the model – what happens? Balloons (lungs) get smaller, air is coming out of them. Why? Have made less space inside the chest, so no space for the air in the lungs, so air forced out of lungs.
 9. So overall, breathing is all about changing how much space you have inside your chest.
 
-General stuff:
+### General stuff:
 
 – Point to parts on model and on yourself while talking.
 – The annoying thing about this model is that it’s very hard to keep the bags airtight. That’s what the pump is there for, you shouldn’t need it on all the time put probably in between explanations.
 
-Additional stuff:
+### Additional stuff:
 
 1. Gas exchange
 - Why do we breathe? = to get air into our lungs. Why? What’s in the air that we need? = oxygen
@@ -61,9 +61,9 @@ Additional stuff:
 - Also, in the alveoli, a gas comes out of the blood, a gas we don’t need = CO2, which gets breathed out
 
 2. If things go wrong
-- PNEUMOTHORAX - When the lung is punctured (e.g. by broken ribs) so it can't take air in. Talk about how even if one lung is down, the other can still work. 
-- ASTHMA - Ask if they have it themselves or have friends who have it? The tubes get smaller, making it harder to breathe in and out. Show this by putting your hand over the top of the trachea and restricting the opening and asking them to breathe in. Could talk about how inhalers have medicine in that makes the muscle around the tubes relax, so they get bigger and more air can get in.
-- HICCUPS - show that the diaphragm is right above your tummy. If you eat hot food too quickly sometimes it can irritate the diaphragm leading to involuntary contractions. Other times it can be spontaneous. 
+- *Pneumothorax* - When the lung is punctured (e.g. by broken ribs) so it can't take air in. Talk about how even if one lung is down, the other can still work. 
+- *Asthma* - Ask if they have it themselves or have friends who have it? The tubes get smaller, making it harder to breathe in and out. Show this by putting your hand over the top of the trachea and restricting the opening and asking them to breathe in. Could talk about how inhalers have medicine in that makes the muscle around the tubes relax, so they get bigger and more air can get in.
+- *Hiccups* - show that the diaphragm is right above your tummy. If you eat hot food too quickly sometimes it can irritate the diaphragm leading to involuntary contractions. Other times it can be spontaneous. 
 
 <br/>
 
@@ -95,6 +95,7 @@ Call first aider in case of injury.
 **Mitigation**: Pump is 12V so this is negligible.
 Make sure power supply is PAT tested.
 In case of accident, switch off the pump and call a first aider.
+Refer to Electrical Parts RA
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -138,4 +139,4 @@ In case of accident, switch off the pump and call a first aider.
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-18 - Peter Methley (pm631@cam.ac.uk)
