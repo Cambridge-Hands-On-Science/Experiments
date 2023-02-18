@@ -2,9 +2,9 @@
 
 **(Brief Description)** - See how strong two interleaved books are
 
-Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk)
 
-**Frequency of use:** n
+**Frequency of use:** 1
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,7 +35,7 @@ Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 <!-- Here are some example headings to follow, but feel free to ignore these and / or make your own! -->
 
-### Have people try to pull them apart in a tug-of-war fashion. It's basuically impossible as there is a huge surface area of contact between the books.
+Have people try to pull them apart in a tug-of-war fashion. It's basically impossible as there is a huge surface area of contact between the books.
 
 <br/>
 
@@ -45,7 +45,7 @@ Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ### **Hazard**: Uneven/cluttered space
 
-**Description**: Falling over.
+**Description**: Falling over, leading to injury, especially if ground is hard.
 
 **Affected People**: All 
 
@@ -65,7 +65,7 @@ Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Check condition of both books before use. Only allow 1 vs 1 to limit forces.
+**Mitigation**: Check condition of both books before use. Only allow 1 *vs* 1 to limit forces.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -102,6 +102,6 @@ Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-18 - Peter Methley (pm631@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
