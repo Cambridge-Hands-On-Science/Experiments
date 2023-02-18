@@ -2,16 +2,17 @@
 
 **Looking at odd properties of bodies with spin.** - A selection of mechanics experiments which investigate the properties of bodies with added spin. From bouncing balls off walls to dropping toast from tables we find out the hidden influence of angular momentum and why it makes our carpet buttery. 
 
-Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Active** (Experiment has working equipment at the time of last update, and is available for events.)
-
 **Physics**
+
+_Note: this experiment seems to be missing. If anyone knows where it is then let me (Peter M) know!_
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -22,8 +23,6 @@ Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and dou
 - Vertical wall
 - Table
 - Hardback book
-
-- -----
 - There's also two rattlebacks which could be talked about when mentioning odd angular momentum
 
 <br/>
@@ -34,11 +33,11 @@ A superball is a solid rubber ball, we'll assume it's elastic and close to lossl
 
 Stuff about elastic and inelastic collisions. 
 
-How to do the experiment (part I):
+### How to do the experiment (part I)
 
-1 - Take the bouncy ball and roll it gently across a horizontal surface towards a wall. Watch to see how far it bounces back.
+1. Take the bouncy ball and roll it gently across a horizontal surface towards a wall. Watch to see how far it bounces back.
 
-2 - Repeat, but this time roll the ball towards a wall lubricated with a little vaseline.
+2. Repeat, but this time roll the ball towards a wall lubricated with a little vaseline.
 
 They're different! What's going on?
 
@@ -56,24 +55,29 @@ This is why the ball doesn't roll back as far when there is oil on the wall. The
 
 So can we see this effect anywhere else? You might expect to see balls bouncing in this way when they roll towards the cushion in a game of snooker. In fact, you won't see this at all because the cushions are specially designed so that the ball won't jump when it bounces back. The cushions are angled so that the point of contact between the ball and the cushion is not exactly half way up the ball (as when it hits a vertical wall), but higher up on the ball's surface. This gives a downwards force.
 
-How to do the experiment (part II):
+### How to do the experiment (part II)
 Bounce the ball under a table so that it comes up and hits the table, and, due to its spin, returns to you by bouncing back out (c.f. Lampard's 2010 World Cup no-goal which hit the crossbar and bounced back and out of the goal due to this effect). Note that it enters without spin, picks up spin in the direction it enters and this then reverses on the underside of the table and remains in this direction.
+
 The ball also returns very close to its entry path, compare this to what a light particle would do. Is this an issue with the particle theory of light? Only if we assume that bouncy balls act like particles, in fact they don't and it's not an issue. We assume light particles are massless and have no physical size which defo isn't true of the ball.
 
-How to do the experiment (part III):
+### How to do the experiment (part III)
 Make sure the book is together with an elastic band and says butter on one side. 
 
-Place the book on the table and gradually push it towards the edge, get it to be perfectly balanced then nudge it 1mm further. There are three phases to it falling, no-slip, slip and free-fall. 
-Think of its angular velocity around the table edge, in no-slip it's increasing. The frictional force from the table is preventing the book slipping, the angle normally reaches 20-30 degrees (pi/9-pi/6 radians) before we enter the next phase. 
+Place the book on the table and gradually push it towards the edge, get it to be perfectly balanced then nudge it 1mm further. There are three phases to it falling, no-slip, slip and free-fall.
+
+Think of its angular velocity around the table edge, in no-slip it's increasing. The frictional force from the table is preventing the book slipping, the angle normally reaches 20-30° (π/9 − π/6 radians) before we enter the next phase.
+
 In the slip phase gravity overcomes friction and the book starts to slide, notice how it remains in contact with the table during this phase. Here the book gains most of it's angular velocity as the forces are becoming less balanced, when the angular velocity is great enough it causes the book to loose contact with the table and we enter the free fall stage.
-We now need to consider what happens next, we know via simple mechanics the toast will accelerate at 9.81ms^2 due to gravitational forces. It's also likely to fall upside down if it rotates between 90 and 270 degrees. While we don't know things like the frictional coefficient and air resistance or even the height of the table we find most combinations result in the toast falling butter side down.
-[Hugh claims mu in 0.1-0.5 and initial push over 1mm-2mm are all similar]
-One could experiment with this with some high and low friction table covers or from more height to calculate the angular velocity to work out what table heights work. Not sure what effect the weight of the 'toast' would have either (air resistance factors in). Also how far over the edge the toast is will alter the phases slightly.
+
+We now need to consider what happens next, we know via simple mechanics the toast will accelerate at 9.81 m/s² due to gravitational forces. It's also likely to fall upside down if it rotates between 90° and 270°. While we don't know things like the frictional coefficient and air resistance or even the height of the table we find most combinations result in the toast falling butter side down.
+(Hugh claims varying μ from 0.1-0.5 and initial push over 1mm-2mm all give similar results).
+
+One could experiment with this with some high and low-friction table covers or from more height to calculate the angular velocity to work out what table heights work. Not sure what effect the weight of the 'toast' would have either (air resistance factors in). Also how far over the edge the toast is will alter the phases slightly.
 
 Lots of ideas for this experiment came from Hugh Hunt's website. He has several high quality gifs of these experiments being done. 
-http://www2.eng.cam.ac.uk/~hemh1/movies.htm#superballs
+[http://www2.eng.cam.ac.uk/~hemh1/movies.htm#superballs](http://www2.eng.cam.ac.uk/~hemh1/movies.htm#superballs)
 
-------------------
+### Rattlebacks
 We have two Rattlebacks which currently live in here due to them not really fitting anywhere. If you're talking about angular momentum these are a very interesting thing to think about. Spin them in one direction and they act normally, in the opposite direction they stop and sometimes even reverse, the rattle is the way of conseving angular momentum but someone who knows more should improve this.
 
 <br/>
@@ -84,7 +88,7 @@ We have two Rattlebacks which currently live in here due to them not really fitt
 
 **Description**: Injuries resulting from children throwing balls.
 
-**Affected People**: Children
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
@@ -112,7 +116,7 @@ Call a first aider in the event of an accient.
 
 <br/>
 
-### **Hazard**: Falling toast
+### **Hazard**: Falling book
 
 **Description**: May fall onto feet or face.
 
@@ -121,6 +125,20 @@ Call a first aider in the event of an accient.
 **Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
 
 **Mitigation**: Keep drop zone clear when preparing. Only let people look from the side, not underneath.
+
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+
+<br/>
+
+### **Hazard**: Vaseline
+
+**Description**: Some people may be allergic to petroleum jelly.
+
+**Affected People**: Demonstrator
+
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+
+**Mitigation**: Only demonstrate the experiment if you have no reaction to petroleum jelly. Only the demonstrator should touch the vaseline.
 
 **After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
@@ -140,4 +158,4 @@ Call a first aider in the event of an accient.
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
