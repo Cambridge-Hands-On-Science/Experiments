@@ -2,7 +2,7 @@
 
 **The idea is to look at how yeast grows and how it relates to bread making. It involves getting the kids to make bread dough.** - Like all the best biology experiments, this is hands-on and messy! See what happens when you add living yeast to a bread mix, and don't forget to come back a bit later to see what's happened to your dough!
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,7 @@ Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- Baker's yeast (a fair a amount - we got through 3 of the tins of it last year)
+- Baker's yeast (a fair amount - we got through 3 of the tins of it last year)
 - Flour 80g per child (lots!)
 - Sugar (a couple of bags)
 - Water (warm - will have to keep getting this from tap)
@@ -32,24 +32,24 @@ Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 ## Experiment Explanation 
 
 Key messages to get across about this experiment:
-• Yeast is alive 
-• It gives off gas (carbon dioxide) when bread rises giving you bubbles in the bread
+- Yeast is alive 
+- It gives off gas (carbon dioxide) when bread rises giving you bubbles in the bread
 
 Suggested demonstration:
-• Start with bread – ask if they have ever eaten bread (hopefully a ‘yes’ but this should get them engaged with you as it’s a simple question that they don’t have to struggle to think about). 
-• Ask if they know what goes into bread; you’ll probably get told that it is made from flour. Some may tell you about water and yeast. 
-• Ask them whether they’ve ever seen bread dough rise. It rises because of bubbles of gas. This gas is made by yeast. 
-• Show them some yeast and add about half a teaspoonful to some water and sugar in a plastic cup. 
-• Yeast is alive (it’s a fungus) and when you add water to the dried yeast it starts growing again. Yeast are little round creatures (if the kids are old enough to know what a cell is, they have one cell) and they grow, getting bigger, and then a new yeast buds off the side of the old one.
-• Inside bread there isn’t much oxygen so the yeast can’t breathe oxygen to allow them to produce energy like we do. Instead they use ‘fermentation’ of the sugar that you gave them. This produces a gas called carbon dioxide (and ethanol/alcohol). This gives the bubbles that you get in bread.
-• Add flour to the water and yeast mix and get the child to mix them together to form dough.
-• Did they notice how the dough went stringy as they kneaded/mixed it? Why is that? Flour contains some proteins that make gluten when water is added, and as you mix the dough these all line up becoming more stretchy. This traps the bubbles of gas made by the yeast so the dough rises.
-• Mark the level of the dough on the plastic cup. Tell them to come back and look at it later, but also show them some from earlier that have risen. If parents want to take dough then they can (but don’t encourage it), but stress that it’s not edible because it was made in a lab.
-• Ask if they want to see something else? If yes, have a look at the balloon demonstration.
-• Put some warm water, sugar and yeast in a 500 ml drinks bottle
-• The yeast will use the oxygen in the bottle first, and then start fermenting the sugar to produce carbon dioxide
-• This will increase the volume of gas in the bottle and inflate the balloon
-• You may need these on a ‘conveyor-belt’ system where you set one up with a group but show them the previous group’s one which is hopefully partially inflated.
+- Start with bread – ask if they have ever eaten bread (hopefully a ‘yes’ but this should get them engaged with you as it’s a simple question that they don’t have to struggle to think about). 
+- Ask if they know what goes into bread; you’ll probably get told that it is made from flour. Some may tell you about water and yeast. 
+- Ask them whether they’ve ever seen bread dough rise. It rises because of bubbles of gas. This gas is made by yeast. 
+- Show them some yeast and add about half a teaspoonful to some water and sugar in a plastic cup. 
+- Yeast is alive (it’s a fungus) and when you add water to the dried yeast it starts growing again. Yeast are little round creatures (if the kids are old enough to know what a cell is, they have one cell) and they grow, getting bigger, and then a new yeast buds off the side of the old one.
+- Inside bread there isn’t much oxygen so the yeast can’t breathe oxygen to allow them to produce energy like we do. Instead they use ‘fermentation’ of the sugar that you gave them. This produces a gas called carbon dioxide (and ethanol/alcohol). This gives the bubbles that you get in bread.
+- Add flour to the water and yeast mix and get the child to mix them together to form dough.
+- Did they notice how the dough went stringy as they kneaded/mixed it? Why is that? Flour contains some proteins that make gluten when water is added, and as you mix the dough these all line up becoming more stretchy. This traps the bubbles of gas made by the yeast so the dough rises.
+- Mark the level of the dough on the plastic cup. Tell them to come back and look at it later, but also show them some from earlier that have risen. If parents want to take dough then they can (but don’t encourage it), but stress that it’s not edible because it was made in a lab.
+- Ask if they want to see something else? If yes, have a look at the balloon demonstration.
+- Put some warm water, sugar and yeast in a 500 ml drinks bottle
+- The yeast will use the oxygen in the bottle first, and then start fermenting the sugar to produce carbon dioxide
+- This will increase the volume of gas in the bottle and inflate the balloon
+- You may need these on a ‘conveyor-belt’ system where you set one up with a group but show them the previous group’s one which is hopefully partially inflated.
 
 Use trays as 'workstations' to contain the mess. Throw well-risen dough out after a few hours again to reduce mess.
 
@@ -155,3 +155,5 @@ If child is choking, get parent to encourage child to cough it out and find firs
 **Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
