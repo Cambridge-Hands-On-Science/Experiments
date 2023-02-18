@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,15 +25,15 @@ Last initially checked on 2022-02-09 by Sophie Miocevich (srm81@cam.ac.uk) and d
 
 ## Experiment Explanation 
 
-**Old explanation:**
+### Old explanation
 Demo of a flame tornado - a small fire is made at the centre of a rotating mesh tube. The tube is rotated giving incoming air angular momentum, so it gets dragged in and makes a cool tornado effect.
 
 To set up place a crucible at the centre of the tray. Let people give it a spin to show a tornado isn't formed like that. Place mesh around and spin again. This messes with incoming air and leads to vorticies and tornadoes through scientific magic someone should explain here! 
 
-**New explanation**
+### New explanation
 Ensure the turntable is placed on a flat surface outside. Cover cotton wool with petroleum jelly ahead of demonstrating because a) it's not nice to do and b) it will make demonstrating easier. Place some in the centre of the turntable and (very carefully) light it using the lighter (aim for the cotton wool as the jelly itself isn't flammable and will melt). Make sure people are standing out of the way when you do this! Then, spin the turntable (first without the mesh outside, then with the mesh outside) and you should see a flame tornado when the mesh is present.
 
-**Science explanation**
+### Science explanation
 Hot gas rises* so as the fire heats the air around it this rises, pulling more air in sideways at the bottom, which then also rises.** When the setup is spun without a mesh cage on, the fuel rotating doesn't really affect the flame and so it just rises like a pretty normal flame.
 When the mesh cage is added, that air being pulled in at the base is knocked by the cage as it gets pulled in, starting it spinning. As the air keeps being pulled in, it spins up faster, because it's being pulled into the middle of the spinning.*** As it reaches the flame, it heats up and rises, but whilst spinning, leading to the flame tornado effect.
 The flame tornado flame is higher than the normal flame. I think that this is because in the rotating cylinder of air the colder, denser air gets pushed to the outside more than the hotter, lighter, flame and so the flame pulls up the centre so that it's all as central as possible.
@@ -98,7 +98,7 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
-**Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they will need to use touch petroleum jelly. Do not proceed if the demonstrator has an allergy.
+**Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they will need to use touch petroleum jelly. Do not proceed if the demonstrator has an allergy. Wash jelly off hands after applying it.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -123,3 +123,5 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
