@@ -2,7 +2,7 @@
 
 **The idea is to look at how yeast grows and how it relates to bread making. It involves getting the kids to make bread dough.** - Like all the best biology experiments, this is hands-on and messy! See what happens when you add living yeast to a bread mix, and don't forget to come back a bit later to see what's happened to your dough!
 
-Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -156,4 +156,4 @@ If child is choking, get parent to encourage child to cough it out and find firs
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)
