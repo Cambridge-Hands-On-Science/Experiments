@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,11 +35,12 @@ Possible Activities:
 
 Focus less on the biology and more on scale for much smaller children. Focus on the idea that every puddle is full of little animals so small they can't see them. Be sure to use simple language!
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+***BASIC PROCEDURE AND EXPLANATION***
 
 1) Fill a small petri dish with water from a sample jar and introduce a hair for scale. Ideally a fair hair, as the sample is illuminated from below.
 2) Then start looking at the rotifers.
-3) Talking points:
+
+**Talking points:**
 
 a. Do they know what a microscope is? It can help to compare it to a telescope (telescopes let you see things far away, microscopes help you see very small things that are close by). Make it clear that what they are seeing through the microscope is the stuff in the dish of water.
 
@@ -180,4 +181,4 @@ Contact GP should illness develop. Call a first aider in case of injury.
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
