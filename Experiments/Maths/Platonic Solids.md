@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2023-02-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk)
+Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked NEEDED
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -102,6 +102,21 @@ Call first aider in case of injury.
 **After Miigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
+## **Hazard**: Larger polydrons
+
+**Description**: Larger polygons, especially the decagon, may fit over the head of a child. May cause suffocation if looped around neck and pulled.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+
+**Mitigation**: Keep decagons out of reach of small and/or badly behaved children (they aren't really necessary for the Platonic solids, but may be useful for some of the more general solids that you might build with older children).
+
+Call first aider in case of injury.
+
+**After Miigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
 
 ## Risk Assessment Check History 
 
@@ -113,4 +128,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-02-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk)
+**Check 1**: 2023-02-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: NEEDED
