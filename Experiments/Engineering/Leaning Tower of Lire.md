@@ -36,7 +36,7 @@ Try placing the block on the edge of the table and moving it's CoM around, where
 
 Moments - A Moment is a turning force, this is what we get when the block is on the table. For a moment, we need a pivot. With one block our only pivot is the point on the edge of the table, friction holds the block enough so that what we experience here is just a turning force (initially you'll notice a slip later once it's started falling, see the falling toast experiment for more on this though). The forces are the gravitation acting through the CoM and a reaction force from the table supporting the brick.
 
-Levers - levers increase the force with distance. With moments we need to consider a levered force by timising the force by distance from the pivot. If the forces clockwise and counterclockwise (ccw) balance then there's no tip. If we have an unbalanced force twisting us into the table then it won't tip but we could extend further!
+Levers - levers increase the force with distance. With moments we need to consider a levered force by multiplying the force by distance from the pivot. If the forces clockwise and counterclockwise (ccw) balance then there's no tip. If we have an unbalanced force twisting us into the table then it won't tip but we could extend further!
 
 So going for N=2 case now. We can keep extending like before but we need to decide which order is going to give us the best overhang. As we need to consider the CoM it would be better if there was the least total overhang, this means that the overhang between blocks on one layer and the one above should increase as we get higher up.
 
