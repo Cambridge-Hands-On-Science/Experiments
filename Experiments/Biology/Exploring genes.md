@@ -1,8 +1,8 @@
 # Exploring genes
 
-**Props to explain DNA and molecular biology, including a plastic DNA gel!** - nan
+**Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-18 - Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,8 @@ Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 “Exploring genes” is a box full of props that molecular biologists can use to talk about how you can actually work with DNA in a lab. All this kit was been bought just before the 2011 Summer Roadshow, so we haven’t figured out all the best stories you can use it to tell quite yet. We’re expecting it to be useful to for demonstrators who’ve got enough lab experience to be able to talk about the basics of DNA. The notes in kiwi DNA are probably useful to help get the right level for the public. Please add some notes if you’ve demonstrated this to help this to help us write up some more detailed notes for the next CHaOS event. 
 
-**Suggested activity 1: Play with DNA model**
+### Suggested activity 1: Play with DNA model
+
 - DNA is a chemical which encodes genetic information, these units/words of genetic information are genes. Genes are units made of DNA
 - Genes are (mostly) instructions for making proteins
 - 46 DNA molecules per human cell nucleus (23 chromosomes, two of each pair, one from each parent).
@@ -48,7 +49,7 @@ Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 - As DNA can replicate exactly, enables one cell to divide into two daughter cells with identical genetic material.
 - This is how all our body cells can have the same DNA! 
 
-**Suggested activity 2: Loading model gels**
+### Suggested activity 2: Loading model gels
 - Show them the small tubes and pipettes- we've moved away from glass test tubes in molecular biology!
 - Set up two tupperware tubs, one "gel tank", one for rinsing
 - Fill "gel tank" above level of toy gel
@@ -128,3 +129,5 @@ Call a first aider in the event of an adverse reaction.
 **Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
