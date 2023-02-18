@@ -2,7 +2,7 @@
 
 **Game introducing the phases of matter and phase changes** - Outside game introducing the concept of different phases of matter and the different ways to transition between them.
 
-Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,7 @@ When you have a large number of children to entertain for an unknown period of t
 
 The principles of the game are simple. You yell a phase, or a phase transition, and the children act in a manner akin to molecules in that phase.
 
-**Basic calls** :
+**Basic calls:** 
 Solid: The children stand still, with their hands by their sides. Some huddling may be encouraged, but isn't necessary.
 Liquid: The children walk slowly, I generally also bring my hands up, palms together, wiggling in front of me to worm around. They should probably come close together too.
 Gas: Walking (or running if they seem trustworthy) as far apart as possible, bouncing off the edges of the container.
@@ -70,11 +70,31 @@ Knock out game (maybe once they're getting tired, or from the start because you'
 
 ## Risk Assessment
 
-('Children running around', 'Falling over or banging into each other', 4, 2, 8, "Children should be asked be careful and to be aware of falling over risk. The speed of the game should be limited to a safe one (get them to walk instead of run if they are behaving dangerously). Over-excited children should be asked to stand out for a round or two. Make sure that the floor isn't slippery before starting (wet hall floor, leaves outside, wet grass etc.).\r\nCall first aider in event of injury. Stop experiment if required.", 2, 2, 4)
+### **Hazard**: Children running around
+
+**Description**: Falling over or banging into each other.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Children should be asked be careful and to be aware of falling over risk. The speed of the game should be limited to a safe one (get them to walk instead of run if they are behaving dangerously). Over-excited children should be asked to stand out for a round or two. Make sure that the floor isn't slippery before starting (wet hall floor, leaves outside, wet grass etc.Call first aider in event of injury. Stop experiment if required.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-('Static objects/other children', 'Collisions/tripping over objects leading to injuries.', 3, 3, 9, 'Clear away or keep the game away from any static objects likely to cause danger. Use area markers which are not dangerous to run into. As for falling over risk, limit the excitement of the game as required and make the children aware of the risk.\r\nCall a first aider in the event of an emergency.', 2, 3, 6)
+### **Hazard**: Static objects/other children
+
+**Description**: Collisions/tripping over objects leading to injuries.
+
+**Affected People**: Children
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Clear away or keep the game away from any static objects likely to cause danger. Use area markers which are not dangerous to run into. As for falling over risk, limit the excitement of the game as required and make the children aware of the risk. Call a first aider in the event of an emergency.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -95,3 +115,5 @@ Knock out game (maybe once they're getting tired, or from the start because you'
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 

@@ -2,7 +2,7 @@
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
-Last initially checked on 2023-02-15 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-15 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -200,4 +200,4 @@ In case of injury call a first aider.
 
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)

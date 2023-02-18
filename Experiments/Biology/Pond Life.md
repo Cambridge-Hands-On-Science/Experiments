@@ -1,8 +1,8 @@
 # Pond Life
 
-**A selection of organisms from a local pond or rock pool** 
+**A selection of organisms from a local pond or rock pool** - nan
 
-Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58) and doubled checked on 2023-02-18 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -154,4 +154,4 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk)
