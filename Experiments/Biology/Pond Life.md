@@ -1,8 +1,8 @@
 # Pond Life
 
-**A selection of organisms from a local pond or rock pool** - nan
+**A selection of organisms from a local pond or rock pool** 
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -60,6 +60,7 @@ Common frog (demo may have frogspawn or tadpoles in it) - Common frogs are amphi
 FUN FACT - frogs breathe through their skin, allowing them to stay underwater without drowning. Their skin is thin, with an extensive network of blood vessels under its surface. Oxygen is absorbed through the skin and goes into the blood stream which transports it around the body. (compare to the lesser water boatman)
 
 WILD ABOUT GARDENS CAMPAIGN
+
 If people are interested about how they can encourage wildlife, you can direct them to the Wild About Gardens Campaign, run by the Wildlife Trusts and Royal Horticulture Society https://www.wildaboutgardens.org.uk/. It has loads of useful tips on wildlife gardening and their focus this year (2020) is on ponds!
 
 Some info from their booklet:
@@ -97,7 +98,7 @@ In case of injury, call first aider.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Encourage hand washing after touching experiment. Hand washing facilities made available. Cover up any cuts whilst handling water.
-Call first aider in case of injury. If child ingests anything from the aquarium, advise parents to take child to GP if child becomes ill.
+Call first aider in case of injury. If child ingests anything from the aquarium, advise parents to take child to GP if child becomes ill, and give them notes about where water was collected.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -152,3 +153,5 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 **Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 
