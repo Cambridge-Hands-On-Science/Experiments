@@ -2,7 +2,7 @@
 
 **Using chromatography to investigate the colour of food.** - Using just water and bits of paper, split up the colours in pens and food colourings to see how they're made up of a mixture of differently coloured dyes.
 
-Last initially checked on 2023-02-04 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-02-05 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on NEEDED
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,6 +22,8 @@ Last initially checked on 2023-02-04 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 - Sweets - M&Ms, Smarties, other sweets with suitable food colouring, water soluble felt-tip pens
 - Filter Paper
 - Plastic containers
+- Scissors for cutting filter paper
+- Pencil for marking filter paper
 
 <br/>
 
@@ -120,6 +122,20 @@ Call a first aider if an accident occurs.
 
 <br/>
 
+### **Hazard**: Scissors
+
+**Description**: Risk of injury if children grab or attempt to use scissors.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Demonstrator should be the only one to use the scissors and should cut the filter paper in advance. Use safety scissors if available and keep out of reach of the children (and preferably out of sight when not in use).
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
@@ -144,4 +160,4 @@ Call a first aider if an accident occurs.
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-02-04 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2022-02-05 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2023-02-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: NEEDED
