@@ -2,7 +2,7 @@
 
 **Showing one of the transport systems in plants.** - Combine food colouring with water transport in stem and flowers- you can then see where all the water goes!
 
-Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -58,6 +58,7 @@ Xylem vessels (red) bring things up from the roots to the leaves of the plant. P
 
 Xylem vessels transport water and anything that dissolves in water (what can you think of that dissolves in water?) This includes the food dye that we have added to the water – and you can see how it has been transported up the stem and into the flower.
 Cross section through a plant stem
+
 ***Discussion***
 
 If someone asks why the flowers are coloured, I would explain that the plants were able to move the dye colour in the water up into the flower (maybe use absorb, transport for older children).
@@ -164,4 +165,4 @@ In the event of spillage, ensure any electrical equipment within reasonable radi
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
