@@ -50,6 +50,13 @@ For beating two players we're at 44%. You may think that's bad as you still lose
 Inspired by the experiment here:
 http://singingbanana.com/dice/article.htm
 
+We now have several addition sets of Microsoft-branded dice with the following colour combinations (see aka.ms/ntdice):
+Orange - 2,2,2,2,6,6
+Yellow - 3,3,3,3,3,3
+Green - 1,1,1,5,5,5
+Blue - 0,0,4,4,4,4
+such that G>B>Y>O>G...
+
 If you have a spare table this is a very easy experiment to float with by only going up to the Rock-Paper-Scissors part of the experiment. Demonstrate you can always win and sometimes "better than" isn't transitive.
 
 <br/>
