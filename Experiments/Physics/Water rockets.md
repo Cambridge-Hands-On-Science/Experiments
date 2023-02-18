@@ -2,8 +2,7 @@
 
 **Launching lemonade bottle water rockets with a foot pump.** - Try not to get wet as you fire water-powered rockets into the air. Who can shoot it the highest?
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-12 by Jessica Trevelyan (jet81@cam.ac.uk)
-
+Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on NEEDED
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -90,19 +89,21 @@ The more taut the rope is, the less friction the rocket will experience and the 
 
 ## Risk Assessment
 
-### **Hazard**: Bottle (projectile)
+### **Hazard**: Bottle (projectile), epsecially if flown without rope
 
 **Description**: Hitting people with the bottle
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15
 
 **Mitigation**: Keep people away from the rope (which the rocket travels on) by blocking off any area where the rope is below head height with chairs, hazard tape or similar. Make sure the person launching the rocket doesn't lean into its path (try to keep the pump as far away from the rocket as the hose will allow - we have lengthened the hose to make this job easier). Also locate the experiment sensibly, bearing in mind walkways that people will want to use in the venue, roads etc and wind direction.
 If done without a guide rope, cordon off sufficiently large area to ensure it lands within it. Check prevalent wind direction as well by test firing the rocket before people come.
+Wait until the surrounding area is fully clear before launching.
 If using the rope to limit range, the areas in which the rocket might land (accounting for prevalent wind direction and lean of the launch stand) must still be cordoned off as there are two hazards - both from the rocket falling on someone and the trip hazard due to the rope.
+It is the responsibility of the demonstrator to ensure that the area is clear and there is no chance of the rocket straying into the path of anyone.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -176,4 +177,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2023-01-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: NEEDED
