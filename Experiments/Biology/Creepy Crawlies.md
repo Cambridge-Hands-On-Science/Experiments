@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -32,6 +32,7 @@ We will collect these hopefully from a variety of habitats. It's interesting to 
 Some examples of things that might be collected are:
 
 **Insects**
+
 There are around a quarter of a million times more insects in the UK than humans, and more than a million different kinds of insects discovered on Earth (of these >20,000 species live in the UK). Beetles are the biggest group within the insects. (Note: All bugs are insects, but not all insects are bugs) 
 
 All insects have 6 legs and their bodies are divided into three main parts; the head, thorax & abdomen.
@@ -149,4 +150,4 @@ If bitten, reassure that there probably won't be a problem, pull out any visible
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
