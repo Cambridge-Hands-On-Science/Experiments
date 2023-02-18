@@ -11,7 +11,8 @@ Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and doub
 
 **Physics**
 
-**In development** (This experiment doesn't actually exist yet, but might in the future!)
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
