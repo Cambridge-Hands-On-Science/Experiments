@@ -2,7 +2,7 @@
 
 **Why is the sky blue and the sunset red?** - Have you ever wondered what makes the sky blue? Or why it stops being blue at sunset? Come along to this experiment to find out why!
 
-Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,7 @@ A perspex tube filled with a jug of water mixed with about 2-3 pinches of milk p
 
 The solution works better if it is left to stand for a couple of hours before you start, so if you can pre-mix some the night before that is great.
 
-The concentration of the liquid is important: make sure it isn't too concentrated, or the changes will be masked by the absorbtion of light by the solution. 
+The concentration of the liquid is important: make sure it isn't too concentrated, or the changes will be masked by the absorption of light by the solution. 
 
 The kids need to be able to see down the tube, so it works better with the tube on the floor.
 
@@ -192,4 +192,4 @@ Also see Electrical Parts RA.
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Timothy Wong (chw55@cam.ac.uk)
