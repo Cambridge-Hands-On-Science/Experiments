@@ -2,7 +2,7 @@
 
 **Making electricity, and using it to spin a motor.** - Generate electricity and learn all about how it works!
 
-Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -233,4 +233,4 @@ There is a real motor in the box too, which you can compare it to.
 
 **Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Timothy Wong (chw55@cam.ac.uk)
