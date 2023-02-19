@@ -7,6 +7,7 @@ Last initially checked on yyyy-mm-dd by Name (email@cam.ac.uk) and double-checke
 **Frequency of use:** n
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <!-- List of all possible major tags: Delete as appropriate -->
@@ -60,27 +61,23 @@ Last initially checked on yyyy-mm-dd by Name (email@cam.ac.uk) and double-checke
 
 ### In a nutshell.....
 
-
 ### Set-up
 
-
 ### How to demonstrate
+
 If you need an image, insert it like this:
 
 <center>
 <div style="width:10cm">
-<img src="./images/test.jpg">
+<img src="./Images/test.jpg">
   
 <i>Figure caption</i>
 </div>
 </center>
 
-
 ### CHaOS+ Explanation
 
-
 ### Packing away
-
 
 <br/>
 
