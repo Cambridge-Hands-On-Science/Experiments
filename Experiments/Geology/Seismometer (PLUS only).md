@@ -38,9 +38,8 @@ Otherwise - rely on drawn diagrams.
 
 **What is the earth’s structure?** (figures 1 and 2)
 
-
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Earth_Structure_1_0.jpg)
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Earth_Structure_2.jpg)
+<img src="./Images/Earth_Structure_1_0.jpg" style="width:8cm">
+<img src="./Images/Earth_Structure_2.jpg" style="width:13cm">
 
 
 There are two dominant classification schemes:
@@ -63,18 +62,16 @@ What is an earthquake? Earthquakes occur by ‘elastic rebound’. Over time, te
 
 **How do waves move through the earth?** (figures 3 and 4)
 
-
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Shadow_Zone.png)
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Huygens_Refraction.png)
+<img src="./Images/Shadow_Zone.png" style="width:8cm">
+<img src="./Images/Huygens_Refraction.png" style="width:10cm">
 
 
 As we get deeper, waves get quicker (wave speed is a function of density and elastic moduli). Now for a diffraction explanation, maybe huygens wave principle? As they get deeper, waves get slower, and they curve! So waves emitted initially away from the surface come back.
 
 **Arrival Times** (figures 5 and 6)
 
-
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Arrival_Times.png)
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Surface_Waves.jpg)
+<img src="./Images/Arrival_Times.png" style="width:20cm">
+<img src="./Images/Surface_Waves.jpg" style="width:14cm">
 
 
 We use different arrival times to figure out where an earthquake originated, called the hypocentre (you may have heard of the epicentre: that is the point on the earth’s surface above the earthquake’s origin). Can you figure out roughly how fast they are going on the seismogram above (assuming direct travel...)?
@@ -84,8 +81,7 @@ There are different types of wave, P is longitudinal, S is transverse. P is fast
 
 **Evidence for Earth’s Structure** (figure 7)
 
-
-![](http://www.kill-me-now-7432245948.chaosscience.org.uk/sites/default/files/Earthquake_Speeds.png)
+<img src="./Images/Earthquake_Speeds.png" style="width:10cm">
 
 
 Now for structure. Waves are reflected and transmitted at surfaces (maybe relate to 'Waves at Boundaries' experiment if that’s out). The reflected bits return to earth’s surface, so we can figure out where the major changes in earth’s structure are. These are due to basically anywhere the structure dramatically changes. E.g. Crust/Mantle Lithosphere/asthenosphere, core/mantle, core/inner core. See above diagram for shadow zones.
