@@ -33,7 +33,7 @@ Cornflour is lots of irregular shaped particles that are separated by water norm
 
 <center>
 <div style="width:10cm">
-<img src="./images/cornflour.jpg">
+<img src="./Images/cornflour.jpg">
   
 <i>Cornflour under a confocal microscope, which takes a 2-D slice through an image rather than looking at the surface.</i>
 </div>
@@ -74,7 +74,7 @@ The starch granules themselves are composed of a mixture of long-chain polysacch
 ![](https://old.chaosscience.org.uk/sites/default/files/Polysaccharides-structure.jpg)
 <center>
 <div style="width:10cm">
-<img src="./images/Polysaccharides-structure.jpg">
+<img src="./Images/Polysaccharides-structure.jpg">
   
 <i>The starch granules themselves are composed of a mixture of long-chain polysaccharides - essentially lots of “sugar molecules” (glucose) stuck together.</i>
 </div>
@@ -94,7 +94,7 @@ Below is a schematic shear rate vs stress graph for various materials (labelled)
 
 <center>
 <div style="width:10cm">
-<img src="./images/Shear_rate_vs._Shear_stress.png">
+<img src="./Images/Shear_rate_vs._Shear_stress.png">
 </div>
 </center>
 
@@ -107,7 +107,7 @@ $$
 
 <center>
 <div style="width:10cm">
-<img src="./images/main-qimg-a3c2c5558b010169746d06d687ded8d1.png">
+<img src="./Images/main-qimg-a3c2c5558b010169746d06d687ded8d1.png">
 </div>
 </center>
 
@@ -117,7 +117,7 @@ Another graph of shear stress vs velocity gradient (this time the gradient is th
 
 <center>
 <div style="width:10cm">
-<img src="./images/250px-Viscous_regimes_chart.png">
+<img src="./Images/250px-Viscous_regimes_chart.png">
 </div>
 </center>
 
