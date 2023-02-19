@@ -72,13 +72,13 @@ There are lots of different slides to choose from – feel free to talk about wh
 - See below for labelled diagrams of some of the slides!
 
 <center>
-<img src="./Images/cells1.jpg" style="width:10cm">
-<img src="./Images/cells2.jpg" style="width:10cm">
-<img src="./Images/cells3.jpg" style="width:10cm">
-<img src="./Images/cells4.jpg" style="width:10cm">
-<img src="./Images/cells5.jpg" style="width:10cm">
-<img src="./Images/cells6.jpg" style="width:10cm">
-<img src="./Images/cells7.jpg" style="width:10cm">
+<img src="./Images/cells1.jpg" style="width:20cm">
+<img src="./Images/cells2.jpg" style="width:20cm">
+<img src="./Images/cells3.jpg" style="width:20cm">
+<img src="./Images/cells4.jpg" style="width:20cm">
+<img src="./Images/cells5.jpg" style="width:20cm">
+<img src="./Images/cells6.jpg" style="width:20cm">
+<img src="./Images/cells7.jpg" style="width:20cm">
 Microbes: Parasites slides
 ==========================
 
