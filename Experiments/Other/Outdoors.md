@@ -6,17 +6,19 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
+<!-- List of all possible major tags: Delete as appropriate -->
 
 
-**Standard** 
-
-**Active** 
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Other**
 
-**Outside** 
+**Outside** (Recommended to demonstrate outside at CBS - see separate risk assessment)
+
+<!-- Add any more tags that are appropriate -->
 
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
