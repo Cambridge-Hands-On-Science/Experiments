@@ -42,7 +42,7 @@ Cut a fresh end on the celery and put the end in red food dye (diluted with wate
 
 Single coloured and multicoloured examples (green clearly highlights vessels very well):
 
-![](https://old.chaosscience.org.uk/sites/default/files/xylem_3.jpg)
+<img src="./Images/xylem3.jpg" style="width:10cm">
 **Plants have ‘circulatory systems’ just like animals**
 
 We need our blood vessels (like the veins you can see in your arms) to supply blood to all parts of our body. 
@@ -74,8 +74,8 @@ If someone asks about multicoloured flowers – then you can go back to the vein
 If it seems appropriate, you can also talk about phloem, that transport things back down to the roots – such as sugars that they make via photosynthesis (roots are underground, no light = no photosynthesis), and how this is similar to blood transporting sugars from our intestines to other parts of the body.
 At various points in the talk, you have the opportunity to bring in the microscope slides of xylem and phloem vessels (if they are available), doing so can draw more interest, and you can compare the size of what they can see in the celery to the size magnified under the microscope. Keen people/skilled people can create a microscope slide right there and then from the celery and put it under a microscope, although this requires a scalpel to be in the vicinity of the children and can be tricky to get thin enough!
 
-![](https://old.chaosscience.org.uk/sites/default/files/xylem_4.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/xylem_5.jpg)
+<img src="./Images/xylem4.jpg" style="width:10cm">
+<img src="./Images/xylem5.jpg" style="width:10cm">
 
 <br/>
 
