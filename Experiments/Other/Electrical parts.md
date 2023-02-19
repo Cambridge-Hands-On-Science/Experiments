@@ -6,16 +6,18 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Standard** 
+<!-- List of all possible major tags: Delete as appropriate -->
 
-**Active** 
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Other**
 
-**Requires Electricity** 
+**Requires Electricity** (Please also refer to the Electrical Hazards risk assessment)
 
+<!-- Add any more tags that are appropriate -->
 
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
