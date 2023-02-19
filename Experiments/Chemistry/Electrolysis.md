@@ -51,8 +51,8 @@ To be safer, you can use deionised water in the front chamber (this is not stric
 4. Release the mixing chamber valve to let the gas mixture into the explosion chamber, then use the piezo igniter to fire it (some off the gas will vent out around the ping pong ball - this is ok). 
 5. The electrodes that make the spark are now wet; if you need to repeat the explosion quickly the air blower may be used to dry them more quickly - in practice by the time you've done the introduction again the electrodes may be dry.
 
-Video set up guide here:
-![](./images/qrcode.32888499.png)
+<!--- Video set up guide here: (It seems like the image is missing :( )
+![](./Images/qrcode.32888499.png) --->
 
 ### What you need to know about the experiment
 Water is H₂O and, if you apply enough energy (needed to break bonds), it can be split into its constituent parts (there should be some models).
@@ -65,7 +65,7 @@ The sparking electrodes become wet: you've made water! (most of it in vapour for
 
 If the concentration and ratio is right, the hydrogen/oxygen mixture will **detonate** – a detonation is an explosion which travels at supersonic speeds (you should hear it!)
 
-![](./images/electrolysis2.png)
+<img src="./Images/electrolysis2.png" style="width:6cm">
 
 ### Want to know more?
 The main point to get across is that water is made out of hydrogen and oxygen and these are gases. But as you go on you can also describe the energy in → energy out aspect, stoichiometry and molecular structure and also relate it to how we would have to make hydrogen for cars.
