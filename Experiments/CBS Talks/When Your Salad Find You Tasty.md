@@ -2,7 +2,7 @@
 
 **CBS Talk about carnivorous plants**
 
-Last initially checked on 2023-02-18 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2023-02-19 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2023-02-19 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2023-02-19 by John Leung (cfl35@cam.ac.uk)
 
 **Frequency of use:** n/a
 
@@ -79,7 +79,7 @@ Questions
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
-### **Hazard**: Carnivorous plant specimens
+### **Hazard**: Live carnivorous plant specimens
 
 **Description**: Potential adverse reaction if touched, could trap finger
 
@@ -87,7 +87,7 @@ Questions
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Only the speaker (experienced with these samples) should handle the specimens, do not let any audience members near them
+**Mitigation**: Only the speaker (experienced with these specimens) should handle them, do not let any audience members near them
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -96,6 +96,6 @@ Questions
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-18 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2023-02-19 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-02-19 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2023-02-19 - John Leung (cfl35@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
