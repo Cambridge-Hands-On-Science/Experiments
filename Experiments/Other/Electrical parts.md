@@ -2,7 +2,7 @@
 
 **Read before demonstarting any experiment that uses mains electricity** 
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
 
 
 ## Tags
@@ -30,6 +30,8 @@ Mains (240 V) power supply.
 ## Experiment Explanation
 
 Some experiments require electricity from a mains power (240 V) supply. Read this RA along with the experiment RA before demonstrating.
+
+<br/>
 
 ## Risk Assessment
 
@@ -94,6 +96,6 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
