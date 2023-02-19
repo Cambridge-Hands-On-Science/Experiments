@@ -6,13 +6,18 @@ Last initially checked on 2023-02-19 by John Leung (cfl35@cam.ac.uk) and double-
 
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**CBS only** 
+<!-- List of all possible major tags: Delete as appropriate -->
 
-**Active** 
+**CBS only** (Non-transportable experiments that tend to be used for CBS only.)
+
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Biology**
+
+<!-- Add any more tags that are appropriate -->
 
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
