@@ -2,7 +2,7 @@
 
 **Investigate a sheep skeleton and see if you can reconstruct it** - Put together a sheep skeleton like a jigsaw puzzle! How is a sheep skeleton different to a human skeleton? How is it the same?
 
-Last initially checked on 2023-02-19 by John Leung (cfl35@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2023-02-19 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-02-19 by Peter Methley (pm631@cam.ac.uk)
 
 
 ## Tags
@@ -80,8 +80,8 @@ Lay the anatomy diagram board flat on a table or other hard surface. Spread out 
 - Joins with the sacrum at the sacroiliac joints, and with the femur at the hip joint. Notice the hip is a ball and socket joint, unlike the hinge joints of the elbow/knee. Swivel the bones in the joints to show how much freedom of movement there is.
 
 
-
 <br/>
+
 ## Risk Assessment
 
 ### **Hazard**: Sharp parts of the bones.
@@ -140,6 +140,6 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - John Leung (cfl35@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2023-02-19 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-19 - Peter Methley (pm631@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
