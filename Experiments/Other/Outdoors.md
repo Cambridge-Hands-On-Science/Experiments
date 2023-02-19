@@ -2,7 +2,7 @@
 
 **Read before doing any experiment outside** - 
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
 
 
 ## Tags
@@ -25,6 +25,7 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 ## Equipment Needed
 
 An outside area
+
 <br/>
 
 ## Experiment Explanation
@@ -95,6 +96,6 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
 
