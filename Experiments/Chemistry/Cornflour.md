@@ -94,7 +94,7 @@ Below is a schematic shear rate vs stress graph for various materials (labelled)
 
 <center>
 <div style="width:10cm">
-<img src="./images/Shear_rate_vs._Shear_stress.png">
+<img src="./Images/Shear_rate_vs._Shear_stress.png">
 </div>
 </center>
 
