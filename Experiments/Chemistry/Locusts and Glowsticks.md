@@ -2,7 +2,7 @@
 
 **Using glow sticks to talk about chemical kinetics.** - What do glowsticks and locusts have in common? Watch what happens as we heat them up and cool them down - how long can you get your glowstick to glow? How fast can you make the locusts move?
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2022-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-07 by 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,7 +45,7 @@ Tips for demonstrating:
 
 - It is quite useful to be aware for this experiment how much difference the "Really Cool Show"/liquid nitrogen demonstration makes to how quickly children pick up the ideas you feed them, especially about temperature/ reactions and the fact that solid carbon dioxide takes up much less space than the gas.
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+**BASIC PROCEDURE AND EXPLANATION**
 
 - Place tanks of locusts side by side, shine the lamp on the outer face of one of the tanks.
 
@@ -88,7 +88,7 @@ Tips for demonstrating:
 - Give the glowstick to one of the children. Repeat 'til fade.
 
 
-*** OTHER THINGS TO TALK ABOUT ***
+**OTHER THINGS TO TALK ABOUT**
 
 - Other reactions which are affected by heat which we see in our everyday lives.
 
@@ -248,3 +248,5 @@ Do not demonstrate if you find yourself to be allergic to locusts. Call a first 
 **Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-01-22 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,25 +36,26 @@ Smaller kids will appreciate something a bit like light which can go through sof
 
 Basically, you can go through the X-rays however you like and develop your own spiel. Here are some ideas:
 
--Ask lots of questions, get them to work out what everything is for themselves (our skeleton can help with this). If they're young it will 
+- Ask lots of questions, get them to work out what everything is for themselves (our skeleton can help with this). If they're young it will 
  probably take them half an hour to work out what they're looking at.
--What are bones for? (support, locomotion, protection - see Skeleton explanation)
--Skull x-ray - why do we have big spaces in our skull? (decrease weight)
- - why do some of the teeth look different? (fillings - can talk about x-rays not passing through metal)
--Chest x-ray - identify the bones (ribs, clavicles, spine)
- - identify the organs (big spaces are air-filled lungs, the thing in the middle is the heart - they're always amazed by how low and 
+- What are bones for? (support, locomotion, protection - see Skeleton explanation)
+- Skull X-ray - why do we have big spaces in our skull? (decrease weight)
+- why do some of the teeth look different? (fillings - can talk about x-rays not passing through metal)
+- Chest X-ray - identify the bones (ribs, clavicles, spine)
+- Identify the organs (big spaces are air-filled lungs, the thing in the middle is the heart - they're always amazed by how low and 
  central it is)
- - but I said x-rays go through soft bits? What is the heart made of? How can we see it on the x-ray? Do bones have metal in 
+- But X-rays go through soft bits? What is the heart made of? How can we see it on the X-ray? Do bones have metal in 
  them? (calcium - they usually know this or will get it with prompts about why you should drink milk to keep your bones strong) 
- What is the heart full of? Does blood have metal in it then? (iron - they may not know this).
--Hand and foot x-rays - did they know they have so many bones in their foot/hand? Get them to feel the bones in their palm. Compare their 
+- What is the heart full of? Does blood have metal in it then? (iron - they may not know this).
+- Hand and foot X-rays - did they know they have so many bones in their foot/hand? Get them to feel the bones in their palm. Compare their 
  hands to Boris if he's nearby.
--Angiograms/enemas - can talk about using contrast (dense liquids) to highlight structures we wouldn't normally be able to see.
+- Angiograms/enemas - can talk about using contrast (dense liquids) to highlight structures we wouldn't normally be able to see.
 
 MRI images
--First point - these images were donated by a committee member, so they are not anonymised as all the radiographs (which are teaching images) are. This is fine - you just might need to know as we have in the past had members of the public tell us off for using identifiable images, but it's ok as we do have full permission!
--Compare with X-rays e.g. can see soft tissues - when might this be useful?
--How does it work? The machine contains an extremely strong magnet. This makes all the water molecules in your body line up in the same direction they may have played with compasses in magnetic fields at school). The machine then fires radio waves at the body. This knocks all the little spinning water molecules slightly out of line, but a different amount out of line depending on the type of tissue it's in. When the radio wave is turned off, the molecules all flick back to where they were in the magnetic field, releasing energy in different amounts depending on how out of line they were earlier. This energy release is captured by sensors and turned into an image.
+
+- First point - these images were donated by a committee member, so they are not anonymised as all the radiographs (which are teaching images) are. This is fine - you just might need to know as we have in the past had members of the public tell us off for using identifiable images, but it's ok as we do have full permission!
+- Compare with X-rays e.g. can see soft tissues - when might this be useful?
+- How does it work? The machine contains an extremely strong magnet. This makes all the water molecules in your body line up in the same direction they may have played with compasses in magnetic fields at school). The machine then fires radio waves at the body. This knocks all the little spinning water molecules slightly out of line, but a different amount out of line depending on the type of tissue it's in. When the radio wave is turned off, the molecules all flick back to where they were in the magnetic field, releasing energy in different amounts depending on how out of line they were earlier. This energy release is captured by sensors and turned into an image.
 
 List of Radiographs (correct as of December 2020):
 
@@ -92,28 +93,30 @@ New batch of Animal X-Rays from Queens Veterinary Schools Hospital - these have 
 14. Dog, normal stifle for comparison
 15. Horse, lateromedial radiograph, front foot and hind foot. Can see the shoes, nails attaching the shoes, phalanges, navicular bone, proximal sesamoids and the start of the metacarpus/metatarsus. Radiopaque hairline marker helps assess the angles within the foot and possibly help diagnose laminitis
 
-Other animal x-rays in this folder (blue stickers):
+Other animal X-rays in this folder (blue stickers):
+
 2. Male dog angiogram - can ask about what the most important organs are (can see these as those with greatest blood supply), contrast these with limbs which have far less blood supply - important in reducing heat loss, and possible because there are no major organs in limbs and most muscles are proximal (meaning the distal limbs are mainly bone and connective tissue, which require very little blood supply)
 4. Arteries of the head (dog and sheep) - can ask about why the brain needs such a good blood supply - very important organ with high energy and oxygen demand (one of the few organs which cannot survive any period of hypoxia - neuron cell death begins 4-6 minutes after blood flow stops). It also has many different large arteries going into the brain, as if there was only one and it got damaged/blocked this would cause death as brain tissue cannot survive long without oxygen (about 2-3 minutes). As it is, only a small area of the brain will be damaged - this is what a stroke is - as the other arteries will continue to supply most of the brain.
 - Following on for this, can ask why the nose also has high blood supply (esp. clear in sheep) - smell is a vital sense for survival in both sheep (prey) and dogs (predators) and requires energy and oxygen to allow adequate sensitivity for their needs. The nose is also important in cooling blood going to the brain and heating air breathed out through the nose which allows thermoregulation.
 9. Dog intestine and pelvis lateral view - black areas in abdomen are gas build up in intestines which is normal
 
 Other Animal X-Rays in black case:
+
 For the exotic ones there's an information sheet which shows which X-ray is which and tells you about the animals. There are pictures of the animals which line up with the X-rays, which is good for young children as they enjoy matching them up. There should be:
-Common marmoset
-European rabbit
-Joey kangaroo
-Pumpkinseed sunfish
-Frontsa cichlid (fish)
-Green tree python
-Western diamondback rattlesnake
-Infant green iguana
-Dwarf crocodile eggs
-Veiled chameleon
-Box turtle with eggs
-Red-tailed hawk
-Turkey vulture
-Leaf Frog
+- Common marmoset
+- European rabbit
+- Joey kangaroo
+- Pumpkinseed sunfish
+- Frontsa cichlid (fish)
+- Green tree python
+- Western diamondback rattlesnake
+- Infant green iguana
+- Dwarf crocodile eggs
+- Veiled chameleon
+- Box turtle with eggs
+- Red-tailed hawk
+- Turkey vulture
+- Leaf Frog
 
 Others:
 1. Puppy angiograms x2 dorsoventral and lateral views - same interesting points as dog angiogram, also have epiphysis at joints.
@@ -148,7 +151,9 @@ Others:
 
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
-**Mitigation**: Discourage demonstrators with epilepsy from choosing this experiment, and the public from staring too closely at the light box for prolonged periods. If they complain of feeling unwell switch the box off and advise them not to look at it further. Switch off the light box if necessary. Call a first aider in the event of injury.
+**Mitigation**: Discourage demonstrators with epilepsy from choosing this experiment, and the public from staring too closely at the light box for prolonged periods. If they complain of feeling unwell switch the box off and advise them not to look at it further. Switch off the light box if necessary. 
+
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -162,7 +167,9 @@ Others:
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ensure that the light box is not close to the edge of the table and is in a stable position. Call first aider in case of injury.
+**Mitigation**: Ensure that the light box is not close to the edge of the table and is in a stable position. 
+
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -191,3 +198,5 @@ Others:
 **Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-22 - Jamie Barrett (jb2369@cam.ac.uk)

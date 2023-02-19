@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-15 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -130,10 +130,6 @@ Call first aider in event of injury.
 
 <br/>
 
-()
-
-<br/>
-
 ### **Hazard**: Optical Illusions
 
 **Description**: Children might get dizzy / feel strange after staring at some illusions.
@@ -164,3 +160,5 @@ Could result in feeling ill, or wandering into walls / hitting things.
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-15 - Asmita Niyogi (an637@cam.ac.uk)

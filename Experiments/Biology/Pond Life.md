@@ -2,7 +2,7 @@
 
 **A selection of organisms from a local pond or rock pool** - nan
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-18 by Maggie Goulden (mcg58) and doubled checked on 2023-02-18 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -51,6 +51,7 @@ Common backswimmer, aka the 'Water Boatman' - a fearsome predator that hunts sma
 Dragonfly and damselfly nymphs - Dragonflies and damselflies are part of the Odonata order, which means 'toothed ones', reflecting their predatory habit. There are 57 species of Odonata in the UK: 36 dragonflies and 21 damselflies. Although we're familiar with these insects in their adult, winged forms, they spend most of their lives as nymphs (larvae). Dragonfly nymphs metamorphose gradually - they shed their skins 5-14 times before they emerge from the water. When they do emerge, they shed for a final time, becoming adult dragonflies. They then wait for about an hour until their wings harden and they can fly. Note this is very different from butterflies, which only undergo a single metamorphosis step. The nymph stage lasts up to 4 years, whereas the adult stage lasts only a few weeks. 
 FUN FACT - The nymphs are ferocious predators - they have a hinged jaw that they can shoot out to catch their prey. 
 ID TIP - you can tell the difference between adult mayflies and dragonflies by how their winds are positioned when they land - dragonflies sit with their wings open (horizontal) whereas mayfly have their wings closed together.
+NOTE - the key given says that damselfly nymphs have more than two tails but this isn't always true as particular specimens may have lost one!
 
 Mayfly larvae - these are flying insects that look a little bit like damselflies, but they have broader wings and long tails. Their larvae also live underwater. Often the adults hatch out and take flight simultaneously and in their hundreds. Once they reach adulthood, they may only live for a matter of hours - just enough time to mate and lay eggs before they die
 FUN FACT - The adults of many mayfly species don't eat at all as their sole purpose is to reproduce (they die soon after).
@@ -60,6 +61,7 @@ Common frog (demo may have frogspawn or tadpoles in it) - Common frogs are amphi
 FUN FACT - frogs breathe through their skin, allowing them to stay underwater without drowning. Their skin is thin, with an extensive network of blood vessels under its surface. Oxygen is absorbed through the skin and goes into the blood stream which transports it around the body. (compare to the lesser water boatman)
 
 WILD ABOUT GARDENS CAMPAIGN
+
 If people are interested about how they can encourage wildlife, you can direct them to the Wild About Gardens Campaign, run by the Wildlife Trusts and Royal Horticulture Society https://www.wildaboutgardens.org.uk/. It has loads of useful tips on wildlife gardening and their focus this year (2020) is on ponds!
 
 Some info from their booklet:
@@ -97,7 +99,7 @@ In case of injury, call first aider.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Encourage hand washing after touching experiment. Hand washing facilities made available. Cover up any cuts whilst handling water.
-Call first aider in case of injury. If child ingests anything from the aquarium, advise parents to take child to GP if child becomes ill.
+Call first aider in case of injury. If child ingests anything from the aquarium, advise parents to take child to GP if child becomes ill, and give them notes about where water was collected.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -152,3 +154,5 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 **Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk)

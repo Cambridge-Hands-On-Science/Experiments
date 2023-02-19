@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,6 @@ Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-- **Darkroom needed**
 - **Electricity needed**
 - Box in which is mounted a signal generator and audio amplifier, with cables.
 - Loudspeaker
@@ -31,9 +30,9 @@ Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and doub
 
 ## Experiment Explanation 
 
-*** OVERVIEW ***
+### **Overview**
  
-Seeing Sound uses a signal generator and loudspeaker to make sounds, as well as various musical instruments. There is a microphone and oscilloscope to `see' the sound, to allow kids to learn about what sound waves are and some of their properties. If the oscilloscope isn't working, or is too complicated to figure out, a reasonable alternative is to download a free mobile app instead. If doing this, keep your phone in your possession at all times.
+Seeing Sound uses a signal generator and loudspeaker to make sounds, as well as various musical instruments. There is a microphone and oscilloscope to 'see' the sound, to allow kids to learn about what sound waves are and some of their properties. If the oscilloscope isn't working, or is too complicated to figure out, a reasonable alternative is to download a free mobile app instead. If doing this, keep your phone in your possession at all times.
 
 Possible activities:
 - Explaining what sound is, and how you can hear things, using the signal generator and loudspeaker.
@@ -52,7 +51,7 @@ Tips for demonstrating:
 - Get the children to try different vowel sounds, low sounds, and high sounds etc. 
 - There's a lot which can be done in this experiment; you don't have to do it all, and you don't have to follow the order below...
 
-*** BASIC PROCEDURE AND EXPLANATION *** 
+### **Basic Procedure and Explanation**
 
 - Start by explaining how we can hear things. Ask the children if they know anything about waves - water waves, sound waves etc.
 
@@ -79,7 +78,7 @@ Tips for demonstrating:
 - Now for the musical instruments! Let them try to make different notes with recorder and concertina, and with the big pan pipes from the resonance experiment. Look at how different pitches, different volumes, and different timbres (types of note) appear on the oscilloscope. Ask if they play any instruments and explain how that creates vibrations.
 
 
-*** OTHER THINGS TO TALK ABOUT *** 
+### **Other things to talk about**
 
 - Introduce the idea of wavelength with long wavelengths corresponding to low frequencies and vice versa.
  
@@ -89,7 +88,7 @@ Tips for demonstrating:
 
 - You can think about why the ear and loudspeaker are the shapes they are, and why these are quite similar. This is also quite like an amphitheatre.
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS *** 
+### **Science Background for Demonstrators**
 
 Sound is a longitudinal (compression and rarefaction) wave through the air. The signal generator produces an oscillating electrical signal, made bigger by the amplifier; the loudspeaker contains a coil of wire which acts as an electromagnet, so that the speaker cone oscillates at the same rate as the signal. We hear because the sound wave makes our eardrums vibrate: the vibration is passed on through a series of bones which amplify its magnitude to the cochlea, where tiny hairs inside the fluid-filled tube pass a signal through the auditary nerve to the brain when they resonate with the vibrations. (The action of these hairs is complex, and only recently becoming understood.)
 
@@ -109,7 +108,9 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Keep oscilloscope away from edges of table. In the event that the oscilloscope falls, switch it off. Clear up broken glass. Call first aider in case of injury. Close experiment if necessary.
+**Mitigation**: Keep oscilloscope away from edges of table, or keep in the opened box if convenient. In the event that the oscilloscope falls, switch it off. Clear up broken glass. 
+
+Call first aider in case of injury. Close experiment if necessary.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -137,7 +138,9 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Take care not to have amplifier on too loud. Call first aider in case of injury.
+**Mitigation**: Take care not to have amplifier on too loud. 
+
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -180,3 +183,5 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 **Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)

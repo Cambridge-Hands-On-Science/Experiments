@@ -1,8 +1,8 @@
 # Alloys 
 
-**nan** - nan
+**Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-07 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -12,13 +12,18 @@ Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk) and doub
 **Materials Science**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
+**CHaOS+** (More complex explanations suitable for older children are available)
+
+**Requires Electricity**
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
 
 ## Equipment Needed 
 - **Electricity needed**
-- Cutlery, cheap stainless set more expensive stainless set (all spoons)
+- Cutlery, a cheap stainless set and a more expensive stainless set (all spoons)
 - Magnet
 - NiTinol springs
 - NiTinol Magic Tricks (Bending Paperclip and Heart Wire)
@@ -30,7 +35,6 @@ Last initially checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk) and doub
 <br/>
 
 ## Experiment Explanation 
-
 
 
 What is an alloy? A metal which is a metal mixed with something. More rigorously: A metallic solid or liquid that is composed of a mixture of two or more metals, or of metals and nonmetal or metalloid elements, usually for the purpose of imparting or increasing specific characteristics or properties.
@@ -46,8 +50,9 @@ Say that you can tell how expensive someone's cutlery is from whether it is magn
 Finally, demonstrate the shape memory alloys. Ask members of the audience to deform the NiTinol wire sample. After this, tell them you will return it to its original shape. Heat up using the heat gun, holding the wire using a pair of tongs. If the wire has been tangled by an ambitious member of the audience, you may need to untangle it, as this may prevent the wire from uncoiling fully. The ideal geometry is to curl the wire into a spring.
 
 
--------Plasticine Models -------------
-I have made some Plasticine alloy models which you can play around with (once RA checked). They're made by taking Plasticine (duh) and varying quantities of sand. Please pack them away in the nice sealed containers so they don't dry out! Get kids to play with some they're body temperature and then roll them into a cylinder (approx 1.5cm diameter x 6cm length, although having the different alloys similar size is more important) then gently pull apart till you get a gentle failure (no arms flying around, that's not gentle). You should get a ductile fracture, small pockets form, these coalesce, then a crack propagates until we reach separation. Compare the forces needed, the fracture surfaces (using a magnifying glass, you could even compare to a tear or snap you make) and make theories about what adding the sand has done.
+**Plasticine Models**
+
+I have made some Plasticine alloy models which you can play around with. They're made by taking Plasticine (duh) and varying quantities of sand. Please pack them away in the nice sealed containers so they don't dry out! Get kids to play with some they're body temperature and then roll them into a cylinder (approx 1.5cm diameter x 6cm length, although having the different alloys similar size is more important) then gently pull apart till you get a gentle failure (no arms flying around, that's not gentle). You should get a ductile fracture, small pockets form, these coalesce, then a crack propagates until we reach separation. Compare the forces needed, the fracture surfaces (using a magnifying glass, you could even compare to a tear or snap you make) and make theories about what adding the sand has done.
 
 PLUS Explanation
 ----------------
@@ -91,9 +96,7 @@ Finally, demonstrate the shape memory alloys. Ask members of the audience to def
 
 If the wire has been tangled by an ambitious member of the audience, you may need to untangle it, as this may prevent the wire from uncoiling fully. The ideal geometry is to curl the wire into a spring. The heart magic trick is the best at springing back - the paperclip is a bit dead and doesn't look much like a paperclip any more. For curious audience members, there are some (slightly manky) normal springs that you could heat up for comparison. Ask what they expect to happen and then show them that it doesn't return to its original shape like the NiTinol ones do. There are a couple of springs that have been deformed permanently - show them that this isn't recoverable for a normal alloy, which they should ideally recall from work they've done on Hooke's law and elastic limits.
 
-You'll also need to explain why it happens! I've uploaded an image that you could use/copy out. You'll need to know what a phase is for this to make any sense, and that phases can have different crystal structures (the Christmas tree model is useful here). The important thing about shape memory materials is that they can undergo a diffusionless transformation from a parent phase (austenite) into a low-symmetry metastable martensite phase. The names are taken from the phases of steel - shape memory materials are not steels - it's just that materials scientists aren't that inventive. Transformations between the austenite and martensite phases can be induces by temperature or stresses. You can expose the material to a temperature or apply a stress such that the parent phase becomes unstable with respect to the martensite phase, and the material transforms. This also works in reverse, when you remove the stress/temperature driving force, and you can get martensite -> austenite transformations as a result. 
-
-This is shown schematically in a v. poorly hand-drawn graph I've uploaded. I will leave this in the box :)
+You'll also need to explain why it happens! I've uploaded an image that you could use/copy out. You'll need to know what a phase is for this to make any sense, and that phases can have different crystal structures (the Christmas tree model is useful here). The important thing about shape memory materials is that they can undergo a diffusionless transformation from a parent phase (austenite) into a low-symmetry metastable martensite phase. The names are taken from the phases of steel - shape memory materials are not steels - it's just that materials scientists aren't that inventive. Transformations between the austenite and martensite phases can be induces by temperature or stresses. You can expose the material to a temperature or apply a stress such that the parent phase becomes unstable with respect to the martensite phase, and the material transforms. This also works in reverse, when you remove the stress/temperature driving force, and you can get martensite -> austenite transformations as a result.
 
 The shape memory effect depends on temperature. You can train your alloy in the austenite phase and recover deformation that occurs in the martensite phase.
 
@@ -140,128 +143,92 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 ## Risk Assessment
 
-<table border=1>
-<tr><td>Hazard</td>
-<td>Affected Person(s)</td>
-<td>Risk</td>
-<td>Likelihood</td>
-<td>Severity</td>
-<td>Overall</td>
-<td>Mitigation</td>
-<td>Likelihood</td>
-<td>Severity</td>
-<td>Overall</td>
-</tr>
-<tr><td>Heat gun</td>
-<td>All</td>
-<td>
-Fire risk and also the possibility of burns.
-</td><td>
-3
-</td><td>
-5
-</td><td>
-15
-</td> <td>
-Demonstrator to control heat gun. Do not leave on. Keep flammable material away from the heat gun and use with heat proof mat. Use stand instead of lying heat gun on a surface. Do not touch the heat gun. Keep the temperature setting low.
-In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. Follow venue RA protocols in case of fire.
-</td><td>
-1
-</td><td>
-4
-</td><td>
-1
-</td></tr>
-<tr><td>NiTinol wire and tongs hot when heated</td>
-<td>All</td>
-<td>
-Risk of burns.
-</td><td>
-3
-</td><td>
-3
-</td><td>
-9
-</td> <td>
-Do not let anyone near the heated wire. The wire is thin and should cool within a few seconds, but care should be taken with the tongs. If possible, obtain a heat-resistant mat to lay the tongs/wire on after heating.
-In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. Follow venue RA protocols in case of fire.
-</td><td>
-2
-</td><td>
-3
-</td><td>
-6
-</td></tr>
-<tr><td>Ends of wires</td>
-<td>All</td><td>
-Cuts
-</td><td>
-4
-</td><td>
-2
-</td><td>
-6
-</td> <td>
-Make sure sharp ends are doubled back
-</td><td>
-2
-</td><td>
-2
-</td><td>
-4
-</td></tr>
-<tr><td>Cutlery</td>
-<td>All</td><td>
-Stabbing self/others
-</td><td>
-3
-</td><td>
-4
-</td><td>
-12
-</td> <td>
-Limit cutlery to spoons or make sure that any knives or forks are not sharp. Only give cutlery to responsible children and if they being silly with the cutlery take it off them.
-</td><td>
-1
-</td><td>
-4
-</td><td>
-4
-</td></tr>
-<tr><td>Magnets</td>
-<td>Public</td>
-<td>
-Skin getting caught between cutlery and magnet 
-</td><td>
-2
-</td><td>
-3
-</td><td>
-6
-</td> <td>Use weak magnet so won’t cause harm if occurs 
-</td><td>
-2
-</td><td>
-2
-</td><td>
-4
-</td></tr>
-<tr><td>Plasticine Models</td>
-<td>Public</td><td>Ingestion and risk of accidentally hitting children when arms fly apart from breaking.
-</td><td>
-3
-</td><td>
-4
-</td><td>
-12
-</td> <td>Plasticine and sand are both non-toxic, although parents should be informed as eating small quantities may lead to stomach upset. Large quantities may require a stomach pump however there's no need to be giving out large amounts. Don't give plasticine to small children and tell them not to eat it. Ensure children are standing apart while testing models and ensure they pull gently.
-</td><td>
-2
-</td><td>
-2
-</td><td>
-4
-</td></tr>
+
+### **Hazard**: Heat Gun
+
+**Description**: Fire risk and also the possibility of burns.
+
+**Affected People**: all
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+
+**Mitigation**: Demonstrator to control heat gun. Do not leave on. Keep flammable material away from the heat gun and use with heat proof mat. Use stand instead of lying heat gun on a surface. Do not touch the heat gun. Keep the temperature setting low. 
+
+In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. 
+
+Follow venue RA protocols in case of fire.
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+
+
+### **Hazard**: NiTinol wire and tongs hot when heated
+
+**Description**: Risk of burns.
+
+**Affected People**: all
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Do not let anyone near the heated wire. The wire is thin and should cool within a few seconds, but care should be taken with the tongs. If possible, obtain a heat-resistant mat to lay the tongs/wire on after heating. 
+
+In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. 
+
+Follow venue RA protocols in case of fire.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6  
+
+
+### **Hazard**: Ends of wires
+
+**Description**: Cuts
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Make sure sharp ends are doubled back.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+
+### **Hazard**: Cutlery
+
+**Description**: Stabbing self/others
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+
+**Mitigation**: Limit cutlery to spoons or make sure that any knives or forks are not sharp. Only give cutlery to responsible children and if they being silly with the cutlery take it off them.
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+
+
+### **Hazard**: Magnets
+
+**Description**: Skin getting caught between cutlery and magnet
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Use weak magnet so won’t cause harm if occurs.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+
+### **Hazard**:  Plasticine Models
+
+**Description**: Ingestion and risk of accidentally hitting children when arms fly apart from breaking.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+
+**Mitigation**: Plasticine and sand are both non-toxic, although parents should be informed as eating small quantities may lead to stomach upset. Large quantities may require a stomach pump however there's no need to be giving out large amounts. Don't give plasticine to small children and tell them not to eat it. Ensure children are standing apart while testing models and ensure they pull gently.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
 
 <br/>
 
@@ -284,3 +251,5 @@ Skin getting caught between cutlery and magnet
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)

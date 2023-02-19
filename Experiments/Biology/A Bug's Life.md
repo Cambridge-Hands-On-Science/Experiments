@@ -2,7 +2,7 @@
 
 **All sorts of creepy crawlies preserved in perspex blocks or jars.** - All sorts of creepy crawlies preserved in perspex blocks or jars.
 
-Last initially checked on 2022-01-28 by Sian Boughton (seb216@cam.ac.uk) and double-checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -202,7 +202,7 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Take away from kids if they are being silly with them.
+**Mitigation**: Take away from kids if they are being silly with them. Keep all perspex blocks in sight during the demonstration.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -259,3 +259,5 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-10 - Margaret Johncock (mllyj2@cam.ac.uk)

@@ -1,8 +1,8 @@
 # Miscibility (Sugar Rainbows)
 
-**nan** - nan
+**Make a rainbow in a glass** - Explore the density of different sugary syrups and make a rainbow in the process.
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-31 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-08 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,13 +17,13 @@ Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-- Food coloring - range of colors
+- Food colouring - range of colors
 - Sugar
 - Water
 - Measuring cylinder or something equivalently long and thin
 - Vegetable oil
 - Other containers for mixing
-- 
+
 - For ice part
 - Plastic measuring cylinder
 - Dyed ice cubes
@@ -35,7 +35,7 @@ Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 
 Here's How:
 
-(Line up five glasses. Add 1 tablespoon (15 g) of sugar to the first glass, 2 tablespoons (30 g) of sugar to the second glass, 3 tablespoons of sugar (45 g) to the third glass, and 4 tablespoons of sugar (60 g) to the fourth glass. The fifth glass remains empty.
+Line up five glasses. Add 1 tablespoon (15 g) of sugar to the first glass, 2 tablespoons (30 g) of sugar to the second glass, 3 tablespoons of sugar (45 g) to the third glass, and 4 tablespoons of sugar (60 g) to the fourth glass. The fifth glass remains empty.
 Add 3 tablespoons (45 ml) of water to each of the first 4 glasses. Stir each solution. If the sugar does not dissolve in any of the four glasses, then add one more tablespoon (15 ml) of water to each of the four glasses.
 Add 2-3 drops of red food colouring to the first glass, yellow food colouring to the second glass, green food colouring to the third glass, and blue food colouring to the fourth glass. Stir each solution - might want to prepare the solutions before, depends how long this actually takes. If making or replenishing solutions while demonstrating, you can get children to stir (watch they don't eat it!).
 Now let's make a rainbow using the different density solutions. Fill the last glass about one-fourth full of the blue sugar solution.
@@ -163,3 +163,5 @@ Call first aider in the event of an emergency.
 **Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-08 - Johan Kidger (jpk51@cam.ac.uk)

@@ -2,7 +2,7 @@
 
 **Removing copper oxides from coins.** - Those grubby coppers in your pocket or purse can be shined up in minutes, give it a try and find out how it works.
 
-Last initially checked on 2022-01-23 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -126,3 +126,5 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 **Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)

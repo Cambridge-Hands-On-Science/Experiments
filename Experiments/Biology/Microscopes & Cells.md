@@ -2,7 +2,7 @@
 
 **Examining a variety of objects under a microscope, including a variety of slides** - All sorts of things can be viewed down a microscope! This might include the biology lesson classic of an onion skin, the shapes of salt and sugar crystals, the eye of the insect you found in your tent, a drop of puddle water... 
 
-Last initially checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-02-27 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -91,30 +91,30 @@ Tapeworms (Cestodes): Adult tapeworms are elongated, segmented, hermaphroditic f
 Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical worms. They inhabit intestinal and extraintestinal sites.
 
 1) **Schistosomiasis** (caused by a fluke/ trematode)
-• Schistosomiasis is a chronic, parasitic disease caused by blood flukes (schistosomes)
-• At least 230 million people require treatment every year – praziquantel 
-• Infection from larval forms released from freshwater snails in contaminated water
-• Penetrate the skin and live in circulation where females release eggs
-• Cause damage because of the host immune response to the parasites
+- Schistosomiasis is a chronic, parasitic disease caused by blood flukes (schistosomes)
+- At least 230 million people require treatment every year – praziquantel 
+- Infection from larval forms released from freshwater snails in contaminated water
+- Penetrate the skin and live in circulation where females release eggs
+- Cause damage because of the host immune response to the parasites
 
 2) **Liver fluke** (*Fasciola hepatica*) (caused by a fluke)
-• Freshwater snail intermediate host, where reproduction occurs, then they are released as cercariae and swim through water to be ingested by ruminants normally, or sometimes humans eating uncooked foods like watercress
-• Adult lives in the liver where they feed on the lining of bile ducts – makes cheese-like holes in the liver
-• Produce eggs – up to 25000 a day per female
+- Freshwater snail intermediate host, where reproduction occurs, then they are released as cercariae and swim through water to be ingested by ruminants normally, or sometimes humans eating uncooked foods like watercress
+- Adult lives in the liver where they feed on the lining of bile ducts – makes cheese-like holes in the liver
+- Produce eggs – up to 25000 a day per female
 
 3) **Dracunculiasis** (guinea-worm disease, caused by a nematode) 
-• Dracunculiasis (caused by Dracunculus medinensis, a long thread-like worm) is a parasitic disease on the verge of eradication
-• Exclusively transmitted by drinking water contaminated with parasite-infected fleas such as rural isolated ponds
-• Takes 10-14 months for worm to mature in the body
+- Dracunculiasis (caused by Dracunculus medinensis, a long thread-like worm) is a parasitic disease on the verge of eradication
+- Exclusively transmitted by drinking water contaminated with parasite-infected fleas such as rural isolated ponds
+- Takes 10-14 months for worm to mature in the body
 
 4) **Hookworm** (*Ancylostoma duodenale* and *Necator americanus*, kinds of nematodes) 
-• Soil-transmitted helminths (parasitic worms)
-• Major burden of disease worldwide - estimated 576-740 million people infected with hookworm
-• Hookworms live in the small intestine, eggs are passed in faeces of infected person – this is a problem in the developing world where people may defecate outside (near bushes, in a garden, or field) of if the faeces of an infected person are used as fertilizer, eggs are deposited on soil. 
-• Eggs then mature and hatch, releasing larvae (immature worms). 
-• The larvae mature into a form that can penetrate the skin of humans, and infection is mainly acquired by walking barefoot on contaminated 
-• Most people infected with hookworms have no symptoms. Some have gastrointestinal symptoms, especially persons who are infected for the first time. The most serious effects of hookworm infection are blood loss leading to anemia, in addition to protein loss. 
-• Infection is treatable – anthelminthic medications eg. albenadazole
+- Soil-transmitted helminths (parasitic worms)
+- Major burden of disease worldwide - estimated 576-740 million people infected with hookworm
+- Hookworms live in the small intestine, eggs are passed in faeces of infected person – this is a problem in the developing world where people may defecate outside (near bushes, in a garden, or field) of if the faeces of an infected person are used as fertilizer, eggs are deposited on soil. 
+- Eggs then mature and hatch, releasing larvae (immature worms). 
+- The larvae mature into a form that can penetrate the skin of humans, and infection is mainly acquired by walking barefoot on contaminated 
+- Most people infected with hookworms have no symptoms. Some have gastrointestinal symptoms, especially persons who are infected for the first time. The most serious effects of hookworm infection are blood loss leading to anemia, in addition to protein loss. 
+- Infection is treatable – anthelminthic medications eg. albenadazole
 
 
 #### PARASITE VECTORS:
@@ -123,11 +123,11 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 (There are two cuddly toys for this, so you can show a second uninfected mosquito feeding off a human host)
 
 1) **Mosquito**: 
-• Most mosquitoes are harmless but some can transmit disease
-• Viral diseases, such as yellow fever, dengue fever and Chikungunya, transmitted mostly by Aedes aegypti
-• Parasitic disease malaria, carried by mosquitoes of the genus Anopheles 
-• Lymphatic filariasis (the main cause of elephantiasis – worms block lymphatics impairing lymph drainage causing swelling of the limbs) 
-• We have cuddly toys of mosquitoes – in the parasites box
+- Most mosquitoes are harmless but some can transmit disease
+- Viral diseases, such as yellow fever, dengue fever and Chikungunya, transmitted mostly by Aedes aegypti
+- Parasitic disease malaria, carried by mosquitoes of the genus Anopheles 
+- Lymphatic filariasis (the main cause of elephantiasis – worms block lymphatics impairing lymph drainage causing swelling of the limbs) 
+- We have cuddly toys of mosquitoes – in the parasites box
 
 
 #### ECTOPARASITES:
@@ -135,34 +135,31 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 
 (You can borrow cuddly toys (in parasites box) and some preserved samples (from "Horrible Housemates") to help you demonstrate.)
 
-1)**Head louse** (*Pediculus humanus capitis*)
-• Lice are wingless biting or sucking insects. Lice infestation of any part of the body is called pediculosis! 
-• Live on your head (an ectoparasite) - has a single strong claw on each leg that can grab onto 6 hairs so they can move rapidly (may be on several heads in one day). But their short stumpy legs mean they can’t jump or walk well on flat surfaces.
-• Your head provides a source of food - blood
-• Eggs are called nits and the female attaches the eggs close to the scalp with a transparent quick-setting glue
-• The time taken to hatch depends upon temperature
-• Head lice have no lungs! They take in air by muscle contraction of the abdomen (via spiracles) 
-• Head lice have been recovered from prehistoric mummies!
+1) **Head louse** (*Pediculus humanus capitis*)
+- Lice are wingless biting or sucking insects. Lice infestation of any part of the body is called pediculosis! 
+- Live on your head (an ectoparasite) - has a single strong claw on each leg that can grab onto 6 hairs so they can move rapidly (may be on several heads in one day). But their short stumpy legs mean they can’t jump or walk well on flat surfaces.
+- Your head provides a source of food - blood
+- Eggs are called nits and the female attaches the eggs close to the scalp with a transparent quick-setting glue
+- The time taken to hatch depends upon temperature
+- Head lice have no lungs! They take in air by muscle contraction of the abdomen (via spiracles) 
+- Head lice have been recovered from prehistoric mummies!
 
 2) **Bed bug** (*Cimex lectularius*)
-• Ectoparasites that feed on human blood (haematophagous)
-• Live in houses and especially beds – most active at night so they can feed on the host without being noticed
-• Adults can survive more than a year without feeding
-• They don’t usually spread disease but they can cause allergic skin reactions
-• Light brown flattened oval-shaped body, vestigial front wings, microscopic hairs on abdomen that give a banded appearance 
+- Ectoparasites that feed on human blood (haematophagous)
+- Live in houses and especially beds – most active at night so they can feed on the host without being noticed
+- Adults can survive more than a year without feeding
+- They don’t usually spread disease but they can cause allergic skin reactions
+- Light brown flattened oval-shaped body, vestigial front wings, microscopic hairs on abdomen that give a banded appearance 
 
 #### HYDRA:
-
-
-![](http://www.srcf.ucam.org/chaos/sites/default/files/hy073gan.gif)
  
-• Hydra live in freshwater (unlike other members of their phylum, Cnidaria, like coral)
-• Attached via basal disc to a surface like rocks
-• Hydra eat small water organisms like water fleas
-• Have nematocysts – tiny stinging cells that inject toxin into their prey to paralyze them. The tentacles are sticky. The tentacles then move to bring the prey to their mouths, then prey is enzymatically digested. Sometimes they ‘swallow’ their tentacles so have to pull them back out.
-• There’s only one entrance and exit to the internal cavity – so indigestible parts come back out the same way!
-• Hydra mostly reproduce by budding – young polyps mature attached to the parent and then detach. There is also some seasonal sexual reproduction with mature polyps developing gonads on the external body wall.
-• Hydra have an amazing ability to regenerate. If you cut them in half, the head will grow a new foot and the foot a new head!
+- Hydra live in freshwater (unlike other members of their phylum, Cnidaria, like coral)
+- Attached via basal disc to a surface like rocks
+- Hydra eat small water organisms like water fleas
+- Have nematocysts – tiny stinging cells that inject toxin into their prey to paralyze them. The tentacles are sticky. The tentacles then move to bring the prey to their mouths, then prey is enzymatically digested. Sometimes they ‘swallow’ their tentacles so have to pull them back out.
+- There’s only one entrance and exit to the internal cavity – so indigestible parts come back out the same way!
+- Hydra mostly reproduce by budding – young polyps mature attached to the parent and then detach. There is also some seasonal sexual reproduction with mature polyps developing gonads on the external body wall.
+- Hydra have an amazing ability to regenerate. If you cut them in half, the head will grow a new foot and the foot a new head!
 
 
 
@@ -267,3 +264,5 @@ In case of accident, call first aider.
 **Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)

@@ -2,14 +2,12 @@
 
 **By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!** - By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!
 
-Last initially checked on 2022-12-23 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-01-30 by Lavinia Finalde Delfini (lf465@cam.ac.uk)
+Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Astrophysics**
-
-**Physics**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
@@ -26,14 +24,20 @@ Last initially checked on 2022-12-23 by Andrew Sellek (ads79@cam.ac.uk) and doub
 - Marbles - Earth/Sun on different scales
 - Red foam ball - Jupiter
 - Card with pin-prick hole - Sun/Solar system on bigger scales
+- Diagram/pictures of solar system
 
 <br/>
 
 ## Experiment Explanation 
+Place the different objects at varying distances and combinations to give kids a sense of scale of how big objects in the Solar System are, and how far they are from each other.
+
+The kid may not necessarily know all of the planets in the Solar System yet, so you can ask them to name the ones they know and fill in the rest. Feel free to throw in some facts about them to get them interested.
+
+Different scales, and corresponding distances:
 
 For globe earth:
 Golf Ball moon - at a distance of 4m
-c=6ms-1
+Speed of light c = 6ms-1
 
 For 2m (roughly demonstrator height) Sun:
 Earth marble
@@ -105,3 +109,5 @@ Call a first aider in the event of swallowing/choking
 **Check 1**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-03 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-12-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+
+**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Lauren Mason (llm34@cam.ac.uk)

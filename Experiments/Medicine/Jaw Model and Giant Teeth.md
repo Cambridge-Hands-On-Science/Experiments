@@ -1,9 +1,9 @@
 # Jaw Model and Giant Teeth
 
-**Anatomical model of the half jaw, parts can be removed to show structure of the teeth.** - An enlarged model of the jaw with some giant teeth that can be opened up.  Find out why we have milk teeth, why there are different types of teeth and why different species have different teeth.
+**Anatomical model of the half jaw, parts can be removed to show structure of the teeth.** - An enlarged model of the jaw with some giant teeth that can be opened up.  Find out why we have milk teeth, why there are different types of teeth, and why different species have different teeth.
 
 
-Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk) and double-checked on 2022-02-09 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,16 +25,16 @@ Last initially checked on 2022-01-14 by Polly Hooton (prh43@cam.ac.uk) and doubl
 ## Experiment Explanation 
 
 ACTIVITIES:
--show whole model- what do they think it is? Let them point to their own jaws
--take the model apart; any ideas what individual bits are?
+- Show whole model- what do they think it is? Let them point to their own jaws
+- Take the model apart - any ideas what individual bits are?
 
 OTHER THINGS TO TALK ABOUT:
--losing teeth; getting new ones (especially when the kids are at that age)
-- teeth are different- why do you need different shaped teeth? If we've got the animal skulls out, you could get them to go and have a look at those afterwards and think about why different animals have differently-shaped teeth.
-- toothache- look at nerves coming into teeth- that's how you can feel pain
+- Losing teeth; getting new ones (especially when the kids are at that age)
+- Teeth are different - why do you need different shaped teeth? If we've got the animal skulls out, you could get them to go and have a look at those afterwards and think about why different animals have differently-shaped teeth.
+- Toothache - look at nerves coming into teeth - that's how you can feel pain
 
 TIPS FOR DEMONSTRATING:
--focus your explanation on the age of the audience; if you have 6/7 year olds that are just getting their adult teeth, talk about that; if you have teenagers, you could talk about braces etc.
+- Focus your explanation on the age of the audience; if you have 6/7 year olds that are just getting their adult teeth, talk about that; if you have teenagers, you could talk about braces etc.
 
 BASIC PROCEDURE AND EXPLANATION:
 
@@ -42,11 +42,13 @@ BASIC PROCEDURE AND EXPLANATION:
 
 - Different types of teeth have different functions. Flat ones at the front for cutting things, pointy ones for tearing/ripping, flat big ones at the back for grinding. When do we get new teeth? baby ones, adult ones, wisdom teeth. Look how deep the teeth go into our gums, can see on skull X-ray too.
 
-- See where the blood vessels and nerves go to teeth. Think about what nerves are doing, funny that they go to bones. When do we know about them being there...toothache. Why might we get it? Protection covering teeth damaged, sugar, bacteria and stuff.
+- See where the blood vessels and nerves go to teeth. Think about what nerves are doing, funny that they go to bones. When do we know about them being there... toothache. Why might we get it? Protection covering teeth damaged by sugar, bacteria, etc.  
 
 OTHER THINGS TO TALK ABOUT:
 
-- medical procedures on teeth: fillings, braces, dentures; the idea is to get them thinking about what could go wrong and how they would fix it if they were a dentist
+- Numbers and names of teeth: 20 primary teeth (8 incisors, 4 canines, 8 molars); 32 permanent teeth (8 incisors, 4 canines, 8 premolars, 12 molars + 4 wisdom teeth)  
+
+- Medical procedures on teeth: fillings, braces, dentures; the idea is to get them thinking about what could go wrong and how they would fix it if they were a dentist
 
 
 
@@ -91,3 +93,5 @@ OTHER THINGS TO TALK ABOUT:
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-12 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2** 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)

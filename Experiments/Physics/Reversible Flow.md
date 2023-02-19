@@ -1,8 +1,8 @@
 # Reversible Flow
 
-**Turn syrup one way, then the other, and see that it gets back where it started.** - nan
+**Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-02-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,7 +19,7 @@ Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and doub
 ## Equipment Needed 
 - Two concentric cylinders with a gap in between and a handle to rotate the inner cylinder (Couette geometry)
 - Golden syrup - enough so that the depth of golden syrup is a good couple of inches.
-- Anything like icing sugar for "drawing" on the surface of the syrup. Helps if it's edible because people will want to lick their hands!
+- Anything like icing sugar for "drawing" on the surface of the syrup. Helps if it's edible in case children try to eat it (but they should be discouraged from doing so!)
 
 <br/>
 
@@ -31,30 +31,22 @@ This experiment demonstrates the ideas of time reversability in fluid flow.
 It consists of two concentric cylinders that can be rotated relative to one another, with the space between the cylinders filled with syrup. Using icing sugar, draw a picture or write an initial on the surface of the syrup. Turn the inner cylinder about one rotation, and see the picture get stretched and maybe even vanish. Now rotate the inner cylinder back again (slowly!) and watch your picture come back. Simple!
 
 
-What to do
-----------
-
+### What to do
 
 Put three cans of golden syrup in the white bucket. Sprinkle some of the icing sugar(or similar) in a straight radial line on the surface of the syrup. Whilst holding the bottom of the bucket firmly, get the children to SLOWLY turn the handle to rotate the inner cylinder (say 90°). Then get them to rotate it back slowly. The powder should be in the same pattern as initially. 
 
 
-How to explain it
------------------
-
+### How to explain it
 
 Imagine the syrup as little blobs of syrup. When you turn the inner cylinder they experience a force and so move. When you turn the cylinder back, they experience the same magnitude of force but pushing them in the opposite direction. So in the end it's as if they never moved at all.
 
 
-Related stuff
--------------
-
+### Related stuff
 
  A fish which swims in water by wiggling its tail from side to side wouldn't get anywhere if you put it in syrup. Moving the tail one way and then the other in syrup just puts the fluid back where it started, with no forward push. Sperm get round this by having a spiral tail which rotates, so their swimming motion is never 'reversed' and they can travel forwards.
 
 
-What are we seeing?
--------------------
-
+### What are we seeing?
 
 'The syrup is sticky so all the bits next to each other stay together' - close... 
 
@@ -62,22 +54,18 @@ What are we seeing?
 If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and lengthscales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup.
 
 
-Science background
-------------------
-
+### Science background
 
 Golden syrup has a very high viscosity, so the flow should be laminar. It is the little bit of turbulence that is unavoidable that will mean that you will have to occasionally clean it out and put fresh syrup in! The slowly is to minimise turbulence. This causes turbulent mixing which stops the demonstration working. 
 
 
-Other things to talk about
---------------------------
-
+### Other things to talk about
 
 Dimensionless numbers in fluid dynamics (e.g. Reynolds number, etc.) and how these can be used to describe flow in systems of completely different size, but same dimensionless number.
 
 
-**Some background information from 'Chemistry & Industry' 02/01/06**
-**Mixtures are Reversible by Lisa Richards**
+### Some background information from 'Chemistry & Industry' 02/01/06
+#### Mixtures are Reversible by Lisa Richards
 "When you were making your Christmas pudding last month, did you consider that if you chose to stir the mixture anti-clockwise, not only are you breaking a tradition and giving yourself bad luck, you may also have caused the mixture to separate rather than combine?
 
 As crazy as this may sound, it has been discovered that two liquids seemingly irreversibly mixed can be returned to their original components.
@@ -148,3 +136,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)

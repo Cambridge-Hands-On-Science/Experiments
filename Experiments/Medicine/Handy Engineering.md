@@ -2,7 +2,7 @@
 
 **Build a small working model hand from card and straws!** - Build a model of the inner workings of your hand! Learn about how muscles and tendons work together to control the movements of our fingers, and have a model to take home, made of simple household objects!
 
-Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-21 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -37,12 +37,16 @@ Last initially checked on 2022-02-09 by Grace Exley (gae23@cam.ac.uk) and double
 8. Thread each piece of string through a separate straw.
 
 
-You can also demo with a "How science works" theme if you have no clue about "how the hand" works. We study various models of how the hand works of various complexities. The paper model we make is simple but has more flaws than the more complicated Hand Model. You can get them to try and recreate motions on the two models and their 
-actual hand and look for muscles moving.
+You can also demo with a "How science works" theme if you have no clue about "how the hand" works. We study various models of how the hand works of various complexities. The paper model we make is simple but has more flaws than the more complicated Hand Model. You can get them to try and recreate motions on the two models and their actual hand and look for muscles moving.
 
 What does the model show?
 
-This string running up each of the fingers represents muscles that originate in the forearm running up each of the fingers to insert in to the distal phalanges of each finger. The tape represent the ligament that attaches muscle to bone. The string will represent flexor digitorum profundus that flex the distal interchangeable joints and can also flex metacarpophalangeal joint. The straws represent tendons between phalanges that hold the muscle tendons parallel to the bone allowing it to act as a pulley. Damage to these tendons results in bow stringing of a the muscle and compromises extension of a finger.
+The strings running up each of the fingers represent the tendons of muscles that originate in the forearm and insert onto the distal phalanges of each finger. 
+
+The main muscle is flexor digitorum profundus that flexes the distal interphalangeal joints (between the phalanges of the fingers) and metacarpophalangeal joints (between proximal phalanx of finger and metacarpal bone of hand). 
+
+When the muscle contracts it pulls on the tendons, bending the fingers at each of the joints.
+Damage to the tendons will compromise flexion of the fingers.
 
 <br/>
 
@@ -56,8 +60,9 @@ This string running up each of the fingers represents muscles that originate in 
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Younger children should be accompanied by an adult. CHaOS volunteers to oversee carefully.
-Ensure kids are behaving sensibly at all times. Use safety scissors. Call a first aider in the event of injury.
+**Mitigation**: Younger children should be accompanied by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors. 
+
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -80,3 +85,5 @@ Ensure kids are behaving sensibly at all times. Use safety scissors. Call a firs
 **Check 1**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-21 - Jamie Barrett (jb2369@cam.ac.uk)

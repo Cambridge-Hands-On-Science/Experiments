@@ -2,7 +2,7 @@
 
 **A spare plastic skeleton leg, now with added ligaments.** - Come and see the complexity behind how your knee works!
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-02-09 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-31 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,34 +24,36 @@ Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 
 ## Experiment Explanation 
 
-**Articulated Knee Model
-----------------------**
--See the Skeletons explanation for things to discuss about bones - e.g. why they are needed (support, movement, protection).
+**Articulated Knee Model**
+
+!!!CURRENTLY BROKEN!!!
+
+- See the Skeletons explanation for things to discuss about bones - e.g. why they are needed (support, movement, protection).
 
 Ideas for What to Do:
--As always, first get the kids to tell you what it's a model of (the leg) and work out what the joints are etc.
--Talk about bones and skeletons (see above).
--Perhaps start with looking at the ankle (or even another spare bit of skeleton) and ask the kids what's different about this model compared to their real leg (there are lots of bits missing - you are not held together with screws!)
--Ask them if they know what holds the bones together in the body (ligaments - could compare these to tendons holding muscle and bone together if they've had a look at the giant hand model). Ask them if they have heard about ligaments before (they may have heard of injuries to cruciate ligaments etc, common injury to occur to footballers)
--The model shows the patellar ligament, anterior and posterior cruciates and medial and lateral collateral ligaments. It also has the quadriceps tendon, which is not attached at the proximal end because it's a tendon not a ligament and attaches to the quadriceps muscle. You could perhaps flex the knee and get the kid to 'be' the quadriceps, pulling on the tendon to straighten the leg. You could talk about the location of the patella (kneecap) and how it is a vital component in how the knee works mechanically.
--Cruciate ligaments - could talk about how 'cruciate' means 'crossed', let them look at how the ligaments cross within the joint. They may well have heard of these being injured in skiing or something. My first year anatomy notes tell me the following: Anterior cruciate - limits anterior draw of tibia on femur, tight in extension, tested by pulling the tibia forwards. You could perhaps show how, if it was ruptured, the tibia would move excessively far forwards. Posterior cruciate - limits anterior slide of femur on tibia, tested by pushing tibia backwards, used on hills and stairs (so if you've ruptured it, you cannot walk down stairs as the femur will slide too far forwards on the tibia). 
--You could also talk about what else is missing from the model - evidently there are lots more tendons and muscle attachments, and also the medial and lateral menisci helping to shape the articulating surfaces (again they may have heard of these in the context of sporting injuries). 
+- As always, first get the kids to tell you what it's a model of (the leg) and work out what the joints are etc.
+- Talk about bones and skeletons (see above).
+- Perhaps start with looking at the ankle (or even another spare bit of skeleton) and ask the kids what's different about this model compared to their real leg (there are lots of bits missing - you are not held together with screws!)
+- Ask them if they know what holds the bones together in the body (ligaments - could compare these to tendons attaching muscle to bone if they've had a look at the giant hand model). Ask them if they have heard about ligaments before (they may have heard of injuries to cruciate ligaments etc. - ACL tear is a common injury to occur to footballers)
+- The model shows the patellar ligament, anterior and posterior cruciate ligaments, and medial and lateral collateral ligaments. It also has the quadriceps tendon, which is not attached at the proximal end because it's a tendon not a ligament and attaches to the quadriceps muscle. You could perhaps flex the knee and get the kid to 'be' the quadriceps, pulling on the tendon to straighten the leg. You could talk about the location of the patella (kneecap) and how it is a vital component in how the knee works mechanically.
+- Cruciate ligaments - could talk about how 'cruciate' means 'crossed', let them look at how the ligaments cross within the joint. They may well have heard of these being injured in skiing or something. 
+ - Anterior cruciate - limits anterior draw of tibia on femur, tight in extension, tested by pulling the tibia forwards. You could perhaps show how, if it was ruptured, the tibia would move excessively far forwards. 
+ - Posterior cruciate - limits anterior slide of femur on tibia, tested by pushing tibia backwards, used on hills and stairs (so if you've ruptured it, you cannot walk down stairs as the femur will slide too far forwards on the tibia). 
+- You could also talk about what else is missing from the model - evidently there are lots more tendons and muscle attachments, and also the medial and lateral menisci helping to shape the articulating surfaces (again they may have heard of these in the context of sporting injuries). 
 
-**Tendon Hammer
--------------
-
+**Tendon Hammer**
 
 ACTIVITIES
--try to demonstrate some common reflexes
+- Try to demonstrate some common reflexes
 
 THINGS TO TALK ABOUT:
-- what is a reflex? (see below)
--why do we have reflexes (here you could talk about reflexes in general i.e. blinking) - reflexes are there to protect us
--Why would we want to test reflex action? By testing reflexes, doctors can find out if there is nerve damage etc.
+- What is a reflex? (see below)
+- Why do we have reflexes (here you could talk about reflexes in general i.e. blinking) - reflexes are there to protect us
+- Why would we want to test reflex action? By testing reflexes, doctors can find out if there is nerve damage etc.
+- Do they know what any of the reflex tests are?
 
 TIPS FOR DEMONSTRATING:
-It is often difficult to show the reflexes on the kid. A good idea is to try it out on yourself first. If all else fails, you could try to demonstrate some other reflexes; i.e. demonstrate blinking; demonstrate the pupil reflex (get one kid to close their eyes for a bit and then open them; does the pupil size change?) - you can have one kid doing it whilst the others watch and then swap, so everyone gets to see them
-
+- It is often difficult to show the reflexes on the kid. A good idea is to try it out on yourself first. If all else fails, you could try to demonstrate some other reflexes; i.e. demonstrate blinking; demonstrate the pupil reflex (get one kid to close their eyes for a bit and then open them; does the pupil size change?) - you can have one kid doing it whilst the others watch and then swap, so everyone gets to see them
 
 BASIC PROCEDURE AND EXPLANATION:
 
@@ -60,25 +62,22 @@ BASIC PROCEDURE AND EXPLANATION:
 
 These are some of the reflexes you could try:
 
-- Do they know where any of the reflexes are?
-- Get them to relax and try to elicit the reflexes:
-
-A Arm:
+Arm:
 1. Biceps: put your thumb on distal bicep tendon and tap that.
 2. Supinator: Put your finger their forearm (distal radius over the supinator muscle) and tap it.
 3. Triceps: bend their arm and tap distal tricep tendon.
 4. finger: Lay their fingers over your index finger and tap your index finger.
 
-B Leg:
+Leg:
 1. Knee: get them to cross their legs and tap the patella tendon.
 2. Ankle: Sit them on high ledge (if you have one), dorsiflex the foot and tap the achilles tendon.
 3. Babinski's: if they've got shoes that are easy to take off, run your finger up the lateral side of their sole.
 
-Most of these won't work in kids, because they don't relax. You could try reinforcement.
-i. Upper limbs: get them to grit their teeth.
-ii. Lower limbs: Get them to clasp their fingers together and pull.
-iii. NOTE: reinforcement only works for a very short period of time so you must do it at the same time as you bang the reflex.
-d. If you can't get a reflex there's no point bashing away at the same limb, because your chance of getting decreases each time -; try the other limb.
+Most of these won't work in kids, because they don't relax. You could try reinforcement:
+- Upper limbs: get them to grit their teeth.
+- Lower limbs: Get them to clasp their fingers together and pull.
+- NOTE: reinforcement only works for a very short period of time so you must do it at the same time as you bang the reflex.
+- If you can't get a reflex there's no point bashing away at the same limb, because your chance of getting decreases each time - try the other limb.
 
 EXPLAIN WHAT A REFLEX IS:
 
@@ -100,11 +99,11 @@ OTHER THINGS TO TALK ABOUT:
 
 This usually works better if the kids are a bit older:
 
-- why does a doctor want to test your reflexes
--get them to think about nerve damage and how you could assess that
--usually asking is a good idea (i.e. can someone feel something, see if they can move their arm etc.)
--however, what do you do if someone can't talk and doesn't move (i.e. in an accident when someone is unconscious)
--can then test if reflexes still work (i.e. doctors have pocket lamps; they can test the pupil reflex in an unconscious patient)**
+- Why does a doctor want to test your reflexes
+- Get them to think about nerve damage and how you could assess that
+- Usually asking is a good idea (i.e. can someone feel something, see if they can move their arm etc.)
+- However, what do you do if someone can't talk and doesn't move (i.e. in an accident when someone is unconscious)
+- Can then test if reflexes still work (i.e. doctors have pocket lamps; they can test the pupil reflex in an unconscious patient)**
 
 <br/>
 
@@ -119,6 +118,7 @@ This usually works better if the kids are a bit older:
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Make sure children do not go too near protruding parts; use tape to cover up the more dangerous parts of the skeleton.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -134,6 +134,7 @@ Call first aider in case of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Make sure children do not put fingers between bones, and ensure that leg is in a stable position when they do touch it.
+
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -149,6 +150,7 @@ Call a first aider in the event of injury.
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Do not leave the leg where it may fall on someone.
+
 Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -163,7 +165,9 @@ Call a first aider in the event of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Do not let children use tendon hammer or leg without supervision, don't let them get boisterous and over-excited with these items. Call first aider in event of injury.
+**Mitigation**: Do not let children use tendon hammer or leg without supervision, don't let them get boisterous and over-excited with these items.
+
+Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -178,6 +182,7 @@ Call a first aider in the event of an injury.
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Use medics who have been taught how to use the hammer, or someone who has been shown by a committee medic how to use the hammer. Do not use tendon hammer with excessive force.
+
 Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -207,3 +212,5 @@ Call first aider in event of injury.
 **Check 1**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-31 - Jamie Barrett (jb2369@cam.ac.uk)

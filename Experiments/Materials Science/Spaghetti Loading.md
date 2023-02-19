@@ -1,8 +1,8 @@
 # Spaghetti Loading
 
-**nan** - This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
+This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -11,7 +11,7 @@ Last initially checked on 2022-02-09 by Andrew Sellek (ads79@cam.ac.uk) and doub
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Materials Science**
+**CHaOS+** (More complex explanations suitable for older children are available)
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -40,14 +40,7 @@ How will we hold the ceiling up? Most students will say using a wall or pillar. 
 
 Push your hands together gently with your palms flat to demonstrate elastic buckling in the spaghetti. It is elastic because removing the force allows the spaghetti to return to its original shape. Ask the students how we can make the column stiffer i.e. resist buckling. 
 
-
-
-|  |  |  |  |
-| --- | --- | --- | --- |
-|  σEB= | c | ˙ | π2E |
-| 4 | (L/R)2 |
-
-
+$$\ σ_{EB} = \frac{cπ^2E}{4(L/R)^2} $$
 
 The above expression tells us that a smaller stress (force) is required to cause buckling if the aspect ratio, the ratio of the column length to its radius is larger. The column can be made stiffer in two ways: by making it shorter, or by making it wider. This can be demonstrated by giving the students pieces of spaghetti of different lengths and getting them to feel how much force it takes to make them buckle. Shorter pieces should be much more difficult to buckle.
 
@@ -65,14 +58,7 @@ First, ask the student if you can make stronger roof beams by laying them out in
 
 Secondly, by bundling them up, you increase the second moment of area of the roof section. This makes the beam stiffer under a 3-point bend, and it can therefore take more weight without flexing. The equation for 3-point bending is shown below:
 
-
-
-|  |  |  |
-| --- | --- | --- |
-|  y= | Fx | (3L2−4x2) |
-| 48EI |
-
-
+$$ y = \frac{Fx}{48EI} (3L^3 - 4x^2) $$
 
 Place a piece of spaghetti so that it is resting horizontally on top of the two wooden blocks. To make this part more interesting (if that's even possible), you can ask the students to take bets on how many of the steel nuts it will take (threaded onto the centre of the spaghetti beam) to break it. Usually, two or three is enough. After this, take a bundle of 5 pieces of spaghetti, and wrap an elastic band around one end to hold it all together. Ask the students whether it will take more or less weight to break the bundle (they should say more) and then ask how many nuts they want you to put on. Even with all 9 of the provided nuts, the bundle will not break. But you can show that however many they select, the bundle doesn't flex that much. **note:** it is difficult to demonstrate the effect of bundling vs. loose because loose spaghetti tends to bundle up when threaded through the nuts.
 
@@ -86,15 +72,13 @@ Hopefully by now someone has acquired a hollow beam and an I-beam. While these w
 
 Hollowing out a beam will decrease its mass significantly, with a less than proportionate loss in strength. This is because the larger the second moment of area of a beam (effectively a measure of the distribution of mass away from the central axis of the beam), the greater the 'beam stiffness' which is a product of second moment of area and young's modulus. A hollow beam will be much stiffer than a solid beam of the same mass.
 
+Solid Beam
 
+$$ I = \frac{wh^3}{12} $$
 
-|  |  |  |
-| --- | --- | --- |
-| Solid beam |  | Hollow beam |
-|  I= | wh3 |  |  I= | wh3 −winhin3 |
-| 12 |  | 12 |
+Hollow Beam
 
-
+$$ I = \frac{wh^3 - w_{in}h_{in}^3}{12} $$
 
 An I-shaped beam is used by engineers because it can achieve a similar strength to a beam with a solid cross section but requires less material to make and is also lighter. Some manufacturers even go as far as to cut holes in the stem of the 'I'. The further away material is from the central axis of the beam, the more it contributes to the stiffness of the beam. This is why cross sections with a greater second moment of area give stiffer beams. The beam is an 'I' rather than an 'H' because this orientation of the beam provides the most resistance to elastic deformation when the beam is under a vertical load, which it usually is in service.
 
@@ -111,6 +95,7 @@ An I-shaped beam is used by engineers because it can achieve a similar strength 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Clear spaghetti debris from table throughout the experiment. Instruct kids to throw away spaghetti pieces as the experiment progresses rather than at the end. Also make sure fractured pieces are not held near the face. Do the experiment in a tray.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -126,6 +111,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Clear spaghetti debris as much as you can throughout the experiment. As above, do the experiment in a tray to try to contain most of the shards.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -141,6 +127,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Forewarn students and when bending spaghetti, bend away from self and away from others.
+
 In case of injury call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -156,6 +143,7 @@ In case of injury call first aider.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Set-up on table to avoid toes. Have ‘drop zone’, no fingers under masses. Use light masses (10-50g) to avoid heavy masses hurting fingers.
+
 Call a first aider in event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -171,6 +159,7 @@ Call a first aider in event of injury.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Instruct students to not eat the spaghetti. Use different strands for each student, and for each group.
+
 In case of contact, advise parents to take children to GP if illness develops.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -190,3 +179,5 @@ In case of contact, advise parents to take children to GP if illness develops.
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+
+**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **CHeck 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)

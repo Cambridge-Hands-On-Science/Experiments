@@ -1,8 +1,8 @@
 # Spinny Chair
 
-**Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.** - nan
+**Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2022-01-09 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2022-02-09 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-01-20 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,9 +19,7 @@ Last initially checked on 2022-01-09 by Sophie Miocevich (srm81@cam.ac.uk) and d
 ## Equipment Needed 
 - **This experiment can take place outdoors**
 - Spinny chair *(Heavy - be careful when lifting)*
-- 
 - Masses - 2 small and 2 large (bags of rice covered in gaffer tape)
-- 
 - Bicycle wheel with handles, with spokes covered in cardboard to minimise finger trap risks
 
 <br/>
@@ -31,13 +29,10 @@ Last initially checked on 2022-01-09 by Sophie Miocevich (srm81@cam.ac.uk) and d
 Overview
 --------
 
-
-
 By using a spinning chair, weird effects due to conservation of angular momentum can be felt. 
 
 Set up:
 -------
-
 
 Try to make sure the chair is level, there is more than a metre of clear space around it in all directions, and the floor is something that won't graze anyone who lands on it (e.g. carpet). 
 
@@ -47,7 +42,6 @@ If you're unsure that you've got the screws in correctly, check with a committee
 
 Things to demonstrate:
 ----------------------
-
 
 Demonstrate the effect of the masses by starting the child spinning on the chair with the masses close to their body and then asking them to extend their arms (make sure you do it this way round as otherwise they can pull their arms in and start spinning too fast).
 
@@ -65,7 +59,6 @@ Start the wheel spinning and repeat - they will find it less controllable.
 Things to be aware of:
 ----------------------
 
-
 Smaller children may not be able to lift the masses. In this case, it’s probably enough for them to just hold their arms and legs out.
 Smaller children may also not be able to lift the wheel/ their arms may be too short. Either ask their adult to do it and explain what they feel to their child or sit on the chair yourself to demonstrate the effects (this can be tricky if you make yourself dizzy).
 
@@ -78,12 +71,10 @@ Only continue for as long as the child is remaining engaged/ understanding what 
 Explanation:
 ============
 
-
 My general tip here would be don’t get too technical. A lot of the point of this demonstration is to try and get the kids to notice the weird effects and predict what might happen because of them. In general, young kids will not understand vector addition and will quickly get bored if you mention it. 
 
 The masses:
 -----------
-
 
 The approach here is age dependent. For younger children who might find moments of inertia and angular momentum a bit complicated, you can ask them to look at how quickly the bags move if you’re spinning at a constant rate with arms out, and compare it with their speed with arms in. It might be helpful here to talk about a runner going round a racetrack - does the runner on the inside or the outside track travel further? If they both complete a lap in the same time, who’s running faster? 
 
@@ -96,7 +87,6 @@ In a similar way, when they start with the masses close to their chest, they are
 The wheel and the chair:
 ------------------------
 
-
 Ask the child what you have to do to make the wheel start spinning. Hopefully they will say you need to push it/ apply a force. When the child rotates the wheel from the vertical to a horizontal plane, they are changing the axis about which it spins. In the same way that starting an object spinning about an axis requires the application of a force, so does changing the axis about which the object is rotating (in the same way as it requires a force both to start moving and to change your direction of motion). This means that the child must be applying a force to the wheel’s axis in order to rotate it. By Newton’s Third Law, the axis of the wheel is causing an equal and opposite force on the child, which is why they experience a force. (If they’re older you can try and explain the difference between a force and a couple here but it’s not necessary). 
 
 When the child is on the chair, rotating the wheel causes them to start to spin. This is because the force on the child gets transmitted to the seat of the chair, causing a torque which makes the seat spin. 
@@ -107,7 +97,6 @@ When the child’s feet are on the floor the force is transferred through their 
 
 Precession:
 -----------
-
 
 (By this stage you may have already lost a few of the younger kids so it's a judgement call as to whether you try and explain the precession or just demonstrate it as a cool effect and mention that you can find similar things in your smartphone to let it know which direction is which).
 
@@ -123,8 +112,6 @@ This also (kind of) explains why the wheel is harder to push down once it's spin
 
 You can also do a ‘proof by impossibility’. First, go back to the fact that, for an object to rotate about a given axis, there must have been some force applied to cause that rotation. In the case of the wheel it’s obvious; you have to push tangentially on the wheel. Now ask what force makes the wheel rotate round so that it falls over. The answer to this is that gravity causes a torque that makes the wheel rotate about an axis in the x-y plane. Now, consider the case where the wheel was spinning, and it did somehow fall down. It would have to be spinning about the z axis. However, the only force acting on the system was gravity and we already decided that causes a rotation about an axis in the x-y plane. Thus, there are no forces in our system that would cause the wheel to have a rotation about the z axis and, if there are no such forces, there can be no way that the system ends up in this state. 
 
-
-
 <br/>
 
 ## Risk Assessment
@@ -138,6 +125,7 @@ You can also do a ‘proof by impossibility’. First, go back to the fact that,
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Demonstrator must maintain control of the chair and should not allow it to spin at speeds at which there is a significant risk of the child falling off. Starting children with arms tucked in and moving them out to slow down is a good way to ensure this. Make sure that the chair is placed on a flat floor, or grass which is sufficiently flat to ensure stability, with no corners or edges to fall against. If there is an area of flat grass or carpeted or wooden floor, this should ideally be used, though carpet introduces the possibility of grazing - warn the users of the wheel of this. Avoid placing the weights, and other hard objects on the floor haphazardly near the chair, which could injure children if they fall off. Sit well back on the chair to ensure good contact with the seat and allow easy adjustment of the centre of gyration by leaning forwards. Similarly avoid dizziness in both yourself and children by not spinning too fast or for too long.
+
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
@@ -153,13 +141,40 @@ Call a first aider in the case of an injury.
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Stop children/ members of public getting too violent - do not allow them to spin too fast. Ensure chair is on flat ground. Tell children to step off if it is spinning too fast. Stop the chair if it gets out of control. Make sure other children stand away from the chair whilst it is spinning. Use chair with stable base. Small children need to be lifted onto the chair by an accompanying adult to avoid pushing it over.
+
 Demonstrator to ensure the chair is correctly assembled (all parts are labelled). If unsure, ask an experienced member of committee to help.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
-('Children on chair', 'Hitting someone while spinning', 'All around the chair', 4, 2, 8, 'Keep viewers back, possibly by marking an area with hazard tape. Encourage people not to spin too fast and to stay aware of their surroundings when spinning.\r\nCall a first aider in the case of an injury.', 2, 2, '4 Chair and bags of rice', 'Heavy chair and bags of rice can be dangerous in transport.', 'Demonstrator', 2, 3, 6, 'The person carrying the equipment should be strong enough to do so, or get someone to help carry it. Use standard manual handling techniques.\r\nCall a first aider in the case of an injury.', 1, 3, 3)
+### **Hazard**: Children on chair
+
+**Description**: Hitting someone while spinning
+
+**Affected People**: All around the chair
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Keep viewers back, possibly by marking an area with hazard tape. Encourage people not to spin too fast and to stay aware of their surroundings when spinning.
+
+Call a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
+
+### **Hzard**: Chair and bags of rice
+
+**Description**: Heavy chair and bags of rice can be dangerous in transport.
+
+**Affected People**: Demonstrator
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: The person carrying the equipment should be strong enough to do so, or get someone to help carry it. Use standard manual handling techniques.
+
+Call a first aider in the case of an injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -172,6 +187,7 @@ Demonstrator to ensure the chair is correctly assembled (all parts are labelled)
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
 **Mitigation**: Bicycle wheel is covered in stiff plastic to stop fingers being inserted between spokes. Be ready to help child with rotating wheel if it gets out of control.
+
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -187,8 +203,10 @@ Call a first aider in the case of an injury.
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Demonstrator should assess the size/strength of a child before getting them to hold the gyroscope. If the child cannot hold it comfortably in both hands, with arms horizontal and the wheel easily not touching them then they are too small and/or weak (remember they will have to hold it for a while, and not drop it when it feels like it's fighting them). The demonstrator ought to be ready to take the wheel back if required or help support the wheel by the other handle, and take some time to practice and get a feel for how it moves before demonstrating it to the public (it's not hard to do, but it's difficult to think of why people might drop it if you've not had a play yourself).
+
 Ensure that people (particularly smaller children) don't have the string around their wrist whilst holding the wheel so that it doesn't sprain/damage the wrist if dropped.  Possibly best to wrap it around one of the handles while holding it so it doesn't flail about and hit someone.
 Another dropping risk comes from dangling it on the end of a piece of string. This is a good bit of the demo to do, but make sure that the string is both well tied, and not frayed, before doing this. Only do this part of the experiment if the demonstrator is comfortable lifting the wheel. 
+
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -218,3 +236,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2021-01-12 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-12 - Esmae Jemima Woods (ejw89@cam.ac.uk)
 
 **Check 1**: 2022-01-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)

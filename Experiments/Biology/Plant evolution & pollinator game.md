@@ -1,8 +1,8 @@
 # Plant evolution & pollinator game
 
-**Plant evolution timeline and matching plants with their pollinators** - nan
+**Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them. 
 
-Last initially checked on 2022-01-25 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2022-01-29 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -197,9 +197,9 @@ A quarter of all bat species use flowers for food to some extent. The anthers of
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Place timeline on table if possible. If you have to have it on the floor, put it in a safe place – i.e. not across a likely walkway, and ensure children do not walk/run across it.
+**Mitigation**: Place timeline on table if possible. If little space is available, try unraveling the timeline like a scroll in the demo. If you have to have it on the floor, put it in a safe place – i.e. not across a likely walkway, and ensure children do not walk/run across it.
 In case of injury, call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -212,7 +212,7 @@ In case of injury, call first aider.
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 **Mitigation**: Don't allow anyone to throw the tiles, keep them flat on table/floor.
 In case of injury, call a first aider.
@@ -258,3 +258,5 @@ In case of injury, call a first aider.
 **Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)

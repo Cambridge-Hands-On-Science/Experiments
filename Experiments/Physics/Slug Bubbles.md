@@ -2,7 +2,7 @@
 
 **Does a tube of water drain more slowly with a bung in the top?** - Does the diameter effect how fast water drains from a sealed tube? Watch the bubbles produced and see which is fastest. 
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-02-09 by Conor Cafolla (ctc43@cam.ac.uk)
+Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-17 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -129,4 +129,4 @@ In case of injury, call a first aider.
 
 **Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-17 - Jessica Trevelyan (jet81@cam.ac.uk)

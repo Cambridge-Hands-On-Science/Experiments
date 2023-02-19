@@ -2,7 +2,7 @@
 
 **Constraining light in a stream of water, making it work like an optical fibre.** - Find out what happens when light is trapped inside a stream of water. Make a beam of light bend round corners and see how fibre optics are helping to change the world!
 
-Last initially checked on 2022-02-09 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2022-02-26 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,9 +43,9 @@ A stream of water is used to bend light and demonstrate how fibre optics work.
 
 
 1. With the bottle empty, ask where they expect the light to go when the torch is switched on. Most will say in a straight line. Show them they are correct - it's useful to have a wall to point the torch at.
-- Put your finger over the hole and fill the bottle up with water.
-- Shine the torch through the bottle at the back of the hole.
-- Remove your finger from the hole and move it down the stream of water, showing how the light no longer travels in a straight line.
+2. Put your finger over the hole and fill the bottle up with water.
+3. Shine the torch through the bottle at the back of the hole.
+4. Remove your finger from the hole and move it down the stream of water, showing how the light no longer travels in a straight line.
 
 
 
@@ -73,13 +73,9 @@ We say there is total internal reflection if no light is refracted.
 
 ### Why do you get such a good reflection from the surface of the water?
 
-
-
 Light goes more slowly in water than in air and whenever light changes materials and the speed changes it will be bent (refracted). When it moves from a slow material (like water) to a faster one (like air) it is bent towards the surface.
 
 ### Optical Fibres
-
-
 
 If instead of making the tube out of water you use very very pure glass and pull it to a thin flexible fibre, when you shine light in at one end it will come out of the other. By getting the right design of fibre the light can travel through up to 50 km of fibre and still be detectable. You can then send signals through the fibre by flashing the light on and off again a bit like morse code, and if you can flash the light very fast you can transfer huge amounts of information. Speeds of data transfer can now reach 1.125 Terrabits per second (2016) down a long-distance optical fibre connection (http://www.ucl.ac.uk/news/news-articles/0116/110216-fastest-data-rate-record). Because they are so good at transmitting data optic fibres move most of the data around the world (internet traffic, phone calls etc.) and you are almost certainly reading this via one.
 
@@ -99,7 +95,7 @@ In the box there's also a length of optical fibre which can be used to show exac
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: If the floor is vulnerable to slipperiness, clear up any spills. Use wet floor sign if necessary.
+**Mitigation**: Clear up any spills. Use wet floor sign if necessary.
 It may be worth laying down newspaper in the area around the bucket.
 Try to do the experiment so as to minimize the amount of water getting on the floor in the first instance.
 Call a first aider in the case of an injury.
@@ -117,6 +113,7 @@ Call a first aider in the case of an injury.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Take care when carrying the large bucket of water, and seek assistance if necessary.
+If it is too heavy, only fill it as much as you need to fill the lemonade bottle.
 Use standard lifting techniques (e.g. lift with your knees, not your back) when carrying heavy objects.
 Clear any spills either as a result of outright dropping the bucket, or from water sloshing out during transfer of bucket.
 In the event of an accident call a first aider.
@@ -133,7 +130,8 @@ In the event of an accident call a first aider.
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Electrical torch to be well insulated from water - protect bodywork and bulb area.
+**Mitigation**: Torch should run on a low voltage (<12 V).
+Electrical torch to be well insulated from water - protect bodywork and bulb area.
 Take care not to drop the torch in the water.
 Turn off torch if in contact with the water.
 Call a first aider in the event of an accident.
@@ -195,3 +193,5 @@ Using an LED torch - as these are typically low power and do not pose a risk to 
 **Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)

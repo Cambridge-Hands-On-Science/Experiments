@@ -31,6 +31,8 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
+Lives in Electromagnetism Box. Commonly done alongside Electromagnetism and Lenz's Law.
+
 Get a volunteer to hold the pipe and challenge them to put the magnet in it and catch it as it comes out. If you've got a group ask them if they'd like the copper or perspex pipe, the copper pipe is the much better choice as it means you'll have more time. 
 
 This is because the moving magnet is inducing an electrical current in the metal. There are two ways to explain why this causes it to slow down:

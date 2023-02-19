@@ -2,18 +2,16 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk) and double-checked on 2022-02-09 by Emma Crickmore (elc75@cam.ac.uk)
+Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Maths**
-
-**Probability**
-
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
 **Maths**
+
+**Probability**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -104,7 +102,7 @@ An example lots of people like is Monopoly, it's an irreducible markov chain and
 
 ### **Hazard**: Small parts
 
-**Description**: Children swallowing Duplo pieces, potential choking hazard
+**Description**: Children swallowing Duplo pieces, potential choking hazard.
 
 **Affected People**: Public
 
@@ -132,7 +130,18 @@ Call first aider in case of injury.
 
 <br/>
 
-('Cards', 'Cards are slippery if stood on.', 2, 2, 4, 'Discourage people from actually stepping on the cards.\r\nCall first aider in case of injury.', 1, 2, 2)
+### **Hazard**: Cards
+
+**Description**: Cards are slippery if stood on.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Discourage people from actually stepping on the cards.
+Call first aider in case of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 2
 
 <br/>
 
@@ -155,3 +164,5 @@ Call first aider in case of injury.
 **Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk)
+
+**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)

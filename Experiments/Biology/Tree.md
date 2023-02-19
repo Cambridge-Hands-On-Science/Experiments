@@ -1,8 +1,8 @@
 # Tree
 
-**nan** - nan
+**Tree** - Tree? Tree!
 
-Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and double-checked on 2022-01-30 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-09 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,7 +18,8 @@ Last initially checked on 2022-01-29 by Conor Cafolla (ctc43@cam.ac.uk) and doub
 
 ## Equipment Needed 
 - **This experiment can take place outdoors**
-- Lumps of wood in a small grey box
+- Lumps of wood in a small grey box, including pieces of trunk, and bamboo
+- Pictures and explanatory diagrams
 
 <br/>
 
@@ -99,11 +100,13 @@ Not every annual ring is the same:
 • If the rings are narrow on one side of a tree with wide rings on the other, the tree was either crowded on the side of the tree where the rings are narrow or exposed to the wind.
 • The side with wider rings shows the tree had more space to grow or was sheltered from strong winds.
 ![](http://old.chaosscience.org.uk/sites/default/files/Bark_3.JPG)
+
 BAMBOO
 ------
 
 
 *Time to branch out a bit…*
+
 Brief(ish) version:
 -------------------
 
@@ -174,7 +177,7 @@ In any case, flowering produces masses of seeds, typically suspended from the en
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Place wood away from edges of tables.
+**Mitigation**: Place wood away from edges of tables for wood measure.
 In case of injury, call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -232,3 +235,5 @@ In case of injury, call first aider.
 **Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-12 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk)

@@ -2,14 +2,14 @@
 
 **What's the best option in games of chance?** - Some games really aren't fair. Even if your opponent knows your exact move you can still beat them. Explore some of these games and find out there might not be a sensible best choice.
 
-Last initially checked on 2022-02-05 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2022-02-09 by Joshan Parmar (jp862@cam.ac.uk)
+Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Games**
 
-**Maths**
+
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
@@ -45,10 +45,17 @@ There's an alphabetical chain and a word length chain. Alphabetical chain has a 
 This analogues Rock,Paper, Scissors, Lizard, Spock (from The Big Bang Theory TV show) with new rules
 Scissors cuts Paper, Paper covers Rock, Rock crushes Lizard, Lizard poisons Spock, Spock smashes Scissors, Scissors decapitates Lizard, Lizard eats Paper, Paper disproves Spock, Spock vaporises Rock, (and as it always has) Rock crushes Scissors.
 In this game the doubling of dice reverses the word length chain and the alphabetical chain remains more or less the same apart from the fact red and olive flips technically but remains very close to 50-50. Overall 59% win chance.
-For beating two players we're at 44%. You may think that's bad as you still loose fairly often but you only loose to both 22.7% of the time. Consider a game where both opponents pay £1 and you'll pay out £1 to anyone who rolls higher. For 100 rolls you make £88 on the games you beat both on 44 rolls, loose £46 when you loose to both on 23 rolls and the rest of the time you make nothing (but don't lose anything either). So you're £42 in profit!
+For beating two players we're at 44%. You may think that's bad as you still lose fairly often but you only lose to both 22.7% of the time. Consider a game where both opponents pay £1 and you'll pay out £1 to anyone who rolls higher. For 100 rolls you make £88 on the games you beat both on 44 rolls, lose £46 when you lose to both on 23 rolls and the rest of the time you make nothing (but don't lose anything either). So you're £42 in profit!
 
 Inspired by the experiment here:
 http://singingbanana.com/dice/article.htm
+
+We now have several addition sets of Microsoft-branded dice with the following colour combinations (see aka.ms/ntdice):
+Orange - 2,2,2,2,6,6
+Yellow - 3,3,3,3,3,3
+Green - 1,1,1,5,5,5
+Blue - 0,0,4,4,4,4
+such that G>B>Y>O>G...
 
 If you have a spare table this is a very easy experiment to float with by only going up to the Rock-Paper-Scissors part of the experiment. Demonstrate you can always win and sometimes "better than" isn't transitive.
 
@@ -99,3 +106,5 @@ Call first aider in case of injury.
 **Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
 
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+
+**Check 1**: 2022-02-05 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)

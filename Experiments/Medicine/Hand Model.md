@@ -2,7 +2,7 @@
 
 **Large working model of a hand and forearm, with all the tendons to show how a hand works.** - Take control of an <em>enormous</em> hand, playing the part of the muscles that control it! Can you work out how to make a fist? Why are there tendons running down both sides of the fingers?  And exactly how are your thumbs different to your fingers?
 
-Last initially checked on 2022-01-26 by Hayoung Choi (hc585@cam.ac.uk) and double-checked on 2022-02-09 by Sian Boughton (seb216@cam.ac.uk)
+Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-20 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -50,7 +50,9 @@ If you've got the short (c. 6 inches) lengths of cord, you can challenge them to
 General stuff 
 
 – Useful to refer to your own or their hand while describing stuff, for example show the extensor tendons on the back of your hand (they’re a lot easier to see in adults than on themselves). Get them to feel the muscles working on themselves or on you. Do this by getting them to place their whole hand over their arm (both sides!) and then wiggling their fingers! Then they have to believe you!
+
 - This can be a good experiment to do with really quite small kids, but keep it nice and simple with them (i.e. I wouldn’t bother talking about tendons, just say ‘stringy like things that pull on our bones to make them move’!)
+
 - This is a great "How-Science-Works" experiment even if you don't know the biology. Ask about how we can find out about how our hands work, we have hands so look how they work. We can feel muscles moving and see tendons. We can get an X-Ray to see the bones, an ultrasound gives us more information on muscles. We can do a dissection too. Then we build a model to test our theory. The paper model is a nice simple model, what can't we do with it? We don't have as much movement, bones aren't as accurate, make the wooden model with more motion. 
 
 Additional stuff:
@@ -77,7 +79,9 @@ Additional stuff:
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Do not allow the kids to touch the hand itself when someone is pulling the tendons. Call a first aider in case of accident.
+**Mitigation**: Do not allow the kids to touch the hand itself when someone is pulling the tendons. 
+
+Call a first aider in case of accident.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -91,7 +95,9 @@ Additional stuff:
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Hand is sanded and shaped to try to reduce this. Call a first aider in the event of injury.
+**Mitigation**: Hand is sanded and shaped to try to reduce this. 
+
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -106,7 +112,9 @@ Additional stuff:
 **Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
 
 **Mitigation**: Do not let the people pulling the tendons get too violent. Hold on to the model to prevent it from sliding along the desk, or place it on the floor if possible.
+
 Ensure kids are behaving sensibly. Inform people to be away from the hand model while someone is pulling the tendons.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
@@ -136,3 +144,5 @@ Call first aider in case of injury.
 **Check 1**: 2021-01-07 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
 
 **Check 1**: 2022-01-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
+
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk)
