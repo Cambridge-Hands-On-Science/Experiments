@@ -71,14 +71,14 @@ There are lots of different slides to choose from – feel free to talk about wh
 - Bacteria are also cells, but they are smaller and don't have a nucleus (associate bacteria with disease e.g. food poisoning caused by E. coli). Bacteria can be lots of different shapes (look at E. coli, Staphylococcus, Spirillum).
 - See below for labelled diagrams of some of the slides!
 
-
-![](https://old.chaosscience.org.uk/sites/default/files/cells1.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells2.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells3.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells4.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells5.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells6.jpg)
-![](https://old.chaosscience.org.uk/sites/default/files/cells7.jpg)
+<center>
+<img src="./Images/cells1.png" style="width:10cm">
+<img src="./Images/cells2.png" style="width:10cm">
+<img src="./Images/cells3.png" style="width:10cm">
+<img src="./Images/cells4.png" style="width:10cm">
+<img src="./Images/cells5.png" style="width:10cm">
+<img src="./Images/cells6.png" style="width:10cm">
+<img src="./Images/cells7.png" style="width:10cm">
 Microbes: Parasites slides
 ==========================
 
