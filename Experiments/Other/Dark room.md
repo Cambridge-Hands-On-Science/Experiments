@@ -2,7 +2,7 @@
 
 **To be read before doing experiments in a dark room**
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
 
 
 ## Tags
@@ -26,6 +26,7 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 ## Equipment Needed
 
 Dark sheets to cover windows etc.
+
 <br/>
 
 ## Experiment Explanation
@@ -98,6 +99,6 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
