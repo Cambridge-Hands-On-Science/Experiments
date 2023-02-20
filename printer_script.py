@@ -13,7 +13,7 @@ PRINT_SPECIFIC_EXPERIMENTS = None # List of experiments to print - will override
 # DEFINE CONDITIONS
 def do_print_if(tags):
     return (
-        any('Minor Repairs Needed' in tag for tag in tags) or 
+        any('Minor repairs needed' in tag for tag in tags) or 
         any('Active' in tag for tag in tags)
     )
 
