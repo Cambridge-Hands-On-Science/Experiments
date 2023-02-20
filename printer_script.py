@@ -9,7 +9,7 @@ import shutil
 
 
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = ['Bubbly Crystals'] # List of experiments to print - will override the conditions below. Set to 'None' to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
+PRINT_SPECIFIC_EXPERIMENTS = None # List of experiments to print - will override the conditions below. Set to 'None' to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
 def do_print_if(tags):
