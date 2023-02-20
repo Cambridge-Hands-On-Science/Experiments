@@ -46,6 +46,22 @@ def extract_tags(string):
 
 if not os.path.isdir('temp'):
     os.makedirs('temp')
+
+
+# Copy all images into the temp/Images folder
+if not os.path.isdir('temp/Images'):
+    os.makedirs('temp/Images')
+    
+for dirpath, dirnames, files in os.walk('Experiments'):
+    
+    # Skip the rest of this iteration if the folder is not an image folder
+    if not dirpath.endswith('Images'):
+        continue
+    
+    for file in files:
+        file_path = os.path.join(dirpath, file)
+        shutil.copy(file_path, 'temp/Images')
+
 to_print = []
 
 if PRINT_SPECIFIC_EXPERIMENTS is None:
@@ -70,7 +86,8 @@ else:
         data for data in all_experiments
         if (data[0][2][:-3] in PRINT_SPECIFIC_EXPERIMENTS) 
     ]
-    
+  
+     
 errors = []
 for location, experiment in tqdm.tqdm(printer_experiments):
     parser = commonmark.Parser()
@@ -88,7 +105,9 @@ for location, experiment in tqdm.tqdm(printer_experiments):
 
 writer = PdfWriter()
 for experiment_pdf in os.listdir('temp'):
-    if not experiment_pdf.endswith('.pdf'): # Only count pdfs
+    
+    # Skip the rest of the iteration if file is not a pdf
+    if not experiment_pdf.endswith('.pdf'): 
         continue
     
     reader = PdfReader(f"temp/{experiment_pdf}")
