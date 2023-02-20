@@ -13,8 +13,8 @@ PRINT_SPECIFIC_EXPERIMENTS = None # List of experiments to print - will override
 # DEFINE CONDITIONS
 def do_print_if(tags):
     return (
-        ('Biology' in tags) and 
-        ('Active' in tags)
+        any('Minor Repairs Needed' in tag for tag in tags) or 
+        any('Active' in tag for tag in tags)
     )
 
 # Define CSS:
@@ -28,8 +28,11 @@ css = """<style>
 all_experiments = []
 for directory in os.listdir('Experiments'):
     for file in os.listdir(f'Experiments/{directory}'):
-        with open(f'Experiments/{directory}/{file}') as f:
-            all_experiments.append((['Experiments', directory, file], f.read()))
+        
+        if file.endswith('.md'): # Skip files that are not markdown files
+            
+            with open(f'Experiments/{directory}/{file}', encoding='utf-8') as f:
+                all_experiments.append((['Experiments', directory, file], f.read()))
 
 # Extracting Tags
 def extract_tags(string):
@@ -45,10 +48,22 @@ if not os.path.isdir('temp'):
 to_print = []
 
 if PRINT_SPECIFIC_EXPERIMENTS is None:
-    printer_experiments = [
-        data for data in all_experiments
-        if do_print_if(extract_tags(data[1]))
-    ]
+    # printer_experiments = [
+    #     data for data in all_experiments
+    #     if do_print_if(extract_tags(data[1]))
+    # ]
+    
+    printer_experiments = []
+    
+    for data in all_experiments:
+        try:
+            tags = extract_tags(data[1])
+        except IndexError:
+            print(f"No tags found in {data[0][2]}!")
+        
+        if do_print_if(tags) == True:
+            printer_experiments.append(data)
+            
 else:
     printer_experiments = [
         data for data in all_experiments
@@ -61,7 +76,7 @@ for location, experiment in tqdm.tqdm(printer_experiments):
     ast = parser.parse(experiment)
     renderer = commonmark.HtmlRenderer()
     html = css + '\n' + renderer.render(ast)
-    with open(f'temp/{location[2][:-3]}.html', "w") as f:
+    with open(f'temp/{location[2][:-3]}.html', "w", encoding='utf-8') as f:
         f.write(html)
     try:
         pdfkit.from_file(f'temp/{location[2][:-3]}.html', f'temp/{location[2][:-3]}.pdf')
