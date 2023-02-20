@@ -22,7 +22,6 @@ Last initially checked on 2023-01-13 by Peter Methley (pm631@cam.ac.uk) and doub
 
 **Requires Water**
 
-
 <!-- Add any more tags that are appropriate -->
 
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -61,8 +60,8 @@ Put the end of the green tube into the tray of soapy water so that it sits flat 
 
 <center>
 <div style="width:15cm">
-<img src="./images/Bubbly_Crystals_photo.png" style="width:10cm"><br/>
-<img src="./images/Bubbly_Crystals_setup.png" style="width:15cm"><br/>
+<img src="./Images/Bubbly_Crystals_photo.png" style="width:10cm"><br/>
+<img src="./Images/Bubbly_Crystals_setup.png" style="width:15cm"><br/>
 <i>Fig 1: the setup for the experiment.</i>
 </div>
 </center>
@@ -93,7 +92,7 @@ You can use the seven cups to let children work this fact out for themselves. Ar
 
 <center>
 <div style="width:15cm">
-<img src="./images/honeycomb.png" style="width:7cm"> <img src="./images/graphite.png" style="width:7cm"><br/>
+<img src="./Images/honeycomb.png" style="width:7cm"> <img src="./Images/graphite.png" style="width:7cm"><br/>
 <i>Fig 2: naturally-occurring hexagonal close-packed structures: honeycomb and graphite. The bubble raft is most similar to graphene – a single sheet of graphite.</i>
 </div>
 </center>
@@ -103,7 +102,7 @@ _A: By putting the next layer of spheres in the gaps between those in the first 
 
 <center>
 <div style="width:10cm">
-<img src="./images/3D_HCP.png"><br/>
+<img src="./Images/3D_HCP.png"><br/>
 <i>Fig 3 : 3D close-packed structures</i>
 <!-- Andrew suggests getting a model of this! -->
 </div>
@@ -123,7 +122,7 @@ _A: 30°. A rotation of 60° will bring the lattice back into alignment._
 
 <center>
 <div style="width:10cm">
-<img src="./images/Grain_boundaries.png" style="width:10cm"><br/>
+<img src="./Images/Grain_boundaries.png" style="width:10cm"><br/>
 <i>Fig 4: three grains, with the lattice orientations for each drawn. Note the defects on the grain boundaries. Screenshot from the Bragg video.</i>
 </div>
 </center>
@@ -142,7 +141,7 @@ The grains themselves can also change shape (also permanently/plastically). This
 
 <center>
 <div style="width:10cm">
-<img src="./images/Dislocation.png" style="width:10cm"><br/>
+<img src="./Images/Dislocation.png" style="width:10cm"><br/>
 <i>Fig 5: Dislocation within a bubble ‘crystal’. Note how there is an extra column of bubbles on the top compared to the bottom. This dislocation has a Burgers vector of 1 bubble diameter to the left, and will move to the left to relieve the applied stress. Screenshot from the Bragg video.</i>
 </div>
 </center>
@@ -162,7 +161,7 @@ The bubble raft experiment was developed in 1952 to study dislocations, which at
 
 <center>
 <div style="width:10cm">
-<img src="./images/HRTEM-dislocations.png"><br/>
+<img src="./Images/HRTEM-dislocations.png"><br/>
 <i>Fig 6: Electron microscope image of real grain boundaries and dislocations (marked in red) in a crystal of platinum. Scale bar is 2 nm (that is 0.000000002 m!) From <a href="http://dx.doi.org/10.1038/ncomms5402">Wang et al. (2014)</a>.</i>
 </div>
 </center>
@@ -237,7 +236,7 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Don’t let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first. Know where the nearest eye wash is (there should at least be some in the Safety box). 
+**Mitigation**: Don’t let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first. Know where the nearest eye wash is (there should at least be some in the Safety box).
 
 Summon first-aider to wash eyes if necessary.
 
@@ -253,7 +252,7 @@ Summon first-aider to wash eyes if necessary.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: I would advise doing this experiment outside or in a room with a wipeable floor. Do not put near electrical equipment. Do not use more water than is necessary (5mm depth is fine), and if possible fill the tray using a water bottle and then don’t move it. Keep the gas generator in a place where it is difficult to knock over. Warn people of any spillages and clear them up promptly using the kitchen roll. 
+**Mitigation**: I would advise doing this experiment outside or in a room with a wipeable floor. Do not put near electrical equipment. Do not use more water than is necessary (5mm depth is fine), and if possible fill the tray using a water bottle and then don’t move it. Keep the gas generator in a place where it is difficult to knock over. Warn people of any spillages and clear them up promptly using the kitchen roll.
 
 Summon first-aider in event of someone tripping and hurting themselves.
 

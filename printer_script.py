@@ -5,10 +5,11 @@ from PyPDF2 import PdfReader, PdfWriter
 import commonmark
 import tqdm
 import pdfkit
+import shutil
 
 
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = None # List of experiments to print - will override the conditions below. Set to 'None' to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
+PRINT_SPECIFIC_EXPERIMENTS = ['Bubbly Crystals'] # List of experiments to print - will override the conditions below. Set to 'None' to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
 def do_print_if(tags):
@@ -79,13 +80,17 @@ for location, experiment in tqdm.tqdm(printer_experiments):
     with open(f'temp/{location[2][:-3]}.html', "w", encoding='utf-8') as f:
         f.write(html)
     try:
-        pdfkit.from_file(f'temp/{location[2][:-3]}.html', f'temp/{location[2][:-3]}.pdf')
+        pdfkit.from_file(f'temp/{location[2][:-3]}.html', f'temp/{location[2][:-3]}.pdf',
+                         options={'encoding':'UTF-8', 'enable-local-file-access': None})
     except Exception as e:
         errors.append(f'The script encountered a {str(e).split(":")[2].strip()} when converting the risk assessment for the experiment {location[2][:-3]}. This is often caused by an old image still being listed in the markdown. While there may still be a PDF output for this, you should check there are no errors and correct the risk assessment.')
     os.remove(f'temp/{location[2][:-3]}.html')
 
 writer = PdfWriter()
 for experiment_pdf in os.listdir('temp'):
+    if not experiment_pdf.endswith('.pdf'): # Only count pdfs
+        continue
+    
     reader = PdfReader(f"temp/{experiment_pdf}")
     number_of_pages = len(reader.pages)
 
@@ -97,8 +102,9 @@ for experiment_pdf in os.listdir('temp'):
 
 writer.write('printable.pdf')
 
-for experiment_pdf in os.listdir('temp'):
-    os.remove(f"temp/{experiment_pdf}")
-os.removedirs('temp')
+# Delete the temp folder (and everything in it)
+shutil.rmtree('temp')
+
+
 print(f'{len(errors)} experiment(s) had errors in their conversion - the errors are listed below:')
 print('\n'.join(errors))
