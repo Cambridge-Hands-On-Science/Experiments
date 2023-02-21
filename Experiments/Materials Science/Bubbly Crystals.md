@@ -71,7 +71,7 @@ Put the end of the green tube into the tray of soapy water so that it sits flat 
 The weight of the gas generator causes it to sink into the water, pressurising the air inside the green bottle. <br/>
 _(CHaOS+: calculate the pressure using_ $\Delta p = \rho_w g \Delta h = m_\mathrm{gas~gen}g / A$) <br/>
 This can escape (very slowly) through the small tube and into the water, making bubbles. <br/>
-_Q: What will be the effect on flow of increasing the pressure_ $\Delta p$ _/ radius of tube_ $r$ _/ length of tube_ $L$ _/ fluid viscosity_ $μ$? <br/>
+_Q: What will be the effect on flow of increasing the pressure_ $\Delta p$ _/ radius of tube_ $r$ _/ length of tube_ $L$ _/ fluid viscosity_ $\mu$? <br/>
 _A: Flow rate_ $Q$ _calculated using Hagen-Poiseuille Equation:_ $Q \approx \pi r^4 \Delta p / 8\mu L$ _(Not exact as air is compressible). As the air is used up, the bottle sinks lower, maintaining a constant_ $\Delta h$ _and therefore flow rate, so the bubbles stay the same size.)_
 
 If all is well, small bubbles should now be coming out of the tube and settling on the surface of the water. If not, try pressing down on the gas generator – if this works then you might need to add more weight so it works automatically. Otherwise, try checking the seal of the cap on the green bottle in the gas generator.
