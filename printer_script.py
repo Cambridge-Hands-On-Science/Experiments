@@ -6,6 +6,7 @@ import commonmark
 import tqdm
 import pdfkit
 import shutil
+import pandoc
 
 
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
@@ -18,12 +19,6 @@ def do_print_if(tags):
         any('Active' in tag for tag in tags)
     )
 
-# Define CSS:
-css = """<style>
-    * {
-        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    }
-</style>"""
 
 # Read in all experiments
 all_experiments = []
@@ -61,14 +56,16 @@ for dirpath, dirnames, files in os.walk('Experiments'):
     for file in files:
         file_path = os.path.join(dirpath, file)
         shutil.copy(file_path, 'temp/Images')
+        
+# Copy the CHaOS logo
+shutil.copy('CHaOS_Logo.svg', 'temp/Images')
+
+# Code to insert the CHaOS logo
+logo_md = '<img src="./Images/CHaOS_Logo.svg" style="width:5cm"> \n\n'
 
 to_print = []
 
 if PRINT_SPECIFIC_EXPERIMENTS is None:
-    # printer_experiments = [
-    #     data for data in all_experiments
-    #     if do_print_if(extract_tags(data[1]))
-    # ]
     
     printer_experiments = []
     
@@ -89,19 +86,22 @@ else:
   
      
 errors = []
+
 for location, experiment in tqdm.tqdm(printer_experiments):
-    parser = commonmark.Parser()
-    ast = parser.parse(experiment)
-    renderer = commonmark.HtmlRenderer()
-    html = css + '\n' + renderer.render(ast)
-    with open(f'temp/{location[2][:-3]}.html', "w", encoding='utf-8') as f:
-        f.write(html)
     try:
-        pdfkit.from_file(f'temp/{location[2][:-3]}.html', f'temp/{location[2][:-3]}.pdf',
-                         options={'encoding':'UTF-8', 'enable-local-file-access': None})
+        # Add code for logo at beginning
+        experiment = logo_md + experiment
+        
+        doc = pandoc.read(experiment, format='markdown')
+        pandoc.write(doc, f'temp/{location[2][:-3]}.html', format='html', options=['-c pdf_format.css', '--webtex=https://latex.codecogs.com/svg.image?', '--standalone'])
+
+        pdfkit.from_file(f'temp/{location[2][:-3]}.html', f'temp/{location[2][:-3]}.pdf', # css='pdf_format.css',
+                         options={'encoding':'UTF-8', 'enable-local-file-access': None, 'user-style-sheet': 'pdf_format.css'})
+        
     except Exception as e:
         errors.append(f'The script encountered a {str(e).split(":")[2].strip()} when converting the risk assessment for the experiment {location[2][:-3]}. This is often caused by an old image still being listed in the markdown. While there may still be a PDF output for this, you should check there are no errors and correct the risk assessment.')
     os.remove(f'temp/{location[2][:-3]}.html')
+    
 
 writer = PdfWriter()
 for experiment_pdf in os.listdir('temp'):

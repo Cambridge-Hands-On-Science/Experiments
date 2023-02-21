@@ -1,0 +1,16 @@
+body {
+  font-family: "Segoe UI", "Frutiger", "Helvetica", "Arial", sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #00196b;
+}
+
+h2 {
+  border-bottom: 1px solid #4e81c0;
+  padding-bottom: 2px;
+}
