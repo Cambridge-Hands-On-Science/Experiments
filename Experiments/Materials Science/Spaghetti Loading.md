@@ -40,7 +40,7 @@ How will we hold the ceiling up? Most students will say using a wall or pillar. 
 
 Push your hands together gently with your palms flat to demonstrate elastic buckling in the spaghetti. It is elastic because removing the force allows the spaghetti to return to its original shape. Ask the students how we can make the column stiffer i.e. resist buckling. 
 
-$$\ σ_{EB} = \frac{cπ^2E}{4(L/R)^2} $$
+$$\sigma_{EB} = \frac{c\pi^2E}{4(L/R)^2} $$
 
 The above expression tells us that a smaller stress (force) is required to cause buckling if the aspect ratio, the ratio of the column length to its radius is larger. The column can be made stiffer in two ways: by making it shorter, or by making it wider. This can be demonstrated by giving the students pieces of spaghetti of different lengths and getting them to feel how much force it takes to make them buckle. Shorter pieces should be much more difficult to buckle.
 
