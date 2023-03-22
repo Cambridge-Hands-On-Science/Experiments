@@ -81,7 +81,11 @@ Take a straw and bend it in right angle. You can start by asking the kids if the
 If you suck the air from under the ball, the air pressure from the outside will hold it in place. You can tell them about the air pressure and that we are constantly pressed everywhere and that suction occurs when we reduce the pressure in an area (eg the inside of the straw). (The concept might be hard to grasp so consider the age of the children.) They might already have some knowledge of it if they have seen the Vacuums experiment.
 
 If you blow into the long end and hold the short end upwards, you are able to balance a pingpong ball on the stream. (The straw end needs to be vertical and you have to blow quite hard.) It requires a bit of practice. Let the kids have a go at it. Give each a new straw and dispose of them afterwards to avoid spread of infection. Demonstrating what goes on is easier with the blowers. It's the same on a larger scale.
+
+<img src="./Images/blow1.gif" style="width:10cm">
+
 ![](http://old.chaosscience.org.uk/sites/default/files/blow1.gif)
+
 ### **A bit of theory - what are forces**
 
 
@@ -102,8 +106,12 @@ Explaining why the ball doesn't fall directly down is easy and the kids might te
 
 This can also be illustrated by tilting the smaller blower, and having it keep the beach ball still, even though it's not blowing from underneath.
 
+<img src="./Images/blow2.gif" style="width:10cm">
+<img src="./Images/blow3.gif" style="width:10cm">
+
 ![](http://old.chaosscience.org.uk/sites/default/files/blow2.gif)
 ![](http://old.chaosscience.org.uk/sites/default/files/blow3.gif)
+
 ### A bit on stability
 
 
@@ -145,6 +153,8 @@ This fast moving air sucks some of the air out of the train, which then sucks on
 Why do you think they go pop again when you leave the tunnel?
 
 The air isn't going as fast outside so the pressure goes up and the pop back inwards again.
+
+<img src="./Images/blow4.gif" style="width:10cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/blow4.gif)
 
