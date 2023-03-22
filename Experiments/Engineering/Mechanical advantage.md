@@ -1,4 +1,4 @@
-# Mechanical advantage
+# Mechanical Advantage
 
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
