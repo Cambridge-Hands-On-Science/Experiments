@@ -30,6 +30,7 @@ Basically you want to get across that you have to balance everything, and if the
 
 <img src="./Images/cant_1.gif" style="width:10cm"><img src="./Images/cant_2.gif" style="width:10cm">
 ![](https://old.chaosscience.org.uk/sites/default/files/cant_1.gif)![](https://old.chaosscience.org.uk/sites/default/files/cant_2.gif)
+
 Setting up the experiment:
 --------------------------
 
