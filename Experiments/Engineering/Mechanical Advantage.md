@@ -56,16 +56,19 @@ Whilst everyone else is having a go at the Third Pulley, ask them if you had a v
 You want more? You must be pulleying my leg. For advanced people, you can talk about why a pulley system with an odd number of pulleys may be beneficial (as in fig. 3) as it allows the user to pull down, using their weight to their advantage. With an even number (fig. 2) you'd have to pull up, which is harder. You may also want to explain uses of pulleys getting cargo out of ships etc... how would you use them to move a heavy weight horizontally, whilst keeping it off the floor (or out of the sea!)... you could talk about components here and forces pulling against each other etc.
 
 Figure 1:
+
 <img src="./Images/Mechanical_Advantage_Diagram_remastered.png" style="width:10cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_Advantage_Diagram_remastered.png?1450283891)
 
 Figure 2:
+
 <img src="./Images/Mechanical_advantage.png" style="width:10cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_advantage.png?1376688164)
 
 Figure 3:
+
 <img src="./Images/Mechanical_disadvantage.png" style="width:10cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_disadvantage.png?1376688172)
