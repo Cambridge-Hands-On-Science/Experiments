@@ -27,7 +27,10 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Experiment Explanation 
 
+<img src="./Images/xrays.jpg" style="width:10cm">
+
 ![Photo of X-rays in use](/sites/default/files/xrays.jpg)
+
 - General - What is it? Do they know when are they taken (when someone might have a fracture) and where? Asking whether they know anyone who's had one or had a plaster cast can be a good way to start. 
 
 How do X-rays work? You can talk about the production of X rays to older kids - it involves very high voltages across metal, releasing photons which travel along and get stopped by things which are dense and/or which have high molecular mass (this is why calcium shows up, and explains blood being somewhat radioopaque because of its iron content - you can see blood in the heart, and you can also visualise it on CT scans, which are just X-rays taken at loads of different levels and cunningly put together). The X-ray film starts white and becomes black where the photons hits it, therefore non-dense things, e.g. gas, look black on film and dense things, e.g. metal, stay looking white.
