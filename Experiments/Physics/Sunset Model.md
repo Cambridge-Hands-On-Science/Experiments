@@ -96,7 +96,7 @@ If you can get this final response it makes up for all the labour up to then!
 <!-- ![](http://www.srcf.ucam.org/chaos/sites/default/files/sunsetrotation.jpg) -->
 <center>
 <div style="width:10cm">
-<img src="./images/sunsetrotation.jpg">
+<img src="./Images/sunsetrotation.jpg">
 </div>
 </center>
 
