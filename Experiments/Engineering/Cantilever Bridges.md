@@ -29,7 +29,7 @@ Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 Basically you want to get across that you have to balance everything, and if the centre of balance goes over the edge of any support it will fall over.
 
 <img src="./Images/cant_1.gif" style="width:10cm"><img src="./Images/cant_2.gif" style="width:10cm">
-![](https://old.chaosscience.org.uk/sites/default/files/cant_1.gif)![](https://old.chaosscience.org.uk/sites/default/files/cant_2.gif)
+# ![](https://old.chaosscience.org.uk/sites/default/files/cant_1.gif)![](https://old.chaosscience.org.uk/sites/default/files/cant_2.gif)
 
 Setting up the experiment:
 --------------------------
@@ -96,17 +96,17 @@ Why isn't it solid like the blocks? The Forth Bridge is made out of metal, this 
 Is our bridge weaker than real ones? Yes, because the blocks aren't joined. But it's very solid considering!
 
 <img src="./Images/forth_bridge.jpg" style="width:10cm">
-![](https://old.chaosscience.org.uk/sites/default/files/forth_bridge.jpg)
+# ![](https://old.chaosscience.org.uk/sites/default/files/forth_bridge.jpg)
 
 A primitive form of arch was called the Corbeled arch, this is basically two of the balanced cantilevers next to each other with the wall acting as the counterweight.
 
 <img src="./Images/corbeled_arch.gif" style="width:10cm">
-![](https://old.chaosscience.org.uk/sites/default/files/corbeled_arch.gif)
+# ![](https://old.chaosscience.org.uk/sites/default/files/corbeled_arch.gif)
 
 This was used in passages and tombs, before the true arch was developed.
 
 <img src="./Images/tomb.jpg" style="width:10cm">
-![](https://old.chaosscience.org.uk/sites/default/files/tomb.jpg)
+# ![](https://old.chaosscience.org.uk/sites/default/files/tomb.jpg)
 
 <br/>
 
