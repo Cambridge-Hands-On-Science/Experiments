@@ -68,6 +68,42 @@ Figure 3:
 
 ## Risk Assessment
 
+### **Hazard**: Pulleys
+
+**Description**: Finger trap in pulley blocks / entanglement of ropes.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Ask children to hold on to the ends of ropes when pulling. Their hands should not come close to the pulleys. Demonstrator to maintain control of experiment. If the experiment must be left unattended in a public area the pulley blocks should be detached and stored safely, and the frame folded down. Verbal warning initially will draw attention to risk and so be preventative.
+
+Call first aider if required.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
+
+### **Hazard**: Frame
+
+**Description**: Impact injury due to frame collapsing or sliding.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Frame is designed to be stable and far stronger than it needs to be, and should not collapse if correctly put up. It would, however, be possible for it to be pulled over by kids pulling hard on the ropes after raising the weight to its maximum height and pulling sideways, demonstrator should familiarise themselves with the stability of the frame so that they know what directions and forces might present a risk.
+
+Demonstrator can lean/pull on the frame to counter these forces and prevent frame from sliding. Demonstrator to secure opposite leg to pulley in use. Ensure bolt at top is secure. Experiment should always be closely supervised when in use.
+
+Ask a committee member to check that the frame is set up correctly every time after assembly. 
+
+Call first aider if required.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
+
 ### **Hazard**: Weights
 
 **Description**: Injury due to weight dropping suddenly and hitting someone.
@@ -117,22 +153,6 @@ Call first aider if required.
 
 <br/>
 
-### **Hazard**: Pulley
-
-**Description**: Entanglement/finger trap in pulley blocks/ropes.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
-
-**Mitigation**: Demonstrator to maintain control of experiment. If the experiment must be left unattended in a public area the pulley blocks should be detached and stored safely, and the frame folded down. Verbal warning initially will draw attention to risk and so be preventative.
-
-Call first aider if required.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
-
 ### **Hazard**: Water in weights
 
 **Description**: Water spillage from weights presents slip hazard.
@@ -142,24 +162,6 @@ Call first aider if required.
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Water weights should be double wrapped with translucent/transparent plastic, or bottle caps gaffered in place. Cloth/mop should be available to mop up spills. Situate experiment away from mains electricals where possible. If any electrical equipment may be affected make sure it is turned off.
-
-Call first aider if required.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
-
-### **Hazard**: Frame
-
-**Description**: Impact injury due to frame collapsing or sliding.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
-
-**Mitigation**: Frame is designed to be stable and far stronger than it needs to be, and should not collapse if correctly put up. It would, however, be possible for it to be pulled over by kids pulling hard on the ropes after raising the weight to its maximum height and pulling sideways, demonstrator should familiarise themselves with the stability of the frame so that they know what directions and forces might present a risk.
-
-Demonstrator can lean/pull on the frame to counter these forces and prevent frame from sliding. Demonstrator to secure opposite leg to pulley in use. Ensure bolt at top is secure. Experiment should always be closely supervised when in use.
 
 Call first aider if required.
 
