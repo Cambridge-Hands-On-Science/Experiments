@@ -104,7 +104,7 @@ A fairly intuitive explanation of why the wheel doesn’t fall over is as follow
 
 <img src="./Images/spinny_chair_pic.png" style="width:6cm">
 
-![](https://old.chaosscience.org.uk/sites/default/files/spinny chair pic.png)
+![](https://old.chaosscience.org.uk/sites/default/files/spinny_chair_pic.png)
 
 Looking at it like this, the wheel should clearly continue to fall over. However, this fails to take into account the fact that all the points on the wheel are rotating around the wheel’s axis and so, half a cycle later, the points shown will be on the opposite side of the wheel. Things that have already started moving in a given direction have a tendency to keep moving in that direction (cf Newton’s First Law) and so the point of the left-hand side will now be moving up and the point on the right down. This creates a rotation in the opposite direction to that caused by gravity, returning the wheel to its original upright position and preventing it from falling over.
 
