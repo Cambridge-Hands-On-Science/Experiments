@@ -61,16 +61,12 @@ Figure 1:
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_Advantage_Diagram_remastered.png?1450283891)
 
-Figure 2:
+Figures 2 and 3:
 
-<img src="./Images/Mechanical_advantage.png" style="width:10cm">
+<img src="./Images/Mechanical_advantage.png" style="width:8cm">
+<img src="./Images/Mechanical_disadvantage.png" style="width:8cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_advantage.png?1376688164)
-
-Figure 3:
-
-<img src="./Images/Mechanical_disadvantage.png" style="width:10cm">
-
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_disadvantage.png?1376688172)
 
 <br/>
