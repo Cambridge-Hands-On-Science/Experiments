@@ -57,7 +57,7 @@ You want more? You must be pulleying my leg. For advanced people, you can talk a
 
 Figure 1:
 
-<img src="./Images/Mechanical_Advantage_Diagram_remastered.png" style="width:10cm">
+<img src="./Images/Mechanical_Advantage_Diagram_remastered.png" style="width:20cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/exptimages/explanatory/Mechanical_Advantage_Diagram_remastered.png?1450283891)
 
