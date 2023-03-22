@@ -29,7 +29,7 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 <img src="./Images/xrays.jpg" style="width:10cm">
 
-![](/sites/default/files/xrays.jpg)
+![](http://old.chaosscience.org.uk/sites/default/files/xrays.jpg)
 
 - General - What is it? Do they know when are they taken (when someone might have a fracture) and where? Asking whether they know anyone who's had one or had a plaster cast can be a good way to start. 
 
