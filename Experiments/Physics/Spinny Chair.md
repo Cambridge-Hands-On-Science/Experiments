@@ -102,7 +102,7 @@ Precession:
 
 A fairly intuitive explanation of why the wheel doesn’t fall over is as follows. Consider the direction of the acceleration of two points on the extreme sides of the wheel, due to gravity. Assuming the axis of the wheel tips by some small angle theta, the motion is as drawn below:
 
-<img src="./Images/spinny\ chair\ pic.png" style="width:6cm">
+<img src="./Images/spinny chair pic.png" style="width:6cm">
 
 ![](https://old.chaosscience.org.uk/sites/default/files/spinny chair pic.png)
 
