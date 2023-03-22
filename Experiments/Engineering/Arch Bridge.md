@@ -49,6 +49,8 @@ Take the wood away - the bridge stays up! Talk about how the shape of the brick 
 
 When the child is standing on the middle of the bridge, ask them what is stopping them from going straight down. Depending on the child's age, could talk about the force of their weight, and explain how it is pushed out sideways and that it is because the ends of the bridge cannot move away from one another that they don't fall down.
 
+<img src="./Images/archloading.jpg" style="width:10cm">
+
 ![](http://old.chaosscience.org.uk/sites/default/files/archloading.jpg)
 
 Explain that this is how real arch bridges work - the mortar 'gluing' the bricks together isn't very important, all the strength is due to the bricks being squashed together horizontally. Bricks are strong in compression, but no good in tension.
