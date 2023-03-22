@@ -32,7 +32,11 @@ This experiment allows kids to have fun competing to see who has the highest pea
 ACTIVITIES:  
 - Get kids to use a peak flow meter
 
-Image 1: (https://old.chaosscience.org.uk/sites/default/files/peakflow.jpg)
+Image 1:
+
+<img src="./Images/peakflow.jpg" style="width:10cm">
+
+![](https://old.chaosscience.org.uk/sites/default/files/peakflow.jpg)
 
 THINGS TO TALK ABOUT:
 - What is a peak flow meter and what might it be used for?
@@ -74,7 +78,11 @@ Peak Flow
 
 5. Finally, see what the kids can blow and match it vs. the diagram below.
 
-Image 2: (https://old.chaosscience.org.uk/sites/default/files/peakflow2.jpg)
+Image 2:
+
+<img src="./Images/peakflow2.jpg" style="width:10cm">
+
+![](https://old.chaosscience.org.uk/sites/default/files/peakflow2.jpg)
 
 6. For older kids it might be worth going into:
 - Why narrower tubes stop you blowing as well.
