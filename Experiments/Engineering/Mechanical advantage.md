@@ -3,7 +3,7 @@
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
 
-Last initially checked on 2023-01-14 by Johan Kidger (jpk51@cam.ac.uk) and double-checked on 2023-01-15 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-03-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
