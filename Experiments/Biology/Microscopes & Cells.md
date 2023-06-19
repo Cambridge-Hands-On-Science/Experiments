@@ -32,13 +32,13 @@ Microscope kit for 2011 Summer Roadshow
 
 
 
-Microscopes are now in 4 boxes. 
+Microscopes are now in five boxes. Note that not all five boxes are required to run the experiment - at the minimum, it requires the microscope slides box and one microscopy box. 
 
 **2 x Slide microscopes:**
-Two small blue boxes- each set is labelled alpha or beta to help stop them getting muddled up. In each box there’s the main body of the microscope (stored in two pieces, undo the screw, slot together, tighten screw), and 4 lenses in small pots. Unscrew the lenses from the lids of the pots, and screw them in to the lower part of the microscope. The upper lenses are stored in the same box as the microscope slides- you won’t really need them if you’re using the microscope cameras and the CHaOS laptops (use Crick) to show visitors the slides, but feel free to. Ask a Committee member to help you set up if you’re not sure! 
+Two small blue boxes- each set is labelled alpha or beta to help stop them getting muddled up. In each box there’s the main body of the microscope (stored in two pieces, undo the screw, slot together, tighten screw), and 4 lenses in small pots. Unscrew the lenses from the lids of the pots, and screw them in to the lower part of the microscope. The upper lenses are stored in the same box as the microscope slides- you won’t really need them if you’re using the microscope cameras and the CHaOS laptops to show visitors the slides, but feel free to. Ask a Committee member to help you set up if you’re not sure! 
 
-**Dissecting microscope:**
-Small grey box. This is good for introducing microscopes in primary schools, though you’ll need to find some props to use with it. Everyday objects like money and textiles are good to look at with this. You can always raid the CHaOS food boxes for stuff like lettuce, kiwis and tomatoes, or look outside for a selection of leaves. There’s a couple of squishy toy microscopes in the box too (just for fun!)
+**Dissecting microscopes:**
+Small grey box. This is good for introducing microscopes in primary schools, though you’ll need to find some props to use with it. Everyday objects like money and textiles are good to look at with this. You can always raid the CHaOS food boxes for stuff like lettuce, kiwis and tomatoes, or look outside for a selection of leaves. Doesn't require electricity. 
 
 **Microscope slides:**
 This box contains:
@@ -52,7 +52,10 @@ This box contains:
 • 3 x microscope books, which might give you some ideas for demos
 
 **Model cells:**
-Small grey box containing 2 inflatable cell models (inflate by mouth) and a cushion cell model.
+Contains one dissecting microscope. 
+
+**Digital microscope:**
+Contains a digital microscope. 
 
 
  How to explain what microcopes do/ what cells are
