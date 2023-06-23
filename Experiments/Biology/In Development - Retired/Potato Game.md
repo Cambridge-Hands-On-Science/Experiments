@@ -108,16 +108,17 @@ Each month farmers will spin the weather spinner which will predict the amount o
 Players can then opt to spray fungicide or not spray, spraying will reduce their potato loss that month. It costs £350 to spray.
 The following table says how many potatoes are lost in each risk/spray/resistant combination.
 
-| Weather | Sprayed | Resistant | Standard |
---------------------------------------------
-|Low Risk| Yes | 2 | 3 |
-| | No | 4 | 6 |
-|Medium Risk| Yes | 7 | 15 |
-| | No | 12| 20 |
-|High Risk| Yes | 13 | 23 |
-| | No | 16 | 27 |
-|Very High Risk| Yes | 15 | 28 |
-| | No | 25| 31 |
+
+| Weather       | Sprayed | Resistant | Standard |
+|---------------|---------|-----------|----------|
+|Low Risk       | Yes     | 2         | 3        |
+|               | No      | 4         | 6        |
+|Medium Risk    | Yes     | 7         | 15       |
+|               | No      | 12        | 20       |
+|High Risk      | Yes     | 13        | 23       |
+|               | No      | 16        | 27       |
+|Very High Risk | Yes     | 15        | 28       |
+|               | No      | 25        | 31       |
 
 At the end of the game (3 months) you should pay out for the potatoes left and see who's got the most money. Each potato is worth £100 (so big ones are worth £2500 and little ones £500).
 
