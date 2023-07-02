@@ -2,7 +2,7 @@
 
 **Learn about potato blight and other plant diseases** - It's not just animals that catch diseases, plants can also get sick! Find out how these diseases affect farmers, the environment and our food supply. 
 
-Last initially checked on 2023-06-22 by Tom Webster (tw432@cantab.ac.uk) and double-checked on 2023-??-?? by ?? (??)
+Last initially checked on 2023-06-22 by Tom Webster (tw432@cantab.ac.uk) and double-checked on 2023-07-02 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -162,4 +162,4 @@ There's also supply and demand which will factor in.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-??-?? - ?? (?? @cam.ac.uk)
+**Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk)
