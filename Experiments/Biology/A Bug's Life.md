@@ -1,6 +1,6 @@
 # A Bug's Life
 
-**All sorts of creepy crawlies preserved in perspex blocks or jars.** - All sorts of creepy crawlies preserved in perspex blocks or jars.
+**All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
 Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk). 
 
@@ -17,7 +17,7 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- Various insects inside perspex blocks or in jars.
+- Various insects inside perspex blocks.
 - A magnifying glass
 - Key with descriptions of each insect (below)
 - Jam jar lid
@@ -37,126 +37,181 @@ Tips for demonstrating:
 
 *** BASIC PROCEDURE AND EXPLANATION ***
 
-1) Ask the child to choose a sample on display that looks interesting to them. Then go through the following questions with them:
-2) What do you think this is?
-3) Do they know anything about the type of bug? (if they recognise it they will often start splurging everything they know about it - just let them talk to you about it!)
-4) If they look using the magnifying glass can they see anything interesting (hairs on legs, joints of exoskeleton etc. - talk about the purposes of these things if you know!) 
-5) For older/very keen kids you can talk about taxonomy (a good website to flick through if you have time before you start: http://www.earthlife.net/insects/classtax.html)
+Ask the child to choose a sample on display that looks interesting to them. Then go through the following questions with them:
+1) What do you think this is?
+2) Do they know anything about the type of bug? (if they recognise it they will often start splurging everything they know about it - just let them talk to you about it!)
+3) If they look using the magnifying glass can they see anything interesting (hairs on legs, joints of exoskeleton etc. - talk about the purposes of these things if you know!) 
+4) For older/very keen kids you can talk about taxonomy (a good website to flick through if you have time before you start: http://www.earthlife.net/insects/classtax.html)
 
 
-***KEY DESCRIPTIONS FOR JARS***
+***BASIC INFO***
 
-10) White Cabbage Butterfly Eggs
-17) White Cabbage Butterfly Larvae/Caterpillar
-1) White Cabbage Butterfly Pupae 
-2) White Cabbage Butterfly Adults
-- Cocoons=chrysalis
-- In the chrysalis the caterpillar is 'digested' by enzymes, like with food in your stomach, and then rebuilt into a butterfly. 
-
-3) Cockroach nymph
-11) Cockroach 2nd stage
-12) Cockroach 3rd stage
-9) Cockroach fully grown
-- Nymphs hatch from eggs. As they grow, they must also grow their exoskeleton and so they undergo a series of molts until they are fully grown.
-- Cockroaches are nocturnal.
-- Cockroaches can survive without their heads for over a week - they breath through spiracles (holes in their exoskeleton) so don't suffocate without heads, but die of dehydration. They also don't bleed to death as they have open circulatory systems (unlike our high pressure systems). 
-
-4) Mealworm
-- Actually the larvae of the Darkling Beetle
-
-5) Blowfly
-- Also called a bluebottle
-- The flies that lands on uncovered food in your house
-- Their larvae (maggots) can be used to eat dead tissue to promote healing
-
-6) Tick
-- Eat blood
-- Might have seen them on pets, can also be on humans too
-- Transmit Lymes disease as well as many other diseases
-- Can spend 200 days without food and water
-- Mouth has a part for squirting saliva into the bite (prevents blood clotting which would close the wound) and one for sucking blood
-
-7) Flea
-- Eats blood - make you itchy when they bite
-- Might have seen them on pets/know pets had them
-- Carry diseases - the oriental Rat Flea carried the bubonic plague/black death to England
-- Mouth has a part for squirting saliva into the bite (prevents blood clotting which would close the wound) and one for sucking blood
-- Can jump very long distances so can travel from one pet to another (can you see their long hind legs?) - up to 35cm horizontally and 18cm vertically!
-
-8) Locust
-- When lots of them get together they form swarms which can destroy fields and fields of crops causing famines.
-
-13) Roundworm
-- Live in intestines (depending on kid's age, explain what this is!) of animals including people
-- Lifecycle involves animal eating food contaminated with eggs, hatching of eggs in intestines, babies are too small to live in intestines yet so leave through gut wall into veins, travel to lungs, cause tickling feeling leading to coughing, cough phlegm and (unless you spit it out) swallow, now big enough to survive in intestines, lay eggs in intestine which come out in poo, gets onto other people's hands/food through poor hygiene (wash your hands after going to the toilet!) and so get ingested.
-- They eat the food you are digesting and so cause people to lose weight and be very hungry as they are not getting the nutrients from the food they eat
-
-14) Tapeworm
-- Infect animals especially pigs, cows and humans
-- Similar lifecycle to roundworm
-- Can grow up to 16m (work out how many yous that would be when put end to end to help them visualise)
-
-16) Lungworm
-- Infects animals especially cats and dogs
-- Dogs/cats eat slugs/snails/frogs which are infected with larvae (can be really small slugs on their fur that they ingest when grooming), larvae migrate to lungs as in roundworm but then stay there until adults, adults can stay in lungs or migrate through blood vessels into the heart
-
-15) Slug
-- Slime prevents the slugs drying out (we have a layer of dry keratin which protects our wet insides)
-- Leave trails which are use to find each other, to repel predators, and in the case of carnivorous slugs, to find smaller slugs to eat
+We have a large selection of perspex blocks containing a range of arthropods. Arthropods include: insects; arachnids (spiders, scorpions and mites); crustaceans (including crabs and woodlice); and myriapods (including centipedes and millipedes). The phylum arthropoda also includes trilobites, which are now extinct. Arthropods have existed in some form since before the dinosaurs, with the first arriving ~500 million years ago (dinosaurs appeared ~240 million years ago, and humans about 200,000 years ago). 
 
 ***KEY DESCRIPTIONS FOR PERSPEX BLOCKS***
-1) Giant Planthopper
-- Walks very slowly as pretends to be a leaf then if it needs to escape predators/catch prey can do big leaps like a grasshopper
 
-2) American Cockroach
-- (see 3/11/12/9 in jars)
+**Beetles General Info**
 
-3) Blue Weevils
-- Weevils are a type of beetle - often pests
-- Colour warns predators that they are not tasty - they eat yam leaves which are toxic to most animals and eating enough blue weevils can be toxic as the chemicals from the yam leaves build up in them
+*The Creator, if He exists, has an inordinate fondness for beetles.* - JBS Haldane, geneticist, worked in Cambridge for a time
 
-4) Water Beetle
-- Some species carry an air bubble under its abdomen to prevent water getting into its spiracles
-- Other species have a modified exoskeleton which can carry out gas exchange with the water
+Beetles are the largest group of insects, with over 400,000 known species (about 4000 in the UK). Insects generally have two pairs of wings, but in beetles the forewings are hardened into elytra that protect the hindwings. Although beetles are still capable of flight, this adaptation allows them to burrow and move around on the ground without damaging their wings, which is what scientists believe to be the reason they are so numerous. With so many species, beetles exhibit amazing diversity – we have a sample of different species here for you to compare.
 
-5) Flower Mantis
-- Aggressive mimicry = camouflage that attracts prey
-- Climbs a plant that has flowers matching it's pattern (different species have different patterns specific to the area they live in and what flowers are there) and sits very still, waiting for pollinators to come up to it then strikes out with it's long forearms.
+**Large Specimens Box**
+1) Giant Scorpion <br>
+Scorpions are arachnids (not insects!). Many people know they use their stinger to inject venom into their prey and for self-defence, but if they have a choice they prefer to use their pincers, because producing venom is costly. While their venom can be deadly, it’s also used in biomedical research, with anti-inflammatory properties that make an effective treatment for arthritis. Scorpions also have hairs on their tail which can sense the movement of nearby prey.
 
-6) Giant Stag Beetle
-- Can grow to over 12cm in length
-- Males use large jaws to wrestle over females (similar to how stags fight over hinds)
-- Females' jaws are smaller but much more powerful
+2) Spur-throated Grasshopper <br>
+Grasshoppers make their song using stridulation (scraping) - have a comb-like structure and a ridge on each wing and rub the comb of one wing against the ridge of the other (demonstrate using comb) (compare with cicada). They have a thick membrane on their wing which resonates to amplify the sound. Their big legs make them great jumpers, able to jump 25cm vertically, and leap up to a metre horizontally.
 
-7) Long-Nose Jungle Beetle
-- Long nose is for eating pollen out of flowers
-- Used to think they were pests as they prefer to eat dead flowers and so were always found when there were lots of dying plants - correlation not causation!
+3) Rhinoceros Beetle <br>
+Named because of their large horn, which males use to fight over females. Rhino beetles can lift up to 850 times their own weight. They’re slow to grow and can spend from a few months up to two years in the grub stage (depending on the species), and can be some of the biggest beetles in the world – the heaviest beetles are a type of rhino beetle called Megasoma, and the longest beetle in the world is the Hercules beetle.
 
-8) Cicada
-- Use tymbals (modified exoskeleton walls on abdomen sides) to produce their loud noise - works by buckling (demonstrate using jam jar lid) (compare with grasshopper, 11)
-- Nymphs live underground for up to 13 years before emerging as adults
+4) Praying Mantis <br>
+Praying mantises are very effective hunters, typically noshing on other insects and the occasional amphibian, but have even been observed capturing small birds. They’re ambush predators that blend in with their environment and wait for prey to come close (discuss camouflage appearance with children). They are the only invertebrates to see in 3D, giving them better depth perception.
 
-10) Devil Spider
+5) Golden Silk Orb Weaver <br>
+Spiders are arachnids, not insects. They produce silk using special glands called spinnerets at the end of their abdomen. While all spiders produce silk, not all of them create webs, but orb weavers like this one produce beautiful webs.
 
-9) Shield Bug
-- Also called stink bugs as they produce a smelly secretion from glands at the top of their legs to deter predators
+6) Chinese Stick Insect <br>
+Stick insects are masters of camouflage! 
 
-11) Field Grasshopper
-- Can jump up to a metre horizontally and 25cm vertically from standing
-- Make their song using stridulation (scraping) - have a comb-like structure and a ridge on each wing and rub the comb of one wing against the ridge of the other (demonstrate using comb) (compare with cicada, 8) - they have a thick membrane on their wing which resonates to amplify the sound
+7) Whip Scorpion <br>
+Whip scorpions are not true scorpions, but do have a similar appearance. They are arachnids, and while they are not venomous, they can spray an acidic mix that has a vinegar-like smell – earning them the alternative name vinegaroons. There are about 150 species worldwide, mostly in the tropics.
 
-12) Unicorn Beetle
-- Also known as rhinoceros beetle
-- Named because of their large horn - used to fight in males (similar to jaws in stag beetle, 6)
+8) Armoured Cricket <br>
+Armoured crickets are not true crickets (biologists are weird sometimes). They’re omnivorous and eat almost anything, from plants to other insects. However, being fat and flightless, they’re also on the menu for a lot of other animals. Their first line of defence is their armoured exoskeleton, from which they derive their name, and they have strong jaws to bite with. Males use stridulation to deter predators (see: Large Specimens #2). If all that fails, they can squirt their blood at predators – it is pale green, acrid-smelling, and distasteful.
 
-13) Giant Wasp
-- It's sting can kill a mouse
+9) Madagascan Hissing Cockroach <br>
+One of the largest species of cockroach in the world – adults can grow up to 10cm long! They are important for the health of the rain forest, because they are detrivores, which means they eat decaying plant matter and animal carcasses, recycling nutrients back into the ecosystem. They hiss by expelling air from their spiracles – these are holes in the side of all insect bodies through which they breathe.
 
-14) Emerald Beetle
+10) Spotted Black Cicada <br>
+Cicadas are some of the longest-lived insects – nymphs can live for up to 17 years underground before emerging as adults, at which point they scream for three months, mate, and then die. They use tymbals (modified exoskeleton walls on abdomen sides) to produce their loud noise - works by buckling (demonstrate using jam jar lid) (compare with grasshopper, Large Specimens #2)
 
-15) Manchurian Scorpion
-- A chemical in its venom has analgesic properties so it's prey doesn't notice being stung
-- It has hairs on it's tail which can sense the movement of nearby prey
+**Box A**
+
+1) Manchurian Scorpion <br>
+See Large Specimens #1.
+
+2) Emerald Beetle
+
+3) Giant Froghopper <br>
+Froghoppers are capable of jumping many times their height and length. As nymphs, they suck on plants and encase themselves in foam in springtime, which looks like spit on leaves, earning them the nickname spittlebug.
+
+4) Tropical Black Cicada <br>
+See Large Specimens #10 for cicada info. 
+
+5) Giant Wasp <br>
+Native to Asia, but have been sighted in North America, where they are invasive and a threat to bees. Their stingers can be up to 6mm long and deliver potent venom, enough to kill a mouse!
+
+6) Blue Weevil <br>
+Weevils are a type of herbivorous beetle with long snouts (called a rostrum). The weevil family is the largest beetle family, with 45,000+ named species (which also makes it the largest family in the animal kingdom). Some weevil species can be pests. This blue weevil is blue to warn predators that he’s not tasty – they eat yam leaves which are toxic to most animals, so eating enough blue weevils can be toxic as the chemicals from the yam leaves build up in them. Being brightly coloured to deter predators is a classic defence mechanism called aposomatism.
+
+7) Giant Forest Ant <br>
+Ants are eusocial (meaning they live in large colonies), usually with a queen and many workers. They build elaborate nests and tunnel systems, and some species of ants even farm fungi. Within a colony, different ants have different jobs: soldier ants are bigger than the others and will defend the nest, whereas worker ants are small and will forage for food or tidy the nest, and the queen lays all the eggs.
+
+8) American Cockroach <br>
+Cockroaches can survive without their heads for over a week - they breathe through spiracles (holes in their exoskeleton) so don't suffocate without heads, but die of dehydration. They also don't bleed to death as they have open circulatory systems (unlike our high pressure systems).
+
+9) Long-horned Beetle
+  
+10) Sugarcane White Grub Beetle
+    
+11) Wasp Spider <br>
+See A6 for aposomatism. Wasp spiders are brightly colored and striped to mimic the appearance of a wasp, but they are not actually dangerous! They’re tricking predators into thinking they are by mimicking insects that are dangerous.
+
+12) Giant Shield Bug
+    
+13) Brown Grasshopper <br>
+See Large Specimens #2.
+
+14) Exotic Planthopper <br>
+Walks very slowly, pretending to be a leaf; then, if it needs to escape predators/catch prey, it can do big leaps like a grasshopper.
+
+15) Asiatic Cricket <br>
+Crickets are closely related to grasshoppers, and also stridulate. (See Large Specimens #2).
+
+**Box B**
+1) Flower Mantis <br>
+See Large Specimens #4. Note the camouflage comparison between the two mantis species – one pretends to be a stick, the other a flower. Different species of flower mantis have different patterns (specific to the area they live in and what flowers are there). They sit very still, waiting for pollinators to come up to them, then strike out with their long forearms.
+
+2) Asian Forest Scorpion <br>
+See Large Specimens #1.
+
+3) Asian Centipede <br>
+Centipedes and millipedes are myriapods (not insects!). Centipedes have around 15-30 legs, whereas millipedes typically have 40-400 legs. If they lose any of their legs, they can regenerate them. Centipedes are much faster than millipedes, despite how many more legs millipedes have! Millipedes are also quite shy, and will curl into a spiral if startled. Centipedes are carnivores, and can bite if threatened.
+
+4) Tropical Mole Cricket <br>
+Mole crickets are burrowing insects, with small eyes and shovel-like forelimbs that are highly developed for digging. They spend most of their lives underground, but adults have wings and disperse in the breeding season.
+
+5) Oriental Flower Beetle
+
+6) Chinese Blister Beetle
+
+7) Paper Wasp <br>
+Paper wasps make their nests by chewing up fibres from dead wood and plant stems, producing large structures that look papery. They generally only attack if their nest is threatened, and are otherwise not aggressive. Like blue weevils (A6) they are brightly coloured to warn predators away, as their stings deliver potent venom.
+
+8) Thai Stag Beetle <br>
+Stag beetles are similar to rhinoceros beetles (see Large Specimens #3), and also spend a long time as grubs and grow to be quite large. Males have huge mandibles that they use to fight other males and throw each other around. Being bitten by some stag beetles would feel like balancing two coke cans on toothpicks on one of your fingers.
+
+9) White Dragontail <br>
+A lovely butterfly. Butterflies have taste receptors in their feet to help them find the best food. Adult butterflies can only feed on liquids, usually nectar in flowers, using a long tubular structure called a proboscis (like a drinking straw); but caterpillars usually eat leaves.
+
+10) Litchi Stink Bug
+    
+11) Malaysian Jewel Beetle
+
+12) Pollen Basket Bee <br>
+Bees are eusocial animals (live in colonies) with a queen and many workers. They are important pollinators, and honey bees are kept to produce honey for people to eat.
+ 
+13) Beautiful Cicada <br>
+See Large Specimens #10 for cicada info.
+
+14) Asian Stag Beetle <br>
+See B-8.
+
+15) Shield-backed Bug <br>
+Named for their shape -- closely related to stink bugs.
+
+**Box E**
+1) Asian Water Beetle <br>
+Some species of water beetle carry an air bubble under their abdomen to prevent water getting into its spiracles. Other species have a modified exoskeleton which can carry out gas exchange with the water. This particular water beetle is a tasty food in south-east Asia, often boiled or fried whole. The taste is often compared to sweet scallops or shrimp.
+
+2) Damselfly <br>
+Damselflies are closely related to dragonflies, though tend to be smaller, more delicate, and fly weakly in comparison with them. At rest, damselflies hold their wings together and parallel to their bodies, whereas dragonflies keep their wings horizontal and spread apart.
+
+3) Devil Spider
+
+4) Fruit Chafer Beetle
+
+5) African Jewel Beetle
+
+6) Long-nose Jungle Beetle <br>
+Their long nose is for eating pollen out of flowers. Used to think they were pests as they prefer to eat dead flowers and so were always found when there were lots of dying plants - correlation not causation!
+
+7) June Beetle
+
+8) Unicorn Beetle <br>
+See Large Specimens #3.
+
+9) Click Beetle
+
+10) Golden Asian Stag Beetle
+
+11) Formosa Stag Beetle <br>
+See B8 for stag beetles.
+
+12) Orange spotted Cockroach <br>
+A tropical species of cockroach – see A8 for more.
+
+13) Horned Flower Chafer (beetle)
+    
+14)Spotted Longhorn Beetle
+
+15) Chinese Lantern Bug <br>
+Lantern bugs are native to China, but are an invasive species in South Korea and the United States. They produce honeydew which they leave behind on plants. Other bugs like to eat the honeydew, but it can also cause sooty mould to grow on plants, inhibiting the plant’s ability to photosynthesize and hurting the plant’s ability to survive and grow.
+
+
+
 
 <br/>
 
