@@ -2,7 +2,7 @@
 
 Learn about diabetes and try using a handheld blood glucose meter.
 
-Last initially checked on 2023-01-29 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk)
+Last initially checked on 2023-07-02 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2023-07-03 by ?? (??@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,11 +19,13 @@ Last initially checked on 2023-01-29 by Emily Wolfenden (elw74@cam.ac.uk) and do
 ## Equipment Needed 
 - Blood glucose meter
 - Test strips (these are expensive, use with care!)
-- 100mM stock glucose solution
-- Syringes
-- 20ml universal tubes
+- Dextrose tablets
 - Water
+- A few beakers or containers
+- Syringes
+- Spatula or utensil
 - Plastic dropper pipettes
+- Legacy (pre-2023 tour): 100mM stock glucose solution, 20ml universal tubes
 
 <br/>
 
@@ -34,6 +36,16 @@ Last initially checked on 2023-01-29 by Emily Wolfenden (elw74@cam.ac.uk) and do
 Use the handheld glucose meter to test the glucose concentration of different solutions (in place of blood). Many children will know someone who has diabetes but may not have had the chance to look at the equipment they use. Use this opportunity to let them investigate, and talk about the different types of diabetes and how it affects lifestyle.
 
 **How to set up the experiment:**
+
+UPDATED method of making glucose solution (2023 tour):
+
+Make up glucose solution by crushing a dextrose tablet finely and dissolving in water. For example, one 'Dextro Energy Orange 47g' tablet dissolved in 500 mL of water gives a 30 mmol glucose solution (see https://www.hollandandbarrett.com/shop/product/dextro-energy-orange-60084567). 500 mL is way more than you need since each test strip only takes one drop of solution. Dilute in different ratios to obtain solutions of your target concentrations (see original instructions below). Stock glucose solutions are prone to contamination and mould growth over time, so making your own stock solution to start with is probably more reliable. If using tablets of a different brand, search online for the dextrose percentage by mass (or volume) to calculate concentrations.
+
+UPDATED information of which meters to use (2023 tour):
+
+As of summer 2023, everything you need to demonstrate Blood Glucose is contained inside the transparent tupperware labelled 'Blood Glucose'. There are 2 meters in working order: 1. ACCU-CHEK Aviva, and 2. SD Codefree. Each only work with their own specific type of test strips. ACCU-Chek Aviva test strips are easier to find in pharmacies, and Codefree test strips are usually only available online. All other meters in the Blood+Urine box are redundant/out of order/have been discontinued. Test strips are expensive! The more concentrations you make, the more test strips you'll use... I don't think demonstrating with 5 different concentrations adds educational value compared to using only 2 concentrations. It may be worth it to wait for a group of kids to gather around your table before doing the demo once.
+
+ORIGINAL instructions (pre-2023 tour):
 
 Make up bottles of a variety of glucose concentrations using the syringes to measure out 100mM stock solution for dilution. Aim for solutions with concentrations of approximately 2 (hypoglycaemic), 5 (normal fasting), 7 (normal post-meal, diabetic fasting), 12 (diabetic post-meal), and 25 (approaching ketoacidosis). I normally only use two different solutions though to conserve the testing strips (a normal one and a diabetic one). You may then wish to hide the numbers on the bottles, depending on how you wish to demonstrate!
 Talk about diabetes in general. Use the charts to explain how blood glucose varies throughout the day and how this differs in diabetes. You could then get the children to choose one glucose solution and test the concentration, then work out what situation this reading is likely to have arisen in. You could also talk about the pancreas, its role in regulating glucose levels, and the actions of insulin and glucagon (this may also lead on to a discussion about hormones).
@@ -130,6 +142,20 @@ In case of injury call first aider.
 
 <br/>
 
+### **Hazard**: Injury during tablet crushing
+
+**Description**: Glass container breaking and cutting fingers while tablet is being crushed. Accidental crushing of finger. 
+
+**Affected People**: Demonstrator
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Do not crush tablet in glass containers, use plastic containers if available. Secure container with hand (or otherwise) while crushing to avoid breakage. Make sure your fingers are out of the way before crushing tablets. 
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
@@ -151,3 +177,5 @@ In case of injury call first aider.
 **Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
+
+**Check 1**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-03 - ?? (??@cam.ac.uk)
