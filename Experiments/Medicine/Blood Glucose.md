@@ -178,4 +178,4 @@ In case of injury call first aider.
 
 **Check 1**: 2023-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
-**Check 1**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-03 - ?? (??@cam.ac.uk)
+**Check 1**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-03 - Andrew Sellek (ads79@cam.ac.uk)
