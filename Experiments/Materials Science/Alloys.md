@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2023-07-04 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-07-04 by ?? (??@cam.ac.uk)
+Last initially checked on 2023-07-04 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -255,7 +255,7 @@ Follow venue RA protocols in case of fire.
 
 ### **Hazard**:  Heat proof mat
 
-**Description**: Cuts and skin irritation. Heat proof mat has been cut in half, so that we have 2 heat proof mats. The cut edges have been covered in gaffer tape. Sharp edges can cut fingers. The heat proof mat is made of a calcium silicate composition which can be irritant. "Chronic exposure: Synthetic or natural materials that have calcium silicate as a base may cause dermal irri- tation after prolonged contact and possible induction of altered pulmonary function and lesions when sili- ca or asbestos are also present. WARNING!" (Centers for Disease Control and Prevention) Luckily, the heat proof mat does not have asbestos. See: https://www.cooksongold.com/Jewellery-Tools/Soldering-Sheet-300-X-300-X-9mm-prcode-999-969?p=gs&gclid=CjwKCAjwhdWkBhBZEiwA1ibLmO-37Jm9ynstPNdRgN63dayn7-fGEFm0GFzoOM91-mYWqmT4NawkzRoCs8MQAvD_BwE&gclsrc=aw.ds#description
+**Description**: Cuts and skin irritation. Heat proof mat has been cut in half, so that we have 2 heat proof mats. The cut edges have been covered in gaffer tape. Sharp edges can cut fingers. The heat proof mat is made of a calcium silicate composition which can be irritant. "Chronic exposure: Synthetic or natural materials that have calcium silicate as a base may cause dermal irritation after prolonged contact and possible induction of altered pulmonary function and lesions when silica or asbestos are also present. WARNING!" (Centers for Disease Control and Prevention) Luckily, the heat proof mat does not have asbestos. See: https://www.cooksongold.com/Jewellery-Tools/Soldering-Sheet-300-X-300-X-9mm-prcode-999-969?p=gs&gclid=CjwKCAjwhdWkBhBZEiwA1ibLmO-37Jm9ynstPNdRgN63dayn7-fGEFm0GFzoOM91-mYWqmT4NawkzRoCs8MQAvD_BwE&gclsrc=aw.ds#description
 
 **Affected People**: All
 
@@ -290,4 +290,4 @@ Follow venue RA protocols in case of fire.
 
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2023-07-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-07-04 - ?? (??@cam.ac.uk)
+**Check 1**: 2023-07-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-07-04 - Timothy Wong (chw55@cam.ac.uk)
