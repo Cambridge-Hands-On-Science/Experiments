@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2023-07-04 by ?? (??@cam.ac.uk)
+Last initially checked on 2023-07-04 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-07-04 by ?? (??@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -30,7 +30,6 @@ Last initially checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk) and doubl
 - Normal steel spring
 - Heat gun and tongs
 - Other lumps of metal could be good needs more thought
-- (Double check RA) Sandy Plasticine Models (increments of 2g sand to 35g Plasticine)
 - (New addition 2023) Bimetallic jumping discs
 - Heat proof mat
 
@@ -53,7 +52,7 @@ Finally, demonstrate the shape memory alloys. Ask members of the audience to def
 
 
 **Plasticine Models**
-
+No longer included
 I have made some Plasticine alloy models which you can play around with. They're made by taking Plasticine (duh) and varying quantities of sand. Please pack them away in the nice sealed containers so they don't dry out! Get kids to play with some they're body temperature and then roll them into a cylinder (approx 1.5cm diameter x 6cm length, although having the different alloys similar size is more important) then gently pull apart till you get a gentle failure (no arms flying around, that's not gentle). You should get a ductile fracture, small pockets form, these coalesce, then a crack propagates until we reach separation. Compare the forces needed, the fracture surfaces (using a magnifying glass, you could even compare to a tear or snap you make) and make theories about what adding the sand has done.
 
 PLUS Explanation
@@ -241,19 +240,6 @@ Follow venue RA protocols in case of fire.
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 
-### **Hazard**:  Plasticine Models
-
-**Description**: Ingestion and risk of accidentally hitting children when arms fly apart from breaking.
-
-**Affected People**: Public
-
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
-
-**Mitigation**: Plasticine and sand are both non-toxic, although parents should be informed as eating small quantities may lead to stomach upset. Large quantities may require a stomach pump however there's no need to be giving out large amounts. Don't give plasticine to small children and tell them not to eat it. Ensure children are standing apart while testing models and ensure they pull gently.
-
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
-
-
 ### **Hazard**:  Bimetallic jumping discs
 
 **Description**: Ingestion and risk of accidentally touching hot discs heated by heat gun. 
@@ -304,4 +290,4 @@ Follow venue RA protocols in case of fire.
 
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2023-07-04 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-04 - ?? (??@cam.ac.uk)
+**Check 1**: 2023-07-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-07-04 - ?? (??@cam.ac.uk)
