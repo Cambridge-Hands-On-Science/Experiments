@@ -145,6 +145,13 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 **(New addition 2023) Bimetallic jumping discs**
 
+<center>
+<div style="width:15cm">
+<img src="./Images/alloys_jumpingdiscs.jpg" style="width:7cm"> <img src="./Images/alloys_jumpingdiscsdiagram.jpg" style="width:7cm"><br/>
+<i>Fig 1: Bimetallic jumping discs.</i>
+</div>
+</center>
+
 They can be found in two small transparent ziplock bags. The outer ring and inner disc are made of different metals with different coefficients of thermal expansion. When heated/cooled, they expand/contract by different amounts. At some temperature, the curvature of the disc flips. If you are heating it with hands/fingers, it may flip without you noticing since you're holding tight. Put the disc on a flat surface (concave, like an uprght bowl), and as it cools to a certain temperature, the curvature of the disc will flip, and it jumps.  If you are heating it with a heat gun, it will flip very soon after a few seconds. Those that land upright (like a bowl) will jump again when they cool. DO NOT heat discs for longer than that, and make sure no fingers are under the heat gun when heating. See: https://www.ebay.com/itm/163467614507
 
 For example, see:
