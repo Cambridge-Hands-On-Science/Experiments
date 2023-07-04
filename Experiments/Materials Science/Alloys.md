@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2023-07-04 by ?? (??@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,6 +31,8 @@ Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-c
 - Heat gun and tongs
 - Other lumps of metal could be good needs more thought
 - (Double check RA) Sandy Plasticine Models (increments of 2g sand to 35g Plasticine)
+- (New addition 2023) Bimetallic jumping discs
+- Heat proof mat
 
 <br/>
 
@@ -141,6 +143,21 @@ I've left Yaron's little rant in because he raises some excellent points about t
 
 <br/>
 
+**(New addition 2023) Bimetallic jumping discs**
+
+They can be found in two small transparent ziplock bags. The outer ring and inner disc are made of different metals with different coefficients of thermal expansion. When heated/cooled, they expand/contract by different amounts. At some temperature, the curvature of the disc flips. If you are heating it with hands/fingers, it may flip without you noticing since you're holding tight. Put the disc on a flat surface (concave, like an uprght bowl), and as it cools to a certain temperature, the curvature of the disc will flip, and it jumps.  If you are heating it with a heat gun, it will flip very soon after a few seconds. Those that land upright (like a bowl) will jump again when they cool. DO NOT heat discs for longer than that, and make sure no fingers are under the heat gun when heating. See: https://www.ebay.com/itm/163467614507
+
+For example, see:
+
+1. https://www.youtube.com/watch?v=mmt8DIrLMYc
+2. https://www.sciencebuddies.org/science-fair-projects/project-ideas/Phys_p094/physics/metal-jumping-disc
+
+Can talk about:
+
+1. Thermal expansion/contraction (roads, bridges, buildings, train tracks...)
+2. Heat transfer (conduction, convection, radiation) – in this case: Heating through conduction (with your hand) or forced convection (heat gun, which is sort of a mix of conduction and convection); Cooling through conduction and radiation. Possible extension to blackbody radiation (though strictly, the heated discs are not in thermodynamic equilibrium with the surroundings)
+3. Bimetalic strips work the same as these discs. Applications such as circuit breakers (fuses, rice cookers, thermostats). 
+
 ## Risk Assessment
 
 
@@ -230,6 +247,32 @@ Follow venue RA protocols in case of fire.
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 
+### **Hazard**:  Bimetallic jumping discs
+
+**Description**: Ingestion and risk of accidentally touching hot discs heated by heat gun. 
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+
+**Mitigation**: Do not demonstrate jumping discs around small children who may eat the discs. Do not heat discs beyond a few seconds with a heat gun. Do not pick up discs with fingers if they are overheated. 
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+
+### **Hazard**:  Heat proof mat
+
+**Description**: Cuts and skin irritation. Heat proof mat has been cut in half, so that we have 2 heat proof mats. The cut edges have been covered in gaffer tape. Sharp edges can cut fingers. The heat proof mat is made of a calcium silicate composition which can be irritant. "Chronic exposure: Synthetic or natural materials that have calcium silicate as a base may cause dermal irri- tation after prolonged contact and possible induction of altered pulmonary function and lesions when sili- ca or asbestos are also present. WARNING!" (Centers for Disease Control and Prevention) Luckily, the heat proof mat does not have asbestos. See: https://www.cooksongold.com/Jewellery-Tools/Soldering-Sheet-300-X-300-X-9mm-prcode-999-969?p=gs&gclid=CjwKCAjwhdWkBhBZEiwA1ibLmO-37Jm9ynstPNdRgN63dayn7-fGEFm0GFzoOM91-mYWqmT4NawkzRoCs8MQAvD_BwE&gclsrc=aw.ds#description
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Ensure that the gaffer tape covers the cut edge of the heat proof mat. Do not touch or breathe in calcium silicate powder. 
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+
 <br/>
 
 ## Risk Assessment Check History 
@@ -253,3 +296,5 @@ Follow venue RA protocols in case of fire.
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2023-07-04 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-04 - ?? (??@cam.ac.uk)
