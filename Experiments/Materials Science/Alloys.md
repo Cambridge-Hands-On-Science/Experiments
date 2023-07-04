@@ -146,8 +146,8 @@ I've left Yaron's little rant in because he raises some excellent points about t
 **(New addition 2023) Bimetallic jumping discs**
 
 <center>
-<div style="width:15cm">
-<img src="./Images/alloys_jumpingdiscs.jpg" style="width:7cm"> <img src="./Images/alloys_jumpingdiscsdiagram.jpg" style="width:7cm"><br/>
+<div style="width:20cm">
+<img src="./Images/alloys_jumpingdiscs.jpg" style="width:7cm"> <img src="./Images/alloys_jumpingdiscsdiagram.jpg" style="width:12cm"><br/>
 <i>Fig 1: Bimetallic jumping discs.</i>
 </div>
 </center>
