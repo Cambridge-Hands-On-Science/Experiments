@@ -18,9 +18,9 @@ Last initially checked on 2023-06-22 by Tom Webster (tw432@cantab.ac.uk) and dou
 
 ## Equipment Needed 
 - Fake Potatoes (at least 10 big, 60 small and 100 tokens)
-- Fake Money (at least 45 x £1,000, 100 x £500s, 200 x £100s and 50 x £50s)
-- Weather Spinner Printout
-- Coffee beans, rice, kitchen scales, and 4 lidded Tupperware. 
+- Fake Money (denominations of £2000, £1000, £350)
+- Weather Spinner Printout (or a four sided dice)
+- Coffee beans, rice, kitchen scales (to be found), and 4 lidded Tupperware. 
 
 <br/>
 
@@ -39,7 +39,9 @@ The first aim is to introduce children to the idea of plants getting diseases, w
 - What might affect how we treat plants? - money! cost of treatment has to go into the food prices. Also the law, some treatments are banned as they have side effects on the environment (e.g. killing bees, polluting rivers)
 
 **Crop Loss Game**
-This is an optional demo to highlight crop loss in some common household crops. For each crop, the idea is the full Tupperware represents the total potential harvest and they need to pour into the other how much they think is lost to plant diseases.
+This is an optional demo to highlight crop loss in some common household crops. 
+You might want to do this first if you do it.
+For each crop, the idea is the full Tupperware represents the total potential harvest and they need to pour into the other how much they think is lost to plant diseases.
 One student can pour for each crop and everyone else can guess if they think it should be higher or lower. You can use the scales and these numbers to calculate the correct amounts.
 The aim is to emphasize how much crop loss affects people - from the world's poorest farmers to consumers who rely on these crops as a key part of their diet. What effects do they think this loss has on supermarket prices (or shrinkflation).
 
@@ -102,7 +104,7 @@ How it works.
 Each farmer has one field in which they can plant potatoes in.
 They each start with £4050 in cold hard cash. (Ideally 3 x £1000 notes, 3 x £350 notes as these match the payments they'll need to make)
 The game will last three months, in each of which some potatoes will die.
-Each child will start with 100 potatoes. Big potatoes are worth 25, small potatoes 5, and tokens 1. You will need to act as the bank and exchange down potatoes as they get blighted.
+Each child will start with 100 potatoes. You probably need to set an exchange rate between big/small/tokens.Big potatoes are worth 25, small potatoes 5, and tokens 1. You will need to act as the bank and exchange down potatoes as they get blighted.
 There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £3000 for resistant and £2000 for standard.
 Each month farmers will spin the weather spinner which will predict the amount of blight risk that month.
 Players can then opt to spray fungicide or not spray, spraying will reduce their potato loss that month. It costs £350 to spray.
@@ -122,6 +124,11 @@ The following table says how many potatoes are lost in each risk/spray/resistant
 
 At the end of the game (3 months) you should pay out for the potatoes left and see who's got the most money. Each potato is worth £100 (so big ones are worth £2500 and little ones £500).
 
+**How to Play**
+In a school you probably want to group into two teams (more than 3 players is fairly chaotic). Be careful of the potatoes as children will steal them.
+
+If you try and play it properly you probably want some mechanism to restict acess to resistant potatoes (only so many bags of each) and fertilizer (only bags for half). Otherwise everyone kind of ends up with the same number as they all do the same thing.
+
 **Game Explanation** 
 The game works on the assumption that you can grow 50 tonnes of potatoes per hectare and the crop value is £200/tonne. Each fake potato is 0.5 tonnes. For advanced groups you could talk about changing these paramaters. What would happen if there was a collapse in potato prices over the growing season, what factors do you think would cause this?
 What other factors aren't included in the game? The weather will also affect growth and thus the price you get for the potatoes - so high-risk weather might lead to bigger crops.
@@ -134,7 +141,7 @@ There's also supply and demand which will factor in.
 
 ### **Hazard**: Eating fake Potatos
 
-**Description**: Eating foam can cause choking.
+**Description**: Eating foam can cause choking. The tokens are pretty small.
 
 **Affected People**: Children
 
