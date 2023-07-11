@@ -39,6 +39,8 @@ Place the chain inside the beaker, hold the beaker in your hand then throw one e
 
 Let go and watch as the rest of the chain flies out of the beaker, producing a surprisingly wide arc into the air as it goes. If you're lucky you may see coils and loops, appearing to be frozen in space even as the chain continues to move.
 
+The effect may be more pronounced if the beaker is placed higher up away from the ground – the chain arc clearly rises above the rim of the beaker and goes out without touching the beaker. 
+
 **Explanation:**
 
 The weight of the chain outside the beaker is greater than that of the free section inside the beaker, so the chain is pulled out, at some speed. However, due to Newton's 1st and 2nd laws, the individual beads of the chain can't change direction instantaneously. Instead, it takes a continuous force pulling them round in a circle until they are travelling downwards towards the floor - hence the arc. 
