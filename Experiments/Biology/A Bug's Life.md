@@ -17,11 +17,12 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- Various insects inside perspex blocks.
+- Various insects inside perspex blocks. (Specifically, 101 released as part of the Natural History Museum "Real Life Bugs and Insects" Magazine) 
 - A magnifying glass
 - Key with descriptions of each insect (below)
 - Jam jar lid
 - Hair comb
+- Magazine Series (these live in the cupboard usually so don't go mouldy)
 
 <br/>
 
@@ -32,7 +33,7 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 Children will look at lots of jars and blocks of interesting creatures, try to identify them, and learn a few things are each one. This is one of those experiments where you'll often get kids who are very interested or not really interested at all, so feel free to vary how long you keep them with you depending on how interested they seem. Don't worry if they only look at one thing then leave!
 
 Tips for demonstrating: 
-1) Make sure that none of your bugs disappear during the day! I would recommend having a smaller selection out at a time so you can keep an eye on them all (and can remember interesting facts about them all).
+1) Make sure that none of your bugs disappear during the day! I would recommend having a smaller selection out at a time so you can keep an eye on them all (and can remember interesting facts about them all). Some selection ideas are included but feel free to come up with your own sets!
 2) If they're young ask them to look at their fingernail or a hair under the magnifying glass – this will give them a better concept of scale and show them how much more detail you can see under the magnifying glass!
 
 *** BASIC PROCEDURE AND EXPLANATION ***
@@ -43,6 +44,12 @@ Ask the child to choose a sample on display that looks interesting to them. Then
 3) If they look using the magnifying glass can they see anything interesting (hairs on legs, joints of exoskeleton etc. - talk about the purposes of these things if you know!) 
 4) For older/very keen kids you can talk about taxonomy (a good website to flick through if you have time before you start: http://www.earthlife.net/insects/classtax.html)
 
+*** About the Insects ***
+These insects were released as part of a children's magazine series "Real Life Bugs and Insects" which was done in partnership between the Natural History Museum and National Geographic (RRP £5.99 an issue). CHaOS has all 100 issues plus a bonus insect for subscribing to all issues, these were bought second-hand in 2023. All the insects included were (at the time of release in 2016) "not endangered or threatened species". They were also (allegedly) "bred, farmed and harvested in a sustainable way" coming from "specialised, purpose-built farms and the (publishers) can certify that none of these specimens were taken from the natural environment". (Quotes taken directly from the magazine publishers)
+
+There was some controversy at the time of release about how true these statements were. For instance, the stag beetle (sample ID) has a seven-year larvae stage which seems impractical for a magazine gift. You can discuss this if you really want to.
+
+Many children will ask how they are made. The insects inside are all real. They were gassed before being encased in resin. 
 
 ***BASIC INFO***
 
@@ -56,7 +63,10 @@ We have a large selection of perspex blocks containing a range of arthropods. Ar
 
 Beetles are the largest group of insects, with over 400,000 known species (about 4000 in the UK). Insects generally have two pairs of wings, but in beetles the forewings are hardened into elytra that protect the hindwings. Although beetles are still capable of flight, this adaptation allows them to burrow and move around on the ground without damaging their wings, which is what scientists believe to be the reason they are so numerous. With so many species, beetles exhibit amazing diversity – we have a sample of different species here for you to compare.
 
-**Large Specimens Box**
+**Large Specimens Box (Box L) and Spider**
+0) Cuban Tarantula <br>
+This isn't in the box but loose and large. Cuban Tarantulas are farmed as an allegedly tasty snack. They don't have a poisonus bite but do have itchy hairs. You can see these clearly on the legs without a microscope. Insert more facts.
+
 1) Giant Scorpion <br>
 Scorpions are arachnids (not insects!). Many people know they use their stinger to inject venom into their prey and for self-defence, but if they have a choice they prefer to use their pincers, because producing venom is costly. While their venom can be deadly, it’s also used in biomedical research, with anti-inflammatory properties that make an effective treatment for arthritis. Scorpions also have hairs on their tail which can sense the movement of nearby prey.
 
@@ -210,8 +220,17 @@ A tropical species of cockroach – see A8 for more.
 15) Chinese Lantern Bug <br>
 Lantern bugs are native to China, but are an invasive species in South Korea and the United States. They produce honeydew which they leave behind on plants. Other bugs like to eat the honeydew, but it can also cause sooty mould to grow on plants, inhibiting the plant’s ability to photosynthesize and hurting the plant’s ability to survive and grow.
 
+*** Interesting Pairings ***
+In this section we'll pick out a few pairs/groups of specimins from across the boxes which have interesting comparitive elements you can talk about. You will probably want 12-20(ish) samples and this section hopefully helps with some ideas although you are welcome and encouraged to come up with new connections or just talk about them individually.
 
+- Types: Have an assortment of insects (many), arachnids (many), crustaceans (none yet) and myriapods [B3,F?]. You can get people to try and sort them, usually the number of legs is a good hueristic. Including Stick Insect [A6] is good if you want people to guess the types, most people will get arachnids but may struggle on insects, in which case point them to this one.
+- Invasive Species: Giant Wasp [A5] and some other wasp (e.g., Paper Wasp [B7])  
+- Avoiding being eaten: Talk about Stick Insect [A6] which is camoflauged. Compare Wasp Spider [A11] and a wasp (e.g., Paper Wasp [B7]) as disguise. Aposmatism is fairly opposite and is bright colours as a warning (e.g., Blue Weevil [A6] or Paper Wasp [B7]).
+- Farming: Cuban Tarantula [L0] is farmed for food (probably several others too). A scorpian (e.g., Giant Scorpian [L1]) may be farmed medically for venom. Spider silk may also be farmed (e.g., Orb Weaver [L5]).
+- General similarities: Lots of pairs of closely related insects have very similar features and kids can identify these and figure out they're related. Lots work for this, e.g., Cockroaches [L9,A8,E12].
 
+Some sample sets:
+- Tom's Selection (17 bugs) - L0, L1, L3, L4, L5, L6, L7, L9, A1, A5, A6, A8, A11, B3, B7, B8, The Millipede from F? 
 
 <br/>
 
