@@ -43,7 +43,7 @@ Lay the anatomy diagram board flat on a table or other hard surface. Spread out 
 
 
 ### How to demonstrate
-1. Start by asking the children if they know what the skeleton is. They'll probably guess because the anatomy diagram board has a wooly sheep outline, but you can also have them look at the sheep's teeth and notice it's a herbivore (see notes) and at the feet and notice it only has two toes. Give them progressively easier hints (eg "found on a farm, wooly, baas") and they'll guess it quickly.
+1. Start by asking the children if they know what the skeleton is. They'll probably guess because the anatomy diagram board has a wooly sheep outline, but you can also have them look at the sheep's teeth and notice it's a herbivore (see notes) and at the feet and notice it only has two toes. Give them progressively easier hints (eg "found on a farm, wooly, baas") and they'll guess it quickly. For older groups you may want to spend more time on identification and comparison, if so see the section below.
 
 2. Have the children assemble the completed sheep skeleton. Note that we have HALF a sheep skeleton here to make it easier to lay out on the anatomy board: there is a complete skull and spine, but only half the ribs, 1x forelimb and 1x hindlimb(including just one scapula (shoulder blade) and half of the pelvis). As the children are assembling things, see how many bones they can name. Help them work out where leg bones go by noticing which bones slot together at the joint. Compare with the numbered diagram to correct them.  
 
@@ -84,6 +84,29 @@ Lay the anatomy diagram board flat on a table or other hard surface. Spread out 
 11. Pelvis (half)
 - Joins with the sacrum at the sacroiliac joints, and with the femur at the hip joint. Notice the hip is a ball and socket joint, unlike the hinge joints of the elbow/knee. Swivel the bones in the joints to show how much freedom of movement there is.
 
+### Identification
+If you want to do this in detail then you really need to turn the board over between demos. In schools asking the previous gorup to shuffle the bones back to a pile then flip it over quickly during changeover.
+
+Start by taking wild guesses. Expect some terrible (hopefully joke) guesses to start with. If something is ridiculous then try and rule it out straight away, there are some really obvious facts you can use to help:
+- Size: by laying out the spine you can find an approximate length of animal. If they can identify the skull you can figure its head size. If they can find some leg bones  you can figure out how tall it was. These are all rough measurements, and we dont know if this animal was fully grown or not however should rule put some guesses. For example, Duck, Girrafe, Pidgeon, Elephant.
+- Wings/Beak: This sheep doesnt have any. If children are instant its a bird ask them to find the wing bones and compare to a chicken.
+- Similarity to us: You can probably use this as a catch-all to eliminate most non-mamals. E.g., Shark, Fish, etc.
+
+
+From this you are hopefully at the point where we're looking at mammals. You can now do some more detailed investigation eliminating other (closer) guesses:
+- Toes: This sheep has two. Rules out Human and various primates. This animal has hooves so is an ungulate, in fact we can say it is an even-toed ungulate (vs. an odd toed one)
+- Eyes: The sheep has side eyes, suggesting its a prey animal.
+- Teeth: Herbivore. The sharp teeth at the front may cause some confusion, but ask them to think if those teeth would rip meat from a carcass.
+- Collarbone: Some mammals have these (e.g., primates, felines) and others dont (e.g.,  canines, ungulates)
+
+At this point we are down to an (even-toed) ungulate and contextually probably a ruminant, usong the size info the only real candidates left are sheep, goat, deer or a baby of some other type. At this point the details get more subtle hwoever things to look for are:
+- Deer will have some horn base formation. The horn base is also more pointy in goats. This skeleton has a cueved short horn base, offering the (easiest to see) evidence it is a sheep, although without a goat for comparison its hard to confirm.
+
+For a long while CHaOS was uncertain wether the skeleton was that of a sheep or a goat until we got some more experienced veterinary opinions. More nuanced features include:
+- Humerous and scapula is slightly different between goats and sheep.
+- The trachea is a different shape.
+- See this paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0178543
+While it may seem weird there's not a lot of information on this if you think from the perspective of a vet sheeo and goats are easy to distinguish externally (wool). The main research comes from zooarcheologists who can only use bone information, and even they have contextual clues beyond the bones.
 
 <br/>
 
