@@ -47,6 +47,43 @@ Both players are driving at each other, they can keep straight or swerve. They g
 
 There's more games if you want. 
 
+## Further Explination from Lake
+This works better the older the students. Year 9 worked really well
+The main idea is to give situations where they have to decide things and then as you go introduce the question.. what is rational?  and you try to build up the main idea of decision theory and how to be rational. The strategy that you’ll end up giving to be rational is:
+      You list your actions
+      For each action you list outcomes
+      For each outcome you associate a probability and a utility (which also includes knowing what your preferences are)
+
+The questions here are pretty good, but I think there is a lot more work that can be done to make the introduction of these main ideas cleaner and also to make the transition better.
+A cool thing about this experiment is that you can always wrap it up and conclude if you see they are starting to not care.
+Another cool thing is bouncing off of the ideas of the students and trying to go where they questions are (probably you can design the experiment to make it more student guided)
+The pacing of the situations is quite important, if they get bored they won't get unbored
+
+Would you rather you each get 10p and I get 1 million pound or none of us get nothing?
+What do you think is the rational decision?
+
+Usually fairness gets brought up, but isn't considered rational, and then you can mention that actually they are both good, rational is only the means to the goals and those goals can include fairness.
+
+Tragedy of the commons
+All of you are in your own village (maybe ask them what the name of the village is if it seems they'll like that) and your food source is a pond of fish.
+Sustainable 1 fish per day. What do you do? What do you think would happen?
+What do you think is the rational decision?
+Explain that actually the rational decision to take all the fish, because of the uncertainty. This may be a good place to talk about probability
+
+There's a big red button, if you press it there's 50% chance of utopia and 50% chance all humans die. Do you press it?
+This leads to the natural joke "there's a button so I press it"
+This also shows the idea of how to value things, and you can go on to show that it's quite important what you think would happen if you didn't press the button. If you expect 90% utopia you clearly don't press the button. You also have something interesting.. If you only care about your subjective experience, and there isn't an afterlife, then there is a pretty strong argument that you should definitely press the button. Or if you care about maximise happiness and minimise suffering
+
+A cool example of preference being arbitrary is "sharing is caring". You can explain that it's simply just based on our ancestors. Humans have nothing cool, no claws no muscles (look at a chimp eg). "all we have is each other. " So people that were selfish were kicked out of communities and so died off and the idea got integrated. If instead you were a spider you would totally be selfish
+
+The stanford encyclopedia article on this is pretty good, as well as lesswrong
+https://plato.stanford.edu/entries/decision-theory/
+https://www.lesswrong.com/
+
+
+
+I think there are a lot of situations that you can make that are interesting, probably there also a bunch that are already known that I am not aware of, I didn’t research very much at all.
+
 <br/>
 
 ## Risk Assessment
