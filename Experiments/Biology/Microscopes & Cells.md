@@ -27,10 +27,7 @@ Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double
 
 ## Experiment Explanation 
 
-Microscope kit for 2011 Summer Roadshow
----------------------------------------
-
-
+### Microscope kit for 2011 Summer Roadshow
 
 Microscopes are now in five boxes. Note that not all five boxes are required to run the experiment - at the minimum, it requires the microscope slides box and one microscopy box. 
 
@@ -82,10 +79,11 @@ There are lots of different slides to choose from – feel free to talk about wh
 <img src="./Images/cells5.jpg" style="width:20cm">
 <img src="./Images/cells6.jpg" style="width:20cm">
 <img src="./Images/cells7.jpg" style="width:20cm">
-Microbes: Parasites slides
-==========================
+
+</center>
 
 
+### Microbes: Parasites slides
 
 Flukes (Trematodes): Adult flukes are leaf-shaped flatworms. Prominent oral and ventral suckers help maintain position. Flukes are hermaphroditic (both male and female) except for blood flukes, which are bisexual. The life-cycle includes a snail intermediate host.
 
@@ -100,17 +98,17 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 - Penetrate the skin and live in circulation where females release eggs
 - Cause damage because of the host immune response to the parasites
 
-2) **Liver fluke** (*Fasciola hepatica*) (caused by a fluke)
+1) **Liver fluke** (*Fasciola hepatica*) (caused by a fluke)
 - Freshwater snail intermediate host, where reproduction occurs, then they are released as cercariae and swim through water to be ingested by ruminants normally, or sometimes humans eating uncooked foods like watercress
 - Adult lives in the liver where they feed on the lining of bile ducts – makes cheese-like holes in the liver
 - Produce eggs – up to 25000 a day per female
 
-3) **Dracunculiasis** (guinea-worm disease, caused by a nematode) 
+1) **Dracunculiasis** (guinea-worm disease, caused by a nematode) 
 - Dracunculiasis (caused by Dracunculus medinensis, a long thread-like worm) is a parasitic disease on the verge of eradication
 - Exclusively transmitted by drinking water contaminated with parasite-infected fleas such as rural isolated ponds
 - Takes 10-14 months for worm to mature in the body
 
-4) **Hookworm** (*Ancylostoma duodenale* and *Necator americanus*, kinds of nematodes) 
+1) **Hookworm** (*Ancylostoma duodenale* and *Necator americanus*, kinds of nematodes) 
 - Soil-transmitted helminths (parasitic worms)
 - Major burden of disease worldwide - estimated 576-740 million people infected with hookworm
 - Hookworms live in the small intestine, eggs are passed in faeces of infected person – this is a problem in the developing world where people may defecate outside (near bushes, in a garden, or field) of if the faeces of an infected person are used as fertilizer, eggs are deposited on soil. 
