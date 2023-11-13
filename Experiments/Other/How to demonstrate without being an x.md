@@ -7,8 +7,6 @@ Last initially checked on 2021-01-22 by Polly Hooton (prh43@cam.ac.uk) and doubl
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Standard** (A standard CHaOS experiment, useable for all hands-on events.)
-
 **In development** (This experiment doesn't actually exist yet, but might in the future!)
 
 **Other**

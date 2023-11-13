@@ -7,7 +7,6 @@ Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and dou
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 

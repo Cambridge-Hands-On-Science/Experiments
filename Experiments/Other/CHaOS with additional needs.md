@@ -9,8 +9,6 @@ Last initially checked on nan by nan and double-checked on nan by nan
 
 **Advice**
 
-**Standard** (A standard CHaOS experiment, useable for all hands-on events.)
-
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Other**

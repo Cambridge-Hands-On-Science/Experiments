@@ -11,6 +11,9 @@ Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
+**CHaOS+** (More complex explanations suitable for older children are available)
+
+
 **Physics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 

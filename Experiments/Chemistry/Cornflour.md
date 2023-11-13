@@ -11,6 +11,8 @@ Last initially checked on 2023-01-12 by Peter Methley (pm631@cam.ac.uk) and doub
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
+**CHaOS+** (More complex explanations suitable for older children are available)
+
 **Chemistry**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
