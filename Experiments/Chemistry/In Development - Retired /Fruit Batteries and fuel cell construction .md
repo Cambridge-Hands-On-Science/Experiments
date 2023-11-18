@@ -9,7 +9,7 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Active** (Experiment has working equipment at the time of last update, and is available for events.)
+**Retired** (An elderly experiment no longer in active use.)
 
 **Chemistry**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
