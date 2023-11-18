@@ -18,7 +18,7 @@ Last initially checked on 2023-11-18 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Equipment Needed 
 Coin battery:
-- Coppper coins
+- Copper coins
 - Aluminium foil
 - Paper towel
 - Vinegar/lemon juice/other form of electrolyte
