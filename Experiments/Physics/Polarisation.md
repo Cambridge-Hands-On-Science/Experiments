@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - Experiment with the properties of light as certain filters block light, but only in certain directions!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -254,7 +254,7 @@ If there's time, and the conditions are right, you could comment on the Brewster
 
 Call first aider in event of injury. Stop experiment if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overally: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -264,7 +264,7 @@ Call first aider in event of injury. Stop experiment if required.
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overally: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: Make sure equipment is safely and securely placed, at the side of the dark room out of the way of where people are walking. Do not allow the power cable to run across a walkway. Ideally tape down cables if necessary.
 
@@ -345,3 +345,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), 
