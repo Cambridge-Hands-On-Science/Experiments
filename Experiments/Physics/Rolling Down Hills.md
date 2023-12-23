@@ -2,7 +2,7 @@
 
 **Racing jam jars down a gentle slope, to see how filling them affects the speed.** - Find out about rotational mechanics by racing jam jars of differing weights downhill. 
 
-Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-19 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -208,3 +208,5 @@ Call first aider in case of injury.
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
 
 **Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk),
