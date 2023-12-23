@@ -51,7 +51,7 @@ How to use pulsar clocks - have seen changes in the frequency due to the effect 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
 **Mitigation**: Turn off fairy lights when model not in use.
-In the event of a burn call first aider and run the burn under tepid water for an appropriate amount of time. In the event of fire, follow procedures in venue RA.
+In the event of a burn call first aider and run the burn under tepid water for an appropriate amount of time (at least 10 minutes). In the event of fire, follow procedures in venue RA.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
