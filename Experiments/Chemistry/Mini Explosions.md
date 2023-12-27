@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-15 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2023-01-15 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,22 +24,25 @@ Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and doub
 - Clear plastic box with the hinged lid
 - (All of this lives in a large blue box with white lid – note that this is shared with Fire Extinguishers)
 - Green or black tray to catch any leakage from clear plastic box (doesn't live in blue box)
+- Gaffer Tape (lives in gaffer tape box) to seal the hinge of the clear plastic box
 
 <br/>
 
 ## Experiment Explanation 
-
 ### In a nutshell.....
 Acid + Carbonate → Salt + Water + Carbon Dioxide
+
 Production of carbon dioxide in a sealed container to produce explosions.
 
 ### How to set up the experiment
-Set up the clear plastic box in a large tray, with the lid opening towards you. **Important:** Stick some gaffer tape along the hinge line facing the audience to prevent lemon juice escaping through the crack. Fill one of the smaller Tupperware containers with water to use for washing out film canisters.
+Set up the clear plastic box in a large tray, with the lid opening towards you. 
+
+**Important:** Stick some gaffer tape along the hinge line facing the audience to prevent lemon juice escaping through the crack. Fill one of the smaller Tupperware containers with water to use for washing out film canisters.
 
 ### Demonstrating the experiment
 Initially, mix lemon juice (about 1/8 fill the canister) and bicarb (1/4 of a teaspoon) in the film canister with the lid off, so that the kids can see it frothing up. If the kids seem responsible, you can add the bicarb and let a volunteer add a squirt of lemon juice. Ask them where they think the bubbles are coming from/what's in the bubbles (space for a bit of a discussion of different gases here, many of them will have heard of CO₂). 
 
-Get them to think about what lemon juice is like (sour therefore an acid), and what else is sour (vinegar, other citrus juice..) and discuss that any acid can let out the gas that's "trapped" in the powder. Possibly also discuss use of bicarb in baking - heating it up releases gas, which puts bubbles in your cakes.
+Get them to think about what lemon juice is like (sour therefore an acid), and what else is sour (vinegar, other citrus juice...) and discuss that any acid can let out the gas that's "trapped" in the powder. Possibly also discuss use of bicarb in baking - heating it up releases gas, which puts bubbles in your cakes.
 
 The bubbles should froth well over the top of the canister. Ask them to predict what will happen if you put a lid on (does the gas have anywhere else to go?)
 
@@ -153,3 +156,5 @@ In the event of eating, advise them that the reactants are all edible but to see
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-15 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2023-12-27 - Andrew Marriott (asm206@cam.ac.uk),
