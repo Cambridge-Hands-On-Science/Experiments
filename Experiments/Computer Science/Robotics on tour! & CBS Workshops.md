@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2023-01-21 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-01-30 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-12-31 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2023-01-30 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -23,8 +23,8 @@ Last initially checked on 2023-01-21 by Asmita Niyogi (an637@cam.ac.uk) and doub
 - 2 x Recharge stations
 - 1 x Green fabric with blue fabric "pond" sewn on
 - Worshops:
-- 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from Robogals Cambridge
-- 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Robogals Cambridge
+- 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from University of Cambridge Engineering Department
+- 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Cambridge Engineering Department
 - Assorted paper and pens
 - As many charged batteries as possible for CBS
 
@@ -260,3 +260,5 @@ Immediately stop robot if anything is caught in motors. Call a first aider if re
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-01-21 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
