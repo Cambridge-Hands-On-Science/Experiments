@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2023-11-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-11-18 by Timothy Wong (chw55@cam.ac.uk). 
+Last initially checked on 2024-01-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -136,8 +136,8 @@ Call a first aider if fruit juice/vinegar gets in eyes, who may perform an eyewa
 
 **Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
-**Mitigation**: Clean rods between use so not covered in juice when children handling them.
-Check that children don’t have uncovered cuts before starting demonstration. 
+**Mitigation**: Check that children don’t have uncovered cuts before starting demonstration. 
+Clean rods between use so not covered in juice when children handling them.
 Demonstrators should wear plasters over any cuts they have.
 In case of accident, wash the affected area with clean water.
 
@@ -192,3 +192,5 @@ In case of accident, wash the affected area with clean water.
 ## Risk Assessment Check History 
 
 **Check 1**: 2023-11-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-11-18 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk)
