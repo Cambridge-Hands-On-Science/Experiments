@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2023-01-20 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-01-04 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on ??? by ???
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,13 +26,11 @@ Last initially checked on 2023-01-20 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
-Overview
---------
+### Overview
 
 By using a spinning chair, weird effects due to conservation of angular momentum can be felt. 
 
-Set up:
--------
+### Set up
 
 Try to make sure the chair is level, there is more than a metre of clear space around it in all directions, and the floor is something that won't graze anyone who lands on it (e.g. carpet). 
 
@@ -40,8 +38,7 @@ Find somewhere convenient to keep the bits of kit so that people don't trip over
 
 If you're unsure that you've got the screws in correctly, check with a committee member. 
 
-Things to demonstrate:
-----------------------
+### Things to demonstrate:
 
 Demonstrate the effect of the masses by starting the child spinning on the chair with the masses close to their body and then asking them to extend their arms (make sure you do it this way round as otherwise they can pull their arms in and start spinning too fast).
 
@@ -56,8 +53,7 @@ Hold the wheel by one handle with the axis pointing from you to the child - ask 
 
 Start the wheel spinning and repeat - they will find it less controllable.
 
-Things to be aware of:
-----------------------
+### Things to be aware of:
 
 Smaller children may not be able to lift the masses. In this case, it’s probably enough for them to just hold their arms and legs out.
 Smaller children may also not be able to lift the wheel/ their arms may be too short. Either ask their adult to do it and explain what they feel to their child or sit on the chair yourself to demonstrate the effects (this can be tricky if you make yourself dizzy).
@@ -68,13 +64,11 @@ Only use moderate speeds when spinning the chair.
 
 Only continue for as long as the child is remaining engaged/ understanding what you’re saying. If you get to the section on precession and feel like the child isn’t following anymore, you can just demonstrate it to them as a cool effect, rather than trying to explain it. 
 
-Explanation:
-============
+### Explanation
 
 My general tip here would be don’t get too technical. A lot of the point of this demonstration is to try and get the kids to notice the weird effects and predict what might happen because of them. In general, young kids will not understand vector addition and will quickly get bored if you mention it. 
 
-The masses:
------------
+### The masses
 
 The approach here is age dependent. For younger children who might find moments of inertia and angular momentum a bit complicated, you can ask them to look at how quickly the bags move if you’re spinning at a constant rate with arms out, and compare it with their speed with arms in. It might be helpful here to talk about a runner going round a racetrack - does the runner on the inside or the outside track travel further? If they both complete a lap in the same time, who’s running faster? 
 
@@ -84,8 +78,7 @@ For older children, you can introduce the idea of angular momentum (or spinnines
 
 In a similar way, when they start with the masses close to their chest, they are in effect ‘leaning in’ and the system has a small moment of inertia, meaning a high rate of spin. When they move the bags away, it’s like they’re leaning out and they increase the moment of inertia and so spin more slowly. 
 
-The wheel and the chair:
-------------------------
+### The wheel and the chair
 
 Ask the child what you have to do to make the wheel start spinning. Hopefully they will say you need to push it/ apply a force. When the child rotates the wheel from the vertical to a horizontal plane, they are changing the axis about which it spins. In the same way that starting an object spinning about an axis requires the application of a force, so does changing the axis about which the object is rotating (in the same way as it requires a force both to start moving and to change your direction of motion). This means that the child must be applying a force to the wheel’s axis in order to rotate it. By Newton’s Third Law, the axis of the wheel is causing an equal and opposite force on the child, which is why they experience a force. (If they’re older you can try and explain the difference between a force and a couple here but it’s not necessary). 
 
@@ -95,8 +88,7 @@ When it comes to the relative directions of the spin, they should notice that th
 
 When the child’s feet are on the floor the force is transferred through their feet to the Earth rather than to the chair (this is technically a lie but one I can live with telling children). The Earth has essentially infinite mass and so the force has no visible effect on its motion. (You can draw a comparison with what happens when they jump- when they land they exert a downwards force on the Earth but that doesn’t make the Earth actually move ‘downwards’ as it's so much more massive than they are).
 
-Precession:
------------
+### Precession
 
 (By this stage you may have already lost a few of the younger kids so it's a judgement call as to whether you try and explain the precession or just demonstrate it as a cool effect and mention that you can find similar things in your smartphone to let it know which direction is which).
 
@@ -240,3 +232,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2022-01-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
+
+**Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), 
