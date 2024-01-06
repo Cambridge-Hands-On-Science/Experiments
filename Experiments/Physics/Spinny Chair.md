@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2024-01-04 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on ??? by ???
+Last initially checked on 2024-01-04 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-01-04 by Lucy Bland (lb831@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -233,4 +233,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), 
+**Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
