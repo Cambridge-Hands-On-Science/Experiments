@@ -2,7 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-09 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-01-06 by Joshua Wu (jw2311@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -100,4 +100,4 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-09 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
