@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,7 +117,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Mitigation**: Warn of hot water (and steam) before experiment starts, keep hot water away from easy reach of children's hands. Mark mug as "HOT". If any burns occur, run under tepid water for an appropriate amount of time.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -129,13 +129,13 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Use stable mug for water. Do not over-fill.
+**Mitigation**: Use stable mug for water. Do not over-fill. Clean up spills immediately. 
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
-### **Hazard**: sharp edges
+### **Hazard**: Sharp edges
 
 **Description**: Sharp edges may cause injuries if Stirling engine is dismantled.
 
@@ -143,7 +143,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Do not allow children to play with Stirling engine. If flywheel becomes detached, demonstrator to reassemble
+**Mitigation**: Do not allow children to play with Stirling engine. If flywheel becomes detached, demonstrator to reassemble.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -155,17 +155,17 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Flywheel is very light and has little angular momentum, even at high speed. Do not let children put their fingers near the flywheel.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-### **Hazard**: small parts
+### **Hazard**: Small parts
 
-**Description**: choking risk from small parts
+**Description**: Choking risk from small parts
 
 **Affected People**: Children
 
@@ -196,3 +196,5 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
