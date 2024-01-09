@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-16 by Emma Crickmore (elc75@cam.ac.uk)
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -88,8 +88,7 @@ Suspension bridges aren't used for trains because they can apply such concentrat
 
 ### **Hazard**: Ropes
 
-**Description**: Trip hazard from ropes and, especially, stakes near the ground. (Falling
-onto a stake could cause a severe head injury.)
+**Description**: Trip hazard from ropes and, especially, stakes near the ground. (Falling onto a stake could cause a severe head injury.)
 
 **Affected People**: All
 
@@ -98,28 +97,22 @@ onto a stake could cause a severe head injury.)
 **Mitigation**: When PUTTING UP, mark the pegs and/or stakes with hazard tape, and, if they are in an exposed position, cover them with boxes. Cover stakes with a cut-open tennis ball to provide cushioning.
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
 <br/>
 
 ### **Hazard**: Falling parts of the bridge
 
-**Description**: Injuries from parts of the bridge falling on someone walking over it, or
-near to it, should the bridge fall over.
+**Description**: Injuries from parts of the bridge falling on someone walking over it, or near to it, should the bridge fall over.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 8
 
-**Mitigation**: The bridge must be PUT UP under the supervision of someone suitably
-experienced. It must be put on level ground, and pegged down adequately (or
-tied to an adequately fixed object). The piers must be attached to the rope so
-that their tops can't slide. The DEMONSTRATOR must be aware that the bridge
-can fall sideways if pushed hard, or swung on.
-The bridge must be closed if it's fallen or partly fallen or about to fall.
+**Mitigation**: The bridge must be PUT UP under the supervision of someone suitably experienced. It must be put on level ground, and pegged down adequately (or tied to an adequately fixed object). The piers must be attached to the rope so that their tops can't slide. The DEMONSTRATOR must be aware that the bridge can fall sideways if pushed hard, or swung on. The bridge must be closed if it's fallen or partly fallen or about to fall.
 Call first aider/999 if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 <br/>
 
@@ -149,13 +142,13 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: The crossbars should be covered with hazard tape when PUT UP, and more hazard tape tied on slightly below, to make them obvious.
 
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -218,3 +211,5 @@ Call first aider if required.
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk),**Check 2**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk)
+
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
