@@ -2,7 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2022-01-14 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -19,7 +19,7 @@ Last initially checked on 2023-01-14 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 - **This experiment can take place outdoors**
 - Bridge Base (flat board and two triangular pieces, they attach together with wing nuts)
 - 5 Blocks (all the same)
-- 2 wooden supports (scaffolding to assist the building process) - MISSING SINCE 2019
+- 2 wooden supports (scaffolding to assist the building process)
 
 <br/>
 
@@ -117,13 +117,13 @@ Call a first aider in the event of an emergency.
 
 **Affected people**: All 
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Small or overexcited children should be supervised when moving blocks. Demonstrator should volunteer to do it themselves.
 
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -170,3 +170,5 @@ Call first aider in the event of an accident.
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
