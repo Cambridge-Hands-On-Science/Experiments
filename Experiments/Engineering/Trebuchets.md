@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-13 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -115,7 +115,7 @@ Call first aider if required.
 **Mitigation**: Projectile - light rice bag, trebuchet designed to have limited range and velocity, and will not hurt on impact, even at high speeds. Make sure people do not stand in front of the trebuchets when firing - could indicate firing zone with some hazard tape. Avoid busy areas/thoroughfares. If the area happens to get busy mid-demonstration, either ask people to evacuate the 'smash zone' or wait until they have moved.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 <br/>
 
@@ -189,3 +189,5 @@ Call first aider if required.
 **Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-13 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
