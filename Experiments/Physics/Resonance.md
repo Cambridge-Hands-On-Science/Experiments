@@ -2,7 +2,7 @@
 
 **What is the link between earthquakes and cello strings?** 
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-12 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-01-12 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -72,7 +72,7 @@ Tips for demonstrating:
 
 - The pan pipes also make a sound when you put your ear next to the end and listen. This is becasue any sound in the room at the right frequency is magnified by the resonant pipes.
 
--The whirly woo only makes a sound when you rotate it at the right frequency. Similar ideas to the above but 100x more exciting for kids than a panpipe. 
+- The whirly woo only makes a sound when you rotate it at the right frequency. Similar ideas to the above but 100x more exciting for kids than a panpipe. 
 
 - Hit the tuning fork and explain that the note that you hear corresponds to the resonant frequency of the tuning fork. Again, draw a parallel to the swing and that the note you hear is the frequency at which the tuning fork 'likes' to vibrate. With older kids you can talk about how initially the fork is vibrating at lots of frequencies but all the ones which aren't the resonant one decay quickly, like how the swing's amplitude quickly decays if you push it at the wrong frequency. 
 
@@ -196,3 +196,5 @@ Call first aider in case of injury.
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
