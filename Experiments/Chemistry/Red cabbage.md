@@ -2,7 +2,7 @@
 
 **Making a natural pH indicator.** - We use a little red cabbage juice to find out more about acids and bases in the world around us.
 
-Last initially checked on 2023-12-31 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2023-01-20 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-12-31 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -199,4 +199,4 @@ Call a first aider in case of injury. More severe burns may require hospital tre
 
 **Check 1**: 2023-01-19 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2023-12-31 - Andrew Marriott (asm206@cam.ac.uk), 
+**Check 1**: 2023-12-31 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
