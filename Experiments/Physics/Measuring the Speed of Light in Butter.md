@@ -2,7 +2,7 @@
 
 **Measure the speed of light** - Measure the speed of light using butter and a microwave!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,7 +64,7 @@ For thought how can you improve the accuracy? Choose some other EM wave, better 
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Be careful when removing things from the microwave, avoid using bare hands. Microwave for appropriate time and don't over cook. Ensure children adequately supervised. Allow item to cool before children measure if needed. Run any burns under a tepid water for an appropriate length of time.
+**Mitigation**: Be careful when removing things from the microwave, avoid using bare hands. Microwave for appropriate time and don't over cook. Ensure children adequately supervised. Allow item to cool before children measure if needed. Run any burns under tepid water for at least 10 minutes.
 
 Call first aider in case of injury.
 
@@ -111,3 +111,5 @@ Call first aider in case of injury.
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-01-23 - Lauren mason (llm34@cam.ac.uk),  **Check 2**:
