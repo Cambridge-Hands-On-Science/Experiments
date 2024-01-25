@@ -91,7 +91,7 @@ At CHaOS+ events, or if you are confident at public events, this can be used to 
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign.
+**Mitigation**: Be very careful to minimise the chance of this happening, probably use a towel on top of a plastic sheet to contain any small spills if it is done inside. Mop up any spills carefully. Use slip hazard sign. Try to avoid letting younger audiences touch the bowls. 
 Call a first aider in the case of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -184,3 +184,5 @@ In the event that something is eaten, warn parents/relevant adult.
 **Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
 
 **Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
+
+**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 
