@@ -2,7 +2,7 @@
 
 **Letting a chain pull itself out of a beaker under its own gravity** - Why on earth do the beads have to go up to come down?! Watch them fly out of a beaker, looping and corkscrewing, and find out about the amazing Mould Effect!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -69,7 +69,7 @@ This experiment can work well for floating however, you'll want to use the short
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 <br/>
 
@@ -183,3 +183,5 @@ Call a first aider in case of emergency.
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 
