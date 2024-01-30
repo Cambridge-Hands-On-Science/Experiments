@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -169,7 +169,7 @@ Call first aider in case of injury
 
 ### **Hazard**: Lightbulbs turned on in a darkroom
 
-**Description**: Lightbulbs can appear very bright when just switched on in dark room. Eyes are not used to that brightness, so children may be dazzled.
+**Description**: Lightbulbs can appear very bright when just switched on in dark room. Eyes are not used to that brightness, so people may be dazzled.
 
 **Affected People**: All
 
@@ -248,3 +248,5 @@ Call first aider in case of injury
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk),
