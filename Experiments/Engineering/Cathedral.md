@@ -204,4 +204,4 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 **Check 1**: 2023-02-10 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-30 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
