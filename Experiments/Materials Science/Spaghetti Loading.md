@@ -2,7 +2,7 @@
 
 This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2023-01-19 by Toni Renz (ir331@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -181,3 +181,5 @@ In case of contact, advise parents to take children to GP if illness develops.
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **CHeck 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk),
