@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2023-07-04 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-07-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -222,7 +222,7 @@ Follow venue RA protocols in case of fire.
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Limit cutlery to spoons or make sure that any knives or forks are not sharp. Only give cutlery to responsible children and if they being silly with the cutlery take it off them.
+**Mitigation**: Limit cutlery to spoons as much as possible. Make sure that any knives or forks are not sharp. Only give cutlery to responsible children and if they being silly with the cutlery take it off them.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -291,3 +291,5 @@ Follow venue RA protocols in case of fire.
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2023-07-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-07-04 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk),
