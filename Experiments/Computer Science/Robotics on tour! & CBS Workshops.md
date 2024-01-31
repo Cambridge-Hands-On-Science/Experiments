@@ -95,19 +95,19 @@ Advice for demonstrating in Schools:
 
 **Braitenberg Vehicles - fast to demonstrate, easy to explain, but still produces complex behaviour**
 
-A possible easy way to demo robots is to teach the kids about some of the earliest robots - things called “Braitenberg Vehicles”. To set this up, just hook up some light sensors to output numbers straight to the motors. If we have two light sensors, each outputting light-intensity, and we just whack those numbers into the motors, we can create some “life-like” behaviour. Setting this up means you have to have a light sensor on either side of the robot, and feeding that number to the “move tank” block by using the variable drag and drop lines on Mindstorms:
+A possible easy way to demo robots is to teach the kids about some of the earliest robots - things called “Braitenberg Vehicles”. To set this up, just hook up some light sensors to output numbers straight to the motors. If we have two light sensors, each outputting light-intensity, and we just whack those numbers into the motors, we can create some “life-like” behaviour. Setting this up means you have to have a light sensor on either side of the robot, and feeding that number to the “move tank” block by using the variable drag and drop lines on Mindstorms.
 
-![](/sites/default/files/Screenshot 2019-08-31 at 15.19.14.png)
+<!-- <img src="./Images/Screenshot 2019-08-31 at 15.19.14.png"> -->
 
 There are two possible behaviours, where the robot will speed towards lights, or speed until they’re facing away from them, “aggressive” (charges towards lights in a search-and-destroy fashion - this might be part of the reason Moths fly towards lights, I think I read that they have a biological feedback similar to this) and “cowardly” (runs like crazy to get away from light):
 
-![](/sites/default/files/Screenshot 2019-08-31 at 15.02.45.png)
-![](/sites/default/files/Screenshot 2019-08-31 at 15.02.40.png)
+<img src="./Images/Screenshot 2019-08-31 at 15.02.45.png">
+<img src="./Images/Screenshot 2019-08-31 at 15.02.40.png">
 
 If we multiply the sensor output by -1 (use an arithmetic block), then another two behaviours are possible, “explorer” (goes all over the place), and “loving” (lovingly and slowly approaches the lights). You can let the kids fiddle with the numbers and rewire the sensors to other motors.
 
-![](/sites/default/files/Screenshot 2019-08-31 at 15.02.59.png)
-![](/sites/default/files/Screenshot 2019-08-31 at 15.02.51.png)
+<img src="./Images/Screenshot 2019-08-31 at 15.02.59.png">
+<img src="./Images/Screenshot 2019-08-31 at 15.02.51.png">
 
 Depending on age and time, you can use the Braitenberg vehicles to talk about perception-action loops - what's the loop going on here, what about if we wanted to give it instructions, what about if the robot is now on the moon and we want to give it instructions, what problems are there now (the moon is 1 light second away...). Could also talk about reactive vs deliberative behaviour - are the vehicles reactive or deliberative, why? (reactive because there's no planning going on, you could mention that they don't need to remember anything). 
 
