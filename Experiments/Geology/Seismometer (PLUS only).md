@@ -2,7 +2,7 @@
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
-Last initially checked on 2023-02-15 by Sophie Miocevich (srm81@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -21,7 +21,7 @@ Last initially checked on 2023-02-15 by Sophie Miocevich (srm81@cam.ac.uk) and d
 - In this box there should be:
 - 	Lego Seismometer (including magnets, weight, coil, spring and lego structure)
 - 	aux cord
-- 	micro-usb to usb cord
+- 	micro-USB to USB cord
 - 	seispy converter
 - 4/5 tennis balls (under development)
 - One magnet in labelled sealed box (under development)
@@ -174,7 +174,7 @@ In case of injury call a first aider.
 
 <br/>
 
-### **Hazard**: Magnet to test tennis ball innards
+### **Hazard**: Magnet in seismometer, and to test tennis ball innards
 
 **Description**: Small, choking hazard. Risk of trapping fingers. Could affect pacemakers etc.
 
@@ -182,7 +182,7 @@ In case of injury call a first aider.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Keep magnet in labelled, sealed box at all times. Do not allow magnet to leave experiment area. Warning sign regarding presence of magnet.
+**Mitigation**: Keep magnet in the seismometer assembly or a labelled, sealed box at all times. Do not allow magnet to leave experiment area. Warning sign regarding presence of magnet.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 
 
@@ -197,3 +197,5 @@ In case of injury call a first aider.
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
