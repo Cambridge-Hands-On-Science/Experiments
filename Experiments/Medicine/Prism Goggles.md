@@ -2,7 +2,7 @@
 
 **Demonstrate how the brain adapts to changes in environmental input using prism goggles.** - See how quickly your brain adapts by wearing our prism goggles whilst playing a target-hitting game.
 
-Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-01-21 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,7 +31,7 @@ Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and doub
 
 Interim explanation copied from http://www.umich.edu/~nkids/Neurokids\_Program/Lessons\_files/NeuroKids-Prism%20Goggles%20Lesson.pdf
 
-**INTRO/BACKGROUND:**
+### Intro/Background
 The following is an example of what the leader might say during the introduction, including some specific questions to keep the kids engaged. It does not need to be repeated verbatim, and probably will contain more information that is necessary to explain. 
 
 Can anyone describe what learning is? Scientists like to say that “Learning is the way we acquire information about the world”, but this can mean a lot of things, information can mean things like phone numbers, friends names, times-tables, but it can also be things like friends faces, how to make a free throw, or how to draw a picture. When scientists over the last century have thought about learning, they realized something very important, and that is that some kinds of learning are require conscious activity and others happen unconsciously, and they refer to these kids of learning as explicit and implicit learning.
@@ -44,7 +44,7 @@ Your cerebellum helps you by comparing what you want to do with what you actuall
 
 When you play the beanbag toss game, were going to move where the target appears to be, so you will end up throwing it further away from the target than you would expect, but if you take enough throws your cerebellum will do the work for you and change the way your arm moves without you even having to think about it. And your throws will get closer and closer.
 
-**ACTIVITY:**
+### Activity
 - Volunteers will lead groups of 4-6 students.
 - Students will be trying to throw a beanbag into a target. 
 - Each student will first get an opportunity to practice a few throws and then they will be given a pair of Prism Goggles. 
@@ -58,12 +58,12 @@ When you play the beanbag toss game, were going to move where the target appears
 - Allow each student to have his turn to wear the glasses and try the experiment.
 
 
-**DISCUSSION:**
+### Discussion
 - Once we put on prism goggles, there are two ways to adjust and hit the target. 
 - One strategy is explicit, we tell ourselves that our aim is off and try to throw the beanbag where we think the target is, rather than where it appears. This type of strategy quickly adjusts our performance, but requires us to guess where the beanbag should be thrown. For students that use this strategy, when the goggles are removed, and they are asked to throw again, they will not experience an opposite shift in their aim. 
 - When using the implicit learning strategy we throw the beanbag where the target appears to be. This strategy requires several attempts, each time we throw a beanbag, our brain makes a tiny adjustment, in a brain circuit that we do not have conscious control over. The adjustments last for a while which is why after removing the prism goggles, our aim has been adjusted in the opposite direction, and takes a few more trials to re-learn.
 
-Some questions to ask {feel free to add your own}:
+#### Some questions to ask {feel free to add your own}:
 - Is one kind of learning better than the other? {each have their own benefits, think about the attention demands of explicit learning}
 - What is an example of an activity that is more effectively learned implicitly/explicitly? {maybe something like soccer/friends names}
 - Why would we want to learn things without having to pay attention to them?
@@ -155,4 +155,4 @@ Call first aider if necessary.
 
 **Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-21 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk)
