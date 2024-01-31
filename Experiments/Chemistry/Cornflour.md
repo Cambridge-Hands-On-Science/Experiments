@@ -58,7 +58,7 @@ Let the cornflour settle to the bottom of the bowl. Tip away any excess water an
 
 ### Want to know more?
 Shear thickening is a problem in the oil industry, as when they are drilling they are getting rock fragments in the mud coming back up, if there are too many they behave similarly to the cornflour, with catastrophic results to pumps.
-Some people are talking about making [liquid body armour](http://www.dcmilitary.com/army/pentagram/9_17/national_news/28729-1.html) using this effect, to make the body armour more comfortable.
+Some people are talking about making [liquid body armour](https://www.ausa.org/articles/call-armor-army-explores-stronger-lighter-cheaper-protection) using this effect, to make the body armour more comfortable.
 The opposite of shear thickening is shear thinning. Many substances are shear thinning because the higher rate of shear can break up interparticular interactions and reduce the viscosity - e.g. shampoo, toothpaste - when you shear them by squeezing them out of the tube, it flows, but when there's no shear, it sits quite happily on the toothbrush without flowing anywhere.
 
 ### Explanation warnings
