@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2023-02-17 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,20 +36,22 @@ Another good intro to this experiment is through what is this (point at vacuum c
 
 You may want to talk about why it's not sucked back into the tube, most of the projectiles would actually fit but don't go that way. One thing you could do is extend out of the front of the T bend, this will lead to projectiles being sucked back though which is a bit annoying but may help some groups. You can also talk about turning corners, in a car (most) people slow down to turn, this is because you need to change the direction in which the particles momentum is, this requires a force which we don't have. Similarly running round a corner and why in the 400m there are wide corners, wide corners means a more gradual change in momentum. 
 
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-LOTS OF PARTICLES
-LOTS OF PARTICLES /----------\
-LOTS OF PARTICLES|------------| -------------------> Force
-LOTS OF PARTICLES \----------/
-LOTS OF PARTICLES
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \/ air escapes here \/ \_\_\_\_\_\_\_\_
+```
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+LOTS OF PARTICLES  /‾‾‾‾‾‾‾‾‾‾\
+LOTS OF PARTICLES /------------\
+LOTS OF PARTICLES|--------------| ――――――――――――> Force
+LOTS OF PARTICLES \------------/
+LOTS OF PARTICLES  \__________/
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_ \/ air escapes here \/ \_\_\_\_\_\_\_\_\_\_
+```
 
 There are more particle collisions on the left hand side of the ball than the right due to the vacuum cleaner reducing the pressure on the Right hand side.
 
-Particle Theory
+#### Particle Theory
 A good way to start (I think, depends on the age group) is often good to ask what the surroundings are made of, solids liquids gases etc, and introduce the idea of particles (kids, even young ones may have heard of atoms or molecules). You can talk about how particles behave in each state of matter, and then start to focus on the air around you. Many kids will know the names of the gases that make up the atmosphere, so that’s a nice question to ask, then you can explain that you get lots of these gas particles zooming around, but that you can’t normally feel them. Example, wind blowing you backwards. You can also explain that many, many particles bump into you each second, but because you're used to it you don't notice (and your body has evolved to deal with it, if they're old enough to know about evolution). Maybe make a comparison, such as a bag of flour (1kg) on an area the size of a postage stamp (1cm^2).
 
-Projectiles
+#### Projectiles
 There are lots of things we can talk about in optimising how the bazooka fires.
 Swapping to a more powerful vacuum cleaner will increase the muzzle velocity and hence the distance travelled. Why? Because this increases the pressure difference created in the tube. 
 What about swapping the piece of card for a better seal? Well this would be good for increasing the pressure difference but it depends on how easily the projectile can knock it off when it fires out, we lose some energy (and hence speed/distance) by knocking it off. My theory is that this is probably worse.
@@ -137,3 +139,6 @@ Call a first aider in the case of an injury.
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-02-17 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+
