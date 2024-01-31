@@ -22,10 +22,10 @@ Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and doub
 ## Equipment Needed 
 - **Electricity needed**
 - In this box there should be:
- - Lego Seismometer (including magnets, weight, coil, spring and lego structure)
- - 	aux cord
- - 	micro-USB to USB cord
- - 	seispy converter
+   - Lego Seismometer (including magnets, weight, coil, spring and lego structure)
+   - aux cord
+   - micro-USB to USB cord
+   - seispy converter
 
 - 4/5 tennis balls (under development)
 - One magnet in labelled sealed box (under development)
