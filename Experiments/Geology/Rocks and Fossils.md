@@ -39,79 +39,84 @@ In this box there should be:
 ##### 1. White box: Main rock and mineral collection
 
 Row 1 - Minerals
-A1 – Quartz
-B1 – Feldspar (Microcline)
-C1 – Mica (Muscovite)
-D1 – Mica (Biotite)
-E1 – Calcite
-F1 – Hornblende
+
+- A1 – Quartz
+- B1 – Feldspar (Microcline)
+- C1 – Mica (Muscovite)
+- D1 – Mica (Biotite)
+- E1 – Calcite
+- F1 – Hornblende
 
 Row 2 – Igneous Rocks
-A2 – Vesicular basalt
-B2 – Obsidian
-C2 – Dolerite
-D2 – Rhyolite
-E2 – Andesite
-F2 – Granodiorite
+
+- A2 – Vesicular basalt
+- B2 – Obsidian
+- C2 – Dolerite
+- D2 – Rhyolite
+- E2 – Andesite
+- F2 – Granodiorite
 
 Row 3 – Metamorphic Rocks
-A3 – Mica Schist
-B3 – Slate
-C3 – Quartzite
-D3 – Gneiss
-E3 – Garnet Schist
-F3 – Marble
+
+- A3 – Mica Schist
+- B3 – Slate
+- C3 – Quartzite
+- D3 – Gneiss
+- E3 – Garnet Schist
+- F3 – Marble
 
 Row 4 – Sedimentary Rocks
-A4 – Sandstone
-B4 – Shale
-C4 – Arkose Sandstone
-D4 – Conglomerate
-E4 – Breccia
-F4 – Limestone
+
+- A4 – Sandstone
+- B4 – Shale
+- C4 – Arkose Sandstone
+- D4 – Conglomerate
+- E4 – Breccia
+- F4 – Limestone
 
 Rows 5 and 6 – Misc.
-A5-6 – Peridotite (lherzolite)
-B5-6 – Basalt with peridotite (harzburgite) xenoliths
-C5-6 – Iron Meteorite
-D5 – Orthopyroxene (Bronzite)
-D6 – Eclogite
-E5-6 – Gabbro
-F5-6 – Pipe rock (bioturbated metamorphosed sandstone)
+
+- A5-6 – Peridotite (lherzolite)
+- B5-6 – Basalt with peridotite (harzburgite) xenoliths
+- C5-6 – Iron Meteorite
+- D5 – Orthopyroxene (Bronzite)
+- D6 – Eclogite
+- E5-6 – Gabbro
+- F5-6 – Pipe rock (bioturbated metamorphosed sandstone)
 
 ##### 2. Orange box: Rocks, minerals, gemstones and fossils
 
-A1 – Pyrite (Fool’s Gold)
-B1 – Magnetite
-C1 – Tektite and Flint
-D1 – Agate
-E1 – Crackle Quartz
-F1 – Quartz
-A2 – Calcite
-B2 – Aragonite
-C2 – Marble
-D2 – Tiger’s Eye, Jasper, Mookaite
-E2 – Peacock Ore
-F2 – Amethyst
-A3 – Turtle Shell
-B3 – Nautiloid (straight-shelled)
-C3 – Gastropod
-D3-4 – Connemara Marble
-E3-4 – Amethyst
-F3-5 – Assorted Gems
-A4 – Steam Coal
-B4 – Shark Teeth
-C4 – Echinoid
-A5 – Crinoid stem
-B5 – Mosasaurus Tooth
-C5 – Coral
-D5 – Bivalves
-E5-6 – Woolly Mammoth Bone
-F5-6 – Trilobite
-A6 – Brachiopod
-B6 – Dinosaur Bone
-C6 – Ammonites
-D6 – Goniatites
+- A1 – Pyrite (Fool’s Gold)
+- B1 – Magnetite
+- C1 – Tektite and Flint
+- D1 – Agate
+- E1 – Crackle Quartz
+- F1 – Quartz
+- A2 – Calcite
+- B2 – Aragonite
+- C2 – Marble
+- D2 – Tiger’s Eye, Jasper, Mookaite
+- E2 – Peacock Ore
+- F2 – Amethyst
+- A3 – Turtle Shell
+- B3 – Nautiloid (straight-shelled)
+- C3 – Gastropod
+- D3-4 – Connemara Marble
+- E3-4 – Amethyst
+- F3-5 – Assorted Gems
+- A4 – Steam Coal
+- B4 – Shark Teeth
+- C4 – Echinoid
+- A5 – Crinoid stem
+- B5 – Mosasaurus Tooth
+- C5 – Coral
+- D5 – Bivalves
+- E5-6 – Woolly Mammoth Bone
+- F5-6 – Trilobite
+- A6 – Brachiopod
+- B6 – Dinosaur Bone
+- C6 – Ammonites
+- D6 – Goniatites
 
 <br/>
 
@@ -533,16 +538,16 @@ Flint and chert are also very interesting from an archaeological perspective due
 
 ### References for Images:
 
-• The Rock Cycle – By Kreislauf_der_gesteine.png:Chd at de.wikipedia derivative work: Awickert (Kreislauf_der_gesteine.png) [CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
-• Map Plate Tectonics http://vulcan.wr.usgs.gov/Glossary/PlateTectonics/Maps/map\_plate\_tectonics\_world.html
-• Earth Structure – adapted from Earth-G-force.png: derivative work: KronicTOOL (Earth-G-force.png) [CC-BY-SA-2.5 (www.creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons
-• Geologic Time Scale – adapted from United States Geological Survey [Public domain], via Wikimedia Commons
-• Fossil map – By jmwatsonusgs.gov [Public domain], via Wikimedia Commons
-• Volcano X-Section – adapted from MesserWoland (own work created in Inkscape) [GFDL (www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0/) or CC-BY-SA-2.5-2.0-1.0 (www.creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons
-• Mosasaur Skeleton – By Mike Beauregard from Nunavut, Canada (Prepare To Meet) [CC-BY-2.0 (www.creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
-• Sea Urchin (echinoid) – Copyright ©2003 Daniel P. B. Smith. Licensed under the terms of the Wikipedia copyright.
-• Straight Nautiloid – By Nobu Tamura email:nobu.tamura@yahoo.com www.palaeocritti.com (Own work) [GFDL (www.gnu.org/copyleft/fdl.html) or CC-BY-3.0 (www.creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
-• Crinoid Anatomy – By William I. Ausich (http://www.tolweb.org/Crinoidea/19232) [CC-BY-3.0 (www.creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+- The Rock Cycle – By Kreislauf_der_gesteine.png:Chd at de.wikipedia derivative work: Awickert (Kreislauf_der_gesteine.png) [CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0)], from Wikimedia Commons
+- Map Plate Tectonics http://vulcan.wr.usgs.gov/Glossary/PlateTectonics/Maps/map\_plate\_tectonics\_world.html
+- Earth Structure – adapted from Earth-G-force.png: derivative work: KronicTOOL (Earth-G-force.png) [CC-BY-SA-2.5 (www.creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons
+- Geologic Time Scale – adapted from United States Geological Survey [Public domain], via Wikimedia Commons
+- Fossil map – By jmwatsonusgs.gov [Public domain], via Wikimedia Commons
+- Volcano X-Section – adapted from MesserWoland (own work created in Inkscape) [GFDL (www.gnu.org/copyleft/fdl.html), CC-BY-SA-3.0 (www.creativecommons.org/licenses/by-sa/3.0/) or CC-BY-SA-2.5-2.0-1.0 (www.creativecommons.org/licenses/by-sa/2.5-2.0-1.0)], via Wikimedia Commons
+- Mosasaur Skeleton – By Mike Beauregard from Nunavut, Canada (Prepare To Meet) [CC-BY-2.0 (www.creativecommons.org/licenses/by/2.0)], via Wikimedia Commons
+- Sea Urchin (echinoid) – Copyright ©2003 Daniel P. B. Smith. Licensed under the terms of the Wikipedia copyright.
+- Straight Nautiloid – By Nobu Tamura email:nobu.tamura@yahoo.com www.palaeocritti.com (Own work) [GFDL (www.gnu.org/copyleft/fdl.html) or CC-BY-3.0 (www.creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
+- Crinoid Anatomy – By William I. Ausich (http://www.tolweb.org/Crinoidea/19232) [CC-BY-3.0 (www.creativecommons.org/licenses/by/3.0)], via Wikimedia Commons
 
 ## PLUS Explanation
 
