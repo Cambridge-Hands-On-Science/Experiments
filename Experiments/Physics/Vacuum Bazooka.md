@@ -37,13 +37,13 @@ Another good intro to this experiment is through what is this (point at vacuum c
 You may want to talk about why it's not sucked back into the tube, most of the projectiles would actually fit but don't go that way. One thing you could do is extend out of the front of the T bend, this will lead to projectiles being sucked back though which is a bit annoying but may help some groups. You can also talk about turning corners, in a car (most) people slow down to turn, this is because you need to change the direction in which the particles momentum is, this requires a force which we don't have. Similarly running round a corner and why in the 400m there are wide corners, wide corners means a more gradual change in momentum. 
 
 ```
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 LOTS OF PARTICLES  /‾‾‾‾‾‾‾‾‾‾\
 LOTS OF PARTICLES /------------\
 LOTS OF PARTICLES|--------------| ――――――――――――> Force
 LOTS OF PARTICLES \------------/
 LOTS OF PARTICLES  \__________/
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\__\_\_\_ \/ air escapes here \/ \_\_\_\_\_\_\_\_\_\_
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_ \/ air escapes here \/ \_\_\_\_\_\_\_\_\_\_
 ```
 
 There are more particle collisions on the left hand side of the ball than the right due to the vacuum cleaner reducing the pressure on the Right hand side.
