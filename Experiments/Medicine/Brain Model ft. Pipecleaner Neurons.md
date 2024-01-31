@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners!** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2023-02-05 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-10 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,7 +24,7 @@ Last initially checked on 2023-02-05 by Emily Wolfenden (elw74@cam.ac.uk) and do
 
 ## Experiment Explanation 
 
-Brain Model:
+### Brain Model:
 
 Anatomical model of the brain split into several parts.  
 Shows the different parts of the brain.  
@@ -36,38 +36,52 @@ DO NOT try and cover all of these or you'll only have the parents listening. If 
 At the end get the kids to put it together again, amazingly they like it. When they get stuck ask them which bit does this? To see if they've remembered anything before telling them what bit they need to put in next.  
 
 
-This is the sort of things you could say/ might come up:  
+#### This is the sort of things you could say/ might come up:  
+
 - Brain is made up of nerves - what are nerves? E.g. say they're like telephone systems from the body to the brain and vice versa (often they'll only know they're involved in pain etc so expand on that). Think about the spinal cord and what happens if it gets damaged. If you've used the tendon hammers remind them of that too.
+
 - Cortex - really big, like newspaper scrunched up around an orange or something. Unfolded cortex is about 3 sheets of A4 (think for a lizard it's size of a postage stamp). Different bits control movement, sensation, vision, etc. Get them to guess where senses are on the cortex by relation to the sensing organ (will usually get vision wrong because they won't know that nerves go from front to back of the cortex). Also concept of contralateral control of movement, sensation etc. Neocortex - another name to do with recent evolution.
+
 - Could mention prefrontal cortex and explain it using Phineas Gage - America 100 years ago, blowing up mines, accident with a metal pole shooting into his head embedded in his prefrontal. Perfectly normal after accident except before was nice and kind bloke, after was mean and quick to anger. Hence to do with personality, especially controlling anger.
+
 - Can talk about Wernicke's (understanding language) and Broca's (producing language) areas - could talk about the English pilot who was gunned down sustaining damage to Wernicke's area so that he couldn't understand the English doctors and nurses, leading him to believe he had been captured by the Nazis.
+
 - Also could talk more about visual bits, different areas that are important for different things like seeing colour, motion, peoples faces etc. So what happens if these parts get damaged?
-- Corpus callosum - is it on the left, right or middle? What might it do then? In the middle so allows signals to go between hemispheres. Talk about patients who had their corpus callosum split as experimental surgery for epilepsy - they got Alien Hand Syndrome where one hand would act seemingly on its own as it was not 'communicating' with the other side of the body. They would even have times where one hand would suddenly grab the other to stop it doing something.
+
+- Corpus callosum - is it on the left, right or middle? What might it do then? In the middle so allows signals to go between hemispheres. Talk about patients who had their corpus callosum split as experimental surgery for epilepsy - they 
+got Alien Hand Syndrome where one hand would act seemingly on its own as it was not 'communicating' with the other side of the body. They would even have times where one hand would suddenly grab the other to stop it doing something.
+
 - Basal ganglia - they're to do with emotion and starting movements. Parts degenerate in Parkinson's Syndrome - could mention Muhammad Ali or Michael J Fox as examples. Ask them what problems they have. Explain by talking about how one bit increases movement and another dampens/decreases movement. In normal people it is balanced, in Parkinson's decreasing of movement is too strong hence shaking. Opposite is Huntington's Disease. Also mention that if Parkinson's patient was in burning house, he/she would be able to run out of it and if walking across a street and about to be run over would be able to jump out of the way because the brain finds an alternate pathway in an emergency, bypassing basal ganglia, for quicker actions. Parents might ask about treatment, mention L-DOPA and also stem cells for dopamine receptors.
+
 - Insula - pain perception (if they look interested in that sort of thing). Gating theory, i.e. can modulate pain signals released from nerves endings at the level of the brain through opiate nerves from insula that release morphine onto nerve endings. Example is when you play football and cut yourself but don't notice the pain till after the game is finished all due to attention being focused elsewhere on the game. Touch neurons feed into the opiate neurons, inhibiting pain, which is why rubbing a banged elbow makes it hurt less.
+
 - Cerebellum - monitors all our movement and helps correct errors, balance (get them to think about how unstable we are because we stand on only 2 feet - we have a large cerebellum compared to other mammals). Also movement memories - make it relevant to them e.g. what happens if you practice a sport or a musical instrument (you improve). Hand eye coordination when you play computer games or play tennis - don't have to look at your hands but you learn to control them.
+
 - Explain about cerebellar ataxia and overshooting and not being able to touch your nose with your finger when your eyes are closed. Get them to try - normal people can do it, but with a cerebellar injury, you can't touch end of your nose and will just poke yourself in the eye - gets a giggle. Cortex the area of tea towel but some cells have the surface area of a door (purkinje fibres) - make lots of connections to talk to other neurons.
+
 - Hippocampus - makes new memories but not to do with storage - kids always ask where memories are stored - truthfully no one knows for sure but all over the place depending on what kind, eg. episodic, motor, semantic. Mention Dory from Finding Nemo, ask them to explain what is wrong with her and relate that to hippocampal damage. Also can mention HM - damage to an area that included the hippocampus and got mild retrograde amnesia (forgetting things that happened) and severe anterograde amnesia (can't make new memories). One famous story was when a psychologist met him for the first time he attached a pin to his hand so when they shook hands the pin spiked HM. The next day, HM met the psychologist again and couldn't remember meeting him before, but knew that he didn't want to shake his hands. This shows how memories (remembering the event that happened) are different to associations (knowing that shaking this man's hand would be bad)
-- Pons, Medulla and Brainstem - things really essential for basic life that we don’t have to think about like breathing, heart beating (heart beats by itself but needs the brain to regulate speed), eye movements, chewing etc? So what happens if this bit gets damaged? Can talk about Mike the headless chicken - had head chopped off below the main part of his brain but above the brain stem and survived for a further 18 months with his owners pouring food and water down his oesophagus.
 
-Other FAQs!
+- Pons, Medulla and Brainstem - things really essential for basic life that we don’t have to think about like breathing, 
+heart beating (heart beats by itself but needs the brain to regulate speed), eye movements, chewing etc? So what happens if this bit gets damaged? Can talk about Mike the headless chicken - had head chopped off below the main part of his brain but above the brain stem and survived for a further 18 months with his owners pouring food and water down his oesophagus.
 
-- How does our brain work? (great...)
+#### Other FAQs!
+
+*How does our brain work? (great...)*
 
 Having explained about how nerves help your brain to communicate with the rest of the body, explain that the brain itself is made up of lots of little ones all talking to each other. We get all this information in from our senses, then these little nerves have a good chat to each other, bit like what's happening when your computer makes a grrring noise (!), and then they make decisions about what we are going to do, and act on them by controlling our muscles to move us around/speak etc.
 
-- How/why do we dream?
+*How/why do we dream?*
 
 What is a dream? A dream includes any images, thoughts and emotions that are experienced during sleep. No one knows for certain why we dream. Some theories: 1) dreams help us process all the information we have encountered in the day 2) they are involved in how we form memories 3) that they represent your emotions 4) that they are pointless 
 
-- What are all the red bits?
+*What are all the red bits?*
 
 On our model it shows the arteries etc. This can be a good talking point - why does our brain need blood? What happens if parts of it do not get blood any more (often they've heard of strokes etc. because of grandparents or something)?
 
 
 
 
-**Pipecleaner neurons:**  
+### Pipecleaner neurons:
 This is a great way to explain the basic concepts of what nerves are and what they do. You'll be getting the kids to make a simple neuron from different coloured pipe cleaners. Each colour will represent a different part of the neuron e.g. cell body, axon, dendrites, myelin sheath!
 
 1. Take one pipe cleaner and roll it into a ball. This is will be the cell body.
@@ -77,7 +91,7 @@ This is a great way to explain the basic concepts of what nerves are and what th
 5. Wrap another pipe cleaner on the end of the axon. This will be the synaptic terminal.
 
 
-Background information about neurons:
+#### Background information about neurons:
 
 ![](/sites/default/files/neurone1.gif)
 
@@ -191,3 +205,5 @@ In case of injury, call a first aider.
 **Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-02-05 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
