@@ -1,10 +1,11 @@
 # Plant evolution & pollinator game
 
-**Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them. 
+**Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them.
 
-Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
@@ -12,20 +13,23 @@ Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 **Biology**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
 
-## Equipment Needed 
-- Evolution of plants: timeline on green mat, plant fossils, ginkgo leaves, set of cardboard tiles
-- Pollinator game: game tiles (x16) *Note, all pictures with copyrights or courtesy to someone other than CHaOS were sourced from Wikimedia Commons. The remaining 3 now belong to CHaOS.*
+## Equipment Needed
+
+- Evolution of plants: timeline on green mat, plant fossils (some of these usually live in Rocks and Fossils, but you can borrow them), ginkgo leaves, set of cardboard tiles
+- Pollinator game: game tiles (x16) _Note, all pictures with copyrights or courtesy to someone other than CHaOS were sourced from Wikimedia Commons. The remaining 3 now belong to CHaOS._
 - Fresh, real plant specimens may be collected beforehand.
 
 <br/>
 
-## Experiment Explanation 
+## Experiment Explanation
 
-**Evolution of plants**
+### Evolution of plants
+
 A lot happened to allow cyanobacteria to evolve into the wide range of land plants we see today. This timeline shows some of the main points and key developments that give rise to modern plants
 
 Expansion of the main points on the timeline (with tile number):
@@ -37,11 +41,11 @@ Expansion of the main points on the timeline (with tile number):
 **Liverworts** – the first plants, still needed a lot of moisture, and live clinging to rocks in damp environments such as near waterfalls. Can be seen in Scotland still today (one is sketched on the timeline) (6)
 **Mosses** – mosses have the first identifiable transport systems for water – xylem vessels. Can also explain the haploid/diploid thing here using standard wall moss – the green carpet part is the haploid and is the main part of the life cycle, the diploid emerges to spread spores and are on little stalks. (7)
 **Hornworts** – developed the cuticle (which helps to reduce water loss) and stomata so are more independent of water than liverworts. All land plants except liverworts have these two features (9)
-*Next a true vascular system evolved* that was capable of not only transporting water but also supporting the plant structurally, all other plants on land are ‘vascular’ (they have veins like us).
+_Next a true vascular system evolved_ that was capable of not only transporting water but also supporting the plant structurally, all other plants on land are ‘vascular’ (they have veins like us).
 **Club mosses** – First plants to have leaves! Also developed roots which grew in the dark and needed photosynthate (sugars), so needed phloem too. (11)
 **Horsetails** – Had a hollow stem surrounded by a ring of vascular tissue, were therefore light. Still survive today, but are much smaller than their ancestors (2)
 **Spore producing ferns** – have proper complex leaves. Bracken, seen in most woodlands, is the most successful and widespread of all vascular plants. Reproduction is still water dependent. (3)
-*Then evolved all the seed plants!*
+_Then evolved all the seed plants!_
 **Seed ferns** – now extinct, but different to their surviving spore producing ancestors. See the fossils for examples, note the different leave shapes.
 **Cycads** – the dinosaurs favourite food! We think some dinosaurs used to swallow pebbles to help them digest the tough leaves. (12)
 **Ginkgo** – see the leaves, a living fossil in itself! (5)
@@ -49,56 +53,60 @@ Expansion of the main points on the timeline (with tile number):
 200 MYA – insects evolved wings
 **Angiosperms** (the flowering plants) – very exciting and the most diverse group of plants, still only evolved very recently (10)
 
-Number order of photos: 
+Number order of photos:
 1, 13, 4, 6, 7, 9, 11, 3, 2, 12, 5, 8, 10 (from most basal to most recetly evolved)
 
-**Plant fossil details:**
-All the fossils came from the Dover area and illustrate the horsetail point at 400 million years ago, NOTE, the ferns are seed ferns, which developed after seeds evolved, they are not the spore producing ferns we see today and evolved with the horsetails. The sketch of a horsetail on the timeline should help the children envisage what Annularia and Calamites looked like. 
--Alethopteris: these are the leaves of seed fern (which are now extinct). The leaves are relatively long and thin and end in more of a point compared to neuropteris, see number 1.
--Neuropteris: also leaves of an extinct seed fern. These are the fat leaves with blunt, rounded ends, most of the leaves in the fossils are neuropteris.
--Annularia: also called Asterophyllites - don't think there is a difference. These are the leaf whorls of an extinct horsetail. (The leaves are spread concentrically about a point). There is only one of these in the fossils, next to number 3.
--Calamites: the stems of the horsetail. Can be recognised by the segmented stems. These are related to the modern horsetail. See number 2 for some well segmented ones, but also the largest one.
+#### Plant fossil details:
 
-**Ginkgo facts:**
-The leaves are from the Dept of Plant Sciences. 
+All the fossils came from the Dover area and illustrate the horsetail point at 400 million years ago, NOTE, the ferns are seed ferns, which developed after seeds evolved, they are not the spore producing ferns we see today and evolved with the horsetails. The sketch of a horsetail on the timeline should help the children envisage what Annularia and Calamites looked like.
+
+- Alethopteris: these are the leaves of seed fern (which are now extinct). The leaves are relatively long and thin and end in more of a point compared to neuropteris, see number 1.
+- Neuropteris: also leaves of an extinct seed fern. These are the fat leaves with blunt, rounded ends, most of the leaves in the fossils are neuropteris.
+- Annularia: also called Asterophyllites - don't think there is a difference. These are the leaf whorls of an extinct horsetail. (The leaves are spread concentrically about a point). There is only one of these in the fossils, next to number 3.
+- Calamites: the stems of the horsetail. Can be recognised by the segmented stems. These are related to the modern horsetail. See number 2 for some well segmented ones, but also the largest one.
+
+#### Ginkgo facts:
+
+The leaves are from the Dept of Plant Sciences.
 It is the species Ginkgo biloba (maidenhair tree) and has no living relatives! It even has its division (equivalent to an animal phylum). Phylum is the next classification step down from Kingdom, so to illustrate how different it is, you can explain that within the animals there are the ‘chordata’ (or vertebrates). Ginkgo is as different to a fellow plant as vertebrates are to invertebrates, e.g. tigers and insects!
 Expansion of the main points on the timeline:
 
 Major developments in the evolution of plants:
 
-1) Multicellularity
- Plants have different tissue types, like we do, so needed to be made up of more than one cell.
+1. Multicellularity
+   Plants have different tissue types, like we do, so needed to be made up of more than one cell.
 
-2) Cuticle
- Once out of the water, plants needed to avoid drying out, so they evolved a waxy layer that prevented water loss (C)
+2. Cuticle
+   Once out of the water, plants needed to avoid drying out, so they evolved a waxy layer that prevented water loss (C)
 
-3) Stomata
- This waxy layer is a barrier to gas exchange – plants need carbon dioxide for photosynthesis so they evolved little openings in the cuticle to let carbon dioxide in and oxygen out (E)
+3. Stomata
+   This waxy layer is a barrier to gas exchange – plants need carbon dioxide for photosynthesis so they evolved little openings in the cuticle to let carbon dioxide in and oxygen out (E)
 
-4) Xylem
- Plants needed to transport water from the base if they were going to be able to grow upwards, xylem allow for water transport (see coloured flowers demonstration). Xylem also provide support for upward growth as they are reinforced with lignin (G,I)
+4. Xylem
+   Plants needed to transport water from the base if they were going to be able to grow upwards, xylem allow for water transport (see coloured flowers demonstration). Xylem also provide support for upward growth as they are reinforced with lignin (G,I)
 
-5) Phloem
- Some parts of the plant are underground, and hence can’t photosynthesise, so need sugar delivered to them, phloem tubes transport these sugars (D,I)
+5. Phloem
+   Some parts of the plant are underground, and hence can’t photosynthesise, so need sugar delivered to them, phloem tubes transport these sugars (D,I)
 
-6) Roots
- Plants have had some kind of anchoring since the movement of plants onto land, initially role fullfilled by fungi, but in order to grow up, plants first had to grow down. (F)
+6. Roots
+   Plants have had some kind of anchoring since the movement of plants onto land, initially role fullfilled by fungi, but in order to grow up, plants first had to grow down. (F)
 
 Xylem, phloem and roots all evolved at roughly the same time, with all three features supporting each other, there is also confusion due to the limited evidence provided by the fossil record (roots particularly fossilise poorly). Leaves evolved multiple times, early leaves (microphylls) had a single vein, whilst the leaves we recognise today (megaphylls) evolved on four independant occassions (in the ferns, horsetails, progymnosperms, and seed plants)
 
-7) Dominant sporophyte
- Previously the haploid phase (like our sperm) had been the main part of the life cycle, but these need a lot of water, there needed to be a switch to the more resilient diploid (like us) in order to develop further
+7. Dominant sporophyte
+   Previously the haploid phase (like our sperm) had been the main part of the life cycle, but these need a lot of water, there needed to be a switch to the more resilient diploid (like us) in order to develop further
 
-8) Seeds
- As the world dried out 250 million years ago, plants needed to protect their ‘eggs’ and evolved seeds (A)
+8. Seeds
+   As the world dried out 250 million years ago, plants needed to protect their ‘eggs’ and evolved seeds (A)
 
-9) Pollen tubes
- These allow the pollen to grow down to the egg and fertilise it (and can be seen in another demonstration) (B)
+9. Pollen tubes
+   These allow the pollen to grow down to the egg and fertilise it (and can be seen in another demonstration) (B)
 
-10) Showy flowers
- Once flowers had evolved, they could be adapted to as many different forms as there were pollinators (see the pollinators game) (H)
+10. Showy flowers
+    Once flowers had evolved, they could be adapted to as many different forms as there were pollinators (see the pollinators game) (H)
 
-**Pollinator game**
+### Pollinator game
+
 Flowers are a plant’s way of manipulating somebody else, usually an animal but sometimes the wind, into carrying its pollen around for it.
 Start by asking them to think of pollinators, they’ll probably say bees. Then introduce the other forms – and show them the tiles (1-8).
 
@@ -111,7 +119,8 @@ They are so diverse because, once you’ve mastered the ability to manipulate so
 
 Then ask them to match up the flower to the pollinator. Note – you may have to tell them some of their guesses are good particularly between beetle and moth as the key difference is not apparent just by looking. You may like to tell them at the start that C (the gardenia) opens at NIGHT to distinguish it from G.
 
-More detail on the tiles:
+#### More detail on the tiles:
+
 1 = Birds (This one is a female hummingbird, species Thalurania colombica)
 2 = Bees (Buff tailed bumblebee – Bombus terrestris)
 3 = Beetles (pollinating beetles are small, these are Mordellidae beetles)
@@ -120,22 +129,25 @@ More detail on the tiles:
 6 = Wind
 7 = Fly (generic diptera is pictured)
 8 = Butterfly (Red admiral)
-A = Snapdragon (antirrhinum) 
+A = Snapdragon (antirrhinum)
 B = Grasses
 C = Gardenia, note this flower has a distinctive scent at nighttime
 D = Buddleia davidii (aka the butterfly plant, but that gives it away, normally call it Buddleia)
 E = Red columbine
 F = A Compositae flower, part of the daisy family (Asteraceae), Bellium bellidiodes
 G = Magnolia
-H = Jade vine, Cambridge Botanic gardens 
+H = Jade vine, Cambridge Botanic gardens
+
 ANSWERS:
 A = 2, B = 6, C = 4, D = 8, E = 1, F = 7, G = 3, H = 5
 
-Extra Idea for the Game (from summer tour 2013) - Make it vaguely competitive. Go through each of the different types of flowers and say what would be attracted to them. Don't go through the pollinators. Or do that vice versa. Then get them to match up the flowers to the pollinators as fast as possible. 15 second time penalty for every wrong answer. Keep track of the times for the day, as it gives this added excitement. From my vague recollection, the best time was around the 1 minute 15 second mark...
+#### Extra Idea for the Game (from summer tour 2013)
 
-More details:
+Make it vaguely competitive. Go through each of the different types of flowers and say what would be attracted to them. Don't go through the pollinators. Or do that vice versa. Then get them to match up the flowers to the pollinators as fast as possible. 15 second time penalty for every wrong answer. Keep track of the times for the day, as it gives this added excitement. From my vague recollection, the best time was around the 1 minute 15 second mark...
 
-The concept of a broad association between flowers and the types of animals that pollinate them is called a pollination syndrome. 
+#### More details:
+
+The concept of a broad association between flowers and the types of animals that pollinate them is called a pollination syndrome.
 
 A pollination syndrome classically describes a suite of adaptations shown by a plant to a particular group of animals, usually a taxonomic order, and by those animals to a particular group of flowers, which may not be phylogenetically related to each other. The adaptations shown by the animals may be behavioural or morphological, while plants can only show morphological adaptations to animals.
 
@@ -143,7 +155,7 @@ Can they think of another method? There is also deceit pollination, where flower
 
 A = 2
 Bee pollination (Melittophily)
-Bees carry pollen on their bodies in a range of increasingly specialised structures from simply having hairy feet to having pollen baskets on the hind legs. Then they groom this pollen off and feed it to their larvae. Bees can see in ultra violet, blue and yellow, but not in red. They have the ability to perceive depth, and they usually have long tongues. 
+Bees carry pollen on their bodies in a range of increasingly specialised structures from simply having hairy feet to having pollen baskets on the hind legs. Then they groom this pollen off and feed it to their larvae. Bees can see in ultra violet, blue and yellow, but not in red. They have the ability to perceive depth, and they usually have long tongues.
 Bee flowers are usually quite big to bear the weight of the animal, and often have a landing platform. Bee flowers are usually brightly coloured. Yellow and blue are considered classic bee colours, but in fact many bee flowers are red despite the inability of bees to see red. The presence of UV absorbing pigments presumably modifies the red to a colour that is visible. Bees are sensitive to nectar guides, which enable them to handle the flowers more quickly by directing them straight to the nectar. Examples: snapdragon, nettles.
 
 B = 6
@@ -170,8 +182,6 @@ F = 7
 Fly pollination (Myiophily)
 The Diptera, the fly order, show the greatest variation in methods and habits of pollination of any group of insects. Many plants flowering in adverse conditions or at odd times of the year can be entirely dependent on flies for their pollination, as they are the only group of insects which are not strictly periodic. Because they do not feed their offspring they do not require much food, and so myiophilous flowers need supply only a small quantity of nectar. Flies are more visual animals than beetles, and have a positive preference for pale and yellow colours, and for nectar guides. Fly flowers do not often have much scent but they are usually palely coloured. Examples: Umbilliferae, Compositae.
 
-
-
 G = 3
 Beetle pollination (Cantherophily)
 This is widely believed to have been the first pollination syndrome, the one used by
@@ -183,9 +193,6 @@ usually greenish or off white in colour, with a strong fruity smell. Examples: M
 H = 5
 Bat pollination (Chiropterophily)
 A quarter of all bat species use flowers for food to some extent. The anthers of bat flowers open at night, and the flowers often only last one night. The flowers are usually white to cream or sometimes a greenish pink colour. Bats are colour blind, so strong colours are not relevant. The main attractant is scent. Bat flowers generate a very strong scent. Bat flowers produce the most nectar of any flower type - up to 15 millilitres at a time. A few bats have become totally dependent on flowers, and eat pollen as their only protein source. The flowers have to be very large and strong, with narrow tubes or bowls from which to lap nectar. Because the bats have to find the flowers at night they are not usually within the foliage, but either hang below it for easy access or actually develop on the trunk of the plant itself. Examples: cacti, Bignoniaceae.
-
-
-
 
 <br/>
 
@@ -199,7 +206,7 @@ A quarter of all bat species use flowers for food to some extent. The anthers of
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Place timeline on table if possible. If little space is available, try unraveling the timeline like a scroll in the demo. If you have to have it on the floor, put it in a safe place – i.e. not across a likely walkway, and ensure children do not walk/run across it.
+**Mitigation**: Place timeline on table if possible. If little space is available, try unraveling the timeline like a scroll in the demo, or use tape to attach it to a wall. If you have to have it on the floor, put it in a safe place – i.e. not across a likely walkway, and ensure children do not walk/run across it.
 In case of injury, call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -235,7 +242,19 @@ In case of injury, call a first aider.
 
 <br/>
 
-## Risk Assessment Check History 
+### **Hazard**: Plant Fossils (if using)
+
+**Description**: Large fossils are heavy and may cause injury if dropped. Fragile fossils may break and produce sharp edges or small pieces, which could lead to choking hazard
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+
+**Mitigation**: Keep heavy samples over table, and don't let children handle them. Also keep fragile samples away from children, preferably in their bags to protect them. If a sample has broken, discard any pieces small enough to cause choking, and check for sharp edges. Put sample away if edges do become sharp. Refer to the 'Rocks and Fossils' risk assessment for more details.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
+## Risk Assessment Check History
 
 **Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
@@ -260,3 +279,5 @@ In case of injury, call a first aider.
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**:
