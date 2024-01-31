@@ -2,9 +2,10 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-09 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on
 
 ## Tags
+
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
@@ -12,32 +13,32 @@ Last initially checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk) and
 **Biology**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
 
-## Equipment Needed 
+## Equipment Needed
+
 - **This experiment can take place outdoors**
 - Lumps of wood in a small grey box, including pieces of trunk, and bamboo
 - Pictures and explanatory diagrams
 
 <br/>
 
-## Experiment Explanation 
+## Experiment Explanation
 
 OLD VERSION
 
-A small grey box filled with a various bits of tree. For keen plant scis mainly, but we think you could use it to explain transport of water/nutrients in the xylem and sugars in the phloem. You can also talk about aging a tree by counting the number of rings present, and how you can tell when the tree lived by comparing the relative size of each ring to trees of known age (thicker rings correspond to favourable growing conditions, while thinner rings correspond to a harsher climate). 
+A small grey box filled with a various bits of tree. For keen plant scis mainly, but we think you could use it to explain transport of water/nutrients in the xylem and sugars in the phloem. You can also talk about aging a tree by counting the number of rings present, and how you can tell when the tree lived by comparing the relative size of each ring to trees of known age (thicker rings correspond to favourable growing conditions, while thinner rings correspond to a harsher climate).
 
 NEW VERSION
 
-Tree trunks – general facts and information – *don’t worry, you won’t get too much stick for knowing this…*
+Tree trunks – general facts and information – _don’t worry, you won’t get too much stick for knowing this…_
 
-References - Many thanks to http://www.forestry.gov.uk/website/pdf.nsf/pdf/GrowingGreenActivityPack-Trunk.pdf/$FILE/GrowingGreenActivityPack-Trunk.pdf for a lot of information. Also usual thanks to Wikipedia (especially the bamboo article, and for half the pictures).
+References - Many thanks to [Forestry England](https://www.forestryengland.uk/article/learning-resources-forest-visits) for a lot of information. Also usual thanks to Wikipedia (especially the bamboo article, and for half the pictures).
 
-The structure of a tree trunk
------------------------------
-
+### The structure of a tree trunk
 
 ![](http://old.chaosscience.org.uk/sites/default/files/Bark_1.JPG)
 
@@ -57,61 +58,69 @@ The following year, a new two-part ring is added. The older rings are closest to
 The old annual rings form the heartwood of inactive cells: this is the dead part of the tree. The live portion includes only the most recent rings. Depending on the tree's age and species, this portion is 1.5 to 7.5 cm wide. The dead wood is the largest part of the tree. Often, it takes on a darker colour.
 
 Rings are narrower in years of low rainfall. The three main things we can tell from tree rings are
+
 1. Age of the tree
 2. Clues to the growth of the tree and factors affecting it e.g. reaction wood, fungal attack, where branches grew (knots), site conditions
 3. Past weather patterns, particularly rainfall.
 
-**Bark facts** *– I wouldn’t want you to bark up the wrong tree*
-• The bark is essential for protecting the tree against animals, fungi, disease, and from drying out.
-![](http://old.chaosscience.org.uk/sites/default/files/Different_things_on_bark.JPG)
-• For most trees, when the bark is damaged, it allows a way for fungi and disease to get into the tree, affecting the health of the tree. Tree sap will ooze out of the cut and harden in an attempt to seal the damaged area. However, if the bark is stripped off all around the tree, most species of tree will die.
-• Cork oak trees can survive the outer bark being stripped halfway around the trunk as it will regenerate.
-![](http://old.chaosscience.org.uk/sites/default/files/Cork_oak_trunk_section_1.jpg)
-• The Wellingtonia, or giant redwood, has spongy, fibrous bark that can be up to 30cm thick. It’s fireproof - protecting the tree from forests fires
-![](http://old.chaosscience.org.uk/sites/default/files/Sectional_Redwood_tree.jpg)
-![](http://old.chaosscience.org.uk/sites/default/files/Coast_redwood_bark.jpg)
-• The bark of many young trees is fairly smooth – it develops cracks as it grows older
-• The horizontal dashes seen in birch bark are called lenticels. They are pores that allow gases from the air to reach the wood beneath. All plants take in gases through their stems /trunks as well as their leaves. You may notice that birch bark peels off naturally. When the lenticels become blocked with algae or pollution, fresh bark is grown beneath, allowing the old bark to peel away, cleaning the trunk.
-A birch tree - 
+#### Bark facts – _I wouldn’t want you to bark up the wrong tree_
+
+- The bark is essential for protecting the tree against animals, fungi, disease, and from drying out.
+  ![](http://old.chaosscience.org.uk/sites/default/files/Different_things_on_bark.JPG)
+- For most trees, when the bark is damaged, it allows a way for fungi and disease to get into the tree, affecting the health of the tree. Tree sap will ooze out of the cut and harden in an attempt to seal the damaged area. However, if the bark is stripped off all around the tree, most species of tree will die.
+- Cork oak trees can survive the outer bark being stripped halfway around the trunk as it will regenerate.
+  ![](http://old.chaosscience.org.uk/sites/default/files/Cork_oak_trunk_section_1.jpg)
+- The Wellingtonia, or giant redwood, has spongy, fibrous bark that can be up to 30cm thick. It’s fireproof - protecting the tree from forests fires
+  ![](http://old.chaosscience.org.uk/sites/default/files/Sectional_Redwood_tree.jpg)
+  ![](http://old.chaosscience.org.uk/sites/default/files/Coast_redwood_bark.jpg)
+- The bark of many young trees is fairly smooth – it develops cracks as it grows older
+- The horizontal dashes seen in birch bark are called lenticels. They are pores that allow gases from the air to reach the wood beneath. All plants take in gases through their stems /trunks as well as their leaves. You may notice that birch bark peels off naturally. When the lenticels become blocked with algae or pollution, fresh bark is grown beneath, allowing the old bark to peel away, cleaning the trunk.
+
+<!-- A birch tree -  -->
+
 ![](http://old.chaosscience.org.uk/sites/default/files/Birch_tree_1.jpg)
 ![](http://old.chaosscience.org.uk/sites/default/files/Birch_bark_front_rear_1.jpg)
-**Trunk facts** *– stemming up with new ideas…*
-• The centre of the trunk is called heartwood. It is very strong and enables the tree to grow tall, supporting the weight and spread of branches. This gives the tree an advantage as it gains good access to sunlight, shading out the ground plants below.
-• Each year the girth of a tree increases, a new ring grows just under the bark, and this is necessary to support the extra height and spread of longer / new branches.
-• The trunk also houses the transport network of the tree. There are two different types of tubes running up the length of the trunk – phloem that carry food-bearing sap, and xylem that carry the water and minerals from the roots up to the leaves.
-• A mature oak tree can absorb 50 gallons of water in a day – that’s the equivalent of 227 litres, or 689 cans of lemonade! On a hot day it can be more than this.
-• The tallest tree in the world (an therefore the longest trunk) is called ‘Hyperion’ - a coastal redwood 115.5m high.
-![](http://old.chaosscience.org.uk/sites/default/files/Hyperion_lookalike_1.jpg)
-• The type of tree with the largest trunk (the greatest volume of wood) is called ‘General Sherman’ – a giant redwood or wellingtonia
-![](http://old.chaosscience.org.uk/sites/default/files/General_Sherman_1.jpg)
-**Story of a tree’s life** *– you are in for a treet*
+
+#### Trunk facts _– stemming up with new ideas…_
+
+- The centre of the trunk is called heartwood. It is very strong and enables the tree to grow tall, supporting the weight and spread of branches. This gives the tree an advantage as it gains good access to sunlight, shading out the ground plants below.
+- Each year the girth of a tree increases, a new ring grows just under the bark, and this is necessary to support the extra height and spread of longer / new branches.
+- The trunk also houses the transport network of the tree. There are two different types of tubes running up the length of the trunk – phloem that carry food-bearing sap, and xylem that carry the water and minerals from the roots up to the leaves.
+- A mature oak tree can absorb 50 gallons of water in a day – that’s the equivalent of 227 litres, or 689 cans of lemonade! On a hot day it can be more than this.
+- The tallest tree in the world (an therefore the longest trunk) is called ‘Hyperion’ - a coastal redwood 115.5m high.
+  ![](http://old.chaosscience.org.uk/sites/default/files/Hyperion_lookalike_1.jpg)
+- The type of tree with the largest trunk (the greatest volume of wood) is called ‘General Sherman’ – a giant redwood or wellingtonia
+  ![](http://old.chaosscience.org.uk/sites/default/files/General_Sherman_1.jpg)
+
+### Story of a tree’s life
+
+_You are in for a treet_
+
 Examining tree rings to tell the story of how a tree grows
 
 Dendrochronology is the dating of past events (such as climatic changes) through the study of tree ring growth. A tree’s growth can be affected by rainfall, sunlight levels, wind, temperature, soil properties, snow accumulation and competition from other trees.
 
 Using the wood, what can you find out about the tree’s life? Each year a tree grows a new ring just beneath the bark. Each ring is made up of two bands:
-• A light band (the quick growth of spring)
-• A darker band (the slower growth of late summer)
-![](http://old.chaosscience.org.uk/sites/default/files/Bark_2.JPG)
+
+- A light band (the quick growth of spring)
+- A darker band (the slower growth of late summer)
+  ![](http://old.chaosscience.org.uk/sites/default/files/Bark_2.JPG)
 
 Not every annual ring is the same:
-• In warmer, wetter years, trees grow well so the ring will be thicker
-• In colder, drier years, trees do not grow so well so the ring will be thinner.
-• If the rings are narrow on one side of a tree with wide rings on the other, the tree was either crowded on the side of the tree where the rings are narrow or exposed to the wind.
-• The side with wider rings shows the tree had more space to grow or was sheltered from strong winds.
-![](http://old.chaosscience.org.uk/sites/default/files/Bark_3.JPG)
 
-BAMBOO
-------
+- In warmer, wetter years, trees grow well so the ring will be thicker
+- In colder, drier years, trees do not grow so well so the ring will be thinner.
+- If the rings are narrow on one side of a tree with wide rings on the other, the tree was either crowded on the side of the tree where the rings are narrow or exposed to the wind.
+- The side with wider rings shows the tree had more space to grow or was sheltered from strong winds.
+  ![](http://old.chaosscience.org.uk/sites/default/files/Bark_3.JPG)
 
+### Bamboo
 
-*Time to branch out a bit…*
+_Time to branch out a bit…_
 
-Brief(ish) version:
--------------------
+#### Brief(ish) version:
 
-
-*Stop pining for better jokes*
+_Stop pining for better jokes_
 
 1. Bamboo is actually a grass and not a tree, but it is very woody and very strong (some is apparently stronger than steel).
 2. Each bamboo stick typically grows in one season only – it does not have branches, gets no wider the older it gets (as it appears at the diameter it will be), and reaches a maximum height in that one growing system.
@@ -121,18 +130,15 @@ Brief(ish) version:
 6. One hypothesis why is that if an area is flooded by huge numbers of seeds, then at least some will survive predators eating them, and so make a new generation. Furthermore, as there is such a long time between mass flowerings, it is longer than the lifespan of things that may eat the fruit, so they will die of starvation waiting for the next flowering.
 7. Fire cycle hypothesis is a different version – the mass flowering and death creates a disturbance in the force, I mean in the habitat, allowing the seedlings a gap to grow in, as dead bamboo is very flammable and so there is an increase in the likelihood of wildfire. As bamboo is a very fast grower, they can outcompete and so grow up very rapidly indeed.
 
-Long version (courtesy of Wikipedia):
--------------------------------------
+#### Long version (courtesy of Wikipedia):
 
-
-*Time to turn a new leaf*
+_Time to turn a new leaf_
 
 “**Bamboo** Listeni/bæmˈbuː/ (Bambuseae) is a tribe of flowering perennial evergreen plants in the grass family Poaceae, subfamily Bambusoideae, tribe Bambuseae. Giant bamboos are the largest members of the grass family. In bamboos, the internodal regions of the stem are hollow and the vascular bundles in the cross section are scattered throughout the stem instead of in a cylindrical arrangement. The dicotyledonous woody xylem is also absent. The absence of secondary growth wood causes the stems of monocots, even of palms and large bamboos, to be columnar rather than tapering.
 
 Bamboos are some of the fastest-growing plants in the world, due to a unique rhizome-dependent system. Bamboos are of notable economic and cultural significance in South Asia, Southeast Asia and East Asia, being used for building materials, as a food source, and as a versatile raw product. High-quality bamboo is stronger than steel, a property that has made it a choice in building materials and weaponry.
 
-##############
-**Aside – rhizome** *– bet yew never knew this!*
+##### Aside – rhizome _– bet yew never knew this!_
 
 In botany,[dendrology], a rhizome (from Ancient Greek: rhízōma "mass of roots", from rhizóō "cause to strike root") is a modified subterranean stem of a plant that is usually found underground, often sending out roots and shoots from its nodes. Rhizomes may also be referred to as creeping rootstalks or rootstocks. Rhizomes develop from axillary buds and are diageotropic or grow perpendicular to the force of gravity. The rhizome also retains the ability to allow new shoots to grow upwards.
 
@@ -140,8 +146,7 @@ If a rhizome is separated into pieces, each piece may be able to give rise to a 
 
 Stored rhizomes are subject to bacterial and fungal infections making them unsuitable for replanting and greatly diminishing stocks. However rhizomes can also be produced artificially from tissue cultures. The ability to easily grow rhizomes from tissue cultures leads to better stocks for replanting and greater yields. The plant hormones ethylene and jasmonic acid have been found to help induce and regulate the growth of rhizomes, specifically in Rheum rabarbarum otherwise known as rhubarb. Ethylene that was applied externally was found to affect internal ethylene levels, allowing for easy manipulations of ethylene concentrations. Knowledge on how to use these hormones to induce rhizome growth could help farmers and biologists producing plants grown from rhizomes with better ways on how to cultivate and grow better plants.
 
-#########
-**More detail about the bamboo**  *- time to blossom into new avenues*
+##### More detail about the bamboo _- time to blossom into new avenues_
 
 Bamboo is one of the fastest-growing plants on Earth, with reported growth rates of 250 cm (98 in) in 24 hours.[2] However, the growth rate is dependent on local soil and climatic conditions, as well as species, and a more typical growth rate for many commonly cultivated bamboos in temperate climates is in the range of 3–10 centimetres (1.2–3.9 in) per day during the growing period. Primarily growing in regions of warmer climates during the late Cretaceous period, vast fields existed in what is now Asia. Some of the largest timber bamboo can grow over 30 m (98 ft) tall, and be as large as 15–20 cm (5.9–7.9 in) in diameter. However, the size range for mature bamboo is species dependent, with the smallest bamboos reaching only several inches high at maturity. A typical height range that would cover many of the common bamboos grown in the United States is 4.6–12 metres (15–39 ft), depending on species. Anji County of China, known as the "Town Of Bamboo", provides the optimal climate and soil conditions to grow, harvest, and process some of the most valued bamboo poles available worldwide.
 
@@ -149,9 +154,9 @@ Unlike all trees, individual bamboo stems, or culms, emerge from the ground at t
 
 Many tropical bamboo species will die at or near freezing temperatures, while some of the hardier or so-called temperate bamboos can survive temperatures as low as −29 °C (−20 °F). Some of the hardiest bamboo species can be grown in places as cold as USDA Plant Hardiness Zones 5–6, although they typically will defoliate and may even lose all above-ground growth, yet the rhizomes will survive and send up shoots again the next spring. In milder climates, such as USDA Zone 8 and above, some hardy bamboo may remain fully leafed out year around.
 
-**Mass flowering** *– I oak you are ready for acorn-y joke about trees!*
+##### Mass flowering _– I oak you are ready for acorn-y joke about trees!_
 
-Flowering bamboo
+##### Flowering bamboo
 
 Most bamboo species flower infrequently. In fact, many bamboos only flower at intervals as long as 65 or 120 years. These taxa exhibit mass flowering (or gregarious flowering), with all plants in a particular species flowering worldwide over a several-year period. The longest mass flowering interval known is 130 years, and it is for the species Phyllostachys bambusoides (Sieb. & Zucc.). In this species, all plants of the same stock flower at the same time, regardless of differences in geographic locations or climatic conditions, and then the bamboo dies. The lack of environmental impact on the time of flowering indicates the presence of some sort of “alarm clock” in each cell of the plant which signals the diversion of all energy to flower production and the cessation of vegetative growth. This mechanism, as well as the evolutionary cause behind it, is still largely a mystery.
 
@@ -206,13 +211,13 @@ In case of injury, call first aider.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Monitor all pieces of wood and make sure the kids are sensible with them.  If kids start misbehaving, don't let them get carried away with the wood.  Call a first aider in the event of an accident.
+**Mitigation**: Monitor all pieces of wood and make sure the kids are sensible with them. If kids start misbehaving, don't let them get carried away with the wood. Call a first aider in the event of an accident.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-## Risk Assessment Check History 
+## Risk Assessment Check History
 
 **Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
 
@@ -237,3 +242,5 @@ In case of injury, call first aider.
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk)
+
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**:
