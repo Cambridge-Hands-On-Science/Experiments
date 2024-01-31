@@ -1,4 +1,4 @@
-# Seismometer (PLUS only)
+# Seismometer
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
@@ -12,6 +12,9 @@ Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and doub
 **Geology**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
+**CHaOS+** (More complex explanations suitable for older children are available)
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -19,10 +22,11 @@ Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and doub
 ## Equipment Needed 
 - **Electricity needed**
 - In this box there should be:
-- 	Lego Seismometer (including magnets, weight, coil, spring and lego structure)
-- 	aux cord
-- 	micro-USB to USB cord
-- 	seispy converter
+ - Lego Seismometer (including magnets, weight, coil, spring and lego structure)
+ - 	aux cord
+ - 	micro-USB to USB cord
+ - 	seispy converter
+
 - 4/5 tennis balls (under development)
 - One magnet in labelled sealed box (under development)
 
@@ -105,12 +109,18 @@ Generally due to solid-state phase transitions, and therefore their height is te
 The low velocity zone between lithosphere and asthenosphere may be due to some degree of melt. 
 
 **Appendix** 
-It would be good to see whether geophysics is possible to explain without all the jargon. 
+
+It would be good to see whether geophysics is possible to explain without all the jargon.
+
 Possible ideas:
-P waves --> ~sound or pressure waves
-S waves --> transverse waves
-Astenosphere --> weak solid layer
-Lithosphere --> strong but brittle solid layer
+
+P waves → sound or pressure waves
+
+S waves → transverse waves
+
+Asthenosphere → weak solid layer
+
+Lithosphere → strong but brittle solid layer
 
 
 <br/>
