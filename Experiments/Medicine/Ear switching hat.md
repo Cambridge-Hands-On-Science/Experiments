@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -146,4 +146,4 @@ Call a first aider in case of injury.
 
 **Check 1**: 2023-01-18 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-18 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: **Check 1**: Margaret Johncock (mllyj2@cam.ac.uk)
