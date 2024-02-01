@@ -2,7 +2,7 @@
 
 **Showing one of the transport systems in plants.** - Combine food colouring with water transport in stem and flowers- you can then see where all the water goes!
 
-Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -166,3 +166,5 @@ In the event of spillage, ensure any electrical equipment within reasonable radi
 **Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), 
