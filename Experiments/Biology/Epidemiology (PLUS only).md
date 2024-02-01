@@ -21,7 +21,7 @@ Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - 2 CHaOS laptops
 - WiFi access - ask a committee member and or one of the teachers present
 - Http://www.webidemics.com/ - NEW WEBSITE - https://plantepidemics.github.io/interactive/ - we are awaiting it to be built! This computer model was developed by Nik Cunniffe’s group http://www.plantsci.cam.ac.uk/research/nikcunniffe) in Plant Sciences. It models the spread of Citrus Canker under a variety of weather conditions, disease parameters and control efforts, allowing you to set initial conditions then watch the model run to a determined end point.
-- *** Requires Adobe Flash which is no longer available, hence not working label added 12/01/21 by Miffles. I have found the website, and am hoping they will actually develop their new version - https://plantepidemics.github.io/interactive/ - there is a working game there, but the instructions below give all the theory without going through the game - it is really good though. Changed back to actibe ***
+- *** Requires Adobe Flash which is no longer available, hence not working label added 12/01/21 by Miffles. I have found the website, and am hoping they will actually develop their new version - https://plantepidemics.github.io/interactive/ - there is a working game there, but the instructions below give all the theory without going through the game - it is really good though. Changed back to active ***
 - Envelope with model component cards (maybe in Tree's box...)
 - Collection of duplo blocks with eyes (for the population, stolen from maths and engines)
 
