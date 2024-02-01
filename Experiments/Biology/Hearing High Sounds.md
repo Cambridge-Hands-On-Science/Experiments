@@ -2,7 +2,7 @@
 
 **See who is better at hearing high pitched sounds: kids or adults!** - See who is better at hearing high pitched sounds: kids or adults!
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,13 +35,13 @@ Test the hearing of people of lots of different ages. Record your results.
 
 ### **Hazard**: High Pitched or Loud Noises
 
-**Description**: Listening to high pitched or loud noises for long periods of time can cause headaches or auditory damage.
+**Description**: Listening to high pitched or loud noises for long periods of time can cause headaches or auditory damage. This can be particularly a challenge to participants with sensory processing disorders. 
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Only listen to each sound for as long as you need to tell if you can hear it or not. Make sure you don't have the volume too loud, especially if using headphones to listen to the noise. If you start to get a headache, stop the experiment.
+**Mitigation**: Ask the participants if they are ok with you playing a sound before beginning the experiment. Only listen to each sound for as long as you need to tell if you can hear it or not. Make sure you don't have the volume too loud, especially if using headphones to listen to the noise. If you start to get a headache, stop the experiment.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -54,3 +54,5 @@ Test the hearing of people of lots of different ages. Record your results.
 **Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2023-02-01 - Margaret Johncock (mllyj2@cam.ac.uk),
