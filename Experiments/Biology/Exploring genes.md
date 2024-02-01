@@ -2,7 +2,7 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -131,3 +131,5 @@ Call a first aider in the event of an adverse reaction.
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), 
