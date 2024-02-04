@@ -2,7 +2,7 @@
 
 Learn about diabetes and try using a handheld blood glucose meter.
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-07-03 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-04 by Emily Wolfenden (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -180,4 +180,4 @@ In case of injury call first aider.
 
 **Check 1**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-03 - Andrew Sellek (ads79@cam.ac.uk)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk) 
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-04 - Emily Wolfenden (elw74@cam.ac.uk)
