@@ -20,7 +20,7 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 - **Darkroom needed**
 - **Electricity needed**
 - Short blue box containing:
-- Shrouded UV lamp
+- UV LED lamp
 - White paper
 - Washing powder tablets
 - Glowsticks
@@ -34,25 +34,23 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
- In a nutshell..
-----------------
+### In a nutshell..
+
 
 Show kids that there's more to light than the colours that they can see- and how this can explain why some ordinary things glow in "black light"
 
- How to set up the equipment
-----------------------------
+### How to set up the equipment
+
 
 This is best set up on the floor so that you don't look directly at the bulb. Put the lead and switches of the box towards you, with the flat side of the box towards your audience. The experiment is better in a dark corner/ in a dedicated dark room area. See the Risk Assessment for more details, but do thing about avoiding trailing wires in the dark! Also, there should be a power lead for the light box with this kit- please don't pack it with the main box of extension cables! There's lots of extra things in the box- if you keep them in the empty blue box when you're not using them it's easier to find them in the dark/ helps people avoid tripping over them!
 
-What does the box do?
----------------------
+### What does the box do?
 
 Turn over the box **with both lights switched off**, and show the kids the two bulbs. One is for "ordinary/normal" white light. The other bulb is a UV bulb- a kind of light human eyes can't see. There is a switch for each on the back. Turn it back over as soon as you're done with this to avoid UV directly into people's eyes.
 
 See Risk Assessment for more details, but briefly: this particular UV light is pretty safe- it's not that far into the UV, so isn't as energetic/ dangerous as some other sources. You should hopefully spot that it gives off weak visible light too. It's also fairly weak - but *don't use it while it is facing up* just in case!!
 
- What is light/ UV light?
--------------------------
+ ### What is light/ UV light?
 
 The light most of us are really familiar with is white light. But that's actually a mixture of different colours. Most of the time we can't tell that, but sometimes we can see these colours split up, like in a rainbow.
 
@@ -63,8 +61,7 @@ It turns out that there are more kinds of light than our eyes can see. Some kind
 
 It's weird to think that there's kinds of light we can't see, but not all kinds of eyes detect the same light. For example, some people can't tell red and green apart, which is called "colour blindness". Another example: some insects, such as bees, can see UV light. Some types of flowers have extra patterns in UV, so this helps them find the nectar in the middle of a flower! (How cool is that?!)
 
-But what about wavelength/ spectra?
------------------------------------
+### But what about wavelength/ spectra?
 
 Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about UV/ IR before, and you can overwhelm them. You can come back to this later on once you'rve showed them some of the cool things that glow!
 
@@ -73,8 +70,7 @@ EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electro
 Energy: Another way of viewing the light is as a stream of particles. We call them photons. They are like small balls travelling at the speed of light. And photons of different colours have different energy. Blue photons have more energy then red ones and ultra-violet ones have even more energy. This if why UV can cause damage to your skin. (You can use analogy with a light and heavy ball. The heavier has more energy and can harm you more if thrown upon you.) It causes damage to the cells (which can cause cancer if it goues really bad). When you get sun burned you have absorbed too much of UV. So wear suncream to prevent this!
 (And X-rays have even more energy and do not stop on your skin - they can go through your body so you can use them to see what is inside. But they are also more harmful and that is why it is used as little as possible.)
 
-Some things glow if you put them under UV light
------------------------------------------------
+### Some things glow if you put them under UV light
 
 Put an object from the box under the UV light. Boring old white paper works- though pretty patterns on driving licenses/ credit cards/ banknotes are a good start if you have them! Either way, this first item should glow! Here's a way of explaining this...
 
@@ -89,14 +85,13 @@ Wikipedia has a more precise explanation, but it depends on understanding lots o
 *"Fluorescence is the emission of light by a substance that has absorbed light or other electromagnetic radiation. It is a form of luminescence. In most cases, the emitted light has a longer wavelength, and therefore lower energy, than the absorbed radiation."* 
 (From http://en.wikipedia.org/wiki/Fluoresce)
 
-Where are UV lights used in everyday life?
-------------------------------------------
+### Where are UV lights used in everyday life?
 
-### In shops, to check if money is fake! (See markings on banknotes)
+#### In shops, to check if money is fake! (See markings on banknotes)
 
 Ask if they've ever seen notes being checked in shops. You can ask parents if they have a five pound note you can borrow briefly. If you look at the note, there are all kinds of features visible to the eye (metal strip, watermark etc.) but if you put the note under the UV light, you can see extra information, like the value of the note. This is useful in preventing forgery because printing with UV sensitive ink is difficult and expensive. Again, the UV gives the special inks energy so they give out light. Don't forget to give the fiver back
 
-### In discos, to make white things look super bright!
+#### In discos, to make white things look super bright!
 
 You might have seen this!
 
@@ -134,7 +129,7 @@ Why is there sunscreen in the box?
 - Combine this with highlighter pens- you should be able to block fluorescence. 
 - Try not to use too much sunscreen -it's pretty expensive...
 
-================
+________
 **Bits of an old explanation- should all be in section above!**
 
 I start off trying to get the idea across, that UV is a colour, but you just can't see it..
@@ -187,8 +182,7 @@ This experiment often links well if placed near IR or demonstrated as a pair. Yo
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Use LED light, which is less harmful, so much less harmful light.
-Warn users not to look directly at it.
-(The old Mercury tube, if used for some reason, is fairly soft UV and was on sale to the general public so the wavelength is at the safer end of the UV spectrum. The experiment is set up so that it is not easy to look directly at the UV light). Avoid prolonged skin exposure.
+Warn users not to look directly at it. Avoid prolonged skin exposure.
 In the event of an accident, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
@@ -225,20 +219,6 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 
 <br/>
 
-### **Hazard**: Tube containing mercury.
-
-**Description**: Tube could break and release mercury. (Mercury tube not used regularly now, but still exists, hence this is still here)
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
-
-**Mitigation**: Tube is inside the light box to protect it.
-If lamp becomes broken, keep the public well away from the area, and ventilate area where breakage occurred. Take usual precautions for collection of broken glass. Do not use a standard vacuum cleaner for cleaning up dust; instead, pick up pieces/dust with a damp cloth or damp paper towels. Place materials, including the cloth/towels, in a sturdy closed container to avoid generating dust. After you have picked up all that you can, then vacuum the area. Finally, ventilate the room where the breakage occurred.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
 
 ### **Hazard**: Sun cream
 
