@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle water rockets with a foot pump.** - Try not to get wet as you fire water-powered rockets into the air. Who can shoot it the highest?
 
-Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
+Last initially checked on 2024-02-04 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -58,7 +58,7 @@ The next bit is the bung. This is what really makes it go high or low. "If I pus
 
 I even ask the tots questions. I push some air into the bottle and say, "What are these?" Bubbles. "What's in a bubble?" Air, relate to blowing a balloon, what is in a blow? Indeed what's air?
 
-These are just some of the themes I question on and there are plenty more so you shouldn't get bored. Remember, be a bastard hold that bottle 'til you've got some science into, or out of, them.
+These are just some of the themes I question on and there are plenty more so you shouldn't get bored. Remember, hold that bottle 'til you've got some science into, or out of, them!
 
 
 ### Practicalities
@@ -168,3 +168,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), 
