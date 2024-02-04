@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2023-01-13 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-17 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-02-04 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 **Frequency of use:** 4
 
@@ -260,10 +260,26 @@ Summon first-aider in event of someone tripping and hurting themselves.
 
 <br/>
 
+### **Hazard**: Small Quartz Crystal
+
+**Description**: Choking hazard
+
+**Affected People**: All but particularly young children
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+
+**Mitigation**: Use a larger crystal for demonstrations if possible. Don't let young children hold it, and if you do hand it out then keep an eye on it and don't let it go near anyone's mouth!
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
 ## Risk Assessment Check History
 
 **Check 1**: 2022-06-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 22-06-09 - Emma Crickmore (elc75@cam.ac.uk)
 
 **Check 1**: 2023-01-13 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2023-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
