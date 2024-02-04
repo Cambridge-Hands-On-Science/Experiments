@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners!** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-40 by Emily Wolfenden (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -160,7 +160,7 @@ Loss of myelin from axons is found in people with multiple sclerosis. They get t
 
 In case of injury, call first aider. Do not attempt to move anything lodged in the eye.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -206,4 +206,4 @@ In case of injury, call a first aider.
 
 **Check 1**: 2023-02-05 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-04 - Emily Wolfenden (elw74@cam.ac.uk)
