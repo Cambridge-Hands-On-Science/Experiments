@@ -2,7 +2,7 @@
 
 **Breaking open cells of a kiwi fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in kiwi fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-11 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2023-02-04 by Amy Migunda (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -30,13 +30,13 @@ Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double
 ---------------------------------------------
 
 
-• Slow cooker, run on high for 30 mins in setup, then turn down to "warm" heat before visitors arrive. 
-• Stores box (small blue) has spares of most of the kit in the kiwi DNA box.
-• Please use only 1-2 cm3 of ethanol/isopropanol per experiment to conserve our supplies for the whole roadshow. There are some plastic pipettes to help you with this. 
-• Poking the DNA at the end. As well as the cocktail sticks described in the main explanation we’ve now got some clear plastic cocktail stirrers, which are easier to get into the cocktail glasses when you’re getting the DNA out.
-• RNA model: in a plastic Tupperware tub in the main box, and new for 2010. Don’t feel you have to use this, but if you want to talk about DNA being used as a template to make proteins it’s a nice prop, and has the same colour coding.
-• Laminated sheets: provide some useful images, and there’s a wheel to show how DNA code is used to encode amino acids. Please try to dry these if they get damp during the day. 
-• DNA model in box. Roughly 1.4bn times bigger than real life (if my maths + memory is correct).
+- Slow cooker, run on high for 30 mins in setup, then turn down to "warm" heat before visitors arrive. 
+- Stores box (small blue) has spares of most of the kit in the kiwi DNA box.
+- Please use only 1-2 cm3 of ethanol/isopropanol per experiment to conserve our supplies for the whole roadshow. There are some plastic pipettes to help you with this. 
+- Poking the DNA at the end. As well as the cocktail sticks described in the main explanation we’ve now got some clear plastic cocktail stirrers, which are easier to get into the cocktail glasses when you’re getting the DNA out.
+- RNA model: in a plastic Tupperware tub in the main box, and new for 2010. Don’t feel you have to use this, but if you want to talk about DNA being used as a template to make proteins it’s a nice prop, and has the same colour coding.
+- Laminated sheets: provide some useful images, and there’s a wheel to show how DNA code is used to encode amino acids. Please try to dry these if they get damp during the day. 
+- DNA model in box. Roughly 1.4bn times bigger than real life (if my maths + memory is correct).
 
 
 Overview
@@ -138,14 +138,13 @@ In case of contact, wash off skin. Use eyewash to wash out of eyes if trained an
 
 ### **Hazard**: Water bath
 
-**Description**: Hot water can scald.
+**Description**: Hot water can scald; electric shocks possible if broken.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Maintain the water bath at 60°C out of reach of children. Ensure has passed PAT test in last 2 years. Ensure cables are taped to the ground/table to reduce risk of person tripping on/pulling the cables.
-In case of burns, run tepid water over affected area for at least 10 mins. Call first aider.
+**Mitigation**: Maintain the water bath at 60°C out of reach of children. In case of burns, run tepid water over affected area for at least 10 mins. Call first aider. Ensure has passed PAT test in last 2 years. Ensure cables are taped to the ground/table to reduce risk of person tripping on/pulling the cables. Refer also to the Electrical Parts RA.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -226,21 +225,6 @@ In case of contact, call first aider. Rinse skin with clean water.
 
 <br/>
 
-### **Hazard**: Heating element/stirrer
-
-**Description**: Risk of heat element and stirrer overheating if not covered by water.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
-
-**Mitigation**: Demonstrator to ensure that element is always covered with water and stirrer is always rotating.
-In case of accident, turn off electricity at mains. Call first aider if necessary. Allow to cool before using again.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
-
 ### **Hazard**: Small parts
 
 **Description**: Small pieces in model may present choking hazard.
@@ -281,3 +265,5 @@ If child ingests small part of model, call first aider immediately.
 **Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
