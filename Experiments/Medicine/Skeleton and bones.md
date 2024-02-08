@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk)
+Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-22 by Emily Wolfenden (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -166,7 +166,7 @@ Call first aider if necessary.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Don't carry the box by yourself - usually need at least two people.  Use standard heavy box lifting procedures (i.e. bend knees, not back!)
+**Mitigation**: Don't carry the box by yourself - usually need at least two people.  Use standard heavy box lifting procedures (i.e. bend knees, not back!). Take care to hold the box by the light grey lower handles instead of the lid.
 Boris himself may be light enough to carry, but only do so if confident and comfortable (and necessary).
 It is difficult to keep Boris' limbs under control when single-handedly carrying him, so best not to do so particularly in crowded areas.
 Always watch where you're going with either the box or Boris.
@@ -205,3 +205,5 @@ Also watch for things falling off Boris!
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-22 - Emily Wolfenden (elw74@cam.ac.uk)
+
+**Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk),
