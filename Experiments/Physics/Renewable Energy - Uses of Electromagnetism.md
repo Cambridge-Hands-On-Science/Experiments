@@ -2,7 +2,7 @@
 
 **Making power using wind and water!** - Explore how we can use the power of electromagnetism to power our day to day lives!
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-12 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-12 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -160,6 +160,20 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 <br/>
 
+### **Hazard**: Water spill from turbine
+
+**Description**: Water could leak from the water turbine if tubing is not secure enough, or during disassembly. People can slip on the spilled water.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+
+**Mitigation**: Secure tubing to tap with gaffer if necessary. Keep an eye on turbine and keep children away from surrounding area. If water is spilled, stop the demonstration, use a wet floor sign, and clean up.
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2018-11-06 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
@@ -173,3 +187,5 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 **Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk)
