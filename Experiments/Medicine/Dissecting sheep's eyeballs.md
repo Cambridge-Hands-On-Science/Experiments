@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2023-02-12 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -119,27 +119,41 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 ### **Hazard**: Eyeball
 
-**Description**: Fainting at sight of eyeball/dissecton.
+**Description**: Fainting at sight of eyeball/dissection.
 
 **Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Clearly signed and "separated" area for dissection, to keep away squeamish people. Chair nearby for light-headed-feeling people - may be preferable for them to sit on the floor as people can still faint off chairs. Call a first aider in case of fainting. Before starting demonstration, tell the public to let you know if they are feeling light-headed.
+**Mitigation**: Clearly signed and "separated" area for dissection, to keep away squeamish people. Chair nearby for light-headed-feeling people - may be preferable for them to sit on the floor as people can still faint off chairs. Call a first aider in case of fainting. Before starting demonstration, tell the public to let you know if they are feeling light-headed. 
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
+### **Hazard**: Raw tissue 
+
+**Description**: Risk of infection when open wounds are exposed to fluids from the eyeball or if fluids from the tissue are ingested. 
+
+**Affected People*: Demonstrator
+
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+
+**Mitigation**: Wear gloves and cover any wounds on the hands with a bandage. Wash hands before and after demonstration. 
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+ 
+<br/>
+
 ### **Hazard**: Scalpel
 
-**Description**: Risk of cuts.
+**Description**: Risk of cuts. 
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
-**Mitigation**: Scalpels to be kept out of way of kids, demonstrator to be experienced and takes care. Call frst aider in the event of an injury.
+**Mitigation**: Scalpels to be kept out of way of kids, demonstrator to be experienced and takes care. Call first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
@@ -170,3 +184,6 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-12 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
+
