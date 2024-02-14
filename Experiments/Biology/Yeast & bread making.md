@@ -2,7 +2,7 @@
 
 **The idea is to look at how yeast grows and how it relates to bread making. It involves getting the kids to make bread dough.** - Like all the best biology experiments, this is hands-on and messy! See what happens when you add living yeast to a bread mix, and don't forget to come back a bit later to see what's happened to your dough!
 
-Last initially checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk) and double-checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -89,13 +89,13 @@ In case of injury call first aider.
 
 ### **Hazard**: Flour/yeast
 
-**Description**: Possible risk of allergy to flour or yeast, potentially resulting in anaphylactic shock.
+**Description**: Possible risk of allergy to flour or yeast, potentially resulting in anaphylactic shock. Possible risk of mould in very old flour that can also cause allergies if breathed in. 
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Demonstrators with yeast/ flour allergies should not demonstrate this experiment. Demonstrators must ask participants about allergies to flour or yeast before commencing experiment.
+**Mitigation**: Demonstrators with yeast/ flour allergies should not demonstrate this experiment. Demonstrators must ask participants about allergies to flour or yeast before commencing experiment. Check manufacture date of flour before event and ensure that flour used is not too old. 
 In case of a reaction, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
@@ -157,3 +157,5 @@ If child is choking, get parent to encourage child to cough it out and find firs
 **Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk)
 
 **Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)
+
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
