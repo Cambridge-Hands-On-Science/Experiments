@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-01-16 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk) and double-checked on ??? by ??? (???@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,7 +22,7 @@ Last initially checked on 2023-01-15 by Peter Methley (pm631@cam.ac.uk) and doub
 - **Electricity needed**
 - Electrolysis tower (~ 6' tall, white cover, don't drop it - you will need 2 people to move it)
 - 0-15V variable power supply OR Power pack of doom
-- Small red box (approx. contents): Water models, small air blower, MgSO<sub>4</sub>, deionised water, funnels etc. power connectors, piezo-electric sparker, silencer, ping-pong balls)
+- Small red box (approx. contents): Water models, small air blower, MgSO<sub>4</sub>, deionised water, funnels etc. power connectors, green trigger button, silencer, ping-pong balls)
 
 <br/>
 
@@ -48,7 +48,7 @@ To be safer, you can use deionised water in the front chamber (this is not stric
 1. Double check the tower is secure, having been tightly roped to a fixed support, and won't fall over. There is a sound muffler (the top of a plastic bottle) in the box, that fits over the ignition chamber. It is strongly advised that you use it if you are going to be demonstrating this for any length of time/are indoors.
 2. Using the power supply, pass current between the platinum wires in the reaction chamber at the bottom, this splits water into hydrogen and oxygen, which are collected by two inverted burettes. ***Do not use too much voltage for the water splitting, as you may start causing some strange by-reactions.***
 3. Holding the mixing chamber valve shut, release hydrogen and oxygen from their burettes in an appropriate ratio into the mixing chamber.
-4. Release the mixing chamber valve to let the gas mixture into the explosion chamber, then use the piezo igniter to fire it (some off the gas will vent out around the ping pong ball - this is ok). 
+4. Release the mixing chamber valve to let the gas mixture into the explosion chamber, then use the green trigger button to fire it (some off the gas will vent out around the ping pong ball - this is ok). 
 5. The electrodes that make the spark are now wet; if you need to repeat the explosion quickly the air blower may be used to dry them more quickly - in practice by the time you've done the introduction again the electrodes may be dry.
 
 <!--- Video set up guide here: (It seems like the image is missing :( )
@@ -249,3 +249,5 @@ In the event if an injury, call a first aider.
 **Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 
