@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,11 +17,11 @@ Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- One suspension bridge (two supports, two ropes with clips to suspend deck, deck, two anchors; this -should all be set up already, if not, ask a committee member)
+- One suspension bridge (two supports, two ropes with clips to suspend deck, deck, two anchors; this should all be set up already, if not, ask a committee member)
 - Selection of moveable weights (small children)
-- 3-4m of rope
+- 3-4 m of rope
 - Weights on a hanger
-- Rope tied into a knot to have three ends coming out in different directions (optional; for vector addition)
+- Rope tied into a knot to have three ends coming out in different directions (optional – for vector addition)
 
 <br/>
 
@@ -63,11 +63,11 @@ What about the roadway bending? Put one kid on and see how much the roadway is b
 
 ### **Other things to talk about**
 
-Real life suspension bridges. Severn bridge. Clifton bridge in Bristol. Menai and Conwy suspension bridges in Wales. Humber bridge. Union bridge (over River Tweed). Brooklyn bridge in new york. Golden Gate bridge at the entrance to San Francisco Bay.
+Real life suspension bridges. Severn Bridge. Clifton Bridge in Bristol. Menai and Conwy Suspension Bridges in Wales. Humber Bridge. Union Bridge (over River Tweed). Brooklyn Bridge in New York. Golden Gate Bridge at the entrance to San Francisco Bay.
 
 Why build a suspension bridge rather than another type of bridge? Imagine building an arch bridge. Would need lots of bricks, which are heavy. Rope is very light and cheap, so easier to make longer bridges. Arch bridge would need lots of arches and more piers on the river bed, suspension bridge only needs two. Can be built high to allow ships to sail underneath.
 
-Building them in real life. Steel cables not rope. Need to sig down through earth to bedrock to start building piers. May need to dig underwater using a pressurised diving chamber called a caisson - this was first done when building the Brooklyn bridge in New York. Anchor cables by dropping a heavy lump of rock on them. May have two bits of rock with interlocking teeth and cable between.
+Building them in real life. Steel cables not rope. Need to sig down through earth to bedrock to start building piers. May need to dig underwater using a pressurised diving chamber called a caisson - this was first done when building the Brooklyn Bridge in New York. Anchor cables by dropping a heavy lump of rock on them. May have two bits of rock with interlocking teeth and cable between.
 
 Talk about tension and compression. Rope is good under tension, brick cracks under tension. Making steel rope - wind strands of iron into a small length, wind many of them together. Testing for strength!
 
@@ -107,7 +107,7 @@ Call a first aider in the event of an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
 **Mitigation**: The bridge must be PUT UP under the supervision of someone suitably experienced. It must be put on level ground, and pegged down adequately (or tied to an adequately fixed object). The piers must be attached to the rope so that their tops can't slide. The DEMONSTRATOR must be aware that the bridge can fall sideways if pushed hard, or swung on. The bridge must be closed if it's fallen or partly fallen or about to fall.
 Call first aider/999 if required.
@@ -212,4 +212,4 @@ Call first aider if required.
 
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk),**Check 2**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk),**Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
