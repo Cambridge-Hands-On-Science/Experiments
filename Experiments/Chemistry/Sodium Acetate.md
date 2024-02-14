@@ -2,7 +2,7 @@
 
 **Rapid crystal growth from sodium acetate.** - Find out about how handwarmers work, and see solid crystals form in seconds right in front of your eyes. 
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-07 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Andrew Marriott (asm206@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,7 +25,6 @@ Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - Plastic cups (ideally clear)
 - Cling film (not value cling film as it doesn't cling very well in this situation)
 - Cold water tray
-- 
 - **You will probably need one person making the solution and the other demonstrating.**
 
 <br/>
@@ -46,7 +45,7 @@ How to set up the experiment
 
 1) Add the sodium acetate (just crystals) to the pan and begin heating- add small amounts of water (you really don't need much) until the crystals have dissolved. Once they've dissolved, don't heat it too much as the water will be driven off.
 NOTE: If the sodium acetate does not seem to be going into solution, check carefully that you are heating it before adding more water. The solution in the pot usually has a thin crust on top and it still works fine.
-2) Use the metal pots to pour the solution into plastic ups, and place cling film over the top, so you don't get small crystals forming on the surface and triggering the crystallisation.
+2) Use the metal pots to pour the solution into plastic cups, and place cling film over the top, so you don't get small crystals forming on the surface and triggering the crystallisation.
 3) Cool the cups down in cold water or ice. A mixture of cold water and ice works well. Make sure the cups are as stable as possible and only touch them when you demonstrate it. Even so, expect at least a third of solutions to crash out before demonstrating!
 
  Demonstration
@@ -195,4 +194,4 @@ Call a first aider if there’s an accident.
 
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), 
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Andrew Marriott (asm206@cam.ac.uk)
