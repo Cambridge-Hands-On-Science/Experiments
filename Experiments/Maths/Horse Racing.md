@@ -2,7 +2,7 @@
 
 **Probabilities of rolling dice.** - Understanding the probabilities behind throwing pairs of dice.
 
-Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-14 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
