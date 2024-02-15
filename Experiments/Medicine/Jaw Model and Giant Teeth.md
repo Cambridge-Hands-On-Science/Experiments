@@ -96,4 +96,4 @@ OTHER THINGS TO TALK ABOUT:
 
 **Check 1**: 2023-02-12 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2023-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**:
+**Check 1**: 2023-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
