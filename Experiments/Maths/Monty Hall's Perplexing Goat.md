@@ -2,7 +2,7 @@
 
 **A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.** - A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-03-16 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-03-16 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -219,11 +219,11 @@ PS By the way, you have spent the last twenty minutes talking to a goat – I su
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 **Mitigation**: Keep control of coins. Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
 <br/>
 
@@ -248,12 +248,12 @@ Call first aider in case of injury.
 
 **Affected People**: Kids, but also anyone handling the doors
 
-**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 **Mitigation**: Keep the kids under control, watch they don't lunge for the doors etc.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -271,4 +271,6 @@ Call first aider in case of injury.
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
-**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02016 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**:
