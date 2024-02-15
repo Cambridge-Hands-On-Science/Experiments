@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -49,7 +49,7 @@ LOTS OF PARTICLES  \__________/
 There are more particle collisions on the left hand side of the ball than the right due to the vacuum cleaner reducing the pressure on the Right hand side.
 
 #### Particle Theory
-A good way to start (I think, depends on the age group) is often good to ask what the surroundings are made of, solids liquids gases etc, and introduce the idea of particles (kids, even young ones may have heard of atoms or molecules). You can talk about how particles behave in each state of matter, and then start to focus on the air around you. Many kids will know the names of the gases that make up the atmosphere, so that’s a nice question to ask, then you can explain that you get lots of these gas particles zooming around, but that you can’t normally feel them. Example, wind blowing you backwards. You can also explain that many, many particles bump into you each second, but because you're used to it you don't notice (and your body has evolved to deal with it, if they're old enough to know about evolution). Maybe make a comparison, such as a bag of flour (1kg) on an area the size of a postage stamp (1cm^2).
+A good way to start (I think, depends on the age group) is often good to ask what the surroundings are made of, solids liquids gases etc, and introduce the idea of particles (kids, even young ones may have heard of atoms or molecules). You can talk about how particles behave in each state of matter, and then start to focus on the air around you. Many kids will know the names of the gases that make up the atmosphere, so that’s a nice question to ask, then you can explain that you get lots of these gas particles zooming around, but that you can’t normally feel them. Example, wind blowing you backwards. You can also explain that many, many particles bump into you each second, but because you're used to it you don't notice (and your body has evolved to deal with it, if they're old enough to know about evolution). Maybe make a comparison, such as a bag of flour (1 kg) on an area the size of a postage stamp (1 cm<sup>2</sup>).
 
 #### Projectiles
 There are lots of things we can talk about in optimising how the bazooka fires.
@@ -140,5 +140,5 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2023-02-17 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
