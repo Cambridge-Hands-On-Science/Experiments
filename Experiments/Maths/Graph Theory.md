@@ -141,11 +141,11 @@ If there are any cuts, call a first aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
 
-**Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary. Keep hold of pen caps if particularly small children are present.
+**Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary. Encourage children to cough if choking. Keep hold of pen caps if particularly small children are present.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 <br/>
 
