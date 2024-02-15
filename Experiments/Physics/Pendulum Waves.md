@@ -2,7 +2,7 @@
 
 **nan** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
 
-Last initially checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-17 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-02-15 by (cfl35@cam.ac.uk) and double-checked on 2023-02-17 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -140,3 +140,4 @@ In case of an injury, contact a first aider.
 
 **Check 1**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2023-02-17 - John Leung (cfl35@cam.ac.uk)
 
+**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 
