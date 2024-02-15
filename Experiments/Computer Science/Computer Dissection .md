@@ -2,7 +2,7 @@
 
 **Dissecting a computer ** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2023-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -89,6 +89,7 @@ Data Cables - You'll see these ribbon cables which transfer data to and from the
 
 Motherboard - On this PC it's a HP Brio 83xx board. Here's a picture of a motherboard to help identify some pieces. 
 ![](https://www.computerhope.com/cdn/motherboard.jpg)
+
 There are lots of parts to point out and too many to list immediately. You can probably also pick out some capacitors and conductors which there are examples of in the electronics components bag.
 
 Cabling - There's quite a few cables people might be familiar with included inside, you can ask if they know what they're for and why we might have different types of cable. One thing to think about is what is being sent via the cable. Speakers require analogue signals whereas other things require digital. You also need to consider how far a signal can propagate down a cable, USB has a limit of around 5 metres, that's why you don't get really long USB cables. USB also (traditionally, this is changing with USB C which is less strict on master/slave and supplies more power) has a master and peripheral set up which is why cables always have a none USB end (which connects to the peripheral). These peripheral devices can't communicate with each other without going through the master and there is a hard limit of 127 peripherals. Cables also have a bandwidth, USB is 5Gbit/s and HDMI is 8.16Gbit/s, even this isn't enough bandwidth for a 5k/60fps screen like on a new iMac. Some devices when connected also need power to be supplied, USB doesn't standardly provide a lot of power, if you plug into a computer you'll probably notice a slow charge however you may notice modern computers may come with charging ports which supply a non-standard amount of amps to charge devices faster. Ethernet is great for long distances, it's easily boosted for even longer distances and can be switched via routers to form large networks. 
@@ -142,3 +143,5 @@ Plug - This is an old and broken USB plug. You can see how the wires go in the i
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
