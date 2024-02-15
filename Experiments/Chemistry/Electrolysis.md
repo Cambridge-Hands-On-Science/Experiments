@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk) and double-checked on ??? by ??? (???@cam.ac.uk)
+Last initially checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2024-02-15 by Vlad Penzyev (vp410@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,7 +90,7 @@ Parents and teenagers will be interested in the hydrogen cars angle. With this a
 
 ### **Hazard**: Electrolysis chamber
 
-**Description**: Explosion in the electrolysis chamber.
+**Description**: Explosion in the electrolysis chamber (shrapnel injury, hearing damage).
 
 **Affected People**: All
 
@@ -107,14 +107,14 @@ Call first aider in event of injury.
 
 ### **Hazard**: Mixing chamber
 
-**Description**: Explosion in the mixing chamber.
+**Description**: Explosion in the mixing chamber (shrapnel injury, hearing damage).
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
 **Mitigation**: The valve at the top of the mixing chamber is designed so it defaults to be open, so gas won't build up when you are not paying attention.
-The explosion is separated from this chamber by water so it shouldn't ignite. The explosion occurs behind a blast shield.
+The explosion is separated from this chamber by water so it shouldn't ignite. There is a polycarbonate blast shield.
 
 Call first aider in event of injury.
 
@@ -124,7 +124,7 @@ Call first aider in event of injury.
 
 ### **Hazard**: Chlorine
 
-**Description**: Evolution of chlorine gas.
+**Description**: Emission of chlorine gas.
 
 **Affected People**: All
 
@@ -140,13 +140,13 @@ In the event of an incident, turn off power, remove any casualty from area, call
 
 ### **Hazard**: Explosion noise
 
-**Description**: Loud explosion. Possible auditory damage.
+**Description**: Loud explosion. Possible hearing damage.
 
 **Affected People**: Demonstrator mainly (repeated exposure)
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column.
+**Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column. Use hearing protection if available, especially if demonstrating this for a long time.
 
 Use less gas if the explosions are too loud.
 
@@ -250,4 +250,4 @@ In the event if an injury, call a first aider.
 
 **Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
