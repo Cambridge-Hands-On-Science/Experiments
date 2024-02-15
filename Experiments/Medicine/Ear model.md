@@ -2,7 +2,7 @@
 
 **Anatomical model of the ear, with removable parts.** - Use our large-scale model of the ear to discover how it enables you to hear sounds.
 
-Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2023-02-02 by Emily Wolfenden (elw74@cam.ac.uk)
+Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -157,4 +157,4 @@ Call a first aider in case of injury.
 
 **Check 1**: 2023-01-18 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-02-02 - Emily Wolfenden (elw74@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
