@@ -2,7 +2,7 @@
 
 **Various demonstrations using a vacuum pump.** - The idea of a vaccum is very different to what we experience in everyday life, with some surprising consequences!
 
-Last initially checked on 2023-02-05 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-02-05 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -139,4 +139,6 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2022-01-23 - John Leung (cfl35@cam.ac.uk), , **Check 2**: 2023-02-05 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2023-01-23 - John Leung (cfl35@cam.ac.uk), , **Check 2**: 2023-02-05 - Joshua Wu (jw2311@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**:
