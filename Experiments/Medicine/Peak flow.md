@@ -2,7 +2,7 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2023-02-17 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk)
+Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2024-xx-xx by  (xx@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -126,6 +126,23 @@ In case of accident, call a first aider.
 
 <br/>
 
+<br/>
+
+### **Hazard**: Choking risk
+
+**Description**: Risk of choking if straw is inhaled when blowing out through straw if children are messing about.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+**Mitigation**: The risk of this very low, but keep an eye on students if several kids are doing the exhalation through straws activity. If children are messing around/being unsafe immediately intervene and stope the experiment. If people are sitting as recommeneded above this should not occur.
+In case of accident, call a first aider and encourage child to cough.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
@@ -151,3 +168,5 @@ In case of accident, call a first aider.
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-17 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-23 - Andrew Sellek (ads79@@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**:
