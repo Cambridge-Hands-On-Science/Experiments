@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2024-02-04 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2024-02-04 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -207,4 +207,4 @@ Switch off power and call first aider in case of injury. In very poor visibility
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
