@@ -2,7 +2,7 @@
 
 **Working model of the lungs with diaphragm and rib cage.** - Use our interactive model to find out how we breathe.
 
-Last initially checked on 2023-02-18 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
+Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -48,8 +48,8 @@ Then onto how the model works…
 
 ### General stuff:
 
-– Point to parts on model and on yourself while talking.
-– The annoying thing about this model is that it’s very hard to keep the bags airtight. That’s what the pump is there for, you shouldn’t need it on all the time put probably in between explanations.
+- Point to parts on model and on yourself while talking.
+- The annoying thing about this model is that it’s very hard to keep the bags airtight. That’s what the pump is there for, you shouldn’t need it on all the time put probably in between explanations.
 
 ### Additional stuff:
 
@@ -71,13 +71,13 @@ Then onto how the model works…
 
 ### **Hazard**: Wooden frame
 
-**Description**: Splinters in edges of wooden frame.
+**Description**: Splinters in edges of wooden frame; trapping fingers in hinged joints.
 
-**Affected People**: All
+**Affected People**: All, particularly demonstrator when moving experiment
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Discourage people from handling the wooden frame, look for any rough edges and apply sandpaper/tape as necessary.
+**Mitigation**: Discourage public from handling the wooden frame, look for any rough edges and apply sandpaper/tape as necessary. When moving the experiment, do not put fingers near articulated gaps.
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -140,3 +140,5 @@ Refer to Electrical Parts RA
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-18 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
