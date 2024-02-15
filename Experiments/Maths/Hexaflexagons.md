@@ -106,4 +106,4 @@ Glue isn't toxic, however, do alert parents immediately of ingestion and call a 
 
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
