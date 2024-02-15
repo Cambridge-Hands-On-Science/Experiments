@@ -83,9 +83,9 @@ Call a first aider in the event of an emergency.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 5, Overall: 20
 
-**Mitigation**: Take care in the spinning technique, so as to spin the egg, rather than launch. Use only the hardest boiled eggs. Ensure no oberservers are standing in the immediate projectile path of the egg, should it escape. Especially that no-one is head height.
+**Mitigation**: Take care in the spinning technique, so as to spin the egg, rather than launch. Use only the hardest boiled eggs to avoid breakage spills. Ensure no oberservers are standing in the projectile path of the egg, should it escape. Especially that no-one is head height.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
