@@ -154,4 +154,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
