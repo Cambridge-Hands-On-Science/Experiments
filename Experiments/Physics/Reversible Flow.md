@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk).
+Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -51,12 +51,13 @@ Imagine the syrup as little blobs of syrup. When you turn the inner cylinder the
 'The syrup is sticky so all the bits next to each other stay together' - close... 
 
 
-If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and lengthscales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup.
+If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and lengthscales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup. (see: scallop theorem/hydrodynamic starvation)
 
 
 ### Science background
 
 Golden syrup has a very high viscosity, so the flow should be laminar. It is the little bit of turbulence that is unavoidable that will mean that you will have to occasionally clean it out and put fresh syrup in! The slowly is to minimise turbulence. This causes turbulent mixing which stops the demonstration working. 
+For a more detailed explanation, a low Reynolds number means the inertia of the fluid is negligible compared to the viscous forces.
 
 
 ### Other things to talk about
@@ -139,4 +140,4 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
