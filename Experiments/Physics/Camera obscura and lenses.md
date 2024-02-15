@@ -2,7 +2,7 @@
 
 **Peering at the outside world through a lens.** - The camera obscura uses a lens to project an image of the outside world onto a white screen inside the CHaOS event. Can you figure out why it's upside down?
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -175,3 +175,5 @@ Call a first aider in the event of an accident.
 **Check 1**: 2022-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), 
