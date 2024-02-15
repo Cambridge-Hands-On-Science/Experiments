@@ -7,7 +7,7 @@ Last initially checked on 2023-01-29 by John Leung (cfl35@cam.ac.uk) and double-
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Active** (Experiment has equipment that needs to be fixed)
+**In development** (Experiment has equipment that needs to be fixed)
 
 **Demo only** (Demonstration type experiments and lectures, not suitable for assignment for standard events.)
 
