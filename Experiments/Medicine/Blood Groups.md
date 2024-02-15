@@ -2,7 +2,7 @@
 
 **Why are blood groups important?** - What are 'blood groups'? Why is it important to match blood groups for transfusion? Find out with our colourful demonstration.
 
-Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on xx by xx
+Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -188,4 +188,4 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Check 1**: 2022-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
-**Check 1**: 2022-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
+**Check 1**: 2022-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
