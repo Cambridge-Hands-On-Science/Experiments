@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk).
+Last initially checked on 2024-02-16 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2023-02-06 by Margaret Johncock (mllyj2@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,11 +18,8 @@ Last initially checked on 2023-02-05 by Chiara Delpiano Cordeiro and double-chec
 
 ## Equipment Needed 
 - Sets of preserved life cycles of frogs and bees.
-- 
 - Honeybee - egg, larvae, and pupa; worker bee, drone, and queen bee; pollen, honey, and royal jelly; foundation honeycomb, drone cells, and queen cell; worker bees collecting nectar
-- 
 - Frog - eggs, tadpole, various stages from tadpole to frog, adult, magnifying glass
-- 
 - Beeswax candle set
 
 <br/>
@@ -64,10 +61,10 @@ Males/drones:
 - Mate with queen to produce new bees
 Worker bees;
 - Develops from fertilized eggs 
-- jobs like clean/ incubate eggs/feed drones and larvae/guard hive/find food
+- Jobs like clean/ incubate eggs/feed drones and larvae/guard hive/find food
 Female bee: Queen
 - Develops from fertilized eggs 
-- lays eggs, mother to all bees in the colony. ~2000 eggs/day
+- Lays eggs, mother to all bees in the colony. ~2000 eggs/day
 - Produces pheromones which controls the behavior of her workers
 - Fed lots of food! Fed royal jelly from larvae rather than normal honey which has epigenetic factors which cause it to develop into a Queen rather than a worker.
 
@@ -202,3 +199,5 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2024-02-16 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
