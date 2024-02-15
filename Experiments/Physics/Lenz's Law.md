@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2023-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -21,6 +21,8 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 <br/>
 
 ## Equipment Needed 
+_Note that the equipment for this experiment is stored in the Electromagnetism box_
+
 - Perspex Pipe
 - Copper Pipe
 - (We don't have but an aluminium pipe would also be useful)
@@ -31,7 +33,7 @@ Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and dou
 
 ## Experiment Explanation 
 
-Lives in Electromagnetism Box. Commonly done alongside Electromagnetism and Lenz's Law.
+Lives in Electromagnetism Box.
 
 Get a volunteer to hold the pipe and challenge them to put the magnet in it and catch it as it comes out. If you've got a group ask them if they'd like the copper or perspex pipe, the copper pipe is the much better choice as it means you'll have more time. 
 
@@ -82,6 +84,20 @@ Call first aider in case of injury
 
 <br/>
 
+### **Hazard**: Small Magnets
+
+**Description**: Magnets are small and may be a choking hazard for young children.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+
+**Mitigation**: Magnet is wrapped up to make it larger. Do not let young children handle magnets. Keep hold of magnets and pick them up quickly.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+
+<br/>
+
 ### **Hazard**: Pipes
 
 **Description**: Any pipe hitting people in face/eye.
@@ -109,3 +125,5 @@ Call first aider in case of injury.
 **Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
