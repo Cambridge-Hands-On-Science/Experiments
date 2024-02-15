@@ -2,7 +2,7 @@
 
 **Functional model of the larynx** - A working model of the larynx which uses a hand pump to force air across two closely-apposed rubber sheets (i.e. vocal cords) to make a sound.
 
-Last initially checked on 2023-02-14 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-02-18 by Maggie Goulden (mcg58@cam.ac.uk)
+Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2024-xx-xx by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -76,7 +76,7 @@ I was running this model alongside the lung model, so after asking them why you 
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Close experiment immediately if small pieces become detached (it won't work then anyway). Do not let children play with experiments unattended. Advise parents to take child to A+E if an item is swallowed. Call a first aider in the event of choking and perform the Heimlich manouvre if confident to do so.
+**Mitigation**: Close experiment immediately if small pieces become detached (it won't work then anyway). Do not let children play with experiments unattended. Advise parents to take child to A+E if an item is swallowed. Call a first aider immediately in the event of choking and encourage the child to cough.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -135,3 +135,5 @@ I was running this model alongside the lung model, so after asking them why you 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-14 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**:
