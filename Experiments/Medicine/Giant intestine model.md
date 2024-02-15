@@ -2,7 +2,7 @@
 
 **Functional model of the intestine** - Everyone knows that your intestines are long, but how long is long? Find out with our scale fabric model, and you might be surprised!
 
-Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-30 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -194,4 +194,4 @@ Call first aider in case of accident
 
 **Check 1**: 2023-01-22 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk),**Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
