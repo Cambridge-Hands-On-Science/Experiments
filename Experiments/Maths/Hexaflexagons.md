@@ -2,7 +2,7 @@
 
 **Groups, symmetries and hexaflexagons** - Turning a hexaflexagon inside out almost seems like magic. Find out what kind of cool patterns emerge as you do it. 
 
-Last initially checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
