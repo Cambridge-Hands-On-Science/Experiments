@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2024-01-24 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-12 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2024-01-24 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -188,7 +188,7 @@ Here the ball hangs in equilibrium - weight and drag must balance.
 
 How does weight vary with height?  
 
-Weight essentially constant over the range of the room compared to the radius of the Earth (if they are familiar with binomial expansions could show this mathematically by expanding F = - GMm/(r+h)^2 ). 
+Weight essentially constant over the range of the room compared to the radius of the Earth (if they are familiar with binomial expansions could show this mathematically by expanding $F = - GMm/(r+h)^2$ ). 
 
 How would we expect the velocity to vary with distance? Can we draw a graph of this (i.e. velocity on y as function of height on x)?   
 
@@ -204,15 +204,13 @@ Relative velocity of wind/object (you feel a force from the air if you run as we
 
 In fact the functional form is as follows: At high velocities, inertia effects dominate with constant drag coeffcient:  
 
-F = Cpd^2v^2  
+$F = Cpd^2v^2$  
 
 At low velocities, viscosity dominates. Get Stokes' formula (most likely to have seen this before with Millikan Oil Drop:  
 
-F = 6*pi*eta*rv  
+$F = 6*\pi*\eta*rv$  
 
-(Result of drag coeffcient being inverse in velocity i.e.  
-
-C = eta/(pdv) )  
+(Result of drag coeffcient being inverse in velocity i.e. $C = \eta/(pdv)$ )  
 
 Note in each case - increasing function of velocity.
 
@@ -280,7 +278,7 @@ Important to visualise streamlines using streamers at variety of places - note s
 
 For a unit volume of incompressible fluid (suprisingly good even for gas), energy conservation gives us (derivation not needed here, we are looking at mathematical reasoning):   
 
-P + 1/2pv2 + pgh = constant   
+$P + \frac{1}{2}pv^2 + pgh$ = constant   
 
 What do the terms in this equation mean?   
 
@@ -490,4 +488,4 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
