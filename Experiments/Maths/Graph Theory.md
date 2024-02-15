@@ -2,7 +2,7 @@
 
 **Find out about the mathematics of Graphs.** - Experiment with graphs finding out about what structure we can find in randomness, how to colour maps with few crayons and what shapes you can draw without taking your pen of the paper.
 
-Last initially checked on 2023-02-12 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-13 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-02-13 by Jamie Barrett (jb2369@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -143,8 +143,7 @@ If there are any cuts, call a first aider.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Watch small children with pens.
-Alert parents immediately if children aren’t being sensible and call a first aider if necessary.
+**Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -172,7 +171,7 @@ Alert parents immediately if children aren’t being sensible and call a first a
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: It shouldn't be used as a mug ever. The mug shouldn't be used for drinking or licked. Keep out of children’s reach. If children do ingest paint, inform parents to take them to GP if illness develops. Call a first aider if necessary.
+**Mitigation**: It shouldn't be used as a mug ever. The mug should never be used for drinking or licked. Keep out of children’s reach. If children do ingest paint, inform parents to take them to GP if illness develops. Call a first aider if necessary.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -191,3 +190,5 @@ Alert parents immediately if children aren’t being sensible and call a first a
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-13 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk),
