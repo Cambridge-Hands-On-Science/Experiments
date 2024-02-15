@@ -43,7 +43,11 @@ Insects breathe through little holes in their abdomen called spiracles (they don
 
 Examples of insects that you might collect are:
 
-![](http://www.srcf.ucam.org/chaos/sites/default/files/creepycrawlies1.jpg)
+- Froghoppers
+- Crickets
+- Grasshoppers
+- Woodlice
+- Spiders
 
 A few interesting facts are:
 - Froghoppers are best known for their nymph stage, which produces a cover of frothy plant sap, "cuckoo spit" which hides the nymph from predators, insulates them against the cold, UV radiation and keeps them moist.
