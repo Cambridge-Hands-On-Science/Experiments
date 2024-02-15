@@ -2,7 +2,7 @@
 
 **Build a small working model hand from card and straws!** - Build a model of the inner workings of your hand! Learn about how muscles and tendons work together to control the movements of our fingers, and have a model to take home, made of simple household objects!
 
-Last initially checked on 2023-01-20 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2023-01-21 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2023-01-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -66,6 +66,20 @@ Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
+### **Hazard**: Straws
+
+**Description**: Risk of choking on straws.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+**Mitigation**: Younger children should be accompanied by an adult. CHaOS volunteers to oversee carefully and ensure straw segments not lying around. Ensure kids are not putting straw segments in their mouths. 
+
+Call a first aider in the event of injury.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
 <br/>
 
 ## Risk Assessment Check History 
@@ -87,3 +101,5 @@ Call a first aider in the event of injury.
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-21 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-01-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
