@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-01-19 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk) and double-checked on ??? by ??? (???@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,7 +24,6 @@ Last initially checked on 2023-01-18 by John Leung (cfl35@cam.ac.uk) and double-
 - Oven Shelf
 - String
 - Something to hit the shelf with (your finger nails will do!)
-- 
 - You could also use a slinky instead of an oven shelf
 - In this case a plastic cup works as an amplifier
 
@@ -126,3 +125,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 
