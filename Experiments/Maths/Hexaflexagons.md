@@ -2,7 +2,7 @@
 
 **Groups, symmetries and hexaflexagons** - Turning a hexaflexagon inside out almost seems like magic. Find out what kind of cool patterns emerge as you do it. 
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -105,3 +105,5 @@ Glue isn't toxic, however, do alert parents immediately of ingestion and call a 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
