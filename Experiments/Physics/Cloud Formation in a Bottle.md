@@ -2,7 +2,7 @@
 
 **Demonstrate cloud formation as air pressure drops.**
 
-Last initially checked on 2023-01-12 by Jamie Barrett (jb2369@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
+Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2023-01-13 by Johan Kidger (jpk51@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,8 +45,7 @@ Demonstrator to strike and extinguish matches away from self but also to take ca
 When dropping match into bottle, avoid having hand directly above match.
 Ensure match is no longer lit when dropped into bottle. (There should be visible smoke)
 Have a cup (or similar, not flammable) of water to hand to take matches which might be lit and not used.
-Run burns under tepid water for at least 10 minutes.
-Contact a first aider.
+In case of burning, run burns under tepid water for at least 10 minutes, and contact a first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -123,3 +122,5 @@ Contact a first aider in the event of an accident.
 **Check 1**: 2022-02-09 - Vanness Lai Wye Junn (vwjl2@cam.ac.uk), **Check 2**: 2022-02-27 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk),
