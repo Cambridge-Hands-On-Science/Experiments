@@ -19,7 +19,7 @@ Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double
 ## Equipment Needed 
 - **Electricity needed**
 - *Needs significant preparation in the days running up to the event*
-- 
+
 - Beansprouts in plastic containers, germinated prior to event, under different conditions (e.g. light/dark/water/no water/warm/cold)
 - Magnifying boxes
 - Microscope and slides showing section through plant leaves, stem, stomata, germinating seed
@@ -111,13 +111,13 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 ### **Hazard**: Specimens
 
-**Description**: Possible allergic reaction to seeds/plants/soil/leaf specimens.
+**Description**: Possible allergic reaction to seeds/plants/soil/leaf specimens. Possible illness from injesting samples. 
 
 **Affected People**: Demonstrator/Public
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Ask parents if child is allergic to the plant we are using before beginning the demonstration. In case of adverse reaction, call a first aider.
+**Mitigation**: Ask parents if child is allergic to the plant we are using before beginning the demonstration. In case of adverse reaction, call a first aider. Tell children who have been touching soil to wash hands after experiment and supervise at all times so that children do not eat the sample. 
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
