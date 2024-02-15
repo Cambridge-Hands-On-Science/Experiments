@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,7 +106,7 @@ Call first aider in case of injury
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Demonstrator should hold pipe for younger kids and monitor use for others.
+**Mitigation**: Demonstrator should hold pipe for younger children and monitor use for others.
 
 Call first aider in case of injury.
 
@@ -126,4 +126,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk)
