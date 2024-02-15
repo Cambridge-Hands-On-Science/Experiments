@@ -2,7 +2,7 @@
 
 **How can a bridge stay up without bolts?** - Self supporting bridges using only wooden poles.
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??? by ???.
+Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-02-16 by Margaret Johncock (mllyj2@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,7 +64,7 @@ We could add notches to the poles - this would stop them rolling or sliding.
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Keep close eye on children, firm warnings if they try anything, suspend experiment if they persist.
+**Mitigation**: Keep close eye on children, firm warnings if they try anything, suspend experiment if they persist. 
 
 Call a first aider in the event of injury.
 
@@ -128,4 +128,4 @@ Call a first aider in the event of injury.
 
 **Check 1**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk)
