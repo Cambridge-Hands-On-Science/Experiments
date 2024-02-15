@@ -137,13 +137,13 @@ If there are any cuts, call a first aider.
 
 ### **Hazard**: Coloured pens
 
-**Description**: Risk that children will take and possibly eat coloured pens.
+**Description**: Risk that children will take and possibly eat pen caps (choking hazard).
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary.
+**Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary. Keep hold of pen caps if particularly small children are present.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -191,4 +191,4 @@ If there are any cuts, call a first aider.
 
 **Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-13 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
