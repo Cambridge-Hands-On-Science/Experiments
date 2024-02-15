@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2023-02-15 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -162,3 +162,5 @@ Could result in feeling ill, or wandering into walls / hitting things.
 **Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
