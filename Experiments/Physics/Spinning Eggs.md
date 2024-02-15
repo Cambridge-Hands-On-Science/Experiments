@@ -77,6 +77,20 @@ Call a first aider in the event of an emergency.
 
 <br/>
 
+### **Hazard**: If you're feeling brave...
+
+**Description**: Spinning eggs at such velocities brings a much greater risk of breakages, and a risk of the egg becoming a 'projectile' and hitting someone.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+
+**Mitigation**: Take care in the spinning technique, so as to spin the egg, rather than launch. Use only the hardest boiled eggs. Ensure no oberservers are standing in the immediate projectile path of the egg, should it escape. Especially that no-one is head height.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+<br/>
+
 ### **Hazard**: Contaminated eggs (salmonella)
 
 **Description**: Salmonella risk from raw eggs.
@@ -117,6 +131,6 @@ As above, ensure egg breakages are cleaned up as soon as possible.
 
 **Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18- John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2023-02-18 - Arian Pourabadey (asfp2@cam.ac.uk), **Check 2**: 2023-02-18- John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-02-18 - Arian Pourabadey (asfp2@cam.ac.uk), **Check 2**: ?? ?? (??@cam.ac.uk)
