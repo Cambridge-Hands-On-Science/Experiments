@@ -2,7 +2,7 @@
 
 **Activities to discover the nanoscale**
 
-Last initially checked on 2024-02-13 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2024-02-13 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
 
 
 ## Tags
@@ -115,5 +115,5 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 ## Risk Assessment Check History
 
-**Check 1**: 2024-02-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2024-02-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
