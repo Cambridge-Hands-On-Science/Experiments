@@ -4,7 +4,7 @@
 Now with added Covid-19!
 Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2024-02-04 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-02-04 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -478,4 +478,4 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
-**Check 1**: 2023-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
