@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2023-01-29 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,9 +24,7 @@ Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-
 - Pure water - optional
 - Coffee jar with pre-prepared spheres - optional
 - Rope to illustrate wavefronts/boundaries -optional
-- 
 - USED TO contain the box for Waves at Boundaries, which should in turn contain
-- 
 - A wave model
 - Plasticine for weights
 - Clamps
@@ -185,4 +183,4 @@ In the event that something is eaten, warn parents/relevant adult.
 
 **Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
