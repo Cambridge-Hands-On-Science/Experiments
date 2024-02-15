@@ -1,6 +1,6 @@
 # Computer Dissection 
 
-**Dissecting a computer ** - Break open a computer and see how it works inside. 
+**Dissecting a computer** - Break open a computer and see how it works inside. 
 
 Last initially checked on 2023-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
