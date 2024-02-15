@@ -73,7 +73,7 @@ If fire gets out of control evacuate area and call 999.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Have paper towels handy and dry any spills immediately.
 
@@ -123,4 +123,4 @@ Contact a first aider in the event of an accident.
 
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
