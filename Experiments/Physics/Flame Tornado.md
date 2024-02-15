@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-02-15 by Chiara Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-02-15 by Vlad Penzyev (vp410@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -63,7 +63,7 @@ The mesh cylinder is held onto the turntable very well and acts as a shield to s
 
 The demonstrator should exercise caution when touching the lid especially, as it will be very hot when you come back to it. Keep trough of water nearby to submerge the lid and cool completely.
 
-In case of accident, run burned areas under tepid water for 10 mins or until it stops hurting - whichever is longer. Summon a first aider to assist the casualty.
+In case of accident, run burned areas under cool (not cold) water for at least 20 mins or until it stops hurting - whichever is longer. Summon a first aider to assist the casualty.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -99,7 +99,7 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
-**Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they will need to use touch petroleum jelly. Do not proceed if the demonstrator has an allergy. Wash jelly off hands after applying it.
+**Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they will need to touch petroleum jelly. Do not proceed if the demonstrator has an allergy, or has an allergic reaction. Wash jelly off hands after applying it.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -126,3 +126,5 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 **Check 1**: 2022-02-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-02-15 - Chiara Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
