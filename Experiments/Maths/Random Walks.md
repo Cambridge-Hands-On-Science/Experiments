@@ -26,7 +26,7 @@ Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and doubl
 - Biased coin (2p)
 - Selection of Dice (Biased and unbiased)
 - Print out of a monopoly board
-- 
+ 
 - (n.b. if there isn't a biased coin, because it's got lost for any reason, you can always just use a bit of sleight of hand and lie, saying it's heads two thirds of the time...)
 
 <br/>
