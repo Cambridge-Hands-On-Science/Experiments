@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -83,15 +83,15 @@ By flipping two coins you can do a random walk in 2d, ask people if you think yo
 
 ## Risk Assessment
 
-### **Hazard**: Duplo blocks/coins/dice
+### **Hazard**: Duplo blocks/coins/dice/pen lides
 
-**Description**: Swallowing or choking on Duplo blocks and coins.
+**Description**: Swallowing or choking on Duplo blocks, coins, or pen lids.
 
 **Affected People**: Small children
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Duplo blocks should be sufficiently large that they are safe from swallowing for all ages, but keep an eye out just in case. Don't let small children handle coins.  Keep an eye on all the equipment.
+**Mitigation**: Duplo blocks should be sufficiently large that they are safe from swallowing for all ages, but keep an eye out just in case. Don't let small children handle coins. Take lids off pens before letting children use them.  Keep an eye on all the equipment.
 Call first aider if child swallows, if choking encourage child to cough while awaiting first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
@@ -162,4 +162,6 @@ Call first aider in case of injury.
 
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2023-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk),
