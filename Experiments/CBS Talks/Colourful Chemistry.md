@@ -72,7 +72,7 @@ Last initially checked on 2024-02-18 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 ## Experiment Explanation
 
 ### Indicator reactions
-Phenopthalein
+**Phenopthalein**
 <br/>
 Beaker 1: dilute solution of NaOH
 <br/>
@@ -83,7 +83,7 @@ Beaker 3: washed with HCl solution
 1. Pour beaker 1 into beaker 2. It should turn pink. 
 2. Pour beaker 2 into beaker 3. It should turn clear again. 
 
-Indigo carmine (chemical traffic lights)
+**Indigo carmine (chemical traffic lights)**
 <br/>
 Beaker 1: 20ml of water
 <br/>
@@ -100,7 +100,7 @@ Bottle with lid: 0.02g indigo carmine
 6. Shake more vigourously (red -> green).
 <br/> https://edu.rsc.org/exhibition-chemistry/beyond-the-blue-bottle/2000041.article
 
-<br/>Methylene blue
+<br/>**Methylene blue**
 <br/>
 To be prepared <20 mins beforehand:
 1. Make solution of 0.05g methylene blue in 50ml ethanol
