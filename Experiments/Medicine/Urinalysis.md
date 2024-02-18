@@ -1,8 +1,8 @@
 # Urinalysis
 
-**nan** - Practise diagnosing patients using this simple bedside test - use the dipsticks to analyse "urine" from our patients.
+**Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2023-02-10 by Amy Migunda (aom36@cam.ac.uk) and double-checked on 2023-02-16 by Jamie Barrett (jb2369@cam.ac.uk)
+Last initially checked on 2024-02-18 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on  by (@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -116,7 +116,7 @@ There are three main types of diabetes mellitus (DM).
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Do not allow children to dip fingers in artificial urine, encourage use of gloves, encourage children to wash their hands afterwards.Make sure children know it's milk so if they are allergic they can make sure not to touch it. Alert parents to presence of milk if you are concerned that a child has dipped their fingers in the solution.
+**Mitigation**: Do not allow children to dip fingers in artificial urine, encourage use of gloves, encourage children to wash their hands afterwards. Make sure children know it's milk so if they are allergic they can make sure not to touch it. Alert parents to presence of milk if you are concerned that a child has dipped their fingers in the solution.
 
 Call a first aider in the event of reaction.
 
@@ -146,7 +146,7 @@ Call a first aider in the event of reaction.
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell. Stop if someone looks unwell/goes pale. Have a chair nearby light-headed-feeling people, and ask anyone who feels faint to sit down (may be better for them to sit on the floor as people can still faint off chairs). Call first aider in case of injury.
+**Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell. Stop if someone looks unwell/goes pale. Have a chair nearby for light-headed-feeling people, and ask anyone who feels faint to sit down (may be better for them to sit on the floor as people can still faint off chairs). Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -173,3 +173,5 @@ Call a first aider in the event of reaction.
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-16 - Jamie Barrett (jb2369@cam.ac.uk)
+
+**Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 
