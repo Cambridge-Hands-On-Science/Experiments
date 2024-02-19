@@ -2,7 +2,7 @@
 
 **A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-19 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -74,7 +74,7 @@ Can we do better than this? It turns out that there is a better strategy. Since 
 
 **Description**: Risk that children will poke their eyes with pointy hat corners.
 
-**Affected People**: children
+**Affected People**: Children
 
 **Before Mitigation**: Likelihood: 2 , Severity: 2, Overall: 4
 
@@ -129,4 +129,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-19 - Lauren Mason (llm34@cam.ac.uk)
