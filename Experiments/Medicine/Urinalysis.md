@@ -2,7 +2,7 @@
 
 **Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2024-02-18 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on  by (@cam.ac.uk)
+Last initially checked on 2024-02-18 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2024-02-19 by (lb831@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -174,4 +174,4 @@ Call a first aider in the event of reaction.
 
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-16 - Jamie Barrett (jb2369@cam.ac.uk)
 
-**Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
