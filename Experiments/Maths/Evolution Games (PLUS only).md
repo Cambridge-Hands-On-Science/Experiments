@@ -58,8 +58,10 @@ So from all hawks we're pushed towards more doves and all doves pushes towards m
 With 6 people you can simulate this using one of the random cards (explaining it's like half hawk half dove) this also leads into the idea of polymorphism, not that individuals are intrinsically a hawk but they sometimes decide to act like one.
 
 Phase plane diagram
+```
 |->->->->->->->->->->!<-<-<-<-<-<-<-<-<-<-<-<-<-<-|
-0%doves Stable 100%doves
+0%doves           Stable                      100%doves
+```
 
 Now they've seen a simple model ask them how they think you could change it, thinking about how they see animals and themselves behaving:
 
@@ -147,4 +149,4 @@ In case of injury call first aider.
 
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk)
