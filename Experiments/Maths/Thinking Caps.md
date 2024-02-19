@@ -1,8 +1,8 @@
 # Thinking Caps
 
-**nan** - Can you work out the colour of your own hat?
+**A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-16 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,7 @@ Last initially checked on 2023-02-15 by Emma Crickmore (elc75@cam.ac.uk) and dou
 <br/>
 
 ## Equipment Needed 
-- **This experiment can take place outdoors**
+**This experiment can take place outdoors**
 - Paper hats in 4 colours, with at least 5 in 2 different colours. Contact Josh (jlg70) for instructions on how to make paper hats, or just watch a youtube video.
 - Charts detailing possible configurations of hats for a couple of the problems.
 
@@ -106,9 +106,10 @@ Call a first aider in the event of an injury.
 
 **Affected People**: children
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.\r\nCall first aider in case of injury.
+**Mitigation**: Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -126,4 +127,6 @@ Call a first aider in the event of an injury.
 
 **Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk)
