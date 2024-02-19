@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and double-checked on
+Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,11 +35,10 @@ Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 A variety of experiments can be done with random walks, showing not only the idea of a biased probability, but also that even when an outcome is weighted one way, random chance can lead it to come out the opposite.
 
-**Setup**
+### Setup
 There are a few fun games to play here. Most involve building up individual children's results into a nice smooth distribution, by building duplo bricks with their names on them into a nice smooth wall.
 
-**Explanation and Demonstrating**
-
+### Explanation and Demonstrating
 The simplest thing to start with is with a brick on the middle of a baseplate and an unbiased coin. If you set the rule that when the brick gets to an edge it falls off and the game is over, that a head moves you in one direction, and a tails in the other. They should see that there's a good bit of back and forth, but eventually you should end up dropping off one side or the other. 
 
 Then try doing the same with the biased coin (roughly 66% of the time it gives heads) making sure the coin is allowed to land on the table (preferably on a piece of paper to damp bounces and speed up the whole process), show that if repeated a few times the brick has a tendency to fall off the same side.
@@ -50,22 +49,19 @@ Now set up a few bricks, all starting different distances along the board, and w
 
 If you can't find the coin then there are also some dice, use the convention even moves one way and odd the other. There are several non-standard dice which can be used for a biased coin.
 
---ORIGINAL PLAN--
-
+### Original Plan
 Finally, you can build a really lovely distribution by starting the block at one end of two mats put together and using the biased coin. With every flip you move the block one space forwards (one block length, not one set of teeth) and one space in whichever direction the coin dictates. When the blocks reach either side, that's where they stop. Keep everyone else's blocks on the board as well, and a nice distribution should build up. It should look, very roughly speaking, like a pear cut in half, with a bulge at the near end and then at tail trailing off. Write their name on the block with the dry wipe pen, you'd be surprised how keen they are to come back later and see how the distribution's evolved around their block.
 
 You should see roughly the same distribution on both sides, just with significantly less blocks on the side that is biased against. You can discuss with them things like why there are no blocks at all in the first few spaces, why there is a peak (it roughly corresponds to the balance between a point which there are a lot of various paths to, and where the probability the brick hasn't already fallen off the board, balance out).
 
---ALTERNATIVE PLAN-- (experiment still developing so let us know what works best!)
-
+### Alternative Plan (experiment still developing so let us know what works best!)
 Some demonstrators, rather than building up a distribution over the day, which can take a long time and still won't look exactly smooth even after all the pieces have been used, prefer to just trace the path of one random walk, placing a new brick for each step. This gives a clearer memory of the rambling nature of the walk, and there should be sufficient bricks for two or three paths simultaneously.
 
  This also helps defend against the odd child who comes along and tries to tear the whole thing down...
 
 It may be the better options for events with younger children, where the concept of a distribution is a bit much, and also it just looks really cool!
 
---Real World Applications--
-
+### Real World Applications
 If you fancy it, there's a great analogy between this experiment and genetic drift. Genes that develop in populations of animals normally have some selective bias for either adoption throughout the population or deletion. But genetic drift is the process of random genetic evolution, and has a strong analogy in a biased coin toss. From this it's possible to see that even a positive evolution (one that natural selection favours some percentage of the time) may be deleted by chance, or a deleterious one spread throughout the entire population.
 
 The key idea here is that when there is one or more boundary, i.e. the edge of the board, we see markedly different behaviour to that we'd expect for an infinite number of tests, where deleterious mutations would never remain in the population and we'd always expect to the brick to end up on the side that it's biased towards eventually.
@@ -74,9 +70,8 @@ There are many other examples of random walks in nature, like photons in the sol
 
 If you wanted to link to something else you can use the monopoly print out to demonstrate a random walk on the board. If you land on community chest or chance there's another random element you could move else where but it's possibly best to ignore this. If you roll 3 doubles in a row you go to jail. If you can find put properties of this walk you'd be able to gain an advantage at this game. You can see the Kruskal's Count experiment for some other ideas related to this.
 
---Transience/Recurrence--
+### Transience/Recurrence
 By flipping two coins you can do a random walk in 2d, ask people if you think you'd be able to get back to the start, will it take longer to fall off an edge. Then repeat in 3d where this isn't true.
-
 
 
 <br/>
@@ -106,7 +101,7 @@ Call first aider if child swallows, if choking encourage child to cough while aw
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children (if older) toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first.  Don't let children retrieve lost coins.
+**Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children (if older) toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first. An easier way to flip coins is to have them clasp the coin between their hands and shake.  Don't let children retrieve lost coins.
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -164,4 +159,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2023-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2023-02-19 - Peter Methley (pm631@cam.ac.uk)
