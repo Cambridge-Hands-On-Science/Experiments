@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk). 
+Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk). Checked by Isaac Howell (ih393@cam.ac.uk) on 21-02-2024
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
