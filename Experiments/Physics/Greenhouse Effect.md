@@ -175,17 +175,17 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 
-### **Hazard**: Aluminium Foil
+### **Hazard**: Aluminium Foil and Wrapping Material
 
-**Description**: Risk of ingestion. Eating small amounts of aluminium foil will not cause problems but a bigger piece could cause choking or stomach blockage! 
+**Description**: Risk of ingestion and choking. Eating small amounts of aluminium foil or bubble wrap will not cause problems but a bigger piece could cause choking or stomach blockage! 
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
 **Mitigation**: Keep out of reach of small children. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 
 ## Risk Assessment Check History 
