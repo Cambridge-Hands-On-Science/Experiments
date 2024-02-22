@@ -2,7 +2,7 @@
 
 **Illustrating the greenhouse effect with hot resistors in flasks** 
 
-Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2024-02-XX by XXX (XXX@cam.ac.uk)
+Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2024-02-22 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -190,4 +190,4 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2024-02-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-XX - XXX (XXX@cam.ac.uk)
+**Check 1**: 2024-02-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-22 - Lauren Mason (llm34@cam.ac.uk)
