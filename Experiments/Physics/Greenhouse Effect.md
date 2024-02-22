@@ -31,7 +31,7 @@ Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and doubl
 
 ## Experiment Explanation 
 
-**Setting it up**
+### **Setting it up**
 
 1. Take the flasks out of the bubble wrap. Make sure they get wrapped up nicely at the end of the day before going back into the box. 
 
@@ -44,6 +44,7 @@ Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and doubl
 </div>
 </center>
 
+
 3. Connect the blue thermocouple wires to the digital thermometer. Also check that the thermocouple heads are fixed in the right place. Thermocouples are not in direct contact with the glass flask or hot metal components to prevent direct heating by conduction. 
 
 <center>
@@ -52,6 +53,7 @@ Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and doubl
 <i>Fig 2: Thermocouple closeup </i>
 </div>
 </center>
+
 
 4. Turn on the power, and the air in the flasks should heat up, starting at the same initial temperature. 
 
@@ -72,7 +74,7 @@ Note on the resistors: These ‘vintage’ blue-green resistors are from Cavendi
 
 [TODO] Power equation.
 
-**Heat Transfer**
+### **Heat Transfer**
 
 Have you ever had a campfire? How does it feel around it?
 
@@ -92,7 +94,7 @@ Links:
 - What is the electromagnetic spectrum? What are the different types of radiation? What devices make use of EM waves? 
 - Can attempt to observe the flasks with IR Camera
 
-**Resistors**
+### **Resistors**
 
 [TODO] What resistors are these?
 
@@ -103,7 +105,7 @@ What is resistance? Maybe something like friction to electricity? You can ask th
 Links:
 - What is voltage / potential difference? You can compare electrons passing through a resistor (losing electrical potential energy) to water flowing downhill (losing gravitational potential energy). 
 
-**The Earth**
+### **The Earth**
 
 Where does Earth get its heat? The Sun. So it’s a bit different to the internal production here with the resistors. 
 
