@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2023-01-22 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-10 by Margaret Johncock (mllyj2@cam.ac.uk). Checked by Isaac Howell (ih393@cam.ac.uk) on 21-02-2024
+Last initially checked on 2024-02-21 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2024-02-21 by John Leung (cfl35@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -242,13 +242,13 @@ Some sample sets:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 **Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen tubes every time a demonstration is completed.
 Call first aider in case of injury (cut). Clear up perspex (using the dustpan and brush from Set Up and Clear Up), wrapping up in paper or similar so that it won't rip through the bin bag. Place in broken glass box if available at a school.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
 <br/>
 
@@ -334,4 +334,6 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)
 
-**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-10 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-10 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2024-02-21 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2024-02-22 - John Leung (cfl35@cam.ac.uk)
