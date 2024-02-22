@@ -37,14 +37,18 @@ Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and doubl
 
 2. The circuit is pre-built (the leads and resistors are fixed onto the bungs). Simply put the bungs into the flasks, and **adjust the power supply voltage to < 15 V before connecting it to the circuit**. 
 
-<img src="./Images/greenhouse_setup.jpg" style="width:12cm"> 
+<center>
+<div style="width:20cm">
+<img src="./Images/greenhouse_setup.jpeg" style="width:12cm"> 
 <i>Fig 1: Circuit setup </i>
+</div>
+</center>
 
 3. Connect the blue thermocouple wires to the digital thermometer. Also check that the thermocouple heads are fixed in the right place. Thermocouples are not in direct contact with the glass flask or hot metal components to prevent direct heating by conduction. 
 
 <center>
 <div style="width:20cm">
-<img src="./Images/greenhouse_closeup.jpg" style="width:12cm"> 
+<img src="./Images/greenhouse_closeup.jpeg" style="width:12cm"> 
 <i>Fig 2: Thermocouple closeup </i>
 </div>
 </center>
@@ -57,7 +61,7 @@ Once you reach your desired temperature difference, turn off the power as you co
 
 <center>
 <div style="width:20cm">
-<img src="./Images/greenhouse_graph.jpg" style="width:12cm"> 
+<img src="./Images/greenhouse_graph.png" style="width:12cm"> 
 <i>Fig 3: Trial results</I>
 </div>
 </center>
