@@ -25,7 +25,7 @@ Last initially checked on 2024-02-18 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 ## Equipment Needed
 
 1. Indicator reactions
-- Phenopthalein
+- Phenolphthalein
 - Indigo carmine
 - Methylene blue
 - Dextrose
