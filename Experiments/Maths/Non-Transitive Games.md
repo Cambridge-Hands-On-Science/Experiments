@@ -21,13 +21,71 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-- A set of Grimes Dice (currently dots are drawn on, hopefully engraved/painted in future)
-- General Dice
-- (There's also a set of Effron Dice in the box too)
+- Many sets of 4 non-transitive dice:
+  - Orange - 2,2,2,2,6,6
+  - Yellow - 3,3,3,3,3,3
+  - Green - 1,1,1,5,5,5
+  - Blue - 0,0,4,4,4,4
+- A Microsoft box, which has the same dice 
+- A set of Grimes Dice (seems to be missing)
 
 <br/>
 
 ## Experiment Explanation 
+_Currently copy-pasted from [aka.ms/ntdice](https://aka.ms/ntdice); TODO write our own or switch back to Grime Dice..._
+
+### About the dice
+
+First of all, let us examine the dice in detail. Here we have ‘flattened’ the dice to show the numbers on each of the faces.
+
+  - Orange - 2,2,2,2,6,6
+  - Yellow - 3,3,3,3,3,3
+  - Green - 1,1,1,5,5,5
+  - Blue - 0,0,4,4,4,4
+
+We see that the choice of numbers is unusual. But in all other respects these are normal, fair dice. If we pick two of the dice and roll them, we can see which comes up with the higher number. We will say that the die with the higher number is the winner. Notice that each of the numbers 0, 1, 2, 3, 4, 5, and 6 appears on only one of the dice, which means that when we roll one die against another, there can never be a draw.
+
+First, suppose you roll the orange and yellow dice. Two thirds of the time the yellow die will come up with a higher number than the orange die. We say that the probability that the yellow die will win is two thirds. If we make a large number of such rolls and keep track of which die wins, then there is a very high chance that the yellow die will win more often than the orange die.
+
+Likewise, two thirds of the time the blue die will win against the yellow die, and two thirds of the time the green die will win against the blue die. So, yellow beats orange, blue beats yellow, and green beats blue.
+
+It therefore seems as if the green die has the highest chance of winning and the orange die has the lowest. But now for the surprise: if you roll the green die with the orange die, then two thirds of the time it is the orange die that will win!
+
+These are known as _non-transitive_ dice. 'Transitive' means that if A beats B and B beats C then A beats C. We see that these dice do not have this property. One way to visualise this is to arrange the dice in a circle, such that each die beats the previous one.
+
+**Yellow beats orange, blue beats yellow, green beats blue and orange beats green.**
+
+This is rather like the game of “rock, paper, scissors” in which scissors beats paper, and rock beats scissors, but paper beats rock.
+
+### A simple game
+
+You can use this non-transitive property to play a game with a friend. Invite them to examine the dice and then to select any one of them. Without telling them the secret, you now select the next die in the sequence, and then you make, say, 9 rolls against your friend, and keep note of how many times each of you rolls the higher number. Over a sequence of 9 rolls it is very likely that you will roll a higher number more often than your friend.
+
+### How the dice work
+
+Look first at the orange die, and notice that it has four copies of the number 2 and two copies of the number 6. Two-thirds of the time, when we roll the orange die it will give a 2, and one third of the time it will give a 6. Therefore, if we roll the orange die against the yellow die (which always gives a 3), the yellow die will, on average, win two-thirds of the time, and will lose one-third of the time. You can repeat this game several times, each time allowing your friend to choose their die first.
+
+Now look at the blue die, and notice that it has four copies of the number 4, and two copies of the number 0. When we roll it against the yellow die, it will therefore give a 4 two thirds of the time, in which case it wins, and a 0 one-third of the time, in which case it loses.
+
+Now suppose we roll the green die against the blue die. The green die has three copies of the number 1 and three copies of the number 5. To work out the probability that the green die will win we first note that there is a probability of 1/2 that the green die will give a 5, in which case it is certain to win against the blue die. Likewise, there is a probability of 1/2 that the green die will give a 1, in which case there is a probability of 1/3 that it will win. The overall probability that the green die will win is then given by multiplying the probabilities:
+
+$$
+\left(\frac{1}{2}\times 1\right) + \left(\frac{1}{2}\times \frac{1}{3}\right) = \frac{2}{3}
+$$
+
+Finally, consider the probability of the orange die winning against the green die. There is a probability of 1/3 that the orange die will produce a 6, in which case it is certain that the orange die will win. There is similarly a probability of 2/3 that the orange die will produce a 2 in which case there is a 1/2 chance that the orange die will win. The overall probability of the orange die winning is again obtained by multiplying the probabilities:
+
+$$
+\left(\frac{1}{3}\times 1\right) + \left(\frac{2}{3}\times \frac{1}{2}\right) = \frac{2}{3}
+$$
+
+### Bonus story from Microsoft!
+
+Warren Buffett once challenged Bill Gates to a game of dice. “Buffett suggested that each of them choose one of the dice, then discard the other two. They would bet on who would roll the higher number most often. Buffett offered to let Gates pick his die first. This suggestion instantly aroused Gates’ curiosity. He asked to examine the dice, after which he demanded that Buffett choose first.” Buffett was using a set of non-transitive dice!
+
+
+### Grime Dice (which we seem to have lost...)
+_At some point we should buy a proper set from [MathsGear](https://mathsgear.co.uk/collections/dice/products/non-transitive-grime-dice)._
 
 There should be a set of dice in the box with the following numerals:
 - red - 9,4,4,4,4,4
@@ -62,12 +120,7 @@ For beating two players we're at 44%. You may think that's bad as you still lose
 Inspired by the experiment here:
 http://singingbanana.com/dice/article.htm
 
-We now have several addition sets of Microsoft-branded dice with the following colour combinations (see aka.ms/ntdice):
-- Orange - 2,2,2,2,6,6
-- Yellow - 3,3,3,3,3,3
-- Green - 1,1,1,5,5,5
-- Blue - 0,0,4,4,4,4
-such that G>B>Y>O>G...
+
 
 If you have a spare table this is a very easy experiment to float with by only going up to the Rock-Paper-Scissors part of the experiment. Demonstrate you can always win and sometimes "better than" isn't transitive.
 

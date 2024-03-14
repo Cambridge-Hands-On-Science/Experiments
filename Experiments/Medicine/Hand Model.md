@@ -33,17 +33,17 @@ Explanation
 2. Ask what do the pieces of wood represent = bones, and where in the body they are. 
 3. Talk about moving your fingers, and ask what in the body moves them = muscles (after several shouts of veins, ARGH!!), then where are the muscles that move your fingers = forearm not in the hand, and the fact the muscle belly mostly ends quite before the wrist. You can get them to wiggle their fingers and see if you can see the muscles moving in the forearm, but not above the elbow (this is often more visible on demonstrator/parent than child!)
 4. Leads onto the fact that muscles are in forearm, but need to join onto fingers in order to move them – how? Gives off strings that run along fingers and attaches to the bones (show on model) – what are the strings called? = tendons (after more shouts of veins!!). So, to move, muscles contract (tighten up/become shorter), and pull the tendons, which pull the bones.
-5. Then let them play around a bit – I usually get them to pick a blue string (but avoid thumb for now), and then a white string, and see the difference between them. Blue string goes all the way to the end bone, so can bend the end joint, whereas white string can’t because it doesn’t attach to the end bone.
-6. Get them to bend all the fingers (tests if they’ve remembered which strings bend the fingers)
-7. Then ask how to make the fingers straight again. Most will try to push the blue/white strings – tell them that doesn’t work because muscles can only pull. Get them to look at fingers closely and spot any other strings. Eventually they’ll realise to pull the yellow/purple string
-8. Ask them why yellow/purple strings makes the fingers straight. If they struggle, get them to see the difference between blue/white and yellow+purple = different sides of the hand. Therefore muscles on front of arm (flexors) pull blue/white tendons on that side, which flex the joints, and vice versa with other side with the extensors.
+5. Then let them play around a bit – I usually get them to pick a pink string (but avoid thumb for now), and then a purple string, and see the difference between them. Pink string goes all the way to the end bone, so can bend the end joint, whereas purple string can’t because it doesn’t attach to the end bone.
+6. Get them to bend all the fingers (tests if they’ve remembered which strings bend the fingers).
+7. Then ask how to make the fingers straight again. Most will try to push the pink/purple strings – tell them that doesn’t work because muscles can only pull. Get them to look at fingers closely and spot any other strings. Eventually they’ll realise to pull the green/blue strings.
+8. Ask them why green/blue strings makes the fingers straight. If they struggle, get them to see the difference between pink/purple and green/blue = different sides of the hand. Therefore muscles on front of arm (flexors) pull pink/purple tendons on that side, which flex the joints, and vice versa with other side with the extensors.
 9. So, all around the body, muscles work in pairs to do opposite actions. Point out biceps on you and say it bends the elbow, then ask where the muscle will be to make it straight = on the other side, triceps.
-10. Then ask what’s telling the muscles to contract and pull the tendons = brain. And how = send messages = nerves, and briefly explain concept of nerves sending messages
+10. Then ask what’s telling the muscles to contract and pull the tendons = brain. And how = send messages = nerves, and briefly explain concept of nerves sending messages.
 11. I usually end by saying that to play the piano for example, or type on a keyboard, your fingers have got to move in lots of different ways, so your brain has got to send all those messages in the right order to the right muscles, to pull on the right tendons. So, it’s actually really complicated just to move your fingers.
 
 Thumbs
 
-The pink string pulls the thumb across the palm. You can use this to talk about how thumbs can move in an additional special way so you can pinch things - show them how you can oppose the pads of your thumb and fingers, but not of your fingers. They may have heard of opposable thumbs - some will tell you the word, others will recognise it. You can talk about different animals not having opposable thumbs and thus not being able to use tools etc.
+The yellow string pulls the thumb across the palm. You can use this to talk about how thumbs can move in an additional special way so you can pinch things - show them how you can oppose the pads of your thumb and fingers, but not of your fingers. They may have heard of opposable thumbs - some will tell you the word, others will recognise it. You can talk about different animals not having opposable thumbs and thus not being able to use tools etc.
 
 If you've got the short (c. 6 inches) lengths of cord, you can challenge them to tie a simple knot in one. When they triumphantly present you with the resultant knot, get them to do it again without using their thumbs (police this vigilantly, people cheat without even noticing!). Usually this is much much harder. If somehow they do it easily, tell them to undo it without their thumbs. This is more challenging!
 
@@ -60,9 +60,9 @@ Additional stuff:
 1. Carpal tunnel syndrome:
 - Carpal ligament bridges wrist bones, making a small tunnel for nerves and tendons to go through.
 - Median nerve goes through – sensation to most of hand (not little finger), and muscle control of some thumb muscles. 
-- Compression of tunnel walls (due to repeated wrist movements) or swelling (due to injury/arthritis), causes pressure on median nerve
+- Compression of tunnel walls (due to repeated wrist movements) or swelling (due to injury/arthritis), causes pressure on median nerve.
 - Symptoms – aches, pins+needles, pain, numbness, loss of fine finger movements e.g. writing.
-- Treatment - stretching exercises, anti-inflammatory drugs, surgery (cut carpal ligament = relieve pressure)
+- Treatment - stretching exercises, anti-inflammatory drugs, surgery (cut carpal ligament = relieve pressure).
 
 2. Difference between ligaments and tendons
 - Explain that a joint is where 2 bones come together and they can move. But the bones need something to hold them in place, this is what ligaments do, connect bones to other bones. Tendons connect muscles to bones so they can move the joints.

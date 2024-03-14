@@ -2,7 +2,7 @@
 
 **Find out how rocks record stories from the past** - CBS Talk first given by Peter Methley in 2023
 
-Last initially checked on 2023-01-28 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-03-12 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-03-13 by Lauren Mason (llm34@cam.ac.uk)
 
 **Frequency of use:** n/a
 
@@ -229,5 +229,7 @@ Back to **Homo sapiens** (300 ka)
 ## Risk Assessment Check History
 
 **Check 1**: 2023-01-28 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)
+
+**Check 1**: 2024-03-12 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-13 - Lauren Mason (llm34@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
