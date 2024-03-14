@@ -10,7 +10,8 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = None #['Spinny Chair', 'Animal skulls (including primate skulls)', 'Arch Bridge', 'Mini Explosions', 'Prism Goggles', 'Sounds from an oven shelf', 'Ear switching hat'] # List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
+PRINT_SPECIFIC_EXPERIMENTS = ["Sodium Acetate", "Dissecting sheep's eyeballs", "Reversible Flow", "Camera obscura and lenses", "Xylem", "Mini-beasts", "Drosophila", "Sheep skeleton", "Yeast & bread making", "Animal Cognition", "Ear model", "Pond Life", "Locusts and Glowsticks", "Giant Breadboard", "Mechanical Advantage", "Rolling Down Hills"]
+# List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
 def do_print_if(tags):
@@ -60,7 +61,9 @@ else:
         if (data[0][2][:-3] in PRINT_SPECIFIC_EXPERIMENTS) 
     ]
     
-print(f"Found total of {len(printer_experiments)} risk assessments to export.")
+print(f"Found total of {len(printer_experiments)} risk assessments to export:")
+for filename in sorted([expt[0][2] for expt in printer_experiments]):
+    print(filename)
     
 # %%
 
@@ -104,7 +107,7 @@ for location, experiment in tqdm.tqdm(printer_experiments):
         
     except Exception as e:
         errors.append(f'The script encountered a {str(e).split(":")[2].strip()} when converting the risk assessment for the experiment {location[2][:-3]}. This is often caused by an image linked in the Markdown which does not exist or is not in the correct location. While there may still be a PDF output for this, you should check there are no errors and correct the risk assessment.')
-    os.remove(f'temp/{location[2][:-3]}.html')
+    # os.remove(f'temp/{location[2][:-3]}.html')
     
 
 writer = PdfWriter()
