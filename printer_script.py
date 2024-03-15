@@ -10,7 +10,7 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = ["Sodium Acetate", "Dissecting sheep's eyeballs", "Reversible Flow", "Camera obscura and lenses", "Xylem", "Mini-beasts", "Drosophila", "Sheep skeleton", "Yeast & bread making", "Animal Cognition", "Ear model", "Pond Life", "Locusts and Glowsticks", "Giant Breadboard", "Mechanical Advantage", "Rolling Down Hills"]
+PRINT_SPECIFIC_EXPERIMENTS = ["Giant Breadboards"]
 # List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
