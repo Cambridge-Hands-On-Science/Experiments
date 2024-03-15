@@ -170,4 +170,5 @@ There's also supply and demand which will factor in.
 ## Risk Assessment Check History 
 
 **Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk)
+
 **Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
