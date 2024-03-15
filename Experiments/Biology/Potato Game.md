@@ -2,7 +2,7 @@
 
 **Learn about potato blight and other plant diseases** - It's not just animals that catch diseases, plants can also get sick! Find out how these diseases affect farmers, the environment and our food supply. 
 
-Last initially checked on 2023-06-22 by Tom Webster (tw432@cantab.ac.uk) and double-checked on 2023-07-02 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-03-15 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -11,7 +11,7 @@ Last initially checked on 2023-06-22 by Tom Webster (tw432@cantab.ac.uk) and dou
 
 **Biology**
 
-**In Development** (Experiment has working equipment at the time of last update, and is available for events.)
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -145,11 +145,11 @@ There's also supply and demand which will factor in.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
 
 **Mitigation**: Supervise particularly small children closely with potatoes. Don't do the full game with very young children (it's too complicated anyways). 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 <br/>
 
@@ -163,10 +163,11 @@ There's also supply and demand which will factor in.
 
 **Mitigation**: Warn people about coffee/rice before doing the experiment. Airbourne rice/coffee allergies are extremely rare and most allergies require physical contact allowing someone else to take part in that demo. Demo can be skipped if allergy known.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
 ## Risk Assessment Check History 
 
 **Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
