@@ -103,7 +103,7 @@ Call first aider in case of injury.
 
 Ensure the top of the tank is not at eye level (it is possible for a small volume of the reagents to be propelled through the crack between the top of the tank and the lid). Run a length of plastic tape along the hinged side (which should be closest to your audience) to prevent splattering.
 
-Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes. 
+Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes. 
 
 Eyewash should be kept in Mini Explosions box. If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
 
