@@ -60,7 +60,7 @@ Hydrophobic sand is coated with a silicon compound that is one nanometer thick. 
 You can pour water on the hydrophobic sand to show how it repels water, but avoid getting water in the kinetic sand as it will change its properties. 
 
 ### Battery and bulb circuit
-Draw a picture on a piece of paper. Connect the picture with the edge of the paper and draw with heavy, thick lines. Clip one wire from the negative terminal of the battery to the edge of the paper, so it's touching the drawing. Clip the other wire from the positive terminal to the long leg of the LED. Touch the shorter leg of the LED to the drawing. The LED should light up. The brightness should increase as the leg is moved closer to the lip, and decrease as it's moved away (don't directly touch the other clip with the LED leg, or touch the LED directly on the battery, as this will apply too much voltage and the LED will blow). 
+Draw a picture on a piece of paper. Connect the picture with the edge of the paper and draw with heavy, thick lines. Clip one wire from the negative terminal of the battery to the edge of the paper, so it's touching the drawing. Clip the other wire from the positive terminal to the long leg of the LED. Touch the shorter leg of the LED to the drawing. The LED should light up. The brightness should increase as the leg is moved closer to the clip, and decrease as it's moved away (don't directly touch the other clip with the LED leg, or touch the LED directly on the battery, as this will apply too much voltage and the LED will blow). 
 
 <center>
 <div style="width:10cm">
