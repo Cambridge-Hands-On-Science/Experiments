@@ -13,7 +13,7 @@ Last initially checked on 2024-02-13 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**In development** (This experiment doesn't actually exist yet, but might in the future!)
+**Active**
 
 **Chemistry**
 
@@ -36,7 +36,7 @@ Last initially checked on 2024-02-13 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 - Paper
 - Graphite pencil (6B is best)
-- Tape
+- Two wires with crocodile clips
 - LED
 - 9V battery
 
@@ -60,9 +60,7 @@ Hydrophobic sand is coated with a silicon compound that is one nanometer thick. 
 You can pour water on the hydrophobic sand to show how it repels water, but avoid getting water in the kinetic sand as it will change its properties. 
 
 ### Battery and bulb circuit
-Draw two lines next to each other with the graphite pencil. Tape the legs of the LED so that one leg is attached to each line. Place the battery over the opposite ends of the lines. The LED should light up (I will put in a photo of this to make this clearer - JT). 
-
-Note that LEDs only work in one direction so you make need to turn the battery around. 
+Draw a picture on a piece of paper. Connect the picture with the edge of the paper and draw with heavy, thick lines. Clip one wire from the negative terminal of the battery to the edge of the paper, so it's touching the drawing. Clip the other wire from the positive terminal to the long leg of the LED. Touch the shorter leg of the LED to the drawing. The LED should light up. The brightness should increase as the leg is moved closer to the lip, and decrease as it's moved away (don't directly touch the other clip with the LED leg, or touch the LED directly on the battery, as this will apply too much voltage and the LED will blow). 
 
 Graphite is made of many layers of carbon atoms and conducts electricity, so completes the circuit between the battery and the bulb. 
 
