@@ -18,20 +18,21 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 
 ## Equipment Needed 
 X before item indicates it is not currently in the kit and needs sourcing
-- X Morse code
-- X Morse buzzer with wires to connect to the...
+Morse Code
+- X Morse buzzer with wires
 - Morse code clicker
 - X Laminated morse code chart
 
+Semaphore
 - X Semaphore Flags (2 per transmitter)
 - X Semaphore Sheet
 
-- Paper Telephones and Envelopes
+Paper Telephones and Envelopes
 - Two paper cups connected by string
 - X Third paper cup on a string
 - Some envelopes
 
-- Ceaser Shifts
+Ceaser Shifts
 - X Whiteboards and pens
 - X Laminated alphabet wheels
 - X Laminated alphabets
@@ -40,11 +41,11 @@ X before item indicates it is not currently in the kit and needs sourcing
 - Sections of pipe insulation
 - Code strips
 
-- Asymetric Encryption
+Asymetric Encryption
 - X Two padlocks with keys
 - X Box with two padlock holes
 
-- Public key encryprion
+Public key encryption
 - X Padlock with key (needs to lock without key)
 - X Box with at least one padlock hole
 - Two led lights
@@ -52,7 +53,7 @@ X before item indicates it is not currently in the kit and needs sourcing
 - X Food colouring (there is some but it's expired)
 - Water
 
-- Quantum Cryptography
+Quantum Cryptography
 - Polarisation Experiment with extra filters
 
 - Pollard's Kangaroo
