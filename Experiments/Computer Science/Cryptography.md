@@ -17,6 +17,7 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
+* X before item indicates it is not currently in the kit and needs sourcing*
 - Morse code
 - Morse buzzer and clicker
 - Morse code chart
