@@ -73,18 +73,19 @@ Cipher - acts letter by letter
 
 This means lots of things we call codes are ciphers! 
 
-#### Morse 'code' 
-Press down and make a buzz, using the translation table you can transmit messages. Get one person to transmit and the others to try and transcribe the message.
-Most competent transmitters can manage 40 words per minute and the record is 75.2wpm. As words and characters have different lengths this is just an average though.
+#### Morse 'code' (actually a cipher)
+Press down on the morse code clicker (which should be connected to the buzzer) and make a buzz, using the morse code translation table you can transmit messages. Get one person to transmit and the others to try and transcribe the message.
+Most competent transmitters can manage 40 words per minute and the record is 75.2wpm. However as words and characters have different lengths this is just an average!
 
 #### Semaphore
-Display the flags in the patterns for each letter. Similarly to Morse one group transmits and one transcribes. It was used pre-telegraph and Morse code to transmit messages long distance, using towers and spyglasses to relay messages faster than horse and rider. You can easily split the groups with one transmitting Morse and receiving semaphore and vice versa. 
+Display the flags in the patterns for each letter. Similarly to Morse one group transmits and one transcribes. Semaphore was used pre-telegraph and Morse code to transmit messages long distance, using towers and spyglasses to relay messages faster than horse and rider. You can easily split the groups into two, with one group transmitting Morse and receiving semaphore, and vice versa.
 
 #### Paper Telephones and Envelopes 
-These phones allow you to communicate like a telephone, it works by vibrating the string to transmit. If you loop on the third cup there's now an eves dropper (a wire tap). This transmission is not secure due to this.
+These phones allow you to communicate like a telephone, it works by vibrating the string to transmit. If you loop on the third cup to the first two, there's now an eavesdropper (a wire tap)!!. Therefore you can see that this transmission is not secure.
 
-Similarly if two people pass envelopes between a third postman they can communicate. However the postman can open letters, or even just change them. 
-We can think about what properties we want when sending messages there are a few contenders.
+Similarly if two people pass envelopes between a third postman they can communicate. However the postman can open and read letters, or even change them completely. This isn't a secure transmission either.
+
+We can think about what properties we want when sending messages - there are a few contenders:
 
 Confidentiality - only the person meant to receive the message does. 
 
@@ -94,27 +95,29 @@ Authenticity - the message comes from the right person.
 
 How can we fix these? Let people come up with ideas.
 
-Seal envelopes to make it harder to open and close. Sign letters. Talk in code/cipher.
+Some ideas for discussion: Seal envelopes to make it harder to open and close. Sign letters. Talk in code/cipher.
 
 #### Caesar Shifts
-These are named after Julius Caesar even though they've existed long before. They work by rotating the alphabet and replacing letters like this. The code wheels are very useful to do this, they can do both the encryption and decryption. This code is really easy to break, there's only 26 options so we just have to try a few, you can even get people to do this. Just by trying a few letters you can decide to move on and try the next rotation, it's very unlikely the message starts 'zm'.
+These are named after Julius Caesar even though they've existed long before him. They work by rotating the alphabet by a certain amount and replacing letters like this. The code wheels are very useful to do this, they can do both the encryption and decryption. This code is really easy to break, as there are only 26 options for the code, so we just have to try a few. You can even get people to try this. Just by trying a few letters you can decide to move on and try the next rotation, e.g. it's very unlikely the message starts 'zm'.
 
-This encryption sees only one common use, since it's so insecure it's mainly used for spoilers. They use a form called ROT13 which rotates 13 places, try it and try encrypting something twice! You'll find it's self inverting which saves on code.
+This encryption sees only one common use, since it's so insecure it's mainly used for spoilers. 
 
-In these for someone else to decrypt they just need to know the number you've rotated by. 
+Spoilers commonly use a form called ROT13 which rotates 13 places, try it and try encrypting something twice! You'll find it's self inverting which saves on code. I.e. you decode the message by doing the same thing as encoding it!
 
-Because it's so simple one way to add complexity is by also agreeing a word, write this under the start of the alphabet and then write out the remaining letters in order. This makes it harder for someone to guess as they need to get your word.
+In a generic caesar shift, for someone else to decrypt it they just need to know the number you've rotated by. 
 
-Can we still break this code? Yes quite easily, write a long message in English, count up how many times each letter appears, are they all equal? Which letters appear most often? If we find these in a long coded message we can see which letter is most common and try and match them up. E, T, A and O are the most common, while Z, Q and X are rarest. We can also do this looking at pairs and find TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeated letters.
+Because it's so simple, one way to add complexity is by also agreeing a word, write this under the start of the alphabet and then write out the remaining letters of the alphabet which haven't been used in the word in order. This makes it harder for someone to decode your message, as there are many more options for the encryption - they need to guess your word.
 
-#### Wrap around codes (I can't remember the name) Scytale
-These codes are written on strips of paper to read them you need to wrap them around a piece of pipe insulation and read downwards. The hidden key is the diameter of the insulation, try a different size and the message doesn't make sense. 
+Can we still break this code? Yes, quite easily, write a long message in English, count up how many times each letter appears, are they all equal? Which letters appear most often? If we find these in a long coded message we can see which letter is most common and try and match them up. E, T, A and O are the most common, while Z, Q and X are rarest. We can also do this looking at pairs and find TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeated letters.
 
-#### Key Exchange
+#### Scytale - wrap around codes
+These codes are written on strips of paper. To read them you need to wrap them around a piece of pipe insulation and read downwards. The hidden key is the diameter (width) of the insulation, only one diameter will give the message, the other diameters will give nonsense.
 
-In this section, we'll look at sharing information between two people Alice and Bob. They want to pass messages to each other without them being read by their nosy friend Eve. We've got a box they can post messages between them in as well as an assortment of padlocks and keys, ask the children how they might send a message between them? You can act as the post, taking things between them, but also as Eve, reading and copying all the post they send.
+#### Key Exchange (becomes a bit harder from now on)
 
-The simplest way is having one padlock and giving Alice and Bob each a key that opens it. This works well but imagine Alice and Bob live on opposite sides of the world and can't meet in person? How can they both get a copy of this key? Whenever you're using the internet you need to do frequent key exchanges, if you're making a payment you need to send that information to the company, but don't want anyone else stealing your bank information, you need to exchange keys.
+In this section, we'll look at sharing information between two people Alice and Bob. They want to pass messages to each other without them being read by their nosy friend Eve the Eavesdropper. We've got a box they can post messages between them in as well as an assortment of padlocks and keys, ask the children how they might send a message between them? You can act as the post, taking things between them, but also as Eve, reading and copying all the post they send.
+
+The simplest way is having one padlock and giving Alice and Bob each a key that opens it. This works well but imagine Alice and Bob live on opposite sides of the world and can't meet in person - how can they both get a copy of this key? Whenever you're using the internet you need to do frequent key exchanges. If you're making a payment you need to send that information to the company, but don't want anyone else stealing your bank information, you need to exchange keys.
 
 The next idea might be for Alice to post a key to Bob however if Alice puts a key in the post, Eve can intercept it and copy it. Now Alice, Bob and Eve all have keys so it isn't secure and everything is ruined. You'll have to think of ways to pass the boxes so Eve can't open them.
 
@@ -124,18 +127,20 @@ One way to exchange is as follows, each person has their own padlock and key. Pe
 - A now can't open it either but they unlock their padlock and send it back to B,
 - B can now open the box and read the message.
 
-This system is a private key system, with both keys and padlocks only known to A and B. In modern cryptography, lots of systems rely on public keys, these allow individuals to be able to send messages easily as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it A. A is the only person with the key so only A can open it.
+This system is a private key system, with both keys and padlocks only known to A and B. 
+
+In modern cryptography, lots of systems rely on public keys. These allow individuals to be able to send messages easily, as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it to A. A is the only person with the key so only A can open it.
 
 In public-key cryptography, keys are often exchanged using ElGammel or Diffie-Helmann, both of which work on a similar "double-lock" process. The process given above is actually insecure and vulnerable to a man-in-the-middle attack in a public key system, for this example it can be broken as follows:
 - E intercepts the box A sends (box 1) to B, 
-- E copies the box (which will be empty a E doesn't know the contents and B can't open) to get box 2 which she padlocks sends to B,
+- E copies the box (which will be empty as E doesn't know the contents and B can't open) to get box 2 which she padlocks sends to B,
 - B padlocks the fake box 2 and returns it,
 - E intercepts box 2, then adds her padlock to box 1 and returns this to A, 
 - A receives box 1, removes his padlock then sends to B. 
 - E intercepts box 1 and views the contents,
 - E creates a new box 3 with the contents and locks this with B's padlock (as padlocks are public keys)
 
-One can create a valid model for Diffie-Helmann using lights. Optionally place the two led lights under the cups for darkroom use. Make up a private key which will be your own special colour. Between you make a public key which you can show everyone. Each take equal amounts of public and private keys and mix, you can share this with Eve while passing it between you. Then to the swapped colours add a shot of your private key to the new mixture. You'll find there's now a shot of each private key and a shot of public key in both A and B's mixture however E can't recreate it as she's only seen the following mixtures: public key, public+A private, public+B private. Any mix of these is going to have too much public key in! This works best if the colours are all different and very light, otherwise you end up with black as your secret colour and its hard to show eve not getting it (they've not got the same shade of black but its hard to tell). 
+One can create a valid model for Diffie-Helmann using lights. Optionally place the two led lights under the cups for darkroom use. Make up a private key which will be your own special colour. Between you make a public key which you can show everyone. Each take equal amounts of public and private keys and mix, you can share this with Eve while passing it between you. Then to the swapped colours add a shot of your private key to the new mixture. You'll find there's now a shot of each private key and a shot of public key in both A and B's mixture however E can't recreate it as she's only seen the following mixtures: public key, public+A private, public+B private. Any mix of these is going to have too much public key in! This works best if the colours are all different and very light, otherwise you end up with black as your secret colour and its hard to show Eve not getting it (they've not got the same shade of black but its hard to tell). 
 
 One more modern encryption scheme is RSA, this is also an asymmetric scheme. Its a public key scheme, a public key here is an unlocked padlock which we leave them with a central repository, anyone wanting to send A a message goes and gets an unlocked A padlock uses it to seal the message to A and then only A can unlock it. There is one weakness with this, if the person in the repository is dodgy then they can read all messages, they give out their own padlocks, open the message then attach the correct padlock.
 
