@@ -181,8 +181,8 @@ This experiment often links well if placed near IR or demonstrated as a pair. Yo
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Use LED light, which is less harmful, so much less harmful light.
-Warn users not to look directly at it. Avoid prolonged skin exposure.
+**Mitigation**: Use UVA LED light, which is less harmful, so much less harmful light.
+Warn users not to look directly at it. Avoid prolonged skin exposure. Ensure that if hands are at short distances directly under the lamp (<0.5 m), they don't remain there for longer than 5-10 mins. Minimise time drawing directly under lamp.
 In the event of an accident, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
