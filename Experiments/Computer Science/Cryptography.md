@@ -17,38 +17,39 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-* X before item indicates it is not currently in the kit and needs sourcing*
-- Morse code
-- Morse buzzer and clicker
-- Morse code chart
+X before item indicates it is not currently in the kit and needs sourcing
+- X Morse code
+- X Morse buzzer with wires to connect to the...
+- Morse code clicker
+- X Laminated morse code chart
 
-- Semaphore Flags (2 per transmitter)
-- Semaphore Sheet
+- X Semaphore Flags (2 per transmitter)
+- X Semaphore Sheet
 
 - Paper Telephones and Envelopes
 - Two paper cups connected by string
-- Third paper cup on a string
+- X Third paper cup on a string
 - Some envelopes
 
 - Ceaser Shifts
-- Whiteboards and pens
-- Laminated alphabet wheels
-- Laminated alphabets
+- X Whiteboards and pens
+- X Laminated alphabet wheels
+- X Laminated alphabets
 
-- Wrap around codes
+- X Wrap around codes (there are some but we should print some more)
 - Sections of pipe insulation
 - Code strips
 
 - Asymetric Encryption
-- Two padlocks with keys
-- Box with two padlock holes
+- X Two padlocks with keys
+- X Box with two padlock holes
 
 - Public key encryprion
-- Padlock with key (needs to lock without key)
-- Box with at least one padlock hole
+- X Padlock with key (needs to lock without key)
+- X Box with at least one padlock hole
 - Two led lights
-- Transparent plastic cups
-- Food colouring
+- X Transparent plastic cups
+- X Food colouring (there is some but it's expired)
 - Water
 
 - Quantum Cryptography
