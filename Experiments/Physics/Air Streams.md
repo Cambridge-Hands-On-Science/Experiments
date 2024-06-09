@@ -14,36 +14,37 @@ Last initially checked on 2024-01-24 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
+**Electricity needed**
+
 **Physics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
 
 ## Equipment Needed 
-- **Electricity needed**
 - Electrical stuff:
-- Big Blower (too big for box, needs 2 people to lift)
-- Stream stabiliser for the big blower (a hollow box open on one end and with a grid on the opposite end)
-- 'Small' blower (in box)
-- 2 x variable power switches for blowers.
+    - Big Blower (too big for box, needs 2 people to lift)
+    - Stream stabiliser for the big blower (a hollow box open on one end and with a grid on the opposite end)
+    - 'Small' blower (in box)
+    - 2 x variable power switches for blowers.
 
 - Floating Objects:
-- Beach Balls
-- Ping-pong balls
-- Aeroplane wing
-- Plastic cups and elastic bands
+    - Beach Balls
+    - Ping-pong balls
+    - Aeroplane wing
+    - Plastic cups and elastic bands
 
 - Also Useful:
-- Screwdriver with haztape streamer (for showing streamlines)
-- Paper
+    - Screwdriver with haztape streamer (for showing streamlines)
+    - Paper
 
 - CHaOS only:
-- Bendy straws (consumable), must have reasonably wide holes.
-- Small wooden rocket puzzle
-- Anti-bacteria wipes (consumable)
+    - Bendy straws (consumable), must have reasonably wide holes.
+    - Small wooden rocket puzzle
+    - Anti-bacteria wipes (consumable)
 
 - CHaOS+ only:
-- Diagrams of wing cross sections / streamlines around an aerofoil
+    - Diagrams of wing cross sections / streamlines around an aerofoil
 
 <br/>
 
@@ -58,6 +59,7 @@ Show how flowing air acts on object in or next to it.
 How to set up the experiment
 ----------------------------
 
+**IMPORTANT NOTE**: All cables for blowers stay in the Airstreams box. They are labelled 'BIG' and 'SMALL'. Please do not return them to Extension Leads and mix them up with the rest. These plugs have a higher fuse rating. 
 
 Note: The big blower is not necessary but makes a nice show. It may cause the circuit breakers to go off, so check first so that you don't cause a power outage a the beginning of the session.
 
