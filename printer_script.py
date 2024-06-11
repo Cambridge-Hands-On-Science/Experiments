@@ -10,7 +10,7 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = ["Giant Breadboards"]
+PRINT_SPECIFIC_EXPERIMENTS = None # ["Plants", "Sweet Chromatography", "Potato Game", "Lung Model", "Greenhouse Effect", "Flame Tornado"]
 # List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
@@ -18,7 +18,7 @@ def do_print_if(tags):
     return (
         ('Minor repairs needed' in tags or 
         'Active' in tags) and
-        ('Standard' in tags) and
+        (('Standard' in tags) or 'Tour only' in tags) and
         not ('CBS only' in tags)
     )
 
