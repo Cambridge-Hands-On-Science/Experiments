@@ -61,6 +61,8 @@ How to set up the experiment
 
 **IMPORTANT NOTE**: All cables for blowers stay in the Airstreams box. They are labelled 'BIG' and 'SMALL'. Please do not return them to Extension Leads and mix them up with the rest. These plugs have a higher fuse rating. 
 
+**WARNING**: Blowers should be connected to the speed controller boxes. Do not connect blowers directly to mains. 
+
 Note: The big blower is not necessary but makes a nice show. It may cause the circuit breakers to go off, so check first so that you don't cause a power outage a the beginning of the session.
 
 Place the blowers on the ground. Make sure they are not in anyone's way, and also check above them to make sure nothing will be disturbed by the fan (such as lightweight ceiling tiles). Put the stream stabiliser on top of the big blower. Plug the cables to the power switches and to the grid.
