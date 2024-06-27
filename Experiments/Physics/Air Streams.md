@@ -61,7 +61,7 @@ How to set up the experiment
 
 **IMPORTANT NOTE**: All cables for blowers stay in the Airstreams box. They are labelled 'BIG' and 'SMALL'. Please do not return them to Extension Leads and mix them up with the rest. These plugs have a higher fuse rating. 
 
-**WARNING**: Blowers should be connected to the speed controller boxes. Do not connect blowers directly to mains. 
+**WARNING**: Blowers should be connected to the speed controller boxes. Do not connect blowers directly to mains. Try to avoid plugging the blowers (especially the big one) into an extension lead with other things on it. 
 
 Note: The big blower is not necessary but makes a nice show. It may cause the circuit breakers to go off, so check first so that you don't cause a power outage a the beginning of the session.
 
