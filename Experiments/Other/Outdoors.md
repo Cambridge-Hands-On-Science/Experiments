@@ -63,7 +63,7 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Mitigation**: >In the event of adverse weather, encourage children to behave sensibly and not run about. If the demonstrator or committee deem the weather to make the experiment too dangerous to operate, close the experiment (e.g. too windy or wet).
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
