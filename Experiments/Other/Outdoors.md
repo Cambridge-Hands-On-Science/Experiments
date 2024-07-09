@@ -2,7 +2,7 @@
 
 **Read before doing any experiment outside** - 
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 
 ## Tags
@@ -16,7 +16,7 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 
 **Other**
 
-**Outside** (Recommended to demonstrate outside at CBS - see separate risk assessment)
+**Outside**
 
 <!-- Add any more tags that are appropriate -->
 
@@ -83,7 +83,7 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 ### **Hazard**: Crowds
 
-**Description**: There will be a queue of people nearby, and people walking in and out of the area, posing a risk of being bumped into / invading experiment spaces.
+**Description**: There may be a queue of people nearby, and people walking in and out of the area, posing a risk of being bumped into / invading experiment spaces.
 
 **Affected People**: All (mainly visitors)
 
@@ -100,4 +100,4 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
-
+**Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
