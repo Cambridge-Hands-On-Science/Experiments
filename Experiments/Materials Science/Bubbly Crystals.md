@@ -222,7 +222,7 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: I would advise against demonstrating if you are irritated by soapy water. Ask parent/ responsible child if OK to put their hands in soapy water. Otherwise, can do as demo only or only let them touch the water via the skewers. Do not let children drink the soapy water.
+**Mitigation**: I would advise against demonstrating if you are irritated by soapy water. Use a sign to indicate the presence of soap. Ask parent/ responsible child if OK to put their hands in soapy water. Otherwise, can do as demo only or only let them touch the water via the skewers. Do not let children drink the soapy water.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
