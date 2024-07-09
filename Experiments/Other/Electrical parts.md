@@ -2,7 +2,7 @@
 
 **Read before demonstarting any experiment that uses mains electricity** 
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 
 ## Tags
@@ -15,7 +15,7 @@ Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and dou
 
 **Other**
 
-**Requires Electricity** (Please also refer to the Electrical Hazards risk assessment)
+**Requires Electricity**
 
 <!-- Add any more tags that are appropriate -->
 
@@ -99,5 +99,7 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 ## Risk Assessment Check History
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
