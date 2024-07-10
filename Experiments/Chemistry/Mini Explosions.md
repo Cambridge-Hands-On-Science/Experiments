@@ -105,9 +105,23 @@ Ensure the top of the tank is not at eye level (it is possible for a small volum
 
 Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes. 
 
-Eyewash should be kept in Mini Explosions box. If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
+Eyewash should be kept on hand when demonstrating (but put back in Safety for storage between demonstrating days). If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+<br/>
+
+### **Hazard**: Reactants
+
+**Description**: Some people might be allergic to lemon juice or bicarbonate of soda.
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Put up a sign warning of potential allergens in the reagents. If participant(s) are allergic, they should stand well back and not touch anything. Do not leave kids alone with the experiment.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -119,11 +133,13 @@ Eyewash should be kept in Mini Explosions box. If solution or reactants have ent
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Do not let the kids do the reactions themselves or leave them alone with the experiment.
+**Mitigation**: The lemon juice and bicarbonate of soda are food-safe, but they still should not be eaten as they might be out of date and will not have been refrigerated.
+
+Do not let the kids do the reactions themselves or leave them alone with the experiment.
 
 It is important to keep the kids under control. Try to keep control over both reagents. Warn children not to eat/put hands in mouth.
 
-In the event of eating, advise them that the reactants are all edible but to seek medical attention if they start to feel very bad as experiment has been in cupboard for unknown amount of time.
+In the event of eating, advise them to seek medical attention if they start to feel ill.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
