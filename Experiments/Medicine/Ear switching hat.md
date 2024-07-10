@@ -114,7 +114,7 @@ Call a first aider in case of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Visually inspect hat between use.
+**Mitigation**: Visually inspect hat between use. Wipe down the ear cups and headband with disinfecting wipes between sessions.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
