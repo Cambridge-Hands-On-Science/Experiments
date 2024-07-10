@@ -1,6 +1,6 @@
 # Electrical Parts
 
-**Read before demonstarting any experiment that uses mains electricity** 
+**Read before demonstrating any experiment that uses mains electricity** 
 
 Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
