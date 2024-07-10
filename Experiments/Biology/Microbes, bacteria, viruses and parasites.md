@@ -440,9 +440,9 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Suggest that volunteer from group isn't one who is known to have sensitive skin. If it starts to itch/hurt, wash off immediately and call first aider. Seek further medical advice where appropriate.
+**Mitigation**: Ask all participants in the hand-washing activity (if doing) to ensure they do not have sensitive skin. If it starts to itch/hurt, wash off immediately and call first aider. Seek further medical advice where appropriate.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
