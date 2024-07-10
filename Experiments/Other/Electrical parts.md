@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-07-10 by Timothy Wong (chw55@cam.ac.uk)
 
 
 ## Tags
@@ -100,6 +100,6 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-10 - Timothy Wong (chw55@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
