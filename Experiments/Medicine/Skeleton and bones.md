@@ -124,7 +124,7 @@ Call first aider if necessary.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Keep a careful eye on the skeleton, and stay near it to be in a position where you can stop it from falling on anyone. Do not leave the experiment unsupervised. Consider tying skeleton to a chair if demonstrator is not able to be close to the skeleton throughout. In case of accident, call a first aider.
+**Mitigation**: Boris should be kept on his stand, and on stable, level ground. Keep a careful eye on the skeleton, and stay near it to be in a position where you can stop it from falling on anyone. Do not leave the experiment unsupervised. Consider tying skeleton to a chair if demonstrator is not able to be close to the skeleton throughout. In case of accident, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
