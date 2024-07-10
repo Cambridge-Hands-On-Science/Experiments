@@ -201,7 +201,7 @@ Call a first aider in the event of injury.
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Demonstrator to ensure floor area is clear and dry. If area becomes wet, locate a mop and dry the area.
+**Mitigation**: Demonstrator to ensure floor area is clear and dry. If inside area becomes wet, locate a mop and dry the area. If on grass, do not demonstrate if the ground becomes too muddy and slippery.
 
 Call first aider in case of injury.
 
@@ -211,7 +211,7 @@ Call first aider in case of injury.
 
 ### **Hazard**: Small Parts in Heart Model
 
-**Description**: Small parts could be swallowed.
+**Description**: Small parts could be swallowed, causing a choking hazard.
 
 **Affected People**: Public (especially small children)
 
