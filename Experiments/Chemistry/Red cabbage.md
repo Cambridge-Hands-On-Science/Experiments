@@ -99,7 +99,7 @@ At Event:
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Only demonstrators to use knives to cut cabbage, which should be done before the event starts. Knives to be kept concealed and out of reach for the duration of the experiment. Knife to be sheathed when not being used.
+**Mitigation**: Only demonstrators to use knives to cut cabbage, which should be done before the event starts. Knives to be kept concealed and out of reach for the duration of the experiment. Knife to be sheathed when not being used. There should only be one knife in the box, and the demonstrator should know where it is at all times.
 
 Call first aider in case of injury.
 
@@ -109,13 +109,15 @@ Call first aider in case of injury.
 
 ### **Hazard**: Lemon juice/vinegar/bicarb
 
-**Description**: Lemon juice/vinegar and bicarbonate of soda irritant to eyes
+**Description**: Lemon juice/vinegar and bicarbonate of soda irritant to eyes, and possible allergens
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Only use small amounts, avoid pouring out more reagents while demonstrating.
+**Mitigation**: State reagents on a sign to highlight allergens. If participant(s) are allergic, they should stand well back and not touch anything.
+
+Only use small amounts, avoid pouring out more reagents while demonstrating.
 
 If in contact with eyes, wash with emergency eye wash provided if trained and confident to do so. Call first aider if necessary.
 
