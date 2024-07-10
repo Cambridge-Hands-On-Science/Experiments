@@ -149,8 +149,8 @@ Call first aider in case of injury.
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
 **Mitigation**: If public are offered to use it, make sure they don't actually touch the ends of the pipes when blowing.
-Consider wiping the ends of the pipes with some anti-bac wipes when they're done.
-Consider having only one person (the demonstrator) using the pipes.
+Wipe the ends of the pipes with some anti-bac wipes when they're done.
+If possible, only the demonstrator should use the pan pipes.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
