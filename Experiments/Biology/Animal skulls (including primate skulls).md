@@ -249,13 +249,13 @@ Call first aider in event of injuries.
 
 ### **Hazard**: Unsanitary skulls
 
-**Description**: Possible infection risk from bone if skin is cut by touching the bone.
+**Description**: Possible infection risk from handling skulls, especially if skin is cut due to sharp edges.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: We have boiled the skulls we found in bleach for a few hours to sterilise them. Please note, however, this does not necessarily mean that the skulls are completely sterile now. One could give the skulls a gentle clean with disinfecting wipes if they're on hand.
+**Mitigation**: We have boiled the skulls we found in bleach for a few hours to sterilise them. Please note, however, this does not necessarily mean that the skulls are completely sterile now. One could give the skulls a gentle clean with disinfecting wipes if they're on hand. Encourage participants to wash or sanitise hands after handling skulls.
 
 Call first aider to properly dress and sterilise wounds. Warn parents of the possibility of infection if a child does cut him/herself on the skull. Advise parents to take child to a doctor if the cut looks infected.
 
