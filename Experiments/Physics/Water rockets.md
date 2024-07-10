@@ -10,13 +10,15 @@ Last initially checked on 2024-02-04 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
+**Outside**
+
 **Physics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
 
 ## Equipment Needed 
-- **This experiment can take place outdoors**
+- **This experiment should take place outdoors**
 - Pump.
 - Bung with hole or with valve.
 - Rope
@@ -133,7 +135,7 @@ In the event of an accident call a first aider.
 
 **Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10
 
-**Mitigation**: Do the experiment outside on a surface that can take water. If done indoors or on a surface which can get slippery, keep a mop close to hand and cordon off the area.
+**Mitigation**: Do the experiment outside on a surface that can take water. If done on a surface which can get slippery, keep a mop close to hand and cordon off the area. If done on grass, stop/relocate the experiment if the area becomes too muddy.
 
 Call a first aider in the case of an injury.
 
