@@ -112,7 +112,7 @@ Call first aider if required.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Projectile - light rice bag, trebuchet designed to have limited range and velocity, and will not hurt on impact, even at high speeds. Make sure people do not stand in front of the trebuchets when firing - could indicate firing zone with some hazard tape. Avoid busy areas/thoroughfares. If the area happens to get busy mid-demonstration, either ask people to evacuate the 'smash zone' or wait until they have moved.
+**Mitigation**: Projectile - light rice bag, trebuchet designed to have limited range and velocity, and will not hurt on impact, even at high speeds. Make sure people do not stand in front of the trebuchets when firing - indicate firing zone with some hazard tape. Avoid busy areas/thoroughfares. If the area happens to get busy mid-demonstration, either ask people to evacuate the 'smash zone' or wait until they have moved.
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
@@ -127,7 +127,7 @@ Call first aider if required.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Ends of firing pins should be sanded down to remove any sharp edges. Demonstrator to check edges are suffiently blunt before using. Instruct people to hold firing pin by the pipecleaner. Demonstrator to check no pipecleaner ends are stick out.
+**Mitigation**: Ends of firing pins should be sanded down to remove any sharp edges. Demonstrator to check edges are sufficiently blunt before using. Instruct people to hold firing pin by the pipe-cleaner. Demonstrator to check no pipe-cleaner ends are stick out.
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
