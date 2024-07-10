@@ -124,13 +124,13 @@ Call first aider in event of injury.
 
 ### **Hazard**: Chlorine
 
-**Description**: Emission of chlorine gas.
+**Description**: Emission of a small amount of chlorine gas is theoretically possible if tap water is put in the electrolysis chamber by mistake.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
-**Mitigation**: Use deionised water (chloride ions have been removed), and use MgSO4 as an electrolyte as this will not decompose before the water. Experiment must only be set up by a demonstrator familiar with the apparatus and the solution required.
+**Mitigation**: Only put saturated magnesium sulfate solution into the electrolysing chamber, as these ions will not decompose before the H₂O. As an extra precaution, use deionised water (chloride ions have been removed) instead of tap water everywhere else in the apparatus. Experiment must only be set up and operated by a trained demonstrator familiar with the apparatus and the solutions required.
 
 In the event of an incident, turn off power, remove any casualty from area, call first aider and ventilate the area.
 
@@ -146,7 +146,7 @@ In the event of an incident, turn off power, remove any casualty from area, call
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column. Use hearing protection if available, especially if demonstrating this for a long time.
+**Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column. Demonstrator should use ear defenders as hearing protection, especially if demonstrating this for a long time.
 
 Use less gas if the explosions are too loud.
 
@@ -174,13 +174,13 @@ Call first aider in event of injury.
 
 ### **Hazard**: Mains electricity
 
-**Description**: Increased hazard from mains electricity due to presence of high ionic strength solution.
+**Description**: Increased electric shock hazard from mains electricity due to presence of high ionic strength solution (magnesium sulfate solution conducts electricity better).
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
-**Mitigation**: Ensure that apparatus is secure and tightly roped to a fixed support before filling (also prevents risk of tower falling). Do not fill/top up apparatus whilst power unit is nearby. Keep power unit raised above level of base of apparatus.
+**Mitigation**: Only low voltage from the power supply can come near the liquids under normal operation. Ensure that apparatus is secure and tightly roped to a fixed support before filling (also prevents risk of tower falling). Do not fill/top up apparatus whilst power unit is nearby. Keep power unit raised above level of base of apparatus.
 
 If solution splashes onto power supply turn off immediately at mains and close experiment.
 
@@ -200,7 +200,7 @@ See electrical parts RA.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Ensure the tower is stable (i.e. on level ground). Do not allow children to climb/push the tower.
+**Mitigation**: Ensure the tower is stable (i.e. on level ground). Affix to a stable support structure in the venue using bungee cord. Do not allow children to climb/push the tower.
 
 In the event if an injury, call a first aider.
 
