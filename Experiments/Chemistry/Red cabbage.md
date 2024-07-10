@@ -167,7 +167,7 @@ Call first aider in case of injury.
 
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 
 
-**Mitigation**: Do not use hot water or a kettle under any circumstances. Test water before use - as a guide, water temperature should be comfortable to immerse your hand in for an extended period of time. If the water is too hot, allow the solution to cool before proceeding with the experiment. Keep the stock of solution out of reach of children and in a place where it can't easily be knocked over.
+**Mitigation**: Do not use boiling water or a kettle under any circumstances. Test water before use - as a guide, water temperature should be comfortable to immerse your hand in for an extended period of time. If the water is too hot, allow the solution to cool before proceeding with the experiment. Keep the stock of solution out of reach of children and in a place where it can't easily be knocked over.
 
 Call a first aider in case of injury. More severe burns may require hospital treatment.
 
