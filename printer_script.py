@@ -10,7 +10,7 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = None # ["Plants", "Sweet Chromatography", "Potato Game", "Lung Model", "Greenhouse Effect", "Flame Tornado"]
+PRINT_SPECIFIC_EXPERIMENTS = ["Platonic Solids", "Water Rockets", "Spinny Chair", "Seeing Sound", "Polarisation", "Bubbly Crystals", "Rocks and Fossils", "Skeleton and bones", "Exercise and Heart rate, Stethoscopes and Heart Model", "Microbes, bacteria, viruses and parasites", "Animal skulls (including primate skulls)", "Mini Explosions", "Electrolysis", "Prism Goggles", "Ear switching hat", "Sounds from an oven shelf", "Red Cabbage", "Resonance", "Cantilever Bridges", "Trebuchets", "Electrical parts", "Outdoors"] # ["Plants", "Sweet Chromatography", "Potato Game", "Lung Model", "Greenhouse Effect", "Flame Tornado"]
 # List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
@@ -56,9 +56,12 @@ if PRINT_SPECIFIC_EXPERIMENTS is None:
             printer_experiments.append(data)
             
 else:
+    # Ignore case
+    PRINT_SPECIFIC_EXPERIMENTS = sorted([expt.lower() for expt in PRINT_SPECIFIC_EXPERIMENTS])
+    
     printer_experiments = [
         data for data in all_experiments
-        if (data[0][2][:-3] in PRINT_SPECIFIC_EXPERIMENTS) 
+        if (data[0][2][:-3].lower() in PRINT_SPECIFIC_EXPERIMENTS) 
     ]
     
 print(f"Found total of {len(printer_experiments)} risk assessments to export:")
