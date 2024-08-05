@@ -10,7 +10,8 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = ["Platonic Solids", "Water Rockets", "Spinny Chair", "Seeing Sound", "Polarisation", "Bubbly Crystals", "Rocks and Fossils", "Skeleton and bones", "Exercise and Heart rate, Stethoscopes and Heart Model", "Microbes, bacteria, viruses and parasites", "Animal skulls (including primate skulls)", "Mini Explosions", "Electrolysis", "Prism Goggles", "Ear switching hat", "Sounds from an oven shelf", "Red Cabbage", "Resonance", "Cantilever Bridges", "Trebuchets", "Electrical parts", "Outdoors"] # ["Plants", "Sweet Chromatography", "Potato Game", "Lung Model", "Greenhouse Effect", "Flame Tornado"]
+PRINT_SPECIFIC_EXPERIMENTS = ["Carbonated Ocean"]
+# ["Platonic Solids", "Water Rockets", "Spinny Chair", "Seeing Sound", "Polarisation", "Bubbly Crystals", "Rocks and Fossils", "Skeleton and bones", "Exercise and Heart rate, Stethoscopes and Heart Model", "Microbes, bacteria, viruses and parasites", "Animal skulls (including primate skulls)", "Mini Explosions", "Electrolysis", "Prism Goggles", "Ear switching hat", "Sounds from an oven shelf", "Red Cabbage", "Resonance", "Cantilever Bridges", "Trebuchets", "Electrical parts", "Outdoors"] # ["Plants", "Sweet Chromatography", "Potato Game", "Lung Model", "Greenhouse Effect", "Flame Tornado"]
 # List of experiments to print - will override the conditions below. Set to None to use conditions below e.g. PRINT_SPECIFIC_EXPERIMENTS = ['Electrolysis', 'Air Streams']
 
 # DEFINE CONDITIONS
