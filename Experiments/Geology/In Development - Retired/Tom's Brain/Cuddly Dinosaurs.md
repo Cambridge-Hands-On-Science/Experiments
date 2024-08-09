@@ -48,6 +48,7 @@ The only complexity is finidng accurate enough toys to make this demo sciencable
 • https://www.nhmshop.co.uk/dinosaurs/dinosaur-toys.html?type_of_product=3503
 • https://uk.livingnatureworld.com/collections/dinosaur-and-prehistoric
 • https://www.ikea.com/gb/en/cat/jaettelik-series-48965/
+• https://www.buildabear.co.uk/stuffed-animals/shop-by-category/dinosaurs
 
 Example starter set (£195 + delivery):
 • £19 Velociraptor - https://www.everythingdinosaur.com/product/artist-dino-velociraptor-soft-toy/
