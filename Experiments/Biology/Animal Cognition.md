@@ -36,32 +36,32 @@ Partially fill the 2 tubes with water to the same level.
 Float a partially inflated balloon in the tube. People can fashion very good straw hooks and you'd like them to use the gravel ideally so limit the number of straws they have and consider how high the water is filled. We now have wider tubes which they could just stick their hand in so use tape to mark near the top of the tube and say they can only use their hands once the balloon gets beyond that point.
 
 During the experiment:
-1)What is intelligence?
-2)How do we test human intelligence? 
-IQ tests (more info below), school exams
-3)Obviously we can't give animals these tests so what kind of tests might we use to test their intelligence? 
-Mazes, puzzles, memory tests
+
+1. What is intelligence?
+2. How do we test human intelligence? - IQ tests (more info below), school exams
+
+3. Obviously we can't give animals these tests so what kind of tests might we use to test their intelligence?  - Mazes, puzzles, memory tests
 
 This challenge is an example of a puzzle:
+
 Split them into 2 teams, one with each tube, to make it a race. They need to get the balloon out of the tube using the objects here (gravel, twigs/straws, pegs).
 Congratulate for effort and talk about why using gravel worked, or if they managed without ask how it might be possible if they just had the gravel (water displacement).
 
-5)What animals do you think could do this? 
-Monkeys, apes, birds - intelligent enough to understand how the rocks displace the water
-6)What challenges are there with testing animal intelligence? 
-Motivation - use food instead of balloon
-Ambiguity - we think this shows understanding of displacement but can't be certain of what an animal's thought process is so this is a bit of an assumption. Complex patterns of behaviour can also be instinctive rather than require cognition as shown in fixed action patterns e.g. grey geese scoop eggs up into their nest if they roll away but will also scoop up anything egg-like in their vicinity - don't know why they're doing it just doing the action. Also, there can be other underlying reasons for behaviour, for example Clever Hans was a horse who appeared to be able to perform simple addition but was just interpreting subtle unintentional body language cues from a trainer to see what the right answer was
-7)How else can we estimate animal intelligence? 
-Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator.
+5. What animals do you think could do this? - Monkeys, apes, birds - intelligent enough to understand how the rocks displace the water
+6. What challenges are there with testing animal intelligence? 
+- Motivation - use food instead of balloon
+- Ambiguity - we think this shows understanding of displacement but can't be certain of what an animal's thought process is so this is a bit of an assumption. - Complex patterns of behaviour can also be instinctive rather than require cognition as shown in fixed action patterns e.g. grey geese scoop eggs up into their nest if they roll away but will also scoop up anything egg-like in their vicinity - don't know why they're doing it just doing the action. Also, there can be other underlying reasons for behaviour, for example Clever Hans was a horse who appeared to be able to perform simple addition but was just interpreting subtle unintentional body language cues from a trainer to see what the right answer was
+7. How else can we estimate animal intelligence? - Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator.
 
 If they seem interested, you can go into more detail about other animal intelligence tests:
-Physical intelligence - this is the kind of test we have just done. It tests the animal's 'knowledge' of the physical laws of the universe e.g. gravity, water displacement etc. It also tests whether they understand the properties of objects, in particular whether they can use them as tools.
 
-Maze/obstacle tests - penalise visiting areas you've been before (i.e. tests memory of where you've been = spatial memory), might run multiple times starting at different points in the maze to see if they learn and remember the maze layout (if you started at the same place each time they might just be learning muscle memory). Some examples include 8-arm mazes where some arms have food at the end and they have to not visit arms they've been to before, a water maze where they have to swim in a pool to an invisible platform and there are items on the walls which they can use to navigate if they are put in the pool at different positions.
+- Physical intelligence - this is the kind of test we have just done. It tests the animal's 'knowledge' of the physical laws of the universe e.g. gravity, water displacement etc. It also tests whether they understand the properties of objects, in particular whether they can use them as tools.
 
-Memory tests - show them a selection of items, take one away/add one when they can't see and ask them to identify which is missing/added. Have an object on one side of the table in front of them, cover it up with a bowl when they aren't looking and put another bowl on the other side, see if they remember which side the item was on (and whether they can understand that the item is still there if they can't see it = object permanence)
+- Maze/obstacle tests - penalise visiting areas you've been before (i.e. tests memory of where you've been = spatial memory), might run multiple times starting at different points in the maze to see if they learn and remember the maze layout (if you started at the same place each time they might just be learning muscle memory). Some examples include 8-arm mazes where some arms have food at the end and they have to not visit arms they've been to before, a water maze where they have to swim in a pool to an invisible platform and there are items on the walls which they can use to navigate if they are put in the pool at different positions.
 
-Consciousness test - whether animals are conscious is a big question that is very hard to answer. One test that approximates an answer to an approximated version of this question is whether they recognise themselves in their reflection. A red dot is shined on their forehead when they are in front of a mirror and some animals will try and touch their own forehead where the dot is. This implies a sense of 'I-ness' in that they recognise that what is in the mirror is themselves, and therefore must know what 'themself' is. However, failing this test cannot prove that they don't have this sense as there could be many reasons they fail to react.
+- Memory tests - show them a selection of items, take one away/add one when they can't see and ask them to identify which is missing/added. Have an object on one side of the table in front of them, cover it up with a bowl when they aren't looking and put another bowl on the other side, see if they remember which side the item was on (and whether they can understand that the item is still there if they can't see it = object permanence)
+
+- Consciousness test - whether animals are conscious is a big question that is very hard to answer. One test that approximates an answer to an approximated version of this question is whether they recognise themselves in their reflection. A red dot is shined on their forehead when they are in front of a mirror and some animals will try and touch their own forehead where the dot is. This implies a sense of 'I-ness' in that they recognise that what is in the mirror is themselves, and therefore must know what 'themself' is. However, failing this test cannot prove that they don't have this sense as there could be many reasons they fail to react.
 
 <br/>
 
