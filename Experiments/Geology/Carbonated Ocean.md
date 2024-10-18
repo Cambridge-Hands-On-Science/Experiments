@@ -42,10 +42,11 @@ Last initially checked on 2024-08-05 by Peter Methley (pm631@cam.ac.uk) and doub
 - Test tube rack
 - Waste container
 - Teaspoon measures
-- Plastic bottles or cups to hold solutions
+- Bottles or cups to hold solutions
 
 **Consumables:**
 
+- Distilled or Deionised Water (can be bought from auto supplies part of Tesco, etc.)
 - Bicarbonate of Soda, NaHCO₃
 - White Vinegar, CH₃CO₂H
 - Calcium Chloride Dihydrate, CaCl₂⋅2H₂O (sold on Amazon, etc. as a salinity balancer for swimming pools)
@@ -83,10 +84,10 @@ Show that making the solution acidic by adding vinegar stops carbonate precipita
 
 - _CBS Only: Put some eggs to soak in vinegar (any kind) for at least a day before the event. Keep them in a sealed container, but you may need to periodically open it to vent CO₂ gas. The shell should soften and eventually disappear, leaving just the membrane holding the egg bits inside. Before starting, drain the vinegar, carefully rinse the eggs with water, and put them back into a sealed tupperware._
 
-- Fill the SodaStream bottle to the ‘max’ line (not the flavouring line), and another bottle with tap water.
+- Fill the SodaStream bottle to the ‘max’ line (not the flavouring line) with tap water, and another bottle with tap water.
 - Insert the water bottle and the CO₂ cylinder into the SodaStream as indicated by the SodaStream instructions.
-- Dissolve ~ 2 tsp CaCl₂⋅2H₂O into ~ 50 ml of tap water in a container.
-- Dissolve ~ 0.5 tsp NaHCO₃ into ~50 ml of tap water in another container.
+- Dissolve ~ 2.8 g (~ 3 tsp) CaCl₂⋅2H₂O into ~ 50 ml of deionised water in a container. The solution may be cloudy to begin with but will (hopefully) clear over tens of minutes.
+- Dissolve ~ 1.7 g (~ 1.5 tsp) NaHCO₃ into ~50 ml of deionised water in another container.
 - Also prepare a container of white vinegar.
 - Label containers to make sure you know which is which!
 - Also have a waste container handy. Waste from this experiment is non-hazardous and can be flushed down the sink with plenty of water.
@@ -141,7 +142,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 #### Impacts of Ocean Acidification
 
 - Ask what the impacts of this on shells might be. Some may know that carbonates react with acid and dissolve. Acid can also stop carbonates from forming.
-- Repeat the precipitaion experiment above in another test tube, but this time add ~0.5ml of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
+- Repeat the precipitaion experiment above in another test tube, but this time add ~ 7 drops of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
 - _CHaOS+: Note that we cannot just use the carbonated water here, as the CaCl₂ + NaHCO₃ mixture is at an unnaturally high supersaturation, so the precipitation can happen fast enough to see. The ethanoic/acetic acid in vinegar is much more concentrated than the carbonic acid in sparkling water._
 - You might see bubbles of CO₂ degassing (as the carbonate equilibria are shifted towards CO₂) but no precipitate should form.
 - This is because the acid from the vinegar reacts with the carbonate ion to make bicarbonate, so it cannot directly be used to precipitate CaCO₃.
@@ -172,6 +173,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 - Put the top back on the vinegar bottle so it doesn't stink!
 - Top up the Sodastream bottle to ‘max’ if necessary, then return the bottle to the Sodastream.
+- Make sure all the calcium carbonate in the test tubes has dissolved by adding vinegar to the tubes until the solutions are completely clear.
 - Empty the test tubes into a waste bottle and rinse with some water. Return to the rack.
 
 ### Packing away
@@ -220,7 +222,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 ### **Hazard**: Vinegar, Bicarbonate, CaCl₂
 
-**Description**: Vinegar, bicarbonate of soda solution and calcium chloride solution are irritant to eyes, and possible allergens
+**Description**: Vinegar (~ 0.8 M acetic acid), sodium bicarbonate solution (0.4 M) and calcium chloride solution (0.5 M) are irritant to eyes, and possible allergens
 
 **Affected People**: All
 
@@ -229,6 +231,8 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 **Mitigation**: State reagents on a sign to highlight allergens. If participant(s) are allergic, they should stand well back and not touch anything.
 
 Only use < 1ml of each reagent at a time – the small amount should limit the amount of effervescence. Don't let people look directly over the top of test tube when combining reagents.
+
+Be extra careful when preparing stock solutions from solids, as more concentrated solutions are stronger irritants.
 
 If in contact with eyes, wash with emergency eye wash provided if trained and confident to do so. Call first aider if necessary.
 
