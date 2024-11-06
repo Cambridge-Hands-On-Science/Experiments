@@ -157,7 +157,7 @@ _In addition to elastic deformation, grain boundary sliding and dislocation cree
 _Q: What conditions would favour diffusion creep?_<br/>
 _A: High temperatures (more thermal movement of ions); presence of a solvent (e.g. water) that can dissolve the ions and help them move._
 
-The bubble raft experiment was developed in 1952 to study dislocations, which at the time were only theoretical predictions. Real dislocations were first observed four years later ([Hirsch _et al._, 1956](http://dx.doi.org/10.1038/ncomms5402)) after the development of high-resolution transmission electron microscopy, and were found to behave almost exactly as the bubble raft experiment predicted!
+The bubble raft experiment was developed in 1942 to study dislocations, which at the time were only theoretical predictions. Real dislocations were first observed four years later ([Hirsch _et al._, 1956](http://dx.doi.org/10.1038/ncomms5402)) after the development of high-resolution transmission electron microscopy, and were found to behave almost exactly as the bubble raft experiment predicted!
 
 <center>
 <div style="width:10cm">
