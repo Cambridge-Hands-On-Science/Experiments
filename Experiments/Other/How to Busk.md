@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -137,3 +137,4 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
