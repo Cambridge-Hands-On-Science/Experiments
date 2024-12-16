@@ -35,7 +35,7 @@ Last initially checked on 2024-01-24 by Lauren Mason (llm34@cam.ac.uk) and doubl
     - Plastic cups and elastic bands
 
 - Also Useful:
-    - Screwdriver with haztape streamer (for showing streamlines)
+    - Stick with blue streamers (for showing streamlines)
     - Paper
 
 - CHaOS only:
@@ -61,7 +61,7 @@ How to set up the experiment
 
 **IMPORTANT NOTE**: All cables for blowers stay in the Airstreams box. They are labelled 'BIG' and 'SMALL'. Please do not return them to Extension Leads and mix them up with the rest. These plugs have a higher fuse rating. 
 
-**WARNING**: Blowers should be connected to the speed controller boxes. Do not connect blowers directly to mains. Try to avoid plugging the blowers (especially the big one) into an extension lead with other things on it. 
+**WARNING**: Blowers should be connected to the speed controller boxes. Do NOT connect blowers directly to mains. Try to avoid plugging the blowers (especially the big one) into an extension lead with other things on it. 
 
 Note: The big blower is not necessary but makes a nice show. It may cause the circuit breakers to go off, so check first so that you don't cause a power outage a the beginning of the session.
 
@@ -99,7 +99,7 @@ Tell them about Newton's third law - action and reaction. If you push or pull so
 ### Wooden Rocket 'Puzzle'
 
 
-Put the rocket on a flat surface with the tip of the orange 'rocket' pointing upwards. Explain that the aim is to get the rocket out of the container without touching the container. (Hopefully they'll come up with blowing on it after doing the ping-pong straw experiment - though it's really not obvious when you first look at it that it's going to work!). You can then demonstrate that indeed the rocket does jump out of it's container (literally!) if you blow on it. I find that it works best if you blow at about 45 degrees to horizontal - have a practice yourself before hand. (I can generally get it to go the highest when I blow straight across the rocket, but this makes it harder to aim and half the time I just end up blowing the whole thing across the desk). The kids can then have a go themselves. There are some anti-bacterial wipes to use on the rocket afterwards. Explain that the air in the container with the rocket is forced out, bringing the rocket with it - another example of air creating a force. (Air pressure decreases over the top of the rocket when you blow over it creating a pressure gradient, the air needs to be replenished from somewhere and part of it comes from inside the container. The explanation inside the rocket box says 'A short, sharp breath of air directed across the top of the puzzle creates a fierce vacuum, causing the wooden rocket to take off' , however I think vacuum is a bit extreme but if that makes more sense to the group you're explaining it to?)
+Put the rocket on a flat surface with the tip of the orange 'rocket' pointing upwards. Explain that the aim is to get the rocket out of the container without touching the container. (Hopefully they'll come up with blowing on it after doing the ping-pong straw experiment - though it's really not obvious when you first look at it that it's going to work!). You can then demonstrate that indeed the rocket does jump out of it's container (literally!) if you blow on it. I find that it works best if you blow at about 45 degrees to horizontal - have a practice yourself before hand. (I can generally get it to go the highest when I blow straight across the rocket, but this makes it harder to aim and half the time I just end up blowing the whole thing across the desk). The kids can then have a go themselves. **Please use anti-bacterial wipes on the rocket afterwards**. Explain that the air in the container with the rocket is forced out, bringing the rocket with it - another example of air creating a force. (Air pressure decreases over the top of the rocket when you blow over it creating a pressure gradient, the air needs to be replenished from somewhere and part of it comes from inside the container. The explanation inside the rocket box says 'A short, sharp breath of air directed across the top of the puzzle creates a fierce vacuum, causing the wooden rocket to take off' , however I think vacuum is a bit extreme but if that makes more sense to the group you're explaining it to?)
 
 ### Blowers and beach balls
 
@@ -143,7 +143,7 @@ Two possible explanations you can use:
 One way to think about this is again with Newton's Third Law. The curvature of the wing means that the wing pushes the air blowing at it downwards, and so the air pushes the wing upwards. The size of the force depends on how fast the air is moving, and therefore how much air it is pushing down - you can show this by adjusting how hard the fan is blowing. This means that a plane has to travel VERY fast to get enough lift to keep it in the air (commercial airliners travel around 500mph).
 
 Or using air pressure to explain: When the plane moves forward it pushes air out of the way, over and under the wing. As the top of the wing is curved more than the bottom of the wing, the air has to go further to get over the top and so it has to move faster. Bernoulli's principle says that the pressure is lowered when the air speeds up, so the air pressure above the wing is lower than the pressure below it, and the wing (and plane) is pulled upward (ie the same way things get sucked into a vacuum), opposing the gravity pulling it down. 
-[note: this doesn't explain *why* the air has to move faster over the wing - the air stream moving over the top of the wing has to move through a narrowing space due to the curvature, but with a constant volume per time (like water through a tube that then gets narrower).]
+[note: this doesn't explain *why* the air has to move faster over the wing - the air stream moving over the top of the wing has to move through a narrowing space due to the curvature, but with a constant volume per time (like water through a tube that then gets narrower). This is a complicated subject, see https://en.wikipedia.org/wiki/Lift_(force)#Simplified_physical_explanations_of_lift_on_an_airfoil]
 
 
 ### **Other things to talk about**:
@@ -161,6 +161,8 @@ The air isn't going as fast outside so the pressure goes up and the pop back inw
 <img src="./Images/blow4.gif" style="width:10cm">
 
 ![](http://old.chaosscience.org.uk/sites/default/files/blow4.gif)
+
+Similarly, consider why you have to stand behind the yellow line when a train arrives at the platform.
 
 You may notice the ball is spinning sometimes - think about where the air must be flowing to stop the ball falling off.
 
@@ -342,7 +344,7 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Keep air conditioning generator on floor. Make sure that it is stable in the mount. Take care when moving it (refer to lifting advice on CHaOS website).
+**Mitigation**: Keep air conditioning generator on floor. Make sure that it is stable in the mount. Take care when moving it (refer to lifting advice on CHaOS website) and make sure bystanders are aware.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -493,3 +495,5 @@ Call a first aider in the event of an accident.
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - John Leung (cfl35@cam.ac.uk), **Check 2**:
