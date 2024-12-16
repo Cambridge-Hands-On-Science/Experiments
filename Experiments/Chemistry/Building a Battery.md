@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2024-01-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-11 by Andrew Marriott (asm206@cam.ac.uk).
+Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on _YYYY-MM-DD_ by _Name_ (_email_).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -101,13 +101,13 @@ Lemons work well because they are acidic - they have lots of citric acid in. You
 
 ### **Hazard**: Sharp plates/nails/forks
 
-**Description**: Could hurt people/cause cuts
+**Description**: Could hurt people/cause cuts - also a risk of infection.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Monitor kids when they are using metals, and make sure metals are not too sharp
+**Mitigation**: Monitor kids when they are using metals (and take over yourself if kids are not old enough to handle safely), and make sure metals are not too sharp. Clean metals before use to remove any surface bacteria.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -138,7 +138,7 @@ Call a first aider if fruit juice/vinegar gets in eyes, who may perform an eyewa
 
 **Mitigation**: Check that children don’t have uncovered cuts before starting demonstration. 
 Clean rods between use so not covered in juice when children handling them.
-Demonstrators should wear plasters over any cuts they have.
+Demonstrators should wear plasters over any cuts they have (there are also disposable gloves in safety if preferred).
 In case of accident, wash the affected area with clean water.
 
 **After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
@@ -194,3 +194,5 @@ In case of accident, wash the affected area with clean water.
 **Check 1**: 2023-11-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-11-18 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
