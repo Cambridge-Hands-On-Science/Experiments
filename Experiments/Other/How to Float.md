@@ -1,8 +1,8 @@
 # ** How to Float **
 
-**Keeping demonstrators happy. ** - nan
+**Keeping demonstrators happy.**
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -15,17 +15,22 @@ Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- **This experiment can take place outdoors**
-- **Darkroom needed**
+**This experiment can take place outdoors**
 - Bounce
 - Admin box
-- Floaty Experiment e.g.
-- Mould effect
-- Prism Goggles
-- Ear Switching Hat
-- Oven Shelf
-- Bubble Guns
-- Boris the Skeleton
+- Clipboard
+- Pen
+- Photo permission forms
+- Floaty (portable) experiment, e.g.
+  - Mould effect
+  - Prism Goggles
+  - Ear Switching Hat
+  - Oven Shelf
+  - Bubble Guns
+  - Boris the Skeleton
+  - Spinny Chair (bike wheel only)
+  - Interesting rock from Rocks & Fossils
+  - Tree
 
 <br/>
 
@@ -33,48 +38,57 @@ Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 What you have to do as a floater is very venue specific; this role is almost always done by committee members (however there's no reason a very competent person who's been on tour for weeks couldn't do it). You'll also need to think of how many floaters the venue requires, normally one is sufficient, however venues with multiple rooms and areas may benefit from a second (as may some large school events). There are several distinct aspects to the role and the proportion of time spent on each, and consideration as to whether they're needed at all is a major aspect of the venue. Getting the balance right is part of the skill of the role. They're listed below by task.
 
-Bouncing demonstrators:
+#### Distributing visitors:
+One of your most important jobs is often to welcome new visitors and send them to an experiment that might interest them. Groups may also come back to you so you can send them to a different experiment. Try to distribute people evenly between the experiments - if one demonstrator has  been sitting idle for a while, then try to send your next group to them! At busy events or for large school classes it might help to consolidate several groups together so that each experiment has a group of roughly equal size around it, with one or two experiments free and waiting so that groups can move onto them when they finish their current experiment. If a group is waiting but have already seen all unoccupied experiments, you can use your floating experiments to entertain them, but keep an eye out for another 'proper' experiment becoming free!
+
+#### Bouncing demonstrators:
 You need to be responsible for making sure demonstrators are fed and hydrated. This means refilling water bottles and offering snacks of varying kinds. Some people like sugary things, some prefer biscuits, savoury things, some even like fruit, so make sure you vary it up. You'll need to decide how forceful you are at doing this; in more structured events like schools regular breaks and lesson changes makes it easy for people to grab things and there's often free experiments you can feed up while they're waiting for a group. In public events don't be afraid to sometimes interrupt the flow to get them something - if you do, be very forceful as they're likely to instinctively say no. You can also drop items on their table.
 If facilities permit you can make teas and coffees and deliver them too. 
 
-Demonstrating your experiment:
+#### Demonstrating your experiment:
 Floaters often carry a small experiment which can be used to entertain people for a varying length of time. This is especially important at school events and can be detrimental at public events; busking is often done instead at public events, which is a very different job. At schools, due to the format, you may find a group finishes and has seen all available free options, at which point you are required to demonstrate until something new becomes free. It can be helpful to be signed off on multiple floating experiments so you can show kids something different if you end up entertaining the same group twice. Remember you're not a demonstrator, so you should be able to move them on quickly to an actual demonstrator when one becomes free - a good floaty experiment can be easily cut off but also teach something. Some good ones are Boris, Ear Switching Hat, Sounds From an Oven Shelf and Mould Effect.
 
-Admin and feedback:
+#### Admin and feedback:
 It's usually the floater's role to check people are happy with experiments and make sure they've signed risk assessments. This will include passing round and checking signatures on the RA signup sheet and moving round the demonstrators while they're setting up to check they're okay. In schools you'll need to give a teacher questionnaire towards the end of the day; ideally they should be completed and returned on the day. There may also be teacher packs to hand over as well as an invoice. In public events you should set up feedback forms from About CHaOS near an exit and point people towards them as they head out. All forms go into a wallet and should be labelled with date and venue and go into the Phil folder in Admin.
 
-Lunch:
-Outside of schools it's usual we demonstrate through lunch at reduced capacity. This means sending 2-3 people for lunch at a time; start from around 11:30 (you'll probably find a few hungry people) and continue until everyone has eaten, this includes you at some point. Emphasise lunch breaks should be relatively short (20-30 mins). Normally people stick to this, but if there are people around chatting for a long while ask if they're ready to return. You need to eat at some point - you should get someone else to cover floating if you're the only floater. It's handy to keep a list of who you sent and what time they went to make sure you remember everyone - that includes you! 
+#### Lunch:
+Outside of schools it's usual we demonstrate through lunch at reduced capacity. This means sending 2-3 people for lunch at a time; start from around 11:30 (you'll probably find a few hungry people) and continue until everyone has eaten, this includes you at some point. Emphasise lunch breaks should be relatively short (20-30 mins). Normally people stick to this, but if there are people around chatting for a long while ask if they're ready to return. You need to eat at some point - you should get someone else to cover floating if you're the only floater. It's handy to keep a list of who you sent and what time they went to make sure you remember everyone - that includes you! Alternatively, you can give people a sticker from the Stationery box once they've had their lunch, to keep track of who has been.
 
-Recruiting and being friendly:
+#### Recruiting and being friendly:
 If a demonstrator isn't doing anything (and you don't have anything to do), talk to them. Ask them their thoughts on the experiment (writing them on the RA is a good idea) and any other bits. We want them to do more CHaOS events in future so you could tell them about the options and upcoming events. 
 
-Promoting CHaOS: 
-Talk to the teachers and members of the public, explain CHaOS and what we do. They may have useful contacts or ideas and it's generally good press. You can also take photos if appropriate, but make sure you get permission from the school (who should have parental permission) or parents (at a public event). 
+#### Promoting CHaOS: 
+Talk to the teachers and members of the public, explain CHaOS and what we do. They may have useful contacts or ideas and it's generally good press.
 
-Communicating plans (Summer Tour):
+#### Taking photos
+At public events (and on the rare occasions where schools give us permission to take our own photos), it is often very helpful to take some photos for us to use in our publicity materials. If someone is going to be in the photo, first ask their permission (and their parent/guardian if they are a child), and get the adult to fill in a photo permission form, which can be found in Empty. Once you have taken the photos and the form has been filled in, take a picture of the subject of that photo holding the permission form so it can be matched up later. Remember to fill in your name and a brief description of the photo on the permission form, then file it in Phil. All pictures should be uploaded to General/Photos/(YEAR)/(EVENT) on the CHaOS SharePoint.
+
+Schools will tell us on their contract whether they are granting photo permission - they usually don't, but may sometimes take their own photos and send them to us or post them on social media later. If we are allowed to take photos, there may be other conditions - e.g. backs of heads only, or certain students who are unable to be photographed - check with the teacher first!
+
+#### Communicating plans (Summer Tour):
 There's often complicated logistics or dinner being planned so shoppers need to make an early getaway. As a floater, you may be needed to co-ordinate these as best you can. This may mean passing notes or messages and trying not to confuse anyone.
 
-Closing experiments (when should I demonstrate?):
-One of the first things a floater should check is if people are happy with experiments, often before demonstrating starts as well as after people have had a few attempts. You may need to advise new demonstrators on a few things: maybe they were very quick and struggled to explain a few ideas, or perhaps they took a long time explaining something too complex. However, if they ask a question you can't answer, be willing to admit you're not the best and direct them to someone who's better placed to advise them if you can. Only give them ideas to tide them over. 
+#### Closing experiments (when should I demonstrate?):
+One of the first things a floater should check is if people are happy with experiments, often before demonstrating starts as well as after people have had a few attempts. You may need to advise new demonstrators on a few things: maybe they were very quick and struggled to explain a few ideas, or perhaps they took a long time explaining something too complex. However, if they ask a question you can't answer, be willing to admit you're not the best and direct them to someone who's better placed to advise them if you can. Only give them ideas to tide them over.
+
 There'll be times when you have to close an experiment: it may be due to toilet breaks, lunch or experiment malfunction. For a malfunction, if it's busy and you'll need more than a few minutes to fix the experiment properly, it's probably not worth it. Get the demonstrator to look through and pick and sign for a new experiment - in a school this could be one they did recently and signed for, then let them choose properly at a break. Otherwise you should use an "experiment closed" sign and ensure people don't touch it while you're floating. Get the demonstrator to tidy so it looks boring - drop things in boxes and hide things under tables. Ensure anything dangerous is well out of the way (i.e. the knife from Kiwi DNA). Try and make it quick to reassemble though. There might be times you want to float onto the experiment, in which case you a) need to be signed on the RA and b) consider the number of floaters remaining and if it's really necessary to have an extra demonstrator. Try not to get too distracted from your main job of floating if you do this. 
 
-The weather:
-With the outside there's all kinds of unpredictability, these include:
-Rain: you should pack away experiments and bring demonstrators inside. Remember the slip risk if you want to continue in light rain. 
-Sun: make sure everyone is hydrated; sun stroke and heat exhaustion is a real risk. You'll also want to get people sun cream and remind them to reapply regularly. There's some in safety normally.
+#### The weather:
+With the outside there's all kinds of unpredictability, these include: <br/>
+Rain: you should pack away experiments and bring demonstrators inside. Remember the slip risk if you want to continue in light rain. <br/>
+Sun: make sure everyone is hydrated; sun stroke and heat exhaustion is a real risk. You'll also want to get people sun cream and remind them to reapply regularly. There's some in safety normally. <br/>
 Snow: like rain but colder, it's probably best to get people and experiments out of there and warm everyone up.
 
-Incidents
+#### Incidents
 If you're floating you're likely to be the first point of contact for any incidents that occur, in this situation it's always best to get help from a second person, especially a experienced committee member, close their experiment and decide who's going to lead response. Here are some incidents that can happen.
 
-Lost Children
-This happens occasionally on public events, if the child is wandering aimlessly and seems lost approach, don't take them anywhere at this point, ask where their adult is, they may just be confused by the amazing choice of science they have and can't decide where to go next! If they're not sure then implement the venues lost child policy, if we're part of a larger event that means getting a friend and taking them over to a central desk normally. If it's a CHaOS ran event then the best course of action is to reassure them, ask if they had a meeting point or time agreed, then get their name and you'll look around for their parents, you can sit them down with a demonstrator at a new experiment while they wait to keep them occupied and try and reduce the worry, their parents often have just popped out and will be back shortly. Look in another room or outside for parents, they may have nipped out to take a call or followed a younger child, ask if they're looking for a child and what their child's name is. If it's a match on names bring the parents towards the child, try and stop them before to give the child chance to approach them to confirm. You can also ask if they know any phone numbers, in the worst case a call to the police will need to be made.
+Lost Children<br/>
+This happens occasionally on public events, if the child is wandering aimlessly and seems lost approach, don't take them anywhere at this point, ask where their adult is, they may just be confused by the amazing choice of science they have and can't decide where to go next! If they're not sure then implement the venue's lost child policy, if we're part of a larger event that means getting a friend and taking them over to a central desk normally. If it's a CHaOS ran event then the best course of action is to reassure them, ask if they had a meeting point or time agreed, then get their name and you'll look around for their parents, you can sit them down with a demonstrator at a new experiment while they wait to keep them occupied and try and reduce the worry, their parents often have just popped out and will be back shortly. Look in another room or outside for parents, they may have nipped out to take a call or followed a younger child, ask if they're looking for a child and what their child's name is. If it's a match on names bring the parents towards the child, try and stop them before to give the child chance to approach them to confirm. You can also ask if they know any phone numbers, in the worst case a call to the police will need to be made.
 
 Theft
 
-Injury
-In the event of a serious injury follow common sense, for demonstrator injuries it may be more appropriate to use a CHaOS driver to transport to A&E, this person can expense reasonable food and miles at A&E so make sure they eat! After resolving the accident consider what this means for the event, especially on levels of committee, closing the event to the public and packing away may be the best option. It may also mean people need to sort alternative transport back to the site, using bus, train or a second run in the mpv, especially as this could take out two drivers. Consider also effects of being unable to move a vehicle, contacting a venue to make arrangements or paying for additional parking. Try and ensure keys don't leave with the casualty. Home contacts should be able to help with other logistics situations on tour as replacement drivers may be required to continue the next days events. 
+Injury<br/>
+In the event of a serious injury follow common sense, for demonstrator injuries it may be more appropriate to use a CHaOS driver to transport to A&E, this person can expense reasonable food and miles at A&E so make sure they eat! After resolving the accident consider what this means for the event, especially on levels of committee, closing the event to the public and packing away may be the best option. It may also mean people need to sort alternative transport back to the site, using bus, train or a second run in the mpv, especially as this could take out two drivers. Consider also effects of being unable to move a vehicle, contacting a venue to make arrangements or paying for additional parking. Try and ensure keys don't leave with the casualty. Home contacts should be able to help with other logistics situations on tour as replacement drivers may be required to continue the next days events. <br/>
 After the injury it is useful to have an idea of what caused it and how to prevent it happening again, collect statements and details and reassess experiment RAs. This is often best done by emailing the committee email list.
 
 
@@ -134,4 +148,4 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
