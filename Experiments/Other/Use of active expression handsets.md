@@ -2,7 +2,7 @@
 
 **nan** - nan
 
-Last initially checked on 2023-02-18 by John Leung (cfl35@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,7 +53,7 @@ An aid to CBS talks. Committee: see how-to guide
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Committee to hand devices to parents of young children/ those they do not believe will behave sensibly. Committee to request the devices back from any group misusing the devices. If necessary, person delivering the talk to tell the audience to put the devices down on the bench when not in use/ until they say so. Call first aider in case of injury.
 
@@ -87,3 +87,5 @@ Call first aider in the event of an accident.
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2023-02-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
