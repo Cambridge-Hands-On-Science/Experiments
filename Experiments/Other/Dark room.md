@@ -2,7 +2,7 @@
 
 **To be read before doing experiments in a dark room**
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 
 
 ## Tags
@@ -45,7 +45,7 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 
 
-**Mitigation**: We have tested fabric for flammability.Keep all electrics away from fabric, and off the floor if there is a risk of moisture getting into the electrics. Keep fire extinguisher in dark room. Check carefully behind tent for heaters etc. In the unlikely event of a fire, the tent walls can be lifted/detached quickly to allow exit.
+**Mitigation**: We have tested fabric for flammability. Keep all electrical equipment away from fabric, and off the floor if there is a risk of moisture getting into the equipment. Keep fire extinguisher in dark room. Check carefully behind tent for heaters etc. In the unlikely event of a fire, the tent walls can be lifted/detached quickly to allow exit.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -59,7 +59,7 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 
 
-**Mitigation**: All demonstrators to have water bottles. Ensure demonstrators change round regularly and floaters visit the dark room to check everything&#39;s okay. Use fans and make sure the chimneys are providing ventilation.
+**Mitigation**: All demonstrators to have water bottles. Ensure demonstrators change round regularly and floaters visit the dark room to check everything is okay. Use fans and make sure the chimneys are providing ventilation.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -99,6 +99,6 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
