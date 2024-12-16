@@ -1,8 +1,8 @@
 # Outdoors
 
-**Read before doing any experiment outside** - 
+**Read before doing any experiment outside**
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 
 
 ## Tags
@@ -39,7 +39,7 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 ## Risk Assessment
 
 
-### **Hazard**: Hard and potentially uneven floor
+### **Hazard**: Hard and/or potentially uneven floor
 
 **Description**: Risk of potentially enhanced injury if person falls over whilst engaging with experiment.
 
@@ -61,7 +61,7 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: >In the event of adverse weather, encourage children to behave sensibly and not run about. If the demonstrator or committee deem the weather to make the experiment too dangerous to operate, close the experiment (e.g. too windy or wet).
+**Mitigation**: In the event of adverse weather, encourage children to behave sensibly and not run about. If the demonstrator or committee deem the weather to make the experiment too dangerous to operate, (e.g. too windy or wet), close the experiment or move it inside if possible.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -102,4 +102,4 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-09 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
