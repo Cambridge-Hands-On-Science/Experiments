@@ -2,7 +2,7 @@
 
 **To be read before doing experiments in a dark room**
 
-Last initially checked on 2023-02-19 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
 
 
 ## Tags
@@ -57,11 +57,11 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 
 
 **Mitigation**: All demonstrators to have water bottles. Ensure demonstrators change round regularly and floaters visit the dark room to check everything&#39;s okay. Use fans and make sure the chimneys are providing ventilation.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 8 
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -85,11 +85,11 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
 **Mitigation**: Ensure a minimum of two demonstrators are present at all times. If this is not possible, close the darkroom.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 <br/>
 
@@ -98,5 +98,7 @@ Some experiments are best performed in a dark room, read this RA in along with t
 ## Risk Assessment Check History
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
