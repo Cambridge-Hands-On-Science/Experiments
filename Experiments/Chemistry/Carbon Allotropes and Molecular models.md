@@ -2,7 +2,7 @@
 
 **Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2024-01-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-11 by Andrew Marriott (asm206@cam.ac.uk).
+Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by NAME (EMAIL).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,6 +24,7 @@ Last initially checked on 2024-01-01 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Experiment Explanation 
+_This experiment works best with secondary school students - if younger, then this explanation will be likely too involved. My advice would be to choose a few element samples to talk about that are fun to look at, if you're demonstrating to younger kids!_
 
 Start off by discussing the Periodic Table, and how the valency of a compound can be determined from this. You'll need to talk about the groups going down the table and how the group number corresponds to the number of outer shell electrons of the elements in that group. You might want to talk a little bit about the behaviour of the elements in each group - like how group 1 alkali metals are really reactive in water (some kids might have seen Li or K in water at school), or perhaps how group 0 (Noble gases) are happy as they are and are unreactive. Introduce the idea of full outer shells - this should make covalent bonding a bit easier to understand.
 
@@ -38,7 +39,7 @@ Then introduce the diamond and graphite structures. Ask them what they know abou
 
 Allotropes of carbon include graphite, diamond, lonsdaleite (hexagonal diamond), C60 buckminsterfullerene, C540, fullerite, C70 fullerene, amorphous carbon, and single-walled carbon nanotube. Nanocarbons have lots of potential uses...
 
-You can show how graphite is diamagnetic by balancing some pencil lead off the edge of a table and using either the north or south pole you can repel it. If you try this with a magnet balanced one way will attract. In contrast you may find some varieties are parmagnetic. These effects are small so you'll need a strong magnet. 
+You can show how graphite is diamagnetic by balancing some pencil lead off the edge of a table and using either the north or south pole you can repel it. If you try this with a magnet balanced one way will attract. In contrast you may find some varieties are paramagnetic. These effects are small so you'll need a strong magnet. 
 
 <br/>
 
@@ -110,3 +111,5 @@ Call first aider in case of injury
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-08 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 
