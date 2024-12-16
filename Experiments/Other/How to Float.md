@@ -2,7 +2,7 @@
 
 **Keeping demonstrators happy. ** - nan
 
-Last initially checked on 2023-02-17 by Emma Crickmore (elc75@cam.ac.uk) and double-checked on 2023-02-18 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,7 +106,7 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Mitigation**: Make sure you’re on the lunch list! Get another floater/committee member to swap with you at a given time so you definitely get a lunch break. If you miss lunch, be sure to eat plenty of bounce!
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -116,11 +116,11 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Affected People**: Floater
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Don’t float with heavy experiments; pick something from the Floating box with the fancy tape. Read and sign RA for floaty experiment and mitigate risks accordingly.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -133,3 +133,5 @@ After the injury it is useful to have an idea of what caused it and how to preve
 **Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
