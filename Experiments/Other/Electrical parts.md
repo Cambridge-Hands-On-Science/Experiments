@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 
 
 ## Tags
@@ -31,7 +31,7 @@ Mains (240 V) power supply.
 
 ## Experiment Explanation
 
-Some experiments require electricity from a mains power (240 V) supply. Read this RA along with the experiment RA before demonstrating.
+Some experiments require electricity from a mains power (240 V) supply. Read this RA along with the experiment RA before demonstrating. This RA should be attached to the RAs of all experiments involving mains power.
 
 <br/>
 
@@ -50,7 +50,7 @@ Some experiments require electricity from a mains power (240 V) supply. Read thi
 
 DEMONSTRATOR to ensure that there is a PA test sticker dated within the last two years on any mains voltage equipment, or that the equipment was purchased within the last two years (should be marked with the date of purchase if there is not a PA test sticker). If the equipment was PA tested or purchased more than a year ago, DEMONSTRATOR to check that there is a sticker to show that the equipment has been formally visually inspected within the last year.
 
-DEMONSTRATOR to ensure that electrical equipment is not placed next to or under flammable materials (eg. under a jumper).
+DEMONSTRATOR to ensure that electrical equipment is not placed next to or under flammable materials (eg. under a jumper, in a tent or near curtains).
 
 COMMITTEE to ensure that all mains voltage equipment is PA tested every two years, or if possible, annually. Newly purchased (unaltered) equipment need not be tested immediately, but should be tested, at the latest, within two years of purchase, and then every two years thereafter. If newly purchased equipment is not marked with a PA test sticker, it should be marked with the date of purchase. Electrical equipment that has been modified in any way should be PA tested before first use
 
@@ -63,18 +63,21 @@ COMMITTEE to ensure that, if equipment has not been PA tested within the past ye
 
 ### **Hazard**: Water getting in contact with the equipment
 
-**Description**: Risk of electrocution
+**Description**: Risk of electrocution, and possibility damage to equipment that could leave it unsafe.
 
 **Affected People**: All 
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
 **Mitigation**: DEMONSTRATOR must think about the danger of water coming into contact with the equipment. Ensure electrical equipment is not near water, or on the ground in a place where water might pour in event of a nearby experiment breaking.
+
 If outdoors, DEMONSTRATOR to keep cables off ground and away from damp, especially if using the venue the next day as well (dew settles).
 
 DEMONSTRATOR please make sure that you know the location of the electric wall socket where the equipment is plugged in.
 
 VENUE SAFETY OFFICER should locate and make known the location of the cut-off switch for the room, if there is one.
+
+If mains-powered equipment does come into contact with water, it should not be used until it is thoroughly checked to ensure there is no corrosion or damage.
 			
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
@@ -89,7 +92,7 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Ensure all cables are safely taped down, take extra care in areas where people might be walking. If possible, keep cables behind experiments.
+**Mitigation**: Ensure all cables are safely taped down (using hazard tape if possible); take extra care in areas where people might be walking. If possible, keep cables behind experiments.
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
@@ -102,6 +105,6 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 
 **Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-10 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
