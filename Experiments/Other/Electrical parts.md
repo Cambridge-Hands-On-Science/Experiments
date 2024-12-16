@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2024-07-09 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-07-10 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
 
 
 ## Tags
@@ -57,7 +57,7 @@ COMMITTEE to ensure that all mains voltage equipment is PA tested every two year
 COMMITTEE to ensure that, if equipment has not been PA tested within the past year, it is formally visually inspected by a committee member approved by the committee to carry out such checks, and marked with the date of inspection</p>
 			
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 <br/>
 
@@ -87,7 +87,7 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
 **Mitigation**: Ensure all cables are safely taped down, take extra care in areas where people might be walking. If possible, keep cables behind experiments.
 
@@ -101,5 +101,7 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-10 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
