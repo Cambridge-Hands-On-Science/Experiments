@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ???
+Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,24 +17,31 @@ Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 <br/>
 
 ## Equipment Needed 
-- **This experiment can take place outdoors**
+
+**This experiment can take place outdoors**
 - Suitable Experiment
-- These work well:
+
+These experiments work well:
 - Prism Goggles
 - Ear Switching Hat
 - Mould Effect (Short Chain)
 - Bubble Guns
 - Boris
 - Skulls
+- Spinny Chair (bike wheel only)
 
 <br/>
 
 ## Experiment Explanation 
 
 Busking is a CHaOS activity slightly unlike any other, instead of aiming to teach people science you're aiming to street sell them an opportunity to be taught science.
+
 You need to think about where you're busking, too far away from the venue and you'll struggle to convince them to go out of their way and also think about why people are walking past. While a railway station will give you a high footfall most people are rushing for trains. Ideal places are markets, libraries and city centre shops (where people might go to browse). If you're near enough to the venue that you can catch people who are leaving, it can be good to take some evaluations forms and encourage them to fill them out as they leave!
+
 You want to grab people's attention and tell them something about the science, get them to have a go and touch if possible. You're really aiming to get them to move on to the venue so don't dive into heavy science. Emphasis on that it's free parents may be worried you're trying to sell them things. You can also tell them how it can be only 5 minutes (once they're in the venue they'll hopefully be kept through other means).
+
 It's fine to send non-committee out to do this too. If the venue is really empty, setting out experiments that take up lots of space outside can be a good way of drawing people in (provided you have appropriate space, power supplies etc.). 
+
 Due to the limited amount of science you need to send people out with whatever they're comfortable with. Simple experiments are best, like ear switching hat or prism goggles, but be careful not to obstruct pavements or cause an accident (i.e. with prism goggles) if it's busy. It's helpful to take it in turns to busk, particularly if it's chilly outside! It's also good to busk in a pair - that way you get more people and have some company if it's a bit quiet.
 
 It's worth noting some councils in the UK have restrictions on street trading and similar. As our events are (almost always) free to enter we should not be classed as selling goods or services, if the event is behind a paywall then no busking should be done unless explicit permission has been granted by the local authorities. CHaOS does not seek licences do street trade currently. If asked to move on from an area by a landowner or law enforcement you should oblige. You should aim to restrict busking to public areas, these are ones which one may walk into without payment and consider if it's appropriate to walk on grassed areas. The other legalities which may be broken while busking are 'Obstruction of a Highway' or 'Trespass', to avoid this it's worth ensuring one sticks to major areas, for instance public squares and streets. If busking next to a vehicle road be careful to allow both traffic to flow on the road as well as the passage of people along the footpath, this includes wheelchairs and prams. It's worth noting that highways include verges and footways at the side of public roads. For 'Trespass' the main application would be where busking obstructs a private road or driveway, takes place on private land (say inside a shopping centre) Keeping regularly moving and being cautious of these areas should mitigate any risks of prosecution for these. In any situation complying with demands of land owners, their representatives or law enforcement should be sufficient. Leafleting may cause issues with some councils and should be avoided as it could cause litter and waste anyway. 
@@ -137,4 +144,4 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
