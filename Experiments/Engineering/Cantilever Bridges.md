@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-24 by Lauren Mason (llm34@cam.ac.uk).
+Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 20xx-xx-xx by xx xx (xx@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -88,12 +88,12 @@ For engineers: The third gap is more difficult, with the number of blocks you ha
 
 **Note: some of the pictures in the box are arch bridges that go with the arch bridge experiment (which doesn't have its own box). Try not to confuse the two - the forces aren't the same in each.**
 
-You can compare the bridge to the Forth Bridge: a real example of a cantilever bridge. There are photos in the box. This bridge is in Scotland, and is famous for being so long that by the time you've finished painting one end that you need to go and start painting the other end!
+You can compare the bridge to the Forth Bridge: a real example of a cantilever bridge. There are photos in the box. This bridge is in Scotland, and is famous for being so long that by the time you've finished painting one end that you need to go and start painting the other end again!
 
 Look for the picture of the bridge in construction - here you can see the cores of the towers before sections were added to each side. That's analogous to our supports before we add sideways with extra blocks.
 
 Two questions that seem to come up quite often with the bridge photos:
-Why isn't it solid like the blocks? The Forth Bridge is made out of metal, this behaves differently to wood, and if you can fix the pieces of metal together you can get away with less metal than something completely solid. Apart from anything else, that saves money on metal?
+Why isn't it solid like the blocks? The Forth Bridge is made out of metal, this behaves differently to wood, and if you can fix the pieces of metal together you can get away with less metal than something completely solid. Apart from anything else, that saves money on metal!
 Is our bridge weaker than real ones? Yes, because the blocks aren't joined. But it's very solid considering!
 
 <img src="./Images/forth_bridge.jpg" style="width:10cm">
@@ -124,9 +124,9 @@ This was used in passages and tombs, before the true arch was developed.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back.
+**Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back. Demonstrator should prevent children from building excessively tall towers. 
 
-Call a first aider in the case of an injury.
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -158,7 +158,7 @@ Call first aider in the event of injury.
 
 **Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor.
 
-Call first aider in the event of an accident.
+Call first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -174,7 +174,7 @@ Call first aider in the event of an accident.
 
 **Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth.
 
-Call first aider in event of injury.
+Call first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -207,3 +207,5 @@ Call first aider in event of injury.
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 
