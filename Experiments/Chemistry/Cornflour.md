@@ -2,7 +2,7 @@
 
 **Explore the remarkable properties of cornflour mixed with water.** - Slimey, gooey and messy: cornflour is one of our favourite experiments! Come and stick your hands in, and figure out if it behaves like a liquid or a solid...
 
-Last initially checked on 2024-12-17 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by NAME (EMAIL)
+Last initially checked on 2024-12-17 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,7 +90,7 @@ $$
 
 Here $\eta$ is the viscosity (how “thick” the fluid is) and $\gamma$ is the shear (how much the material is deformed). The differential with respect to $t$ tells us we’re interested in the strain rate (how fast you’re shearing). $k$ is a constant.
 
-If $n=1$, we get classical Newtonian behaviour (no dependence on shear rate). If n<1, then the viscosity decreases with increasing shear rate (shear thinning) and if $n>1$, then the viscosity increases with increasing shear rate (shear thickening).
+If $n=1$, we get classical Newtonian behaviour (no dependence on shear rate). If $n<1$, then the viscosity decreases with increasing shear rate (shear thinning) and if $n>1$, then the viscosity increases with increasing shear rate (shear thickening).
 
 Below is a schematic shear rate vs stress graph for various materials (labelled). The gradient gives the inverse of viscosity:
 
@@ -223,4 +223,4 @@ Call first aider in event of injury, who may perform an eyewash if trained and h
 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
