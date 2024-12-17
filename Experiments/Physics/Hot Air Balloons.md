@@ -2,7 +2,7 @@
 
 **Making hot air balloons with plastic bags and a toaster.** - Make your own hot air balloon with a plastic bag and a toaster!
 
-Last initially checked on 2024-01-06 by Lucy Bland (lb831@cam.ac.uk) and double-checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk). 
+Last initially checked on 2024-12-17 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -20,7 +20,7 @@ Last initially checked on 2024-01-06 by Lucy Bland (lb831@cam.ac.uk) and double-
 - **Electricity needed**
 - Bottle with balloon attached to the top (thinner balloons that expand more easily work better, check that there are no holes in the balloon near the neck of bottle).
 - Toaster with cardboard shield to fit around it.
-- The "balloons": Bin liners (preferably white) - Tesco drawstring swing bin liners fly really level. Otherwise, bits of gaffer tape should be attached to the open end to weight the balloons a little (a roll may be found in the box, else look in the gaffer box).
+- The "balloons": Bin liners (preferably white) - Tesco drawstring swing bin liners fly really level. Otherwise, bits of gaffer tape should be attached to the open end to weight the balloons a little (a roll may be found in the box, else look in the gaffer box). Prepare a few before starting (if not already in box).
 
 <br/>
 
@@ -33,7 +33,9 @@ Bottle with balloon
 -------------------
 
 
-It's nice to start by asking the kids what is in the bottle (lots of kids will say nothing [more rarely they say water if the bottle hasn't been fully dried!], this experiment is a good way of seeing that air isn't nothing!), and what will happen if we heat it up (the balloon expands, some of them will wishfully say it explodes). Depending on how old they are and how much they know you can talk about the following while you do the heating:* Air is a gas (some children will be confused by this as they think it's a mixture of different gases which is not relevant here, but can be something to talk about if they're interested).
+It's nice to start by asking the kids what is in the bottle (lots of kids will say nothing [more rarely they say water if the bottle hasn't been fully dried!], this experiment is a good way of seeing that air isn't nothing!), and what will happen if we heat it up (the balloon expands, some of them will wishfully say it explodes). Depending on how old they are and how much they know you can talk about the following while you do the heating:
+
+- Air is a gas (some children will be confused by this as they think it's a mixture of different gases which is not relevant here, but can be something to talk about if they're interested).
 - Gases usually expand when they get hot.
 - What this means in terms of particles, ie they gain energy, move faster so fill up more space. A reasonable analogy is that of a class of children all walking round past each other needing less space than the equivalent class running (you can extend this to sitting still in rows in assembly [solid] and walking in a line back to class [liquid]).
 
@@ -47,8 +49,9 @@ Balloons
 
 You could ask the kids to think of something powered by hot air (many get it straight away, some need a remarkable amount of prompting and loads say aeroplane...).
 
-To make a balloon fly:* Put the cardboard shield around the toaster, it's easiest if you turn it on first.
-- Put the bag over the shield, pull it all of the way down to the bottom (or, hold on to the top, and hold it about as high as possible - this way the top of the balloon is further from the heat source and less likely to melt and deform).
+To make a balloon fly:
+- Put the cardboard shield around the toaster, it's easiest if you turn it on first.
+- Put the bag over the shield, pull it most of the way down to the bottom (or, hold on to the top, and hold it about as high as possible - this way the top of the balloon is further from the heat source and less likely to melt and deform).
 - Let the air inside heat up and off it goes.
 
 
@@ -56,7 +59,8 @@ You can get sensible kids to do this themselves.
 
 **PLEASE TRY TO SET THE EXPERIMENT UP TO AVOID OVERHEAD STRUCTURES SUCH AS LIGHTING RIGS**
 
-Things to talk about include:* What is at the bottom of a hot air balloon? Aside from the basket with people in, there is a burner that heats the air, and gives it more energy.
+Things to talk about include:
+- What is at the bottom of a hot air balloon? Aside from the basket with people in, there is a burner that heats the air, and gives it more energy.
 - Pretend that the bag is air tight (actually not far off being true, very little air escapes out the bottom), thus it only has a finite amount of air in it, which initially weighs the same as all the surrounding air. When heated the gas expands, which can be seen as the balloon puffs up slightly (although the effect is subtle sometimes) and hence there is the same amount of weight spread over more volume, so each "bit" of air i.e. fixed volume element, weighs less than it did before, thus less than the surrounding air and the balloon experiences buoyancy (you could use an analogy about the difference between a sponge and a brick of similar sizes dropped in the bath and say that if you expand the brick it would become more like a sponge).
 - Now pretend like air is lost. Where does the air go when it expands? It fills up the bag then escapes out the bottom. This makes the bag lighter, so it floats up to the ceiling. N.b. either explanation works, the first is more thorough but the second may be more intuitive especially for younger children. They are both in part true, though the first is probably dominant. If they all say "it rises", you can explain that we're trying to understand why it rises, or hold the bag down and say that it can't be rising because there's a bag in the way!
 - Get them to make a prediction for what will happen - it's usually a balance of the bag will explode or the bag will rise up - you can then test their competing scientific hypotheses!
@@ -65,7 +69,8 @@ Things to talk about include:* What is at the bottom of a hot air balloon? Aside
 
 
 
-Further discussion:* What difference does the temperature of the room make?
+Further discussion:
+- What difference does the temperature of the room make?
 - Will the balloon stop going up? Would this balloon work in space, why not? What would happen as it approached space? (tip: as it rises density of surrounding air drops until the weight of displaced air = weight of balloon and it stops rising)
 - How does this relate to buoyancy in water? Can lead into some great discussions about how fish and submarines change depth (by expanding and contracting their volume, one way or the other)
 
@@ -94,7 +99,8 @@ The tube is supported so it can't fall over easily.
 Use a toaster that hasn't been used to toast bread so there are no crumbs.
 The card is white so will go brown before it burns - if it goes brown turn it off.
 If there are burning smells turn it off!
- Do not hold bin liner over toaster for longer than a few seconds or use multiple bags.
+Keep toaster on a low setting and do not hold bags too close (use tube).
+Do not hold bin liner over toaster for longer than a few seconds or use multiple bags (alternate throughout).
 In case of burns run under tepid water for at least 10 minutes. In case of fire, turn off electricity then follow procedure in venue RA (raise alarm, evacuate...) Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -160,3 +166,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
