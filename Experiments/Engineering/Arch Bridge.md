@@ -2,7 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk).
+Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on xxxx-xx-xx by xxx (xx@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -53,7 +53,7 @@ When the child is standing on the middle of the bridge, ask them what is stoppin
 
 ![](http://old.chaosscience.org.uk/sites/default/files/archloading.jpg)
 
-Explain that this is how real arch bridges work - the mortar 'gluing' the bricks together isn't very important, all the strength is due to the bricks being squashed together horizontally. Bricks are strong in compression, but no good in tension.
+Explain that this is how real arch bridges work - the mortar 'gluing' the bricks together isn't very important, all the strength is due to the bricks being squashed together horizontally. Bricks and stone are strong in compression, but no good in tension.
 
 It can be useful to ask the children how the other blocks would have to move to allow one of the blocks to fall, to get them to see the arch as a lot of wedges jammed in between the piers. Very wide stone arches have a tendency to force apart their piers and collapse.
 
@@ -85,7 +85,7 @@ Call a first aider in the case of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Demonstrators should test the bridge by walking over it before any children do. Children should not be allowed to jump off the bridge sideways, as this may cause the bridge to fall. Blocks should be checked for smoothness at the beginning of the event. Demonstrator should remain vigilant for blocks slipping during the event.
+**Mitigation**: Demonstrators should test the bridge by walking over it before any children do. Children should not be allowed to jump off the bridge sideways, as this may cause the bridge to fall. Only one child should be allowed to walk across the bridge at a time. Blocks should be checked for smoothness at the beginning of the event. Demonstrator should remain vigilant for blocks slipping during the event.
 
 Demonstrator must stop experiment if they suspect that the blocks are getting smooth.
 
@@ -105,7 +105,7 @@ Call first aider in the event of injury.
 
 **Mitigation**: Demonstrators may wish to help small humans when placing the blocks. Mention that it is better to hold them across their sides rather than ends.
 
-Call a first aider in the event of an emergency.
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -135,9 +135,9 @@ Call first aider in event of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Make sure that the bridge is erected somewhere the floor is flat, with no sharp corners or objects to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
+**Mitigation**: Make sure that the bridge is erected somewhere the floor is level, with no sharp corners or objects to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
 
-Call first aider in the event of an accident.
+Call first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -172,3 +172,5 @@ Call first aider in the event of an accident.
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-14 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 
