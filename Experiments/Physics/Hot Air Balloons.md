@@ -2,7 +2,7 @@
 
 **Making hot air balloons with plastic bags and a toaster.** - Make your own hot air balloon with a plastic bag and a toaster!
 
-Last initially checked on 2024-12-17 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk). 
+Last initially checked on 2024-12-17 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -101,7 +101,9 @@ The card is white so will go brown before it burns - if it goes brown turn it of
 If there are burning smells turn it off!
 Keep toaster on a low setting and do not hold bags too close (use tube).
 Do not hold bin liner over toaster for longer than a few seconds or use multiple bags (alternate throughout).
-In case of burns run under tepid water for at least 10 minutes. In case of fire, turn off electricity then follow procedure in venue RA (raise alarm, evacuate...) Call first aider in case of injury.
+In case of burns run under tepid water for at least 10 minutes. In case of fire, turn off electricity then follow procedure in venue RA (raise alarm, evacuate...).
+
+Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -115,8 +117,9 @@ In case of burns run under tepid water for at least 10 minutes. In case of fire,
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Use a new or PAT tested toaster.
-Ensure cable is either positioned where people will not be walking or taped down.
+**Mitigation**: Use a PAT approved toaster.
+Ensure cable is either positioned where people will not be walking and taped down.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -133,6 +136,7 @@ Call first aider in case of injury.
 
 **Mitigation**: Make sure spectators are not standing too close where the bag could land on their heads, and try to catch before it can land on them.
 Suspend experiment if the children are getting silly and trying to catch it with their heads.
+
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
@@ -167,4 +171,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: Anna Ritschl Ebell (ar2182@cam.ac.uk)
