@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 20xx-xx-xx by xx xx (xx@cam.ac.uk).
+Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,7 +19,7 @@ Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) an
 ## Equipment Needed 
 - **This experiment can take place outdoors**
 - Base boards
-- Small blue box of blocks
+- Small blue box of wooden blocks
 - Laminated photos
 
 <br/>
@@ -208,4 +208,4 @@ Call first aider in the event of injury.
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
