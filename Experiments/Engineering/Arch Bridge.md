@@ -2,7 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on xxxx-xx-xx by xxx (xx@cam.ac.uk).
+Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -173,4 +173,4 @@ Call first aider in the event of injury.
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
