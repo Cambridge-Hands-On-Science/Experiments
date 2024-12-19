@@ -2,7 +2,7 @@
 
 **Activities to discover the nanoscale**
 
-Last initially checked on 2024-12-17 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by NAME (EMAIL)
+Last initially checked on 2024-12-17 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk)
 
 
 ## Tags
@@ -88,7 +88,7 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
-### **Hazard**: Sand
+### **Hazard**: Sand (I)
 
 **Description**: Getting sand in eyes. 
 
@@ -100,7 +100,7 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-### **Hazard**: Sand
+### **Hazard**: Sand (II)
 
 **Description**: Small children may attempt to eat sand, which may pose a choking hazard and cause gastrointestinal issues if eaten in large amounts.
 
@@ -131,5 +131,5 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Check 1**: 2024-02-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
 
