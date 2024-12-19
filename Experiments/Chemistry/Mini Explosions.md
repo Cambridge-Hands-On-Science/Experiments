@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2023-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -103,7 +103,7 @@ Call first aider in case of injury.
 
 Ensure the top of the tank is not at eye level (it is common for a small volume of the reagents to be propelled through the crack between the top of the tank and the lid). **Run a length of plastic tape along the hinged side (which should be closest to your audience) to prevent splattering.**
 
-Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes. 
+Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes.
 
 Eyewash should be kept on hand when demonstrating (but put back in Safety for storage between demonstrating days). If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
 
@@ -174,3 +174,5 @@ In the event of eating, advise them to seek medical attention if they start to f
 **Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-15 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2023-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
