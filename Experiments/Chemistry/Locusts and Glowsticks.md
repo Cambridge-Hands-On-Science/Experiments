@@ -2,7 +2,7 @@
 
 **Using glow sticks to talk about chemical kinetics.** - What do glowsticks and locusts have in common? Watch what happens as we heat them up and cool them down - how long can you get your glowstick to glow? How fast can you make the locusts move?
 
-Last initially checked on 2024-01-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-30 by Andrew Marriott.
+Last initially checked on 2024-12-19 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by NAME (EMAIL).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -204,22 +204,10 @@ Call first aider in case of injury.
 
 **Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
 
-**Mitigation**: Demonstrator should be aware of any breathing changes, rash, runny nose that occurs to them when they are near the locusts, and should not perform experiment if they get these symptoms. Demonstrator should also be aware of the possibility that others may be allergic/get an asthma attack.
+**Mitigation**:  Demonstrator should keep tanks away from table edges and should watch lively children so they don't knock the tanks over.
+
+Demonstrator should be aware of any breathing changes, rash, runny nose that occurs to them when they are near the locusts, and should not perform experiment if they get these symptoms. Demonstrator should also be aware of the possibility that others may be allergic/get an asthma attack.
 Do not demonstrate if you find yourself to be allergic to locusts. Call a first aider in the event of an asthma attack. Calm person down, sit them down. Get person to use inhaler if they have one.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
-
-### **Hazard**: Locusts
-
-**Description**: Repeated exposure to locusts could cause the demonstrator or the public to either have an asthma attack (if they already have asthma) or for them to develop an allergy to locusts.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
-
-**Mitigation**: Demonstrator should keep tanks away from table edges and should watch lively children so they don't knock the tanks over.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -252,3 +240,5 @@ Do not demonstrate if you find yourself to be allergic to locusts. Call a first 
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Andrew Marriott (asm206@cam.ac.uk)
+
+**Check 1**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
