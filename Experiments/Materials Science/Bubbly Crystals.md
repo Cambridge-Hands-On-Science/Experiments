@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2024-02-04 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
 
 **Frequency of use:** 4
 
@@ -191,7 +191,7 @@ _A: A coarse-grained texture requires the material to be held at a high temperat
 
 ### Packing away
 
-Carefully empty the tray and gas generator and dry with the paper towel provided. Stack up the cups. Put everything back in the box.
+Carefully empty the tray and gas generator and dry with the paper towel provided. It is easiest to tip one corner of the tray to drain most of the liquid into a cup or bottle rather than moving the full tray around. Stack up the cups. Put everything back in the box. 
 
 <br/>
 
@@ -236,7 +236,7 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Don’t let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first. Know where the nearest eye wash is (there should at least be some in the Safety box).
+**Mitigation**: Don’t let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first, including yourself. Know where the nearest eye wash is (there should at least be some in the Safety box).
 
 Summon first-aider to wash eyes if necessary.
 
@@ -281,5 +281,7 @@ Summon first-aider in event of someone tripping and hurting themselves.
 **Check 1**: 2023-01-13 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
 
 <!-- (duplicate as necessary) -->
