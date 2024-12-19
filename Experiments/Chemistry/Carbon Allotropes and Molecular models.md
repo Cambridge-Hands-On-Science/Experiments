@@ -2,7 +2,7 @@
 
 **Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by NAME (EMAIL).
+Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -112,4 +112,4 @@ Call first aider in case of injury
 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
