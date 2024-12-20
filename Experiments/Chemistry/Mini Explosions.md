@@ -2,7 +2,7 @@
 
 **Exploding film canisters with lemon juice and bicarb.** - Make an impressive explosion with kitchen ingredients and find out more about what makes things go with a bang.
 
-Last initially checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-12-20 by Andrew Marriott (asm206@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -175,4 +175,4 @@ In the event of eating, advise them to seek medical attention if they start to f
 
 **Check 1**: 2023-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-20 - Andrew Marriott (asm206@cam.ac.uk)
