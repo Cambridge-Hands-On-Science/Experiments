@@ -3,7 +3,7 @@
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-30-01 by Lucy Bland (lb831@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on by  (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -27,7 +27,7 @@ Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Experiment Explanation 
 
-Here is a hopefully not too ropey write-up of what is an awesome experiment (I hope you won’t string me up with all these puns)! You start with the contraption up and the bag containing 4 filled 2 litre water bottles out loose
+Here is a hopefully not too ropey write-up of what is an awesome experiment (I hope you won’t string me up with all these puns)! You start with the contraption up and the bag containing 4 filled 2 litre water bottles out loose.
 
 (NB: At the moment there are currently only 3 bottles)
 
@@ -222,4 +222,6 @@ Call first aider if required.
 
 **Check 1**: 2023-03-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), ** Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024- -  (@cam.ac.uk)
