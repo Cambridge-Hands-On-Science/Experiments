@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-30 by Lucy Bland (lb831@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024 by (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -107,7 +107,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 ## Risk Assessment
 
-### **Hazard**: Hot Water and Hotplate
+### **Hazard**: Hot Water
 
 **Description**: Risk of burns
 
@@ -115,7 +115,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Warn of hot water (and steam) before experiment starts, keep hot water away from easy reach of children's hands. Mark mug as "HOT". If any burns occur, run under tepid water for an appropriate amount of time.
+**Mitigation**: Warn of hot water (and steam) before experiment starts, keep hot water + kettle away from easy reach of children's hands. Mark mug as "HOT". If any burns occur, run under tepid water for an appropriate amount of time.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -129,12 +129,11 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Use stable mug for water. Do not over-fill. Clean up spills immediately. 
+**Mitigation**: Use stable mug for water. Do not over-fill. Clean up spills immediately. Ensure that kettle is not overfilled and is kept out of reach of children. 
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
-
 ### **Hazard**: Sharp edges
 
 **Description**: Sharp edges may cause injuries if Stirling engine is dismantled.
@@ -171,7 +170,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
-**Mitigation**: Keep away from very small children. If engines break, close experiment and put parts in box.
+**Mitigation**: Keep away from very small children. Do not allow children to play with engines. Take care when assembling the Stirling engine, as the small disc that the flywheel axle sits in may pop out. If engines break, close experiment and put parts in box.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
@@ -198,3 +197,5 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024 -  (@cam.ac.uk)
