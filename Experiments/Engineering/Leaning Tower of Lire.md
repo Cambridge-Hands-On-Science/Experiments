@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-30 by Lucy Bland (lb831@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024- by (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -81,7 +81,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare. Call first aider in the event of injury.
+**Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -95,7 +95,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor. Call first aider in the event of an accident.
+**Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -109,7 +109,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth. Call first aider in event of injury.
+**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -128,3 +128,5 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 **Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024- -  (@cam.ac.uk)
