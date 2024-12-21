@@ -2,7 +2,7 @@
 
 **How can we use arches to hold up a cathedral?** - See how simple shapes can fit together to hold up a large structure, like a cathedral!
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-01-30 by Lucy Bland (lb831@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on  by  (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -104,7 +104,7 @@ This is quite tricky to do, so make sure you practice it before trying with the 
 *** OTHER THINGS TO TALK ABOUT ***
 
 Applications with bridges.
-How old buildings were made
+How old buildings were made.
 Cement as a glue for bricks.
 How modern buildings are made.
 Look at the buildings around you.
@@ -144,7 +144,7 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Try not to leave or let kids lean on the floor by the bridge. Brass weights may easily be replaced by getting kids to press down with a single finger. Call first aider in the event of injury.
+**Mitigation**: Try not to leave or let kids lean on the floor by the bridge. Brass weights may easily be replaced by getting kids to press down with a single finger. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -158,7 +158,7 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ensure all blocks and the base are well sanded. If not, sand them or don't use them. Call first aider in the event of an accident. Aim to keep children calm around experiment.
+**Mitigation**: Ensure all blocks and the base are well sanded when setting up. If not, sand them or don't use them. Aim to keep children calm around experiment. Call a first aider in the event of an injury. 
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -172,7 +172,7 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Keep blocks in same area and out of public walking areas. Call first aider in event of injury.
+**Mitigation**: Keep blocks in same area and out of public walking areas. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -205,3 +205,5 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 **Check 1**: 2023-02-10 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024 -  (@cam.ac.uk)
