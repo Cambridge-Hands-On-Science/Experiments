@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2024-12-20 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-12-20 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -242,7 +242,7 @@ Follow venue RA protocols in case of fire.
 
 ### **Hazard**:  Bimetallic jumping discs
 
-**Description**: Ingestion and risk of accidentally touching hot discs heated by heat gun. 
+**Description**: Ingestion and risk of accidentally touching hot discs heated by heat gun. [CHOKING HAZARD]
 
 **Affected People**: All
 
@@ -251,6 +251,19 @@ Follow venue RA protocols in case of fire.
 **Mitigation**: Do not demonstrate jumping discs around small children who may eat the discs. Do not heat discs beyond a few seconds with a heat gun. Do not pick up discs with fingers if they are overheated. 
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+
+### **Hazard**:  Bimetallic jumping discs
+
+**Description**: Ingestion is possible - this is a choking hazard.
+
+**Affected People**: Small Children
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+
+**Mitigation**: Do not demonstrate jumping discs around small children who may eat the discs. Watch small children carefully. In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
 
 
 ### **Hazard**:  Heat proof mat
@@ -294,4 +307,4 @@ Follow venue RA protocols in case of fire.
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk)
