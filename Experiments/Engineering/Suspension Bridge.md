@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024 by (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -50,7 +50,7 @@ Tips for demonstrating: Don't be fazed by the crowds - keep control and take tim
 
 Get children to walk over the bridge, then ask them questions. On a busy day you could stand blocking the entrance to the bridge until a group have listened to the science, then let them walk over.
 
-What holds up the roadway? You can unclip it to show that it hangs from the sagging cables. suspension means hanging.
+What holds up the roadway? You can unclip it to show that it hangs from the sagging cables. Suspension means hanging.
 
 How does it work? Have one child stand in the middle of the bridge. He's pushing down on the roadway because he's heavy. What holds up the roadway? It's hanging from the sagging rope. Pushing and pulling forces - the rope is being pulled. Trace tension in rope over the piers and down into the ground. Get them to touch the various cables feel the different tensions. Ropes are anchored to the ground by the stakes so they have something to pull on. What would happen if we took out the stakes? Which way do the wooden piers get pushed (down into the ground).
 
@@ -67,7 +67,7 @@ Real life suspension bridges. Severn Bridge. Clifton Bridge in Bristol. Menai an
 
 Why build a suspension bridge rather than another type of bridge? Imagine building an arch bridge. Would need lots of bricks, which are heavy. Rope is very light and cheap, so easier to make longer bridges. Arch bridge would need lots of arches and more piers on the river bed, suspension bridge only needs two. Can be built high to allow ships to sail underneath.
 
-Building them in real life. Steel cables not rope. Need to sig down through earth to bedrock to start building piers. May need to dig underwater using a pressurised diving chamber called a caisson - this was first done when building the Brooklyn Bridge in New York. Anchor cables by dropping a heavy lump of rock on them. May have two bits of rock with interlocking teeth and cable between.
+Building them in real life. Steel cables not rope. Need to dig down through earth to bedrock to start building piers. May need to dig underwater using a pressurised diving chamber called a caisson - this was first done when building the Brooklyn Bridge in New York. Anchor cables by dropping a heavy lump of rock on them. May have two bits of rock with interlocking teeth and cable between.
 
 Talk about tension and compression. Rope is good under tension, brick cracks under tension. Making steel rope - wind strands of iron into a small length, wind many of them together. Testing for strength!
 
@@ -213,3 +213,5 @@ Call first aider if required.
 **Check 1**: 2023-01-14 - Jamie Barrett (jb2369@cam.ac.uk),**Check 2**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk),**Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk),**Check 2**: 2024--  (@cam.ac.uk)
