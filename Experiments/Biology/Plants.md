@@ -46,7 +46,7 @@ Older children
 
 <center>
 <img src="./Images/plants1.jpg" style="width:10cm">
-<center>
+</center>
 
 - More detail on photosynthesis i.e. carbon dioxide converted into sugars, and oxygen is produced (the opposite idea to respiration)
 - Gas exchange (Carbon dioxide for oxygen) happens through pores on the underside of leaves called stomata (you should be able to see these on one of the slides - see below).
@@ -58,7 +58,7 @@ Older children
 <img src="./Images/plants2.jpg" style="width:10cm">
 <img src="./Images/plants3.jpg" style="width:10cm">
 <img src="./Images/plants4.jpg" style="width:10cm">
-<center>
+</center>
    
 <br/>
 

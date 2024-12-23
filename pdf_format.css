@@ -14,3 +14,10 @@ h2 {
   border-bottom: 1px solid #4e81c0;
   padding-bottom: 2px;
 }
+
+/* Make the table in Sunset Colours RA more readable by separating the columns
+   For some reason this did not work until I added the "!important" */
+th, td {
+  padding-right: 30px !important;
+  text-align: left;
+}

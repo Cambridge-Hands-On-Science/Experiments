@@ -63,8 +63,8 @@ You can pour water on the hydrophobic sand to show how it repels water, but avoi
 Draw a picture on a piece of paper. Connect the picture with the edge of the paper and draw with heavy, thick lines. Clip one wire from the negative terminal of the battery to the edge of the paper, so it's touching the drawing. Clip the other wire from the positive terminal to the long leg of the LED. Touch the shorter leg of the LED to the drawing. The LED should light up. The brightness should increase as the leg is moved closer to the clip, and decrease as it's moved away (don't directly touch the other clip with the LED leg, or touch the LED directly on the battery, as this will apply too much voltage and the LED will blow). 
 
 <center>
-<div style="width:10cm">
-<img src="./Images/Battery and bulb - exploring nanoscience.jpeg">
+<img src="./Images/Battery and bulb - exploring nanoscience.jpeg" width="500px">
+</center>
 
 Graphite is made of many layers of carbon atoms and conducts electricity, so completes the circuit between the battery and the bulb. 
 

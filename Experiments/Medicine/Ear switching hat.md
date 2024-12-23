@@ -8,9 +8,9 @@ Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and doub
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-Busking
+**Busking**
 
-Floating
+**Floating**
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 

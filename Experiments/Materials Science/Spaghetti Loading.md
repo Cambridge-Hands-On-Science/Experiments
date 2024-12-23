@@ -9,6 +9,8 @@ Last initially checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 **Materials Science**
 
+**Engineering**
+
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
 **CHaOS+** (More complex explanations suitable for older children are available)
@@ -88,9 +90,9 @@ An I-shaped beam is used by engineers because it can achieve a similar strength 
 
 ### **Hazard**: Uncooked spaghetti
 
-**Description**: Public
+**Description**: Sharp ends from spaghetti fracture scratching or stabbing people.
 
-**Affected People**: Sharp ends from spaghetti fracture scratching or stabbing people.
+**Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
@@ -104,9 +106,9 @@ Call a first aider in event of injury.
 
 ### **Hazard**: Slippy spaghetti
 
-**Description**: All
+**Description**: Spaghetti debris on the floor could be "slippery" if stepped on.
 
-**Affected People**: Spaghetti debris on the floor could be "slippery" if stepped on.
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
@@ -120,9 +122,9 @@ Call a first aider in event of injury.
 
 ### **Hazard**: Spaghetti shards
 
-**Description**: All
+**Description**: Loose pieces of spaghetti flying into eyes when bent and fractured.
 
-**Affected People**: Loose pieces of spaghetti flying into eyes when bent and fractured.
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
@@ -136,9 +138,9 @@ In case of injury call first aider.
 
 ### **Hazard**: Masses
 
-**Description**: Public
+**Description**: Masses falling onto feet or fingers.
 
-**Affected People**: Masses falling onto feet or fingers.
+**Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
@@ -152,9 +154,9 @@ Call a first aider in event of injury.
 
 ### **Hazard**: Spaghetti
 
-**Description**: Public
+**Description**: Transfer of bacteria if students try to eat spaghetti that others have touched.
 
-**Affected People**: Transfer of bacteria if students try to eat spaghetti that others have touched.
+**Affected People**: Public
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
