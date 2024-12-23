@@ -2,7 +2,7 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2024-12-23 by Smiley Chan (scc93@cam.ac.uk) and double-checked on ... 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -20,8 +20,7 @@ Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - 	DNA model (in clear plastic box). The model uncoils, and can be split into two strands. There’s a round black stand for this is the box too. [DNA MODEL STAND IS CURRENTLY BROKEN]
 - 	2 x plates of plastic bacteria. The GFP plate can be used to explain how you can insert useful genes into an organism (and it glows in the dark!). The pBlue plate can be used to explain how you can select a colony with the right gene it if you’re doing cloning
 - 	Box of lab plastic ware (falcon tubes and eppendorfs), which can be used to show how molecular biologists use small volumes in the lab
-- 	Pipette (20 ul Gilson, on loan so please take care of it!) [MISSING]
-- 	Pipette tips (1-20 ul)
+- 	Plastic dropper
 - 	2 x model gels, plus "tank" (use with crocodile clips and laminated sketch of battery to describe running the gel)
 - 	Coloured dye for gel (use only 1-2 ul when you load each lane)
 
@@ -94,19 +93,23 @@ Call a first aider in the event of an adverse reaction.
 
 <br/>
 
-### **Hazard**: Sharp tips
 
-**Description**: Tips could cause injury to hands and eyes.
+### **Hazard**: DNA model may fall on fingers 
 
-**Affected People**: Public
+**Description**: When stretched, DNA model may fall and clamp on fingers. As the model is made of plastic, injury should be mild.
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Affected People**: Children or demonstrator moving the model
 
-**Mitigation**: Demonstrator should not let child handle tips if they are too young or are misbehaving. Demonstrator keep tips in box, and dispose of in 'Tip' box. Call a first aider in the event of an accident.
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Mitigation**: Take care when stretching the DNA model, preferably using both hands to stabilise it. Watch children carefully and help hold the model if the children is too young. 
+Call a first aider in the event of an injury.
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
+
+
 
 ## Risk Assessment Check History 
 
@@ -133,3 +136,4 @@ Call a first aider in the event of an adverse reaction.
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), 
