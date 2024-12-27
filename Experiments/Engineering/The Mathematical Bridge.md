@@ -2,7 +2,7 @@
 
 **How can a bridge stay up without bolts?** - Self supporting bridges using only wooden poles.
 
-Last initially checked on 2024-01-09 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-02-16 by Margaret Johncock (mllyj2@cam.ac.uk).
+Last initially checked on 2024-12-27 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on  by (@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ This means you can look at it two equivalent ways - where the poles cross there 
 Alternatively, from above, you should be able to trace two squares of each one laying on another.
 (Note that if the angle between the slanted poles is too great, too much of their force is pushing the cross beams outwards - the angle needs to be small enough that the friction can overcome this - this could be a good angle for a plus event [though I haven't thought it through enough!] - how does the angle required relate to the material and its coefficient of friction? [I think it should be tan theta = mu, for angle 2 theta between poles]).
 
-In summary, the downwards force causes members to interlock due to sheer and bending.
+In summary, the downwards force causes members to interlock due to shear and bending.
 
 Now you've done this once, you can place a cross beam under one of the ends on the ground, carefully use it to lift the structure, and build the same arrangement again - you can keep iterating to build a bigger and bigger bridge!
 
@@ -98,6 +98,8 @@ Call a first aider in the event of injury.
 
 **Mitigation**: Demonstrator to warn people about their fingers and where not to put them. Make sure no weight put on bridge.
 
+Call a first aider in the event of injury.
+
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
@@ -110,7 +112,9 @@ Call a first aider in the event of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Demonstrator to visually inspect poles at the start. In case of injury call first aider.
+**Mitigation**: Demonstrator to visually inspect poles at the start and sand down poles if needed. If there are splinters from the wood, the experiment must be shut until the poles can be sanded down.
+
+Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -129,3 +133,5 @@ Call a first aider in the event of injury.
 **Check 1**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024- -  (@cam.ac.uk)
