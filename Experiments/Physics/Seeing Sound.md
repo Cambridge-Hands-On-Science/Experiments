@@ -1,4 +1,4 @@
-# Seeing Sound
+# Seeing Sound 
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
