@@ -2,7 +2,7 @@
 
 **Using chromatography to investigate the colour of food.** - Using just water and bits of paper, split up the colours in pens and food colourings to see how they're made up of a mixture of differently coloured dyes.
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on ____________ by _______________
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -163,3 +163,5 @@ Call a first aider if an accident occurs.
 **Check 1**: 2023-02-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
