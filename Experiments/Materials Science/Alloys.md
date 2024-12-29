@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2024-12-20 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk)
+Last initially checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-29 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -242,7 +242,7 @@ Follow venue RA protocols in case of fire.
 
 ### **Hazard**:  Bimetallic jumping discs
 
-**Description**: Ingestion and risk of accidentally touching hot discs heated by heat gun. [CHOKING HAZARD]
+**Description**: Risk of accidentally touching hot discs heated by heat gun. 
 
 **Affected People**: All
 
@@ -257,7 +257,7 @@ Follow venue RA protocols in case of fire.
 
 **Description**: Ingestion is possible - this is a choking hazard.
 
-**Affected People**: Small Children
+**Affected People**: Small children
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
@@ -307,4 +307,4 @@ Follow venue RA protocols in case of fire.
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk)
+**Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81@cam.ac.uk)
