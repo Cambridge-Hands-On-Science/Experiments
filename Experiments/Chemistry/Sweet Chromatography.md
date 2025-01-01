@@ -2,7 +2,7 @@
 
 **Using chromatography to investigate the colour of food.** - Using just water and bits of paper, split up the colours in pens and food colourings to see how they're made up of a mixture of differently coloured dyes.
 
-Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on ____________ by _______________
+Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2025-01-01 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -50,7 +50,7 @@ The pens tend to work better than the sweets as they cause a stronger trail.
 *** BASIC PROCEDURE AND EXPLANATION ***
 
 - Moisten the end of one of the cotton wool buds with water.
-= Use this to get some of the food colouring off the sweets.
+- Use this to get some of the food colouring off the sweets.
 - Use water to moisten a piece of filter paper, or better still fill a plastic cup with water and use a paperclip to suspend the filter paper so it only has a small amount of paper under the water level.
 - Transfer this dye to the piece of filter paper near the water.
 - Leave for a while until the dyes separate.
@@ -164,4 +164,4 @@ Call a first aider if an accident occurs.
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
