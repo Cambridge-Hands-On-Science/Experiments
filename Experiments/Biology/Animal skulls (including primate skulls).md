@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
-Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-01 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by X Y (xy@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -23,7 +23,7 @@ Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - Mammals: sheep, dog, cat, fox, mole, rabbit, roe deer
 - Birds:  magpie, pigeon, oystercatcher, duck (one complete, one in parts), parrots
 - Other: gulper shark jaw, striped snakehead fish, snake (some kind of boa), Siamese Crocodile
-- (nb: The magpie and pidgeon skulls are sometimes moved into animal cognition)
+- (nb: The magpie and pigeon skulls are sometimes moved into animal cognition)
 
 - Box 2
 - Primates: human, chimp, gorilla, orangutan (all models)
@@ -48,7 +48,7 @@ In a calm event it can be nice to set out all the skulls on a table, with all th
 
 Unlike some of the other biology experiments, the animal skulls experiment has no fixed story line. This makes it much more flexible, so you can talk about the skulls that you find cool or know more about. (No-one will know which ones you've left in the box!).
 
-Our advice is to start talking about one skull in detail, then compare other skulls to the first one you picked. It's easier to pick one of the bigger/ less fragile skulls first, such as the human (made of plastic!) or the sheep skull. Make sure that you've established what a skull is on the first one- it's not as obvious as you might think that it's the boney stuff that is inside our head/ protects our brain. You might also want to briefly talk about what bones are for/ made of - an explanation of hard stuff that holds our bodies up is probably enough detail for the youngest kids!
+Our advice is to start talking about one skull in detail, then compare other skulls to the first one you picked. It's easier to pick one of the bigger/ less fragile skulls first, such as the human (made of plastic!) or the sheep skull. Make sure that you've established what a skull is on the first one- it's not as obvious as you might think that it's the boney stuff that is inside our head/ protects our brain. You might also want to briefly talk about what bones are for/made of - an explanation of hard stuff that holds our bodies up is probably enough detail for the youngest kids!
 
 * Start by asking the child if they recognise any of the skulls - they will probably recognise the human one at least
 * On the human skull - can ask if they know the names of any parts of the skull (can help them out by providing a couple - remember to use simple terms e.g. teeth, eye sockets)
@@ -82,7 +82,7 @@ Snake - snakes have long sharp teeth. Venomous species have venom teeth which ha
 
 Shark - sharks have many sharp teeth. Their teeth often fall out as they grab moving prey and so they have a continuous 'conveyor belt' of teeth growing from their jaw. The new teeth that aren't needed yet lay flat against the jaw until the tooth in front falls out and they they move up into the normal tooth position. You can see the new teeth ready to move up on the inside of the jaw.
 
-Crocodile - the crocodile can also replace it's teeth when it loses them but rather than having a 'conveyor belt' system like the shark, it has permanent teeth buds (which are what your teeth develop from) under each tooth which are stimulated by the tooth falling out, causing another one to grow.
+Crocodile - the crocodile can also replace its teeth when it loses them but rather than having a 'conveyor belt' system like the shark, it has permanent teeth buds (which are what your teeth develop from) under each tooth which are stimulated by the tooth falling out, causing another one to grow.
 
 BEAKS
 
@@ -104,13 +104,11 @@ NOSES
 
 Possibly start by asking what is missing (nose, ears, eyes and other soft tissues) - they are not part of the skeleton, made of either cartilige or muscles and nerves. The kids can think about the differences in nose sizes, do they think that cats have a better sense of smell than dogs? etc (dogs are 10,000 times more sensitive to odors than humans). Apart from food, what else do animals need noses for? (smelling mould, predators, recognising family members, detecting when another animal is in heat). The sheep skull has large nasal cavities, with delicate rolls of (turbinate) bones, which support a large area of nasal epithelium (skin inside the nose) for many, many scent receptors and to reduce heat/moisture loss.
 
-Nose length varies in dog species-
+Nose length varies in dog species:
 
-Dolicephalic- long nosed breeds like greyhounds
-
-Brachycephalic- short nosed breeds like pugs
-
-Mesocephalic- medium nosed breeds like terriers
+- Dolicephalic- long nosed breeds like greyhounds
+- Brachycephalic- short nosed breeds like pugs
+- Mesocephalic- medium nosed breeds like terriers
 
 EYE PLACEMENT AND SIZE (particularly relevant to mammals)
 
@@ -131,7 +129,7 @@ Magpies are a member of the corvid family - group of birds including crows, jack
 
 Parrots also highly intelligent and have high brain size to body ratio - some have been shown to be able to associate words with their meanings and form simple sentences (e.g. Alex the African Grey), some species of parrots are highly skilled at using tools and solving puzzles.
 
-Pigeons, by contrast, seem to be less "intelligent". If a pigeon is taught that doing something (e.g. pecking at light A) leads to reward, and doing something else (e.g. pecking at light B) doesn't, then they can learn these rules, but if you change the rules around (e.g. pecking at A doesn't lead to a reward, and pecking at B does) they find it difficult to "reverse" their behaviour (whereas corvids and humans manage easily!) As pigeons are a similar size to magpies, comparing the size of these 2 skull's craniums is a good example of how cranial size can indicate intelligence. Another good comparison is the human and the chimpanzee.
+Pigeons, by contrast, seem to be less "intelligent". If a pigeon is taught that doing something (e.g. pecking at light A) leads to reward, and doing something else (e.g. pecking at light B) doesn't, then they can learn these rules, but if you change the rules around (e.g. pecking at A doesn't lead to a reward, and pecking at B does) they find it difficult to "reverse" their behaviour (whereas corvids and humans manage easily!) As pigeons are a similar size to magpies, comparing the size of these 2 skulls' craniums is a good example of how cranial size can indicate intelligence. Another good comparison is the human and the chimpanzee.
 
 NB Unlike most other apes, orangutans are shy, solitary animals. They live alone in large territories. This is probably due to their eating habits; they need a large area in order to get enough food and too many orangutans in one area might lead to starvation. However, they are very intelligent. They have been known to use found objects as tools; for example, they use leaves as umbrellas to keep the rain from getting them wet. They also use leaves as cups to help them drink water.
 
@@ -291,3 +289,4 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
+**Check 1**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
