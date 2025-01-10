@@ -29,7 +29,7 @@ Semaphore
 
 Paper Telephones and Envelopes
 - Two paper cups connected by string
-- X Third paper cup on a string
+- Third paper cup on a string
 - Some envelopes
 
 Ceaser Shifts
