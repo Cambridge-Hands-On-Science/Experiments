@@ -27,6 +27,9 @@ Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and doub
 <br/>
 
 ## Experiment explanation
+The first aim is to introduce children to the factors affecting plant growth. Ask them what is required for a plant to grow. Common answers are sunshine, water and soil. Ask them what plants need from each. Sunshine is needed for photosynthesis, which the plant needs to make sugar as food. Water is needed for a lot of things, most importantly for keeping plant cells turgid (explain that plant cells are basically like water balloons), which means the plant can stay upright and keep growing. Soil is not only where the plant stays anchored to, but also the place where the plant gets other nutrients apart from sugar - just like us plants cannot only eat sugar all day!
+
+Plants can also be affected by many issues. Pests can eat all parts of a plant. Bring out some photos of common pests (e.g. aphids, leaf miners) and ask them if they have seen these in the wild, for example they might have noticed that cars parked under lime trees get sticky in summer - this is because aphids love lime trees and suck sugary sap out of the trees all day! Ask them what the effect of these pests could be on the plant - some pests may only have a minor effect, but some can damage the parts of the plant needed to grow e.g. if the leaves are eaten the plant would no longer be able to grow. Some can also carry diseases. Examples include rose black spot, caused by a fungus, citrus canker, caused by a bacteria, and rhizomania (literally meaning crazy roots), caused by a virus. Ask them if they have seen these examples in real life e.g. in the garden, or in rotten fruit. 
 
 **Potato Blight**
 If potato blight hasn't been mentioned yet you might want to bring out a fake potato and ask what it is and any diseases. People may well have heard of the Irish Potato Famine even if they don't know the disease. Some key facts:
