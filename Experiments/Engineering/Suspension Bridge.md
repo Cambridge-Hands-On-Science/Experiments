@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024 by (@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -214,4 +214,4 @@ Call first aider if required.
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk),**Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk),**Check 2**: 2024--  (@cam.ac.uk)
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk),**Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
