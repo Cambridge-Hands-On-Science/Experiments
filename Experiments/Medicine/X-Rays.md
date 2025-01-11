@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-01-11 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-xx-xx by x y (xy@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,7 +35,7 @@ Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 How do X-rays work? You can talk about the production of X rays to older kids - it involves very high voltages across metal, releasing photons which travel along and get stopped by things which are dense and/or which have high molecular mass (this is why calcium shows up, and explains blood being somewhat radioopaque because of its iron content - you can see blood in the heart, and you can also visualise it on CT scans, which are just X-rays taken at loads of different levels and cunningly put together). The X-ray film starts white and becomes black where the photons hits it, therefore non-dense things, e.g. gas, look black on film and dense things, e.g. metal, stay looking white.
 
-Smaller kids will appreciate something a bit like light which can go through softer things eg. skin but not harder things eg bone, metal implants. Likening it to a shadow can be useful. Of course then explaining a barium enema can be tricky, but you could describe it as "special liquid which can be seen on X rays".
+Smaller kids will appreciate something a bit like light which can go through softer things e.g. skin but not harder things e.g. bone, metal implants. Likening it to a shadow can be useful. Of course then explaining a barium enema can be tricky, but you could describe it as "special liquid which can be seen on X rays".
 
 Basically, you can go through the X-rays however you like and develop your own spiel. Here are some ideas:
 
@@ -206,4 +206,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
- 
+ **Check 1**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
