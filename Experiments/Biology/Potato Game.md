@@ -116,15 +116,19 @@ Next, spin the wheel to determine the scenario.
 
 **Scenario 1: Drought**
 A terrible drought has come to the farm! Plant cells are like little balloons filled with water, which pushes the plant upright - without water a plant will wilt and die! Roll the die to determine how many potatoes die in each farm. 
+
 **Scenario 2: Pests**
 Humans like to eat potatoes, and so do all sorts of pests. Wireworms love to chew on potato tubers, while potato beetles love chewing on leaves. If you have used insecticides, congratulations! You do not lose any potatoes. Otherwise roll the die to determine how many potatoes die in each farm. 
-**Scenario 3: Disease**
 
-**Scenario 4: Poor soil**
+**Scenario 3: Poor soil**
+Plants need nutrients to grow. Unfortunately, there just isn't much in the soil. If you have used fertiliser, congratulations! Nothing happens and you still get your extra potato. Otherwise roll the die to determine how many potatos are lost. 
 
+**Scenario 4: Disease**
+(dear plantscis - if you have a better way of explaining plant pathogen interactions to kids please do suggest - xxx a biochem girlie)
 
 Discuss why people think organic food is better e.g. belief that food is healthier, better for the environment etc. 
 Ask them if they think these thoughts are valid - some people think using special genetically modified crops to prevent disease would make the potatoes unhealthy, but no proof for this claim exists. 
+
 Pesticides and fertilisers - more complicated. Pesticides can be dangerous for human health, and there are many strict laws to prevent the use of more dangerous types. The types that are allowed break down into safer compounds, and there are strict laws on the maximum allowed to stay on food. Similar strict rules exist for fertilisers. If not properly used, both could cause damage to the environment - pesticides could enter food chain, fertiliser could cause eutrophication - discuss if these risks are worth the benefits - non-organic crops typically have higher yields, which also mean more people can be fed with less land being used, which may paradoxically mean that more of the environment is protected.
 
 | Weather       | Sprayed | Resistant | Standard |
