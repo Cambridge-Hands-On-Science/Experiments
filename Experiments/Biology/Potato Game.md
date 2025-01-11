@@ -104,13 +104,28 @@ How it works.
 Each farmer has one field in which they can plant potatoes in.
 They each start with £4000 in cold hard cash (monopoly money).
 The game will last three months, in each of which some potatoes will die.
-Each child will start with 10 small potatoes. Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
+Each child will start with 15 small potatoes. Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
+
 There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £2000 for resistant and £1000 for standard. Explain that both varieties are the same except the resistant potatoes have a chance to not get sick. 
-Players can then opt to spray pesticides or not spray, spraying will reduce their potato loss if disease hits, but the potatoes would be worth only £800 (some people pay more for organic produce -discuss possible environmental effects). It costs £500 to spray.
- 
-WIP WIP WIP 
-The following table says how many potatoes are lost in each risk/spray/resistant combination.
-Each month farmers will spin the weather spinner which will predict the amount of blight risk that month.
+Players can then opt to spray pesticides or not spray, spraying will reduce their potato loss if disease hits. It costs £500 to spray.
+Players can also opt for fertilisers, which will give them an extra potato each round and immunity to poor soil conditions. This costs £1000. 
+
+The catch - some people prefer organic potatoes, and will pay more for them if you let them grow without using any of the above! Each potato at the end of the game is worth £100 less for each of the above used - discuss at the end of the game why people think so and what the overall impact of each strategy is.
+
+Next, spin the wheel to determine the scenario. 
+
+**Scenario 1: Drought**
+A terrible drought has come to the farm! Plant cells are like little balloons filled with water, which pushes the plant upright - without water a plant will wilt and die! Roll the die to determine how many potatoes die in each farm. 
+**Scenario 2: Pests**
+Humans like to eat potatoes, and so do all sorts of pests. Wireworms love to chew on potato tubers, while potato beetles love chewing on leaves. If you have used insecticides, congratulations! You do not lose any potatoes. Otherwise roll the die to determine how many potatoes die in each farm. 
+**Scenario 3: Disease**
+
+**Scenario 4: Poor soil**
+
+
+Discuss why people think organic food is better e.g. belief that food is healthier, better for the environment etc. 
+Ask them if they think these thoughts are valid - some people think using special genetically modified crops to prevent disease would make the potatoes unhealthy, but no proof for this claim exists. 
+Pesticides and fertilisers - more complicated. Pesticides can be dangerous for human health, and there are many strict laws to prevent the use of more dangerous types. The types that are allowed break down into safer compounds, and there are strict laws on the maximum allowed to stay on food. Similar strict rules exist for fertilisers. If not properly used, both could cause damage to the environment - pesticides could enter food chain, fertiliser could cause eutrophication - discuss if these risks are worth the benefits - non-organic crops typically have higher yields, which also mean more people can be fed with less land being used, which may paradoxically mean that more of the environment is protected.
 
 | Weather       | Sprayed | Resistant | Standard |
 |---------------|---------|-----------|----------|
