@@ -29,7 +29,7 @@ Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and doub
 **Plant Diseases** 
 The first aim is to introduce children to the idea of plants getting diseases, what might cause them, what effects it could have on us, and how we can treat them, etc. Here are some ideas of leading questions you could ask:
 - Can plants get diseases/sick? - Yes!
-- What might cause a plant to get sick? Bacteria, fungs, virus, environmental factors, pests
+- What might cause a plant to get sick? Bacteria, fungi, virus, environmental factors, pests
 - What might a sick plant look like? - Losing leaves, unusual colour, unusual growth, mold, (see photos)
 - Have you seen a diseased plant? What symptoms did it have? - mouldy fruit, cankers on trees
 - How might we treat plant diseases? (How do we treat human diseases?) - antibiotics, fungicides, quarantine, and (hopefully not in humans) selective breeding, genetic modification
@@ -102,14 +102,15 @@ We're now going to play a game to show how hard it is to balance protecting crop
 How it works.
 
 Each farmer has one field in which they can plant potatoes in.
-They each start with £4050 in cold hard cash. (Ideally 3 x £1000 notes, 3 x £350 notes as these match the payments they'll need to make)
+They each start with £4000 in cold hard cash (monopoly money).
 The game will last three months, in each of which some potatoes will die.
-Each child will start with 100 potatoes. You probably need to set an exchange rate between big/small/tokens.Big potatoes are worth 25, small potatoes 5, and tokens 1. You will need to act as the bank and exchange down potatoes as they get blighted.
-There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £3000 for resistant and £2000 for standard.
-Each month farmers will spin the weather spinner which will predict the amount of blight risk that month.
-Players can then opt to spray fungicide or not spray, spraying will reduce their potato loss that month. It costs £350 to spray.
+Each child will start with 10 small potatoes. Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
+There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £2000 for resistant and £1000 for standard. Explain that both varieties are the same except the resistant potatoes have a chance to not get sick. 
+Players can then opt to spray pesticides or not spray, spraying will reduce their potato loss if disease hits, but the potatoes would be worth only £800 (some people pay more for organic produce -discuss possible environmental effects). It costs £500 to spray.
+ 
+WIP WIP WIP 
 The following table says how many potatoes are lost in each risk/spray/resistant combination.
-
+Each month farmers will spin the weather spinner which will predict the amount of blight risk that month.
 
 | Weather       | Sprayed | Resistant | Standard |
 |---------------|---------|-----------|----------|
