@@ -2,7 +2,7 @@
 
 **How can we use arches to hold up a cathedral?** - See how simple shapes can fit together to hold up a large structure, like a cathedral!
 
-Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on  by  (@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -206,4 +206,4 @@ Resolving forces - how adding weights/using thicker walls, stops the roof from c
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
 
-**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024 -  (@cam.ac.uk)
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
