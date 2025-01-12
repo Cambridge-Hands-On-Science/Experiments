@@ -197,7 +197,7 @@ All solutions to be prepared in advance of the lecture using the control measure
 
 **Affected People**: Lecturer
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 **Mitigation**: Only trained lecturer to handle solution. Lecturer to wear nitrile gloves and eye protection while preparing solution. Bottles to be sealed and kept well away from the demonstration while it is taking place. Lecturer to wear eye protection and spray the solutions in a fine mist to ensure complete combustion, away from the audience and towards a safety screen. If solution gets in eyes, irrigate for at least 20 minutes.
 
