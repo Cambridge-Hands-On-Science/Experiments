@@ -183,3 +183,6 @@ Call first aider in case of injury.
 **Check 1**: 2023-02-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
+
+**Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**:
+
