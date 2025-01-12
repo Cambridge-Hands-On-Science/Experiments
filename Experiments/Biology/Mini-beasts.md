@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on
+Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -114,13 +114,13 @@ In case of accident, call first aider.
 
 ### **Hazard**: TV
 
-**Description**: Microscope is a heavy object which could cause injury if falls, electrical risk (especially in connection with water and sea water) - sea water contains more ions and conducts electricity better than fresh water.
+**Description**: Microscope is a heavy object which could cause injury if falls, electrical risk.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Place TV away from the edges of table, preferably against a wall so that it cannot be knocked off easily. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put TV near water, especially sea water. See separate electrical parts risk assessment. 
+**Mitigation**: Place TV away from the edges of table, preferably against a wall so that it cannot be knocked off easily. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put TV near water. See separate electrical parts risk assessment. 
 Switch off power at mains if a problem arises with the TV. Clear the area of people and call first aider if anyone is injured. In case of electrocution, do not go near casualty. Try to isolate the power without danger to yourself, and call ambulance.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -129,33 +129,19 @@ Switch off power at mains if a problem arises with the TV. Clear the area of peo
 
 ### **Hazard**: Lamps
 
-**Description**: Hot objects which could cause burns, electrical risk (especially in connection with water and sea water).
+**Description**: Hot objects which could cause burns, electrical risk (especially in connection with water).
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Only switch lamps on when necessary. Do not touch and warn visitors not to touch them either. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put lamps near water, especially sea water. See separate electrical parts risk assessment.
+**Mitigation**: Only switch lamps on when necessary. Do not touch and warn visitors not to touch them either. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put lamps near water. See separate electrical parts risk assessment.
 If person gets a burn, run tepid water over affected area for at least 10 minutes, and call a first aider. Switch off power at mains if you suspect an electrical problem. Call first aider if there is a casualty.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
-### **Hazard**: Sea water collection
-
-**Description**: Risk from tide.
-
-**Affected People**: Demonstrators
-
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
-
-**Mitigation**: Demonstrators only to collect sea water, and only if it is safe to do so (eg. don't go in a place where the tide is about to trap you). Cover cuts. Wash hands well afterwards. Ensure that if the volunteer gets wet they warm up properly.
-Contact GP should illness develop. Call a first aider in case of injury.
-
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-<br/>
 
 ## Risk Assessment Check History 
 
@@ -184,3 +170,5 @@ Contact GP should illness develop. Call a first aider in case of injury.
 **Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
