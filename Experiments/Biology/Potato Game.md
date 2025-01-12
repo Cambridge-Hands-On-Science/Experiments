@@ -1,6 +1,6 @@
 # The Potato Game
 
-**Learn about potato blight and other plant diseases** - It's not just animals that catch diseases, plants can also get sick! Find out how these diseases affect farmers, the environment and our food supply. 
+**Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
 Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-03-15 by Lauren Mason (llm34@cam.ac.uk)
 
