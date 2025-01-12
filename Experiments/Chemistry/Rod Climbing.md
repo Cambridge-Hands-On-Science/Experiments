@@ -141,4 +141,4 @@ Call first aider in event of injury
 
 **Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-12 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 Katie Ward (cw848@cam.ac.uk)
