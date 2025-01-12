@@ -168,4 +168,4 @@ Call first aider in the event of an emergency.
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 Katie Ward (cw848@cam.ac.uk)
