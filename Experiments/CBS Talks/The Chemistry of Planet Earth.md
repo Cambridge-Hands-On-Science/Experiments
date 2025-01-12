@@ -2,7 +2,7 @@
 
 **Explore what happens in the world's largest chemistry lab** - CBS Talk first given by Peter Methley in 2025
 
-Last initially checked on ??? by Peter Methley (pm631@cam.ac.uk) and double-checked on ??? by ??? (???)
+Last initially checked on 12/01/2025 by Peter Methley (pm631@cam.ac.uk) and double-checked on ??? by ??? (???)
 
 **Frequency of use:** n/a
 
@@ -391,6 +391,6 @@ All solutions to be prepared in advance of the lecture using the control measure
 
 ## Risk Assessment Check History
 
-**Check 1**: ??? - Peter Methley (pm631@cam.ac.uk), **Check 2**: ??? - ??? (???)
+**Check 1**: 12/01/2025 - Peter Methley (pm631@cam.ac.uk), **Check 2**: ??? - ??? (???)
 
 <!-- (duplicate as necessary) -->
