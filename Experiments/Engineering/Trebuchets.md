@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2024-12-27 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 202 by (@cam.ac.uk).
+Last initially checked on 2024-12-27 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -85,7 +85,7 @@ The spagetti spoon end should be on the same side of the base which has the smal
 **Mitigation**: Instruct kids and demonstrators to fire the trebuchet by standing to one side and pulling out the firing pin. Do not let them stand over it and put their face in the way. Safety goggles should be available for anyone who wants them.
 In the event of an accident, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 <br/>
 
@@ -192,4 +192,4 @@ Call first aider if required.
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024- -  (@cam.ac.uk)
+**Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)

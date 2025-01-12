@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2023-12-31 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -21,7 +21,7 @@ Last initially checked on 2023-12-31 by Chiara Delpiano-Cordeiro (cd796@cam.ac.u
 - Lego Mindstorms EV3 Robot kit (There are four robots in two cases)
 - 18 x AA Batteries  (Currently there are 16 rechargeable and 2 non rechargeable)
 - 2 x Recharge stations
-- 1 x Green fabric with blue fabric "pond" sewn on
+- 1 x Green fabric with blue fabric "pond" sewn on (this has been replaced by a paper version)
 - Worshops:
 - 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from University of Cambridge Engineering Department
 - 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Cambridge Engineering Department
@@ -184,7 +184,7 @@ In case of an accident, turn off power at the mains, do not touch any other comp
 
 **Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
 
-**Mitigation**: All participants will be monitored regularly by demonstrators to ensure they do not put Lego in their mouths. The robots are largely pre-built, minimising visitors’ use of individual parts, and any modifications will be supervised by a demonstrator. Particularly young children will be supervised closely and if at CBS, will also be under parental supervision, though it is unlikely that very young children will be present as the workshop is targeted at older children. 
+**Mitigation**: All participants will be monitored regularly by demonstrators to ensure they do not put Lego in their mouths. The robots are largely pre-built, minimising visitors’ use of individual parts, and any modifications will be conducted by a demonstrator. Particularly young children will be supervised closely and if at CBS, will also be under parental supervision, though it is unlikely that very young children will be present as the workshop is targeted at older children. Any spare parts should be kept well away from participants and only used to repair robots in between sessions.
 
 Call a first aider if choking occurs.
 
@@ -201,7 +201,7 @@ children/sitting children.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Robots should be used on the floor unless they are immobile or all children present are standing and have their heads above the edge of the table. Laptops if used on tables shouldn’t be moving around, and should be far enough away from table edges. 
+**Mitigation**: Robots should be used on the floor unless they are immobile or all children present are standing and have their heads above the edge of the table. Laptops if used on tables shouldn’t be moving around, and should be far enough away from table edges. At CBS, parents and demonstrators should be asked to monitor this closely.
 
 Call a first aider if required.
 
@@ -262,3 +262,5 @@ Immediately stop robot if anything is caught in motors. Call a first aider if re
 **Check 1**: 2023-01-21 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
