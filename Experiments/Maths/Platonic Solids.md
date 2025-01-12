@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk)
+Last initially checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk) and double-checked on _________ by _____________
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
