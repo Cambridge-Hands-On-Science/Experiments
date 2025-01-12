@@ -39,7 +39,17 @@ Last initially checked on 2024-02-04 by Peter Methley (pm631@cam.ac.uk) and doub
 - DNA model in box. Roughly 1.4bn times bigger than real life (if my maths + memory is correct).
 
 **Should I use a kiwi or a strawberry?**
-need to research -MJ
+-----------
+Strawberries seem to work slightly better, possibly simply due to the colour of the solution making the DNA layer more visible. In the past we have been struggling with picking up the DNA with both fruits - we may be lying to children about actually extracting DNA but it's getting them excited about science that matters :) However, there are some reasons why you would want to use kiwi instead of strawberry.
+
+Longevity - kiwis are quite sturdy and can sit around for up to one week without refrigeration, strawberries last one to two days before getting mouldy.  
+
+Prices as of Jan 2025 - Kiwi - £2.87/kg, strawberry - £8.33/kg 
+
+With the number of kiwis/strawberries needed the price should not be a major concern unless we are not sure if a demostrator wants to use this experiment!
+
+Conclusion - use strawberries when it has been confirmed that the experiment is being used e.g. CBS, winter tour, or if a demonstrator has expressed interest before shopping during summer tour. Kiwis can be kept as backup during summer tour. 
+
 
 
 Overview
