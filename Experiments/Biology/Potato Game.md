@@ -19,10 +19,10 @@ Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and doub
 ## Equipment Needed 
 - Fake Potatoes
 - Fake Money
-- Weather Spinner Printout (or a four-sided dice)
+- Spinner Printout (or a four-sided dice)
 - Dice
 - Pathogen and immunity cards
-- Coffee beans, rice, kitchen scales (to be found), and 4 lidded Tupperware. 
+- Pictures of diseases and pests
 
 <br/>
 
@@ -31,25 +31,6 @@ The first aim is to introduce children to the factors affecting plant growth. As
 
 Plants can also be affected by many issues. Pests can eat all parts of a plant. Bring out some photos of common pests (e.g. aphids, leaf miners) and ask them if they have seen these in the wild, for example they might have noticed that cars parked under lime trees get sticky in summer - this is because aphids love lime trees and suck sugary sap out of the trees all day! Ask them what the effect of these pests could be on the plant - some pests may only have a minor effect, but some can damage the parts of the plant needed to grow e.g. if the leaves are eaten the plant would no longer be able to grow. Some can also carry diseases. Examples include rose black spot, caused by a fungus, citrus canker, caused by a bacteria, and rhizomania (literally meaning crazy roots), caused by a virus. Ask them if they have seen these examples in real life e.g. in the garden, or in rotten fruit. 
 
-**Potato Blight**
-If potato blight hasn't been mentioned yet you might want to bring out a fake potato and ask what it is and any diseases. People may well have heard of the Irish Potato Famine even if they don't know the disease. Some key facts:
-- Potato late blight is caused by the pathogen Phytophthora infestans. It’s an oomycete, which are often described as ‘water moulds’ and are closely related to algae.
-- It infects potatoes (surprise) but also tomatoes.
-- Early symptoms are, dark spots appear on leaves and stems. Then, white mould appears under the leaves (Image 2) and the whole plant can quickly collapse.
-- Infected tubers (the bit we eat) develop dark patches that are brown beneath the skin and then rapidly decay into mush.
-- The disease caused the Irish Potato Famine (1845-57). Potatoes were the Irish staple crop and the loss caused over 1 million deaths and another 1 million people left Ireland due to the food shortages.
-- While that strain has died out other strains of P. Infestans cause around $5 billion of potato losses each year.
-- P. infestans produces spore pockets called sporangia. The sporangia on leaves (white bit of picture) can also be blown through the wind and enter soil as leaves are washed.
-- Sporangia can produce zoospores under wet and cool conditions. Zoospores are able to swim through water and soil. When they contact another plant they can infect it.
-- P. infestans also produces oospores which have thick walls and can survive over winter, reinfecting the next crop when planted.
-- Oospores are sexual, allowing different strains to mix increasing diversity.
-- Sporangia can complete thier life cycle in 5 days. They start to form when temperatures are above 10C and humidity above 75% for 2 days. Wind can help spores spread long distances. Farmers monitor for these conditions.
-How to avoid the disease:
-- Farmers can avoid the disease by completely removing infected plants as soon as they are discovered.
-- Ensure seeds come from disease-free areas.
-- Spraying fungicides. Although this is expensive and encourages resistant oospore varieties.
-- Plant blight resistant potato varieties. Although there are many strains and each variety is only immune to certain strains, so is vulnerable to others.
-- Farmers can look at the weather to predict when is the highest risk.
 
 **The Potato Game**
 We're now going to play a game to show how hard it is to balance protecting crops with making money. You're all going to be farmers and make the same decisions with the goal of making as much money as possible.
@@ -70,17 +51,32 @@ The catch - some people prefer organic potatoes, and will pay more for them if y
 Next, spin the wheel to determine the scenario. 
 
 **Scenario 1: Drought**
+
 A terrible drought has come to the farm! Plant cells are like little balloons filled with water, which pushes the plant upright - without water a plant will wilt and die! Roll the die to determine how many potatoes die in each farm. 
 
 **Scenario 2: Pests**
+
 Humans like to eat potatoes, and so do all sorts of pests. Wireworms love to chew on potato tubers, while potato beetles love chewing on leaves. If you have used insecticides, congratulations! You do not lose any potatoes. Otherwise roll the die to determine how many potatoes die in each farm. 
 
 **Scenario 3: Poor soil**
+
 Plants need nutrients to grow. Unfortunately, there just isn't much in the soil. If you have used fertiliser, congratulations! Nothing happens and you still get your extra potato. Otherwise roll the die to determine how many potatoes are lost. 
 
 **Scenario 4: Disease**
+
 (dear plantscis - if you have a better way of explaining plant-pathogen interactions to kids please do suggest - xxx an ex-plantsci girlie)
-Plants get sick too! Unlike humans who have an immune system that can learn to fight off a disease after having it once (which is why vaccines work for us!), plants are basically "born" with a set of tools for fighting off disease. If you chose disease resistant potatoes, congratulations! No potatoes lost. Otherwise, players draw one of three "resistance" cards and one of three "pathogen" cards. If the receptor on the resistance card matches the pathogen card, your crop can recognise the disease and fight it off! Otherwise, roll the dice to decide how many potatoes are lost. 
+Plants get sick too! Unlike humans who have an immune system that can learn to fight off a disease after having it once (which is why vaccines work for us!), plants are basically "born" with a set of tools for fighting off disease. 
+
+Some facts about potato blight: 
+- Potato late blight is caused by the pathogen Phytophthora infestans. It’s an oomycete, which are often described as ‘water moulds’ and are closely related to algae.
+- It infects potatoes (surprise) but also tomatoes.
+- Early symptoms are, dark spots appear on leaves and stems. Then, white mould appears under the leaves (Image 2) and the whole plant can quickly collapse.
+- Infected tubers (the bit we eat) develop dark patches that are brown beneath the skin and then rapidly decay into mush.
+- The disease caused the Irish Potato Famine (1845-57). Potatoes were the Irish staple crop and the loss caused over 1 million deaths and another 1 million people left Ireland due to the food shortages.
+
+If you chose disease resistant potatoes, congratulations! No potatoes lost. Otherwise, players draw one of three "resistance" cards and one of three "pathogen" cards. If the receptor on the resistance card matches the pathogen card, your crop can recognise the disease and fight it off! Otherwise, roll the dice to decide how many potatoes are lost. 
+
+
 
 At the end of the game (3 months) you should pay out for the potatoes left and see who's got the most money. Each potato with no controls used is worth £1000, deduct £100 from the price of each potato for each control measure used. 
 
@@ -119,17 +115,17 @@ There's also supply and demand which will factor in.
 
 <br/>
 
-### **Hazard**: Food items
+### **Hazard**: Dirty tokens 
 
-**Description**: People may be allergic to coffee or rice. 
+**Description**: Children play with the tokens and may spread germs, other children may want to eat the potatoes and spread germs. 
 
-**Affected People**: all
+**Affected People**: Children
 
-**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Warn people about coffee/rice before doing the experiment. Airbourne rice/coffee allergies are extremely rare and most allergies require physical contact allowing someone else to take part in that demo. Demo can be skipped if allergy known.
+**Mitigation**: Supervise children closely. Stop children from licking or chewing foam potatoes. Don't do the full game with very young children. Encourage children to wash hands after using the experiment. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
