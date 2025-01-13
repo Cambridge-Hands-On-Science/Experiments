@@ -2,7 +2,7 @@
 
 **Plants - looking at germination, their structure and how they produce energy by photosynthesis** - nan
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-13 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-13 by Smiley Chan (scc93@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
