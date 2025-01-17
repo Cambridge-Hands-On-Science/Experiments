@@ -2,7 +2,7 @@
 
 **Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2024-02-18 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2024-02-19 by (lb831@cam.ac.uk)
+Last initially checked on 2025-01-12 by Margaret Johncock (mlly2@cam.ac.uk) and double-checked on 2024-02-19 by ???(lb831@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -150,6 +150,19 @@ Call a first aider in the event of reaction.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
+</br>
+
+### **Hazard**: Poor storage
+
+**Description**: Solutions containing sugar can cause harmful mould and bacteria to grow if not cleaned properly.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Wash containers for solutions after each day of demonstrating. Dispose of containers that are mouldy.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 <br/>
 
 ## Risk Assessment Check History 
@@ -175,3 +188,5 @@ Call a first aider in the event of reaction.
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-16 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk),

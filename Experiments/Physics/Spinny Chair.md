@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-01-04 by Lucy Bland (lb831@cam.ac.uk)
+Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-11 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -190,7 +190,7 @@ Call a first aider in the case of an injury.
 
 ### **Hazard**: Bicycle wheel
 
-**Description**: Bicycle wheel is fairly heavy, and could damage people if dropped.
+**Description**: Bicycle wheel is fairly heavy, and could injure people if dropped.
 
 **Affected People**: All
 
@@ -235,4 +235,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),
+**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),**Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)

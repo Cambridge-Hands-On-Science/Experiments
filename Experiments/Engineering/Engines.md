@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024 by (@cam.ac.uk).
+Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -134,6 +134,7 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
+
 ### **Hazard**: Sharp edges
 
 **Description**: Sharp edges may cause injuries if Stirling engine is dismantled.
@@ -198,4 +199,4 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
 
-**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024 -  (@cam.ac.uk)
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)

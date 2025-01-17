@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by xxx (???@cam.ac.uk)
 
 ## Tags
 
@@ -244,3 +244,5 @@ In case of injury, call first aider.
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk),

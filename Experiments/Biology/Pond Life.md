@@ -2,7 +2,7 @@
 
 **A selection of organisms from a local pond or rock pool** - nan
 
-Last initially checked on 2024-12-24 by Smiley Chan (scc93@cam.ac.uk) and doubled checked on ...
+Last initially checked on 2024-12-24 by Smiley Chan (scc93@cam.ac.uk) and doubled checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -159,4 +159,4 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk),  **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2024-12-24 - Smiley Chan (scc93@cam.ac.uk), 
+**Check 1**: 2024-12-24 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
