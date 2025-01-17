@@ -2,7 +2,7 @@
 
 **Make fascinating bubbles which rather than floating on water actually sink.**
 
-Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ Drip the saltwater from the wash bottle onto the top of the tank from 5-10cm abo
 
 Now do the same thing looking into the side of the tank, for a couple of hundred drops, does anything interesting appear?
 
-What may Happen
+What May Happen
 ---------------
 
 
@@ -57,7 +57,7 @@ What is going on?
 You are creating what are known as antibubbles. A conventional bubble is air surrounded by a thin film of water in air, an antibubble is the other way around, water surrounded by a thin film of air in water.
 Both types of bubble are highly unstable in pure water because water molecules attract one another very strongly and try to minimise the surface area of the liquid. Detergent molecules have one end which is very attracted to water and a long oily tail which is repelled by it. so they cover the surface of the bubble stabilising it.
 
-The air in an antibubble will cause it to float gently so they would be hard to tell from conventional bubbles. The salt weighs them down so they sink and you can tell the difference.
+The air in an antibubble will cause it to float gently so they would be hard to tell from conventional bubbles. The salt weighs them down so they sink and you can tell the difference (can talk about how things heavier than water will sink, and things lighter will float).
 
 The antibubbles seem to form best when they are dropped onto water that is falling so the impact is less violent.
 
@@ -119,3 +119,4 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
+**Check 1**: 2025-01-17 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
