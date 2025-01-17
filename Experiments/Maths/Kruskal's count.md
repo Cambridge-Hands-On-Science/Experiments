@@ -2,7 +2,7 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-17 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -75,8 +75,9 @@ After you've shuffled and layed out the deck, pick one of the first 9 cards and 
 
 There's now roughly a 85% chance that any card picked on the first row will lead to this particular card. The reason for this is much like the first part, that there are many routes to one card, but only one route off of it. I suggest getting the first volunteer to do it on their own, when you can astound them by guessing where they'll end up, and then letting the rest all go together, and they may begin to notice that they've all grouped together long before the end.
 
-P(success)~1-(1-x^-2)^N 
-x = average card value N=number cards
+$\text{P}(\text{success}) \sim 1 - (1-x^{-2})^N$
+
+$x$ = average card value, $N$ = number cards
 
 Again you can experiment with changing the rules and see how well your guesses work. Adding more cards or reducing the step length will increase your likelihood of being right, simply put, the more steps people take, the more likely they are to coincide.
 
@@ -168,3 +169,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-01-17 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
