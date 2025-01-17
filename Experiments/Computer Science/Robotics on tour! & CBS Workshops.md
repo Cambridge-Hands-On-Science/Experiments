@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -69,7 +69,7 @@ Orange Tab, 3 along. This is the "Loop" Block. Loops are an important concept in
 
 Orange Tab, 4 along. This is the "Switch" block and is the most interesting block I frequently use as it allows the robot to make decisions based on inputs. I use the colour sensor but if you wanted to make modifications there is potential for other sensors to be used. If you want to follow the edge of a colour I would recommend using compare colour. If you wanted to stay with in a coloured area separated by two different colours you would use measure colour. Compare is more reliable as it can tell whether or not something is a certain colour quite well, but with measure it can be hard to determine what the robot will decide it is e.g. purple when you are asking it to choose between red and blue. The two 'paths' of the switch should have the robot turning different directions or travelling in different directions in order for something interesting to be observed.
 
-There's full support for variables (but that doesn't mean you want to use them and it's easier if you don't however for advanced groups) you drop a variable box to create a variable ad it's name is in the upper right and it's data type in the lower left. Operations performed using maths boxes and the lower left box sets the operation and the next two boxes the arguments, these can be variables connected via a data wire. The output can be saved as a variable using a data wire and setting data type as write number.
+There's full support for variables (but that doesn't mean you want to use them and it's easier if you don't however for advanced groups you drop a variable box to create a variable, it's name is in the upper right and it's data type in the lower left). Operations performed using maths boxes and the lower left box sets the operation and the next two boxes the arguments, these can be variables connected via a data wire. The output can be saved as a variable using a data wire and setting data type as write number.
 
 **Demonstrating:** 
 
@@ -263,4 +263,5 @@ Immediately stop robot if anything is caught in motors. Call a first aider if re
 
 **Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
+
