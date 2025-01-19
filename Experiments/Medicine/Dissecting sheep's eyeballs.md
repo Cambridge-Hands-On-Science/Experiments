@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-15 by ??? (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,7 +24,7 @@ Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and
 Consumables:
 - Sheep's Eyeballs, ordered from Blades (~25 required for CBS)
 - Non-latex gloves
-- Yellow clinical waste bags/other disposal system as appropriate and agreed with Zoology staff
+- Yellow clinical waste bags/other disposal system as appropriate and agreed with Chemistry staff
 
 <br/>
 
@@ -96,6 +96,7 @@ The retinal cells contain a photopigment (opsins) that absorbs light and produce
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Demonstrator to wear eye protection and to ensure that cutting does not take place close to where children are standing, especially during the first incision, when spurting is possible. Nitrile or neoprene gloves (NOT LATEX) to be worn by all who might touch the eyeballs.
+
 Call first aider if preservative goes in eyes. Demonstrator can administer eye wash if trained and confident to do so. Wash preservative off skin with ample water.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -111,6 +112,7 @@ Call first aider if preservative goes in eyes. Demonstrator can administer eye w
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 **Mitigation**: Two demonstrators present, one to demonstrate, the other to mainly check that children aren't trying to take things or get hold of scalpels etc, and to look after people who faint. 
+
 If equipment gets stolen, assisting demonstrator to relocate it and inform committee (especially if a scalpel has been taken).
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
@@ -127,7 +129,7 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Mitigation**: Clearly signed and "separated" area for dissection, to keep away squeamish people. Chair nearby for light-headed-feeling people - may be preferable for them to sit on the floor as people can still faint off chairs. Call a first aider in case of fainting. Before starting demonstration, tell the public to let you know if they are feeling light-headed. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -135,7 +137,7 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Description**: Risk of infection when open wounds are exposed to fluids from the eyeball or if fluids from the tissue are ingested. 
 
-**Affected People*: Demonstrator
+**Affected People**: Demonstrator
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
@@ -187,3 +189,4 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
 
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
