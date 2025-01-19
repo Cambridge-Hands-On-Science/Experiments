@@ -2,7 +2,7 @@
 
 **Large working model of a hand and forearm, with all the tendons to show how a hand works.** - Take control of an <em>enormous</em> hand, playing the part of the muscles that control it! Can you work out how to make a fist? Why are there tendons running down both sides of the fingers?  And exactly how are your thumbs different to your fingers?
 
-Last initially checked on 2024-02-14 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-1 by Asmita Niyog (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,7 +79,7 @@ Additional stuff:
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Do not allow the kids to touch the hand itself when someone is pulling the tendons. 
+**Mitigation**: Do not allow the kids to touch the hand itself when someone is pulling the tendons and do not allow the kids to pull the strings when you are manipulating the hand.
 
 Call a first aider in case of accident.
 
@@ -111,7 +111,7 @@ Call a first aider in the event of injury.
 
 **Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
 
-**Mitigation**: Do not let the people pulling the tendons get too violent. Hold on to the model to prevent it from sliding along the desk, or place it on the floor if possible.
+**Mitigation**: Do not let the people pulling the tendons get too violent. Do not let the kids pull multiple strings at once. Hold on to the model to prevent it from sliding along the desk, or place it on the floor if possible.
 
 Ensure kids are behaving sensibly. Inform people to be away from the hand model while someone is pulling the tendons.
 
@@ -148,4 +148,6 @@ Call first aider in case of injury.
 **Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
  
