@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners!** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-40 by Emily Wolfenden (elw74@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-40 by ??? (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -172,7 +172,7 @@ In case of injury, call first aider. Do not attempt to move anything lodged in t
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Keep wire snips hidden during demonstrating - they're only used to prepare pipe cleaners beforehand so don't need to be out.
+**Mitigation**: Keep wire snips hidden during demonstrating - they're only used to prepare pipe cleaners beforehand so don't need to be out. Do not put your finger in the wire snips.
 
 In case of injury, call a first aider.
 
@@ -207,3 +207,5 @@ In case of injury, call a first aider.
 **Check 1**: 2023-02-05 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-04 - Emily Wolfenden (elw74@cam.ac.uk)
+
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
