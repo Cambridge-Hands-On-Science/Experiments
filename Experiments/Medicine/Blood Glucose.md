@@ -2,7 +2,7 @@
 
 Learn about diabetes and try using a handheld blood glucose meter.
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-04 by Emily Wolfenden (elw74@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-04 by ??? (elw74@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,6 +53,10 @@ Talk about diabetes in general. Use the charts to explain how blood glucose vari
 *USING THE METER* - this is very simple. Press the large on button and insert a new single-use test strip. Apply a tiny drop of solution to the end of the strip – not on top of the flat part, but poking the thin end into the droplet so it can be drawn in to the capillary. It may be easiest to do this by placing a small droplet of the solution onto the child’s (clean – this isn’t going to work if they’re covered in chocolate) finger/back of hand and then poking the test strip in to it as if it were a real drop of blood.
  
 **Background information:**
+
+**Glucose**
+
+Talk about what glucose is. Kids will know what sugars are, and, depending on age, may know what carbohydrates are. Explain that when you eat sugars/carbohydrates they get broken down into tiny bits (glucose) so that cells can use them. The amount of glucose in the blood is controlled by insulin (older kids may know what a hormone is) - use this to go onto diabetes.
 
 **Diabetes Mellitus** (from Wikipedia)
 
@@ -181,3 +185,5 @@ In case of injury call first aider.
 **Check 1**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2023-07-03 - Andrew Sellek (ads79@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-04 - Emily Wolfenden (elw74@cam.ac.uk)
+
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
