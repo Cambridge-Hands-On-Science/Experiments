@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2024-02-15 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk) 
+Last initially checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -162,13 +162,13 @@ In case of a child (or adult) tripping over, call first aider.
 
 ### **Hazard**: Magnifying Glass
 
-**Description**: Kids (or demonstrators!) may set fire to paper or dry grass if very sunny day.
+**Description**: Kids (or demonstrators!) may set fire to paper or dry grass if very sunny.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things
+**Mitigation**: Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -201,3 +201,6 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+
