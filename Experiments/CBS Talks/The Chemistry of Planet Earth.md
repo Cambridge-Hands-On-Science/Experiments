@@ -1,8 +1,8 @@
 # The Chemistry of Planet Earth
 
-**Explore what happens in the world's largest chemistry lab** - CBS Talk first given by Peter Methley in 2025
+**Explore what happens in the world's largest chemistry lab** - CBS Talk (first) given by Peter Methley in 2025
 
-Last initially checked on 12/01/2025 by Peter Methley (pm631@cam.ac.uk) and double-checked on ??? by ??? (???)
+Last initially checked on 12/01/2025 by Peter Methley (pm631@cam.ac.uk) and double-checked on 17/01/2025 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Frequency of use:** n/a
 
@@ -48,7 +48,7 @@ Last initially checked on 12/01/2025 by Peter Methley (pm631@cam.ac.uk) and doub
 - 500ml bottle of cola
 - Pack of Mentos
 - Universal indicator solution
-- Dry ice (ask chemistry about it)
+- Dry ice (some in Jessica's lab)
 - White vinegar
 
 **Borrow from Peter's lab**
@@ -391,6 +391,6 @@ All solutions to be prepared in advance of the lecture using the control measure
 
 ## Risk Assessment Check History
 
-**Check 1**: 12/01/2025 - Peter Methley (pm631@cam.ac.uk), **Check 2**: ??? - ??? (???)
+**Check 1**: 12/01/2025 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 17/01/2025 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->

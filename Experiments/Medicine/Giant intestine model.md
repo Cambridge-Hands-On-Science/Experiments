@@ -2,7 +2,7 @@
 
 **Functional model of the intestine** - Everyone knows that your intestines are long, but how long is long? Find out with our scale fabric model, and you might be surprised!
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by ??  (ig419@cam.ac.uk)
+Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -138,13 +138,13 @@ Call first aider in case of accident
 
 ### **Hazard**: Stretched intestines
 
-**Description**: Risk of tripping and falling if child runs across room to stretch the intestine out (especially if stopped suddenly by reaching the end of the intestine); risk of other people tripping on stretched intestines.
+**Description**: Risk of tripping and falling if child runs across room to stretch the intestine out (especially if stopped suddenly by reaching the end of the intestine); risk of other people tripping on stretched intestines. 
 
 **Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Supervise children carefully, only allow them to walk (not run) across the room and do not allow it at all if there is insufficient space or the room is busy. 
+**Mitigation**: Supervise children carefully, only allow them to walk (not run) across the room and do not allow it at all if there is insufficient space or the room is busy. Do not allow children to attempt to jump or limbo under the intestine.
 
 Call first aider in case of accident
 
@@ -196,5 +196,5 @@ Call first aider in case of accident
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk),**Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk),**Check 2**: 2024-02-15 - ???? (ig419@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk),**Check 2**: 2025-01-19 Marin Lee (ml2072@cam.ac.uk)
 

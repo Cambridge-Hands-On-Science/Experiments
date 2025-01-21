@@ -2,7 +2,7 @@
 
 **Why are blood groups important?** - What are 'blood groups'? Why is it important to match blood groups for transfusion? Find out with our colourful demonstration.
 
-Last initially checked on 2024-02-15 by Charlotte Marshall (csm69@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-15 by ??? (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -158,7 +158,7 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Remind people that the blood isn't real and ask them to tell you if they feel faint. Chair nearby for light-headed-feeling people (sitting on the floor may be better as people can still faint off chairs) - ask them to sit down and remove 'blood' from line of site. Call first aider in case of injury.
+**Mitigation**: Remind people that the blood isn't real and ask them to tell you if they feel faint. Chair nearby for light-headed-feeling people ask them to sit down and remove 'blood' from line of site. If they feel very faint ask them to sit on the floor to remove risk of falling of chair. Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -188,4 +188,6 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Check 1**: 2022-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
-**Check 1**: 2022-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 

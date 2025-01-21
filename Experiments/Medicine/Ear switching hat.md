@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-01 by ??? (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -40,7 +40,7 @@ You have two main ways of telling which direction a sound is coming from, volume
 
 What to do (2):
 
-Put the hat on a volunteer (as before). Instead of getting them to close their eyes, get them to look (with their eyes only) to one side (right for the sake of description, although this works the same reversed). Stand more two people one either side of the volunteer. The person on the volunteer's right (who they are looking at with their eyes whilst keeping their head pointing forwards) mouths a simple sentence (for example: "My name is ...". They do this when counted in by the person on the left, who speaks the same words. For maximum effect, choose people with different voices/accents/genders and hopefully the person on the right will sound like they are speaking with the person on the left's voice. Maybe practice with some other demonstrators beforehand.
+Put the hat on a volunteer (as before). Instead of getting them to close their eyes, get them to look (with their eyes only) to one side (right for the sake of description, although this works the same reversed). Stand two people either side of the volunteer. The person on the volunteer's right (who they are looking at with their eyes whilst keeping their head pointing forwards) mouths a simple sentence (for example: "My name is ...". They do this when counted in by the person on the left, who speaks the same words. For maximum effect, choose people with different voices/accents/genders and hopefully the person on the right will sound like they are speaking with the person on the left's voice. Maybe practice with some other demonstrators beforehand.
 
 More information:
 
@@ -146,4 +146,6 @@ Call a first aider in case of injury.
 
 **Check 1**: 2023-01-18 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-18 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: **Check 1**: Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
