@@ -19,23 +19,21 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 ## Equipment Needed 
 X before item indicates it is not currently in the kit and needs sourcing
 Morse Code
-- X Morse buzzer with wires
-- Morse code clicker
-- X Laminated morse code chart
+- Morse code clicker with buzzer and LED
+- Laminated morse code chart
 
 Semaphore
-- X Semaphore Flags (2 per transmitter)
-- X Semaphore Sheet
+- 4 Paper Semaphore Flags on wooden sticks(2 per transmitter)
+- Laminated Semaphore Sheet
 
 Paper Telephones and Envelopes
 - Two paper cups connected by string
-- X Third paper cup on a string
+- Third paper cup on a string
 - Some envelopes
 
 Ceaser Shifts
 - X Whiteboards and pens
-- X Laminated alphabet wheels
-- X Laminated alphabets
+- Laminated alphabet wheels
 
 - X Wrap around codes (there are some but we should print some more)
 - Sections of pipe insulation
@@ -63,7 +61,7 @@ Quantum Cryptography
 
 ## Experiment Explanation 
 
-Firstly this is a large selection of small demos, each one is relatively fun and some link together well. They start of relatively easy however some of the demos at the end are really quite hard.
+Firstly this is a large selection of small demos, each one is relatively fun and some link together well. They start off relatively easy however some of the demos at the end are really quite hard.
 
 The main thing you'll get confused about is this technicality 
 
@@ -85,6 +83,8 @@ These phones allow you to communicate like a telephone, it works by vibrating th
 
 Similarly if two people pass envelopes between a third postman they can communicate. However the postman can open and read letters, or even change them completely. This isn't a secure transmission either.
 
+Try both of these ideas out.
+
 We can think about what properties we want when sending messages - there are a few contenders:
 
 Confidentiality - only the person meant to receive the message does. 
@@ -100,7 +100,7 @@ Some ideas for discussion: Seal envelopes to make it harder to open and close. S
 #### Caesar Shifts
 These are named after Julius Caesar even though they've existed long before him. They work by rotating the alphabet by a certain amount and replacing letters like this. The code wheels are very useful to do this, they can do both the encryption and decryption. This code is really easy to break, as there are only 26 options for the code, so we just have to try a few. You can even get people to try this. Just by trying a few letters you can decide to move on and try the next rotation, e.g. it's very unlikely the message starts 'zm'.
 
-This encryption sees only one common use, since it's so insecure it's mainly used for spoilers. 
+This encryption sees only one common use, since it's so insecure it's mainly used for spoilers (security vunerability on CPU). 
 
 Spoilers commonly use a form called ROT13 which rotates 13 places, try it and try encrypting something twice! You'll find it's self inverting which saves on code. I.e. you decode the message by doing the same thing as encoding it!
 
@@ -110,8 +110,12 @@ Because it's so simple, one way to add complexity is by also agreeing a word, wr
 
 Can we still break this code? Yes, quite easily, write a long message in English, count up how many times each letter appears, are they all equal? Which letters appear most often? If we find these in a long coded message we can see which letter is most common and try and match them up. E, T, A and O are the most common, while Z, Q and X are rarest. We can also do this looking at pairs and find TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeated letters.
 
+Split the kids into two teams, get one to encode a word, and the other to try and decode it (with both knowing the rotation number).
+
 #### Scytale - wrap around codes
 These codes are written on strips of paper. To read them you need to wrap them around a piece of pipe insulation and read downwards. The hidden key is the diameter (width) of the insulation, only one diameter will give the message, the other diameters will give nonsense.
+
+Get the kids to try wrapping the strips around the different cylinders, get them to guess which is correct and what the encrypted word is.
 
 #### Key Exchange (becomes a bit harder from now on)
 
