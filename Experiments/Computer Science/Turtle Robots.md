@@ -153,7 +153,7 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Check covering before beginning experiment. Call first aider in the event of accident.
+**Mitigation**: Check covering before beginning experiment and duct tape if needed. Call first aider in the event of accident.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
