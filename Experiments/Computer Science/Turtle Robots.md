@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-21 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,7 +22,15 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 - Roamer Turtle Cases (I think there's two, one should be used on cracked robot)
 - 6V Lantern Batteries (2 per robot) [These are available from some shops (camping ones) but are best got on Amazon or eBay]
 - Custom wooden base plates (these are wooden and cover the batteries)
-- Obstacles (improvise)
+- Obstacles (cones)
+- Roamer User Guide
+- Roamer Activity Book
+  
+- Volty the robot (Needs 3 AAA batteries)
+- 24  large double-sided circuit puzzle piece tiles
+- 10 Circuit diagrams (with 20 different circuits to try)
+- 40 command cards (small arrow cards)
+- Instruction booklet (helpful to have)
 
 <br/>
 
@@ -66,7 +74,7 @@ Pressing (right) or (left) followed by a number up to 999 turns the Roamer to th
 Pressing (W) followed by a number from 1 to 99 tells the Roamer to be still and quiet for that number of seconds.
 
 #### MUSIC
-The Roamer has a programmable sound facility. You need to specify how long each note will last (duration) and how high or low the note will be (pitch). To play a note, press followed by a number from 1 to 8 for its duration, and another number from 1 to 13 for its pitch. If you want a rest (silent note), enter 14 for the pitch.
+The Roamer has a programmable sound facility. You need to specify how long each note will last (duration) and how high or low the note will be (pitch). To play a note, press the music note button (♪) followed by a number from 1 to 8 for its duration, and another number from 1 to 13 for its pitch. If you want a rest (silent note), enter 14 for the pitch.
 
 #### UNITS
 The default units are 30cm (one robot length) for movement and 1 degree for turning. They can be changed by pressing (forward) or (right) and then ([]) and a number of cms or degrees.
@@ -86,21 +94,51 @@ Press (P) followed by a number to define that procedure. Then place instructions
 Recursion is not permitted and is implemented by procedures only being able to call procedures of strictly greater number. 99 procedures can be stored. 
 
 #### DEMONSTRATING
-The robots are very simple to use so can be programmed with a try it approach. The sound feedback tells you what works and what doesn't and people will find out quickly what to do. You may wish to masking tape over some of the buttons, like the note and procedures to prevent them being used and increase the success of random button pressing.
+Try to split the group evenly between the different robots and ensure each one has enough space to move around.
 
-The simplest aim is to set up some obstacles and ask them to navigate around the course. With sharpies one could also draw shapes on paper as an alternative. 
-Obviously there are also things to learn. Roamers are procedurly programmed, one can talk about how one might try and solve a problem. A natural way is to break it into sub problems, when setting out the course think of repeatable steps you can build in so they can see they solve some problems a few times. This is where a procedure comes in. This could be something like navigate around a cone and this can be called whenever it's needed to navigate around a cone.
+The robots are very simple to use so can be programmed with a try it and see approach. The sound feedback tells you what works and what doesn't and people will find out quickly what to do. You may wish to masking tape over some of the buttons, like the note and procedures to prevent them being used and increase the success of random button pressing.
+
+The simplest aim is to set up some obstacles (cones or other) and ask them to navigate around the course. With sharpies one could also draw shapes on paper as an alternative. 
+Obviously there are also things to learn. Roamers are procedurly programmed, one can talk about how one might try and solve a problem. A natural way is to break it into smaller problems, breaking down tasks into a set of steps to be carried out is called an algorithm and is a key part of programming.
+
+When setting out the course think of repeatable steps you can build in so they can see they solve some problems a few times. This is where a procedure comes in. This could be something like navigate around a cone and this can be called whenever it's needed to navigate around a cone (similar to calling a function in coding). You can try this out with more advanced groups, if they seem to have a handle on the using the Go memory.
 
 Procedures also have other advantages. For instance if we swap all the cones for different obstacles then we only have to change the cone procedure to work for the new obstacle.
+
+
+The activity book has ideas for courses to build (we mostly use the maze one-easiest to set up, feel free to add some story to make it more interesting, eg. escaping a dungeon or looking fo treasure). The user guide provides more detail on how to program the roamers and what each button does, feel free to use these for reference.
 
 Bottom up programming - using existing knowledge to solve a new problem.
 
 Top down programming - diving a complex problem into smaller sub problems.
 
-#### CONTROL UNIT
-We now own one Control Unit, this is in a cardboard box with lots of electronic sensors, I've not yet tested it as I didn't fully realise it was included with a robot I bought.
+#### CONTROL UNIT 
+We now own one Control Unit, this is in a cardboard box with lots of electronic sensors. It hasn't been used in demonstrations before.
 
 The control unit screws into the depression on the bottom and the cable goes into the battery compartment to link to the robot. You can plug in sensors or two-state outputs (and also motors but we don't have any). In theory the button on top allows you to use these. It introduces some limited conditional elements using the sensor blocks and throwing in several loops lets you use these in more usual ways. Please use and document!
+
+
+#### VOLTY ROBOT
+There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how construct the circuit.
+
+Once the circuit is completed, the command cards come into play. This helps the kids plan out coding Volty to follow the circuit. This is especially useful when you get to the more complicated diagram examples.
+
+When Volty completes a circuit and ends up back at the start, he does a little dance (rotates left and right) and plays a song. Slight bumps on the floor can cause Volty to move slightly off the track so he doesn’t play the sound or light up when expected. If it is on a flat surface this doesn’t happen.
+
+You can try building these circuits and getting the kids to plan and input the routes, or let them choose the circuit to build or create their own circuits to follow. This kit is smaller scale than the turtle robots, but may be visually easier for younger children to understand, and less complex to program (as the programmed instructions are shown on Volty's screen). 
+
+Side note: Volty needs to be used with the tracks, it can move forward and backwards without them, but requires the lines to follow to know when to stop rotating. It also reads the barcodes on the tracks to tell it when to make sounds/light up.
+
+
+#### Programming Volty
+
+- Pressing and holding the Delete (Bin) button will wipe the memory
+- Press the program button (</>) to start entering a new program (up to 40 instructions)
+- Press the direction button and it will appear under the current step (forward, 90 degrees right or left)
+- Press the tick when you have finished editing the program and it will begin
+- Pressing Bin will stop the current program
+- To edit the current program press </> and use the left and right keys to move to the step you want to change, then press the tick to edit it, and enter the new instruction, followed by the tick to confirm it. Repeat for other steps you want to edit or press tick twice to exit edit mode
+
 
 
 <br/>
@@ -135,9 +173,9 @@ The control unit screws into the depression on the bottom and the cable goes int
 
 <br/>
 
-### **Hazard**: Roamers
+### **Hazard**: Robots
 
-**Description**: Roamers may fall off table, raised surface and hit a person.
+**Description**: Robots may fall off table, raised surface and hit a person.
 
 **Affected People**: All
 
@@ -150,9 +188,9 @@ In the event of accident, call a first aider/mechanic.
 
 <br/>
 
-### **Hazard**: Roamers
+### **Hazard**: Robots
 
-**Description**: Roamers may be trip hazard if used on floor.
+**Description**: Robots may be trip hazard if used on floor.
 
 **Affected People**: All
 
@@ -161,6 +199,22 @@ In the event of accident, call a first aider/mechanic.
 **Mitigation**: Don't use in thoroughfare and section off area for operation with hazard tape. Call first aider in the event of accident.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+<br/>
+
+### **Hazard**: Paper and Cards
+
+**Description**: Papercuts
+
+**Affected People**: All 
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+
+**Mitigation**: Laminated paper while possible, cards placed on the ground so minimal handling needed.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+
 
 <br/>
 
@@ -179,3 +233,5 @@ In the event of accident, call a first aider/mechanic.
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
