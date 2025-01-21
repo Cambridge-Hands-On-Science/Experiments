@@ -25,6 +25,7 @@ Last initially checked on 2025-01-21 by Rowan Ong (rzmo2@cantab.ac.uk) and doubl
 - Obstacles (cones)
 - Roamer User Guide
 - Roamer Activity Book
+- Pens and paper
   
 - Volty the robot (Needs 3 AAA batteries)
 - 24  large double-sided circuit puzzle piece tiles
@@ -99,7 +100,7 @@ Try to split the group evenly between the different robots and ensure each one h
 The robots are very simple to use so can be programmed with a try it and see approach. The sound feedback tells you what works and what doesn't and people will find out quickly what to do. You may wish to masking tape over some of the buttons, like the note and procedures to prevent them being used and increase the success of random button pressing.
 
 The simplest aim is to set up some obstacles (cones or other) and ask them to navigate around the course. With sharpies one could also draw shapes on paper as an alternative. 
-Obviously there are also things to learn. Roamers are procedurly programmed, one can talk about how one might try and solve a problem. A natural way is to break it into smaller problems, breaking down tasks into a set of steps to be carried out is called an algorithm and is a key part of programming.
+Obviously there are also things to learn. Roamers are procedurly programmed, one can talk about how one might try and solve a problem. A natural way is to break it into smaller problems, breaking down tasks into a set of steps to be carried out is called an algorithm and is a key part of programming. You can illustrate this by drawing basic flowcharts.
 
 When setting out the course think of repeatable steps you can build in so they can see they solve some problems a few times. This is where a procedure comes in. This could be something like navigate around a cone and this can be called whenever it's needed to navigate around a cone (similar to calling a function in coding). You can try this out with more advanced groups, if they seem to have a handle on the using the Go memory.
 
@@ -119,7 +120,7 @@ The control unit screws into the depression on the bottom and the cable goes int
 
 
 #### VOLTY ROBOT
-There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how construct the circuit.
+There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in a algorithm or flowchart.
 
 Once the circuit is completed, the command cards come into play. This helps the kids plan out coding Volty to follow the circuit. This is especially useful when you get to the more complicated diagram examples.
 
