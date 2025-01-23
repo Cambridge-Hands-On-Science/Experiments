@@ -2,8 +2,7 @@
 
 **(Brief Description)** - See how strong two interleaved books are
 
-Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and double-checked on 2023-02-18 by Peter Methley (pm631@cam.ac.uk)
-
+Last initially checked on 2025-01-23 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
 **Frequency of use:** 1
 
 ## Tags
@@ -34,8 +33,13 @@ Last initially checked on 2023-02-18 by Andrew Sellek (ads79@cam.ac.uk) and doub
 ## Experiment Explanation
 
 <!-- Here are some example headings to follow, but feel free to ignore these and / or make your own! -->
+Explain that friction is the force which acts when two surfaces move relative to one another, for example when pushing a block of wood along a table. When there is a larger surface area in contact, the amount of friction experienced will be greater, so pushing wider block along a table will be harder than a smaller one.
 
-Have people try to pull them apart in a tug-of-war fashion. It's basically impossible as there is a huge surface area of contact between the books.
+You could demonstrate that when the books have only one or two pages touching, only a small amount of force is required to separate them. Try to show that the more pages that are in contact (i.e. the higher the surface area of contact), the more force is required to overcome the power of friction acting. A separate pair of books, or individual sheets of paper could be used for the early demonstrations, to save time interlocking the pages for the tug of war.
+
+
+For the final demonatration, interlock as many pages as possible.
+Have people try to pull them apart in a tug-of-war fashion. It's basically impossible as there is a huge surface area of contact between the books. Have the tug-of-war be 1 vs 1 to limit forces, getting them to take turns (or demonstrators/adults can do the tug-of-war if kids are too young/irresponsible).
 
 <br/>
 
@@ -102,6 +106,8 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-18 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
