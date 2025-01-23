@@ -1,4 +1,4 @@
-# Turtle Robots
+# Turtle and Volty Robots
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
@@ -120,6 +120,8 @@ The control unit screws into the depression on the bottom and the cable goes int
 
 
 #### VOLTY ROBOT
+This can be run alongside the turtle robots, or as it's own separate, smaller experiment (especially useful in space limited venues).
+
 There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in a algorithm or flowchart.
 
 Once the circuit is completed, the command cards come into play. This helps the kids plan out coding Volty to follow the circuit. This is especially useful when you get to the more complicated diagram examples.
