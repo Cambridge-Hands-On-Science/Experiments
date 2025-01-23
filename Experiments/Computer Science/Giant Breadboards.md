@@ -146,4 +146,6 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 ## Risk Assessment Check History
 
+**Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+
 **Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
