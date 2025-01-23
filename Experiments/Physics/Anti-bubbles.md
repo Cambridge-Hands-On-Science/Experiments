@@ -59,7 +59,7 @@ What is going on?
 You are creating what are known as antibubbles. A conventional bubble is air surrounded by a thin film of water in air, an antibubble is the other way around, water surrounded by a thin film of air in water.
 Both types of bubble are highly unstable in pure water because water molecules attract one another very strongly and try to minimise the surface area of the liquid. Detergent molecules have one end which is very attracted to water and a long oily tail which is repelled by it. so they cover the surface of the bubble stabilising it.
 
-The air in an antibubble will cause it to float gently so they would be hard to tell from conventional bubbles. The salt weighs them down so they sink and you can tell the difference (can talk about how things heavier than water will sink, and things lighter will float).
+The air in an antibubble will cause it to float gently so they would be hard to tell from conventional bubbles. The salt weighs them down so they sink and you can tell the difference (can talk about how things heavier than water will sink, and things lighter will float-potentially demonstrate with small objects of different weights).
 
 The antibubbles seem to form best when they are dropped onto water that is falling so the impact is less violent.
 
