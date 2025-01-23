@@ -17,10 +17,12 @@ Last initially checked on 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk) and doubl
 <br/>
 
 ## Equipment Needed 
-- A small transparent tank or a large clear bowl
+Shares some equipment with bubbly crystals
+
+- A small transparent tank or a large clear bowl (additional)
 - Some washing up liquid
 - A wash bottle or a washing up liquid bottle
-- Salt
+- Salt (additional)
 
 <br/>
 
@@ -87,7 +89,7 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Try to keep children under control. Demonstrator should show effect unless group are very calm and should take bottle away if child shows signs of getting excitable. Do not allow very young children to hold the bottle. Call a first aider in the event of an accident. If the salt mixture from the dropping bottle, or washing up water from tank, gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so. If ingestion occurs, get child to drink a glass of water. If liquid gets on skin, check about allergies.
+**Mitigation**: Try to keep children under control. Demonstrator should not show effect unless group are very calm and should take bottle away if child shows signs of getting excitable. Do not allow very young children to hold the bottle. Call a first aider in the event of an accident. If the salt mixture from the dropping bottle, or washing up water from tank, gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so. If ingestion occurs, get child to drink a glass of water. If liquid gets on skin, check about allergies.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
