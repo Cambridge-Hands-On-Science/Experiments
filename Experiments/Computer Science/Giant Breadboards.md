@@ -2,7 +2,7 @@
 
 **Make circuits using giant components** - Explore circuit basics, different components, logic gates, speakers, buzzers and build your own heat alarms and more.
 
-Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-03-15 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-01-23 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
 
 ## Tags
 
@@ -22,7 +22,7 @@ Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and doub
 
 - **Batteries needed**
 - Boards with pins to attach components to
-- Selection of clip-in components:
+- Selection of clip-in components (in clear plastic bags):
   - Battery boxes
   - Wires
   - Switches
@@ -39,18 +39,21 @@ Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and doub
 - Instruction manual with example circuits
 - Ready-made kits containing similar components to above
 
-- Old/WIP stuff (currently unusued)
+- Old/WIP stuff (currently unusued), leave in the box while demonstrating
   - Giant breadboard
   - (Selection of wooden components)
   - (Material samples)
   - 4mm banana plug wires
   - Spare banana plugs and components.
+  - Many spare electrical components (mostly through hole-useful for fixing other electrical experiments)
 
 <br/>
 
 ## Experiment Explanation
 
 The experiment (and this explanation) is still in the process of being finished; it currently consists of a whole bunch of electronic components to make circuits and demonstrate various properties of electricity.
+
+The experiments with clip-on components are ready to use (and safest as there are no wires with pointy edges).
 
 Particular recommendations for circuits to make and demonstrate (from the Hot Wires book) would be:
 
@@ -67,7 +70,7 @@ Feel free to try other things with the clip-in components, but I wouldn't touch 
 
 ## Packing Away
 
-Remove batteries from battery box and store in separate bag. Separate components and return to bags, loosely sorted into wires, bulbs, switches, resistors, etc.
+Remove batteries from battery box and store in separate bag. Separate components and return to *correct* bags, loosely sorted into wires, bulbs, switches, resistors, etc.
 
 <br/>
 
@@ -143,4 +146,4 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 ## Risk Assessment Check History
 
-**Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
