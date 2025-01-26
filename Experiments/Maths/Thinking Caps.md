@@ -2,7 +2,7 @@
 
 **A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2023-02-19 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2023-02-19 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,12 +106,11 @@ Call a first aider in the event of an injury.
 
 **Affected People**: children
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 3
 
 **Mitigation**: Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.
-Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
 
 <br/>
 
@@ -130,3 +129,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-19 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
