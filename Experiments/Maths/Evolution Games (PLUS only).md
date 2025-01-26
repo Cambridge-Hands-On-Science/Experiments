@@ -2,7 +2,7 @@
 
 **Modelling Evolution by Game Theory** - Simulate populations and explore stable and unstable equilibrium by using Game Theory to model animal behaviour in sharing a food supply.  
 
-Last initially checked on 2024-12-29 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2024-12-29 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -94,7 +94,7 @@ There are often questions which actually highlight the one major flaw in this mo
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
 
 **Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing. Do not use Lego with very small children and keep a close eye on the box of Lego. This experiment is designed for CHaOS+ (i.e. 16+), so the risk of participants trying to eat the experiment should, hopefully, be very slim anyway when used for this.
 Call first aider if child swallows, if choking encourage child to cough. If the situation gets worse, i.e. child is suffocating and unable to cough the object out, call an ambulance immediately
@@ -151,4 +151,4 @@ In case of injury call first aider.
 
 **Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
