@@ -2,7 +2,7 @@
 
 **Build a small working model hand from card and straws!** - Build a model of the inner workings of your hand! Learn about how muscles and tendons work together to control the movements of our fingers, and have a model to take home, made of simple household objects!
 
-Last initially checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by ...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -103,3 +103,5 @@ Call a first aider in the event of injury.
 **Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-21 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-01-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk),
