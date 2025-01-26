@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -86,7 +86,7 @@ Call a first aider in the case of an injury.
 
 <br/>
 
-### **Hazard**: Electrical parts
+### **Hazard**: Electrical parts (Vacuum cleaner)
 
 **Description**: See electrical parts RA.
 
@@ -141,4 +141,6 @@ Call a first aider in the case of an injury.
 **Check 1**: 2023-02-17 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), 
 
