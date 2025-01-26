@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2024-02-17 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-19 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ?? by ??
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -129,7 +129,7 @@ Call first aider in case of injury.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 **Mitigation**: Keep an eye on the pens and don't let small children use them without supervision.  In the event of an incident, tell parent to contact a GP if child feels unwell later.
 
@@ -160,3 +160,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2024-02-17 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2023-02-19 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
