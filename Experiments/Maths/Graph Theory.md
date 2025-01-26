@@ -2,7 +2,7 @@
 
 **Find out about the mathematics of Graphs.** - Experiment with graphs finding out about what structure we can find in randomness, how to colour maps with few crayons and what shapes you can draw without taking your pen off the paper.
 
-Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2026-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -131,7 +131,7 @@ Lets say we take the graph with the fewest number of vertices we can't 5 colour.
 
 If there are any cuts, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -193,4 +193,4 @@ If there are any cuts, call a first aider.
 
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
 
-**Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
