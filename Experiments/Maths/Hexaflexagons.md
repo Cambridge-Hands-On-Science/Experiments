@@ -2,7 +2,7 @@
 
 **Groups, symmetries and hexaflexagons** - Turning a hexaflexagon inside out almost seems like magic. Find out what kind of cool patterns emerge as you do it. 
 
-Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,7 +57,7 @@ If you want to talk about more group theory, there are lots of shapes in the pla
 **Mitigation**: Make sure you cut out hexaflexagons before the kids arrive. If you need to have scissors on the table, have the safety scissors.
 If there are any cuts, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
@@ -82,11 +82,11 @@ Glue isn't toxic, however, do alert parents immediately of ingestion and call a 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
 **Mitigation**: Call a first aider if necessary. Make sure children are sensible and not grabbing paper out of each other's hands etc.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 <br/>
 
@@ -108,4 +108,4 @@ Glue isn't toxic, however, do alert parents immediately of ingestion and call a 
 
 **Check 1**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
 
-**Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
