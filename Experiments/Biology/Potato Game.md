@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2024-03-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-03-15 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -66,6 +66,10 @@ Plants need nutrients to grow. Unfortunately, there just isn't much in the soil.
 
 (dear plantscis - if you have a better way of explaining plant-pathogen interactions to kids please do suggest - xxx an ex-plantsci girlie)
 Plants get sick too! Unlike humans who have an immune system that can learn to fight off a disease after having it once (which is why vaccines work for us!), plants are basically "born" with a set of tools for fighting off disease. 
+
+Things to say about plant-pathogen interactions: 
+- Plants have both passive and active defenses against pathogens. Passive responses are in place all the time to prevent infection. Examples of this are the tough cell wall (physical), waxy cuticle on leaf (physical) and antimicrobial phenolic compounds (chemical). Active responses are triggered by pathogen infection. Examples of this include hypersensitive response (sacrificing infected leaves to protect the whole plant), making cell walls stronger, producing toxic chemicals and sending signals to the rest of the plant to prepare for infection.
+- Pathogens have counter-attacks to these defences and so there ends up being an arms-race over time (coevolution) where the pathogen and the plant develop responses to one-up the other and so disease-resistance won't last forever.
 
 Some facts about potato blight: 
 - Potato late blight is caused by the pathogen Phytophthora infestans. It’s an oomycete, which are often described as ‘water moulds’ and are closely related to algae.
@@ -134,3 +138,5 @@ There's also supply and demand which will factor in.
 **Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
