@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on
+Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -171,4 +171,4 @@ If person gets a burn, run tepid water over affected area for at least 10 minute
 
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
