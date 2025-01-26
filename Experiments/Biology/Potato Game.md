@@ -64,19 +64,18 @@ Plants need nutrients to grow. Unfortunately, there just isn't much in the soil.
 
 **Scenario 4: Disease**
 
-(dear plantscis - if you have a better way of explaining plant-pathogen interactions to kids please do suggest - xxx an ex-plantsci girlie)
 Plants get sick too! Unlike humans who have an immune system that can learn to fight off a disease after having it once (which is why vaccines work for us!), plants are basically "born" with a set of tools for fighting off disease. 
 
-Things to say about plant-pathogen interactions: 
-- Plants have both passive and active defenses against pathogens. Passive responses are in place all the time to prevent infection. Examples of this are the tough cell wall (physical), waxy cuticle on leaf (physical) and antimicrobial phenolic compounds (chemical). Active responses are triggered by pathogen infection. Examples of this include hypersensitive response (sacrificing infected leaves to protect the whole plant), making cell walls stronger, producing toxic chemicals and sending signals to the rest of the plant to prepare for infection.
-- Pathogens have counter-attacks to these defences and so there ends up being an arms-race over time (coevolution) where the pathogen and the plant develop responses to one-up the other and so disease-resistance won't last forever.
+    Things to say about plant-pathogen interactions: 
+    - Plants have both passive and active defenses against pathogens. Passive responses are in place all the time to prevent infection. Examples of this are the tough cell wall (physical), waxy cuticle on leaf (physical) and antimicrobial phenolic compounds (chemical). Active responses are triggered by pathogen infection. Examples of this include hypersensitive response (sacrificing infected leaves to protect the whole plant), making cell walls stronger, producing toxic chemicals and sending signals to the rest of the plant to prepare for infection.
+    - Pathogens have counter-attacks to these defences and so there ends up being an arms-race over time (coevolution) where the pathogen and the plant develop responses to one-up the other and so disease-resistance won't last forever.
 
-Some facts about potato blight: 
-- Potato late blight is caused by the pathogen Phytophthora infestans. It’s an oomycete, which are often described as ‘water moulds’ and are closely related to algae.
-- It infects potatoes (surprise) but also tomatoes.
-- Early symptoms are, dark spots appear on leaves and stems. Then, white mould appears under the leaves (Image 2) and the whole plant can quickly collapse.
-- Infected tubers (the bit we eat) develop dark patches that are brown beneath the skin and then rapidly decay into mush.
-- The disease caused the Irish Potato Famine (1845-57). Potatoes were the Irish staple crop and the loss caused over 1 million deaths and another 1 million people left Ireland due to the food shortages.
+    Some facts about potato blight: 
+    - Potato late blight is caused by the pathogen Phytophthora infestans. It’s an oomycete, which are often described as ‘water moulds’ and are closely related to algae.
+    - It infects potatoes (surprise) but also tomatoes.
+    - Early symptoms are, dark spots appear on leaves and stems. Then, white mould appears under the leaves (Image 2) and the whole plant can quickly collapse.
+    - Infected tubers (the bit we eat) develop dark patches that are brown beneath the skin and then rapidly decay into mush.
+    - The disease caused the Irish Potato Famine (1845-57). Potatoes were the Irish staple crop and the loss caused over 1 million deaths and another 1 million people left Ireland due to the food shortages.
 
 If you chose disease resistant potatoes, congratulations! No potatoes lost. Otherwise, players draw one of three "resistance" cards and one of three "pathogen" cards. If the receptor on the resistance card matches the pathogen card, your crop can recognise the disease and fight it off! Otherwise, roll the dice to decide how many potatoes are lost. 
 
