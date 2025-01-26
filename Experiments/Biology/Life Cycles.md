@@ -202,5 +202,5 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
 
