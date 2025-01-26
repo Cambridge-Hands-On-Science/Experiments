@@ -2,7 +2,7 @@
 
 **Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them.
 
-Last initially checked on 2024-01-31 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 
@@ -40,11 +40,11 @@ Expansion of the main points on the timeline (with tile number):
 
 **Multicellular organisms** – again, may need to skip, otherwise discuss how bacteria have just one cell and that is the whole organism, whereas we have many cells, as do plants (13, anabaena) - this allows us to have specialised cells.
 
-**Primitive land plants** – Explain that previously all organisms were in the water. Scientists think that the colonisation of land occurred only once, and that all land plants evolved from the Stoneworts (4, Charophyceae)
+**Primitive land plants** – Explain that previously all organisms were in the water. Scientists think that the colonisation of land occurred only once, and that all land plants evolved from a Stonewort-like common ancestor (4, Charophyceae)
 
-**Liverworts** – the first plants, still needed a lot of moisture, and live clinging to rocks in damp environments such as near waterfalls. Can be seen in Scotland still today (one is sketched on the timeline) (6)
+**Liverworts** – the first plants looked like liverworts, still needed a lot of moisture, and live clinging to rocks in damp environments such as near waterfalls. Can be seen in Scotland still today (one is sketched on the timeline) (6)
 
-**Mosses** – mosses have the first identifiable transport systems for water – xylem vessels. Can also explain the haploid/diploid thing here using standard wall moss – the green carpet part is the haploid and is the main part of the life cycle, the diploid emerges to spread spores and are on little stalks. (7)
+**Mosses** – mosses have the first identifiable transport systems for water – xylem vessels. Can also explain the haploid/diploid thing here using standard wall moss – the green carpet part is the haploid and is the main part of the life cycle, the diploid emerges to spread spores and are on little stalks. All plants have an 'alteration of generations' life cycle, living some of their lives as haploid and some as diploid, moss is a good example of a plant that has haploid-stage-dominance (7). In lineages following the bryophytes, plants have diploid/sporophyte dominance. 
 
 **Hornworts** – developed the cuticle (which helps to reduce water loss) and stomata so are more independent of water than liverworts. All land plants except liverworts have these two features (9)
 _Next a true vascular system evolved_ that was capable of not only transporting water but also supporting the plant structurally, all other plants on land are ‘vascular’ (they have veins like us).
@@ -54,7 +54,7 @@ _Next a true vascular system evolved_ that was capable of not only transporting 
 **Horsetails** – Had a hollow stem surrounded by a ring of vascular tissue, were therefore light. Still survive today, but are much smaller than their ancestors (2)
 
 **Spore producing ferns** – have proper complex leaves. Bracken, seen in most woodlands, is the most successful and widespread of all vascular plants. Reproduction is still water dependent. (3)
-_Then evolved all the seed plants!_
+_Then evolved all the seed plants!_ (note that the first ferns evolved before the angiosperms but fern radiation to the diversity we see today happened after)
 
 **Seed ferns** – now extinct, but different to their surviving spore producing ancestors. See the fossils for examples, note the different leave shapes.
 
@@ -296,3 +296,5 @@ In case of injury, call a first aider.
 **Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk) 
+
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), 
