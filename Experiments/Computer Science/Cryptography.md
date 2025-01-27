@@ -18,12 +18,13 @@ Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and doub
 
 ## Equipment Needed 
 X before item indicates it is not currently in the kit and needs sourcing
+
 Morse Code
-- Morse code clicker with buzzer and LED
+- Morse code clicker with buzzer and LED (need to keep horizontal for buzzer to work)
 - Laminated morse code chart
 
 Semaphore
-- 4 Paper Semaphore Flags on wooden sticks(2 per transmitter)
+- 4 Paper Semaphore Flags on wooden sticks (2 per transmitter)
 - Laminated Semaphore Sheet
 
 Paper Telephones and Envelopes
