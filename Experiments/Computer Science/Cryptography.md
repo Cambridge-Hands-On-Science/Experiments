@@ -2,7 +2,7 @@
 
 **Learn about codes and ciphers** - Learn about codes and ciphers through a selection of demonstrations of different methods using whiteboards and padlocks. 
 
-Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-01-27 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,27 +36,29 @@ Ceaser Shifts
 - X Whiteboards and pens
 - Laminated alphabet wheels
 
-- X Wrap around codes (there are some but we should print some more)
+Scytale
+- Wrap around code strips (if more needed-excel spreadsheet on Github-under images in CompSci folder)
 - Sections of pipe insulation
-- Code strips
 
-Asymetric Encryption
+Asymetric Encryption (PLUS)
 - X Two padlocks with keys
 - X Box with two padlock holes
 
-Public key encryption
-- X Padlock with key (needs to lock without key)
+Public key encryption (PLUS)
+- X 2 Padlocks with key (which needs a key to lock)
+-  X Padlock with key (which locks WITHOUT a key)
 - X Box with at least one padlock hole
+
+Diffie-Helmann
 - Two led lights
 - X Transparent plastic cups
 - X Food colouring (there is some but it's expired)
 - Water
 
-Quantum Cryptography
-- Polarisation Experiment with extra filters
-
-- Pollard's Kangaroo
-- Kruskal's Count Experiment
+Quantum Cryptography (PLUS)
+- x Polarisation Experiment with extra filters
+- x Pollard's Kangaroo
+- x Kruskal's Count Experiment
 
 <br/>
 
@@ -106,7 +108,6 @@ This encryption sees only one common use, since it's so insecure it's mainly use
 Spoilers commonly use a form called ROT13 which rotates 13 places, try it and try encrypting something twice! You'll find it's self inverting which saves on code. I.e. you decode the message by doing the same thing as encoding it!
 
 In a generic caesar shift, for someone else to decrypt it they just need to know the number you've rotated by. 
-
 Because it's so simple, one way to add complexity is by also agreeing a word, write this under the start of the alphabet and then write out the remaining letters of the alphabet which haven't been used in the word in order. This makes it harder for someone to decode your message, as there are many more options for the encryption - they need to guess your word.
 
 Can we still break this code? Yes, quite easily, write a long message in English, count up how many times each letter appears, are they all equal? Which letters appear most often? If we find these in a long coded message we can see which letter is most common and try and match them up. E, T, A and O are the most common, while Z, Q and X are rarest. We can also do this looking at pairs and find TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeated letters.
@@ -116,8 +117,11 @@ Split the kids into two teams, get one to encode a word, and the other to try an
 #### Scytale - wrap around codes
 These codes are written on strips of paper. To read them you need to wrap them around a piece of pipe insulation and read downwards. The hidden key is the diameter (width) of the insulation, only one diameter will give the message, the other diameters will give nonsense.
 
-Get the kids to try wrapping the strips around the different cylinders, get them to guess which is correct and what the encrypted word is.
+Get the kids to try wrapping the strips around the different cylinders, get them to guess which strip matches with which tube and what the encrypted word on each is.
 
+The 38mm tube says CAKES (or both CAKES and SMILE), the 62mm tube says GOAT and the 68mm tube says DUCK.
+
+## Advanced Experiments (missing equipment for it-so NOT ACTIVE)
 #### Key Exchange (becomes a bit harder from now on)
 
 In this section, we'll look at sharing information between two people Alice and Bob. They want to pass messages to each other without them being read by their nosy friend Eve the Eavesdropper. We've got a box they can post messages between them in as well as an assortment of padlocks and keys, ask the children how they might send a message between them? You can act as the post, taking things between them, but also as Eve, reading and copying all the post they send.
@@ -132,9 +136,11 @@ One way to exchange is as follows, each person has their own padlock and key. Pe
 - A now can't open it either but they unlock their padlock and send it back to B,
 - B can now open the box and read the message.
 
-This system is a private key system, with both keys and padlocks only known to A and B. 
+This system is a private (asymmetric) key system, with both keys and padlocks only known to A and B. 
 
-In modern cryptography, lots of systems rely on public keys. These allow individuals to be able to send messages easily, as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it to A. A is the only person with the key so only A can open it.
+In modern cryptography, lots of systems rely on public keys. These allow individuals to be able to send messages easily, as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it to A. A is the only person with the key so only A can open it, but anyone can send the messages (no guarentee of the origin of a message).
+
+More complex bit:
 
 In public-key cryptography, keys are often exchanged using ElGammel or Diffie-Helmann, both of which work on a similar "double-lock" process. The process given above is actually insecure and vulnerable to a man-in-the-middle attack in a public key system, for this example it can be broken as follows:
 - E intercepts the box A sends (box 1) to B, 
@@ -145,12 +151,11 @@ In public-key cryptography, keys are often exchanged using ElGammel or Diffie-He
 - E intercepts box 1 and views the contents,
 - E creates a new box 3 with the contents and locks this with B's padlock (as padlocks are public keys)
 
+### Diffie-Helmann
+
 One can create a valid model for Diffie-Helmann using lights. Optionally place the two led lights under the cups for darkroom use. Make up a private key which will be your own special colour. Between you make a public key which you can show everyone. Each take equal amounts of public and private keys and mix, you can share this with Eve while passing it between you. Then to the swapped colours add a shot of your private key to the new mixture. You'll find there's now a shot of each private key and a shot of public key in both A and B's mixture however E can't recreate it as she's only seen the following mixtures: public key, public+A private, public+B private. Any mix of these is going to have too much public key in! This works best if the colours are all different and very light, otherwise you end up with black as your secret colour and its hard to show Eve not getting it (they've not got the same shade of black but its hard to tell). 
 
 One more modern encryption scheme is RSA, this is also an asymmetric scheme. Its a public key scheme, a public key here is an unlocked padlock which we leave them with a central repository, anyone wanting to send A a message goes and gets an unlocked A padlock uses it to seal the message to A and then only A can unlock it. There is one weakness with this, if the person in the repository is dodgy then they can read all messages, they give out their own padlocks, open the message then attach the correct padlock.
-
-#### RSA (PLUS)
-For really competent groups who've probably already seen group theory you can go into detail of how RSA actually works. It's quite complicated though. You can link in Hexaflexagons to solve some equations.
 
 #### Quantum Cryptography (PLUS)
 Digitally we encode using binary, we can represent this in any way punched holes, magnetism. However we've seen photons have a polarisation and we could use this.
@@ -165,9 +170,6 @@ Eve to listen in needs a set up like Bob and then Alice. She tries to read Alice
 In real quantum you'd want to use single photons, this method is vulnerable to slightly dimming the light in the middle but this isn't possible for single photons. 
 https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-flashlight-and-pair-of-sunglasses/
 
-#### Pollard's Kangaroo (PLUS)
-http://faculty.uml.edu/rmontenegro/research/kruskal\_count/kangaroo.html
-So you can solve some discrete log stuff (which is used in DiffieHelam and ElGammel) using basically Kruskal's count with some fancy number theory rules...
 
 <br/>
 
@@ -196,6 +198,18 @@ So you can solve some discrete log stuff (which is used in DiffieHelam and ElGam
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
 
 **Mitigation**: Make sure power is low (i.e. small battery) and people don't try and make connection using a finger (especially not when wet).
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+### **Hazard**: Stick Flags
+
+**Description**: Someone coild be poked by the sticks in the semaphone flags
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+
+**Mitigation**: Sand down the points on the flags, encourage people using them to be careful
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -240,3 +254,7 @@ So you can solve some discrete log stuff (which is used in DiffieHelam and ElGam
 **Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-01-27 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**:
+
+
