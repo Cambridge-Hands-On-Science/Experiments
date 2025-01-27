@@ -121,12 +121,12 @@ Get the kids to try wrapping the strips around the different cylinders, get them
 
 The 38mm tube says CAKES (or both CAKES and SMILE), the 62mm tube says GOAT and the 68mm tube says DUCK.
 
-## Advanced Experiments (missing equipment for it-so NOT ACTIVE)
+## Advanced Experiments (missing equipment for it-so NOT IN USE)
 #### Key Exchange (becomes a bit harder from now on)
 
-In this section, we'll look at sharing information between two people Alice and Bob. They want to pass messages to each other without them being read by their nosy friend Eve the Eavesdropper. We've got a box they can post messages between them in as well as an assortment of padlocks and keys, ask the children how they might send a message between them? You can act as the post, taking things between them, but also as Eve, reading and copying all the post they send.
+In this section, we'll look at sharing information between two people Alice and Bob. They want to pass messages to each other without them being read by their nosy friend Eve the Eavesdropper. We've got a box they can post messages between them in as well as an assortment of padlocks and keys, ask the children how they might send a message between them? You can act as the post, taking things between them, but also as Eve, reading and copying all the post they send in the box.
 
-The simplest way is having one padlock and giving Alice and Bob each a key that opens it. This works well but imagine Alice and Bob live on opposite sides of the world and can't meet in person - how can they both get a copy of this key? Whenever you're using the internet you need to do frequent key exchanges. If you're making a payment you need to send that information to the company, but don't want anyone else stealing your bank information, you need to exchange keys.
+The simplest way is having one padlock and giving Alice and Bob each a key that opens it. This works well but imagine Alice and Bob live on opposite sides of the world and can't meet in person - how can they both get a copy of this key? Whenever you're using the internet you need to do frequent key exchanges. If you're making a payment you need to send that information to the company, but don't want anyone else stealing your bank information, so you need to exchange keys.
 
 The next idea might be for Alice to post a key to Bob however if Alice puts a key in the post, Eve can intercept it and copy it. Now Alice, Bob and Eve all have keys so it isn't secure and everything is ruined. You'll have to think of ways to pass the boxes so Eve can't open them.
 
@@ -135,10 +135,13 @@ One way to exchange is as follows, each person has their own padlock and key. Pe
 - B receives the box but can't open it as they don't have A's key, they padlock it with their own lock and send it back to A,
 - A now can't open it either but they unlock their padlock and send it back to B,
 - B can now open the box and read the message.
+This can be demonstrated using the padlocks which need keys to lock, and two groups.
 
 This system is a private (asymmetric) key system, with both keys and padlocks only known to A and B. 
 
-In modern cryptography, lots of systems rely on public keys. These allow individuals to be able to send messages easily, as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it to A. A is the only person with the key so only A can open it, but anyone can send the messages (no guarentee of the origin of a message).
+In modern cryptography, lots of systems rely on public keys. These allow individuals to be able to send messages easily, as to send a message to A you get A's public key (an unlocked padlock with no key) you then lock this and send it to A. A is the only person with the key so only A can open it, but anyone can send the messages (no guarentee of the origin of a message). 
+This can be demonstrated using the padlock which doesn't need a key to lock (anyone can lock a message in a box, but only A can open the box to read it.
+
 
 More complex bit:
 
@@ -151,13 +154,13 @@ In public-key cryptography, keys are often exchanged using ElGammel or Diffie-He
 - E intercepts box 1 and views the contents,
 - E creates a new box 3 with the contents and locks this with B's padlock (as padlocks are public keys)
 
-### Diffie-Helmann
+### Diffie-Helmann (PLUS-NOT IN USE)
 
 One can create a valid model for Diffie-Helmann using lights. Optionally place the two led lights under the cups for darkroom use. Make up a private key which will be your own special colour. Between you make a public key which you can show everyone. Each take equal amounts of public and private keys and mix, you can share this with Eve while passing it between you. Then to the swapped colours add a shot of your private key to the new mixture. You'll find there's now a shot of each private key and a shot of public key in both A and B's mixture however E can't recreate it as she's only seen the following mixtures: public key, public+A private, public+B private. Any mix of these is going to have too much public key in! This works best if the colours are all different and very light, otherwise you end up with black as your secret colour and its hard to show Eve not getting it (they've not got the same shade of black but its hard to tell). 
 
 One more modern encryption scheme is RSA, this is also an asymmetric scheme. Its a public key scheme, a public key here is an unlocked padlock which we leave them with a central repository, anyone wanting to send A a message goes and gets an unlocked A padlock uses it to seal the message to A and then only A can unlock it. There is one weakness with this, if the person in the repository is dodgy then they can read all messages, they give out their own padlocks, open the message then attach the correct padlock.
 
-#### Quantum Cryptography (PLUS)
+#### Quantum Cryptography (PLUS-NOT IN USE)
 Digitally we encode using binary, we can represent this in any way punched holes, magnetism. However we've seen photons have a polarisation and we could use this.
 Alice has a light and polarizer and Bob has a polarizer and screen. On the screen the difference in brightness should be apparent between the filters being aligned, off by 45 or opposite.
 A simple way of transmitting messages is for Alice to rotate her filter horizontal for 0 and vertical for 1. Bob leaves his filter horizontal and can observe. This has all the same problems as paper telephones. You may wonder why polarisation is used, it turns out its a really robust property of photons.
