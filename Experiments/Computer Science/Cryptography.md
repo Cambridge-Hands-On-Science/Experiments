@@ -208,7 +208,7 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 ### **Hazard**: Stick Flags
 
-**Description**: Someone coild be poked by the sticks in the semaphone flags
+**Description**: Someone coild be poked by the sticks in the semaphore flags
 
 **Affected People**: All
 
