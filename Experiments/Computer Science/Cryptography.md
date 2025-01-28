@@ -76,6 +76,8 @@ This means lots of things we call codes are ciphers!
 
 #### Morse 'code' (actually a cipher)
 Press down on the morse code clicker (which should be connected to the buzzer) and make a buzz, using the morse code translation table you can transmit messages. Get one person to transmit and the others to try and transcribe the message.
+The clicker conrols a buzzer and an LED at the same time (though if the buzzer is getting annoying, the circular switch turns it off so only the LED is triggered).
+
 Most competent transmitters can manage 40 words per minute and the record is 75.2wpm. However as words and characters have different lengths this is just an average!
 
 #### Semaphore
