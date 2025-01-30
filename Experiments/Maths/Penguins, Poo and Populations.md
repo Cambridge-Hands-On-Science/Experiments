@@ -2,7 +2,7 @@
 
 **Counting when we can't count** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-30 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -140,4 +140,4 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-30 - Isobel Gilham (ig419@cam.ac.uk)
