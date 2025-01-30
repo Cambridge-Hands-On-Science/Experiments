@@ -105,6 +105,20 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 <br/>
 
+### **Hazard**: Relighting / adding more fuel
+
+**Description**: Fuel can vaporise if added to hot equipment and be dangerous during ignition.
+
+**Affected People**: All (particularly demonstrator)
+
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+
+**Mitigation**: Demonstrator should use enough fuel initially to cover their whole demonstration. If they're running out of fuel then they should make the most of it whilst it's burning then give the rest of the explanation with it burnt out. Relighting should only occur once the equipment has cooled so that adding new fuel doesn't cause it to bubble/evaporate.
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+
+<br/>
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
