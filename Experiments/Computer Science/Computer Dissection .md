@@ -62,7 +62,7 @@ NB - Vinyl - Some people may think of this as a method of storing data, and yes 
 There's also some great examples of data issues with vinyl, records come mainly in 7" and 12" (but sometimes also 10"). The bigger diameter gives more space for grooves, allowing longer tracks to be stored on them. They also come in different rpms, mainly 33 1/3 or 45 (but also 78). The faster the rpm, the less can be fit on the disk as it travels through the groove faster, however the quality is better as the details of the vibrations have more space to be stored. 
 
 #### Computer parts
-![](./Images/Motherboard Diagram.png)
+![](./Images/MotherboardDiagram.png)
 
 CPU (Central Processing Unit) - This sends signals and controls other parts of the computer. We often compare clock rates, the CPU completes one basic task in a tick of the clock. Overclocking increases the number of ticks a second, it's designed that computers can easily complete most tasks within a tick, so decreasing the time shouldn't cause most tasks to fail. The computer in front has 200MHz clock speed (I think), a modern intel i7-3970X (very good 2018 CPU) has a 3.5GHz clock speed and iPhone X has 2.39GHz.
 
