@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -58,6 +58,7 @@ What about swapping the piece of card for a better seal? Well this would be good
 What about changing the angle you hold it at? If they've seen the trebuchets experiment or know some mechanics they may have some ideas about a slightly upwards angle being good for distance. However with the vacuum bazooka we have gravity also playing a roll. Firing directly downwards will obviously increase the muzzle velocity and I doubt firing directly upwards will work. You could do the maths and figure out the optimum yourself before demonstrating and write it here.
 Projectile weight is another variable, this one should also interact with the above. Demonstrating outside you'll find the crosswind probably means slightly weightier projectiles get blown about less hence fly further. With less wind the lighter the better, unless you're firing downwards from a vantage point.
 These should be tested on the bazooka and see what happens.
+If you hold the card by its corner, while covering the end, and get someone to put multiple projectiles in a row into the other end, you can get it to chain fire.
 
 
 
@@ -116,6 +117,22 @@ Call a first aider in the case of an injury.
 
 <br/>
 
+### **Hazard**: Tubes
+
+**Description**: Fingers being caught in tube due to the suction
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 8
+
+**Mitigation**: Ask them to test it one at a time, use the lower suction end to reduce the amount of force
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+<br/>
+
+
+
 ## Risk Assessment Check History 
 
 **Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
@@ -142,5 +159,5 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), 
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk)
 
