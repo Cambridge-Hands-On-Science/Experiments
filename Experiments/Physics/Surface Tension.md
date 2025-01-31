@@ -2,7 +2,7 @@
 
 **Exploring surface tension through floating paperclips and racing boats** 
 
-Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -218,4 +218,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-01-14 - Lauren Mason (llm34@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-01-14 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-31 Rowan Ong (rzmo2@cantab.ac.uk)
