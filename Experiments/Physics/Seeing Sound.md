@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -188,4 +188,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk) , **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk) ,
+**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk) , **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
