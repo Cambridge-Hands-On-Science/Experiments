@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Arian Pourabadey (asfp2cam.ac.uk)
+Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-30 by Rowan Ong (rzmo2@cantab.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -128,4 +128,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: Arian Pourabadey (asfp2@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), 
+**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: Rowan Ong (rzmo2@cantab.ac.uk)
