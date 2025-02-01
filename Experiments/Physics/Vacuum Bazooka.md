@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ?? by ??
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -108,26 +108,26 @@ In the event of an accident, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
 **Mitigation**: Place wires sensibly (not across middle of room). Tape down if necessary.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
 ### **Hazard**: Tubes
 
-**Description**: Fingers being caught in tube due to the suction
+**Description**: Fingers could be caught in the tube due to the suction, resulting in squashed fingers. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Ask them to test it one at a time, use the lower suction end to reduce the amount of force
+**Mitigation**: Ask the children to test the projectiles one at a time. Use the lower suction end to reduce the amount of force. Turn off vacuum if fingers are stuck. Call a first aider in case of injury. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -159,5 +159,5 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 3**: 2025-02-01 - Jessica Trevelyan (jet81@cam.ac.uk)
 
