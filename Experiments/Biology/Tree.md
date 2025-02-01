@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) 
+Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 
@@ -219,18 +219,18 @@ In case of injury, call first aider.
 
 ### **Hazard**: Bamboo Fingers
 
-**Description**: Children, parents or demonstrators could be tempted to put their fingers in the hollow sides of the bamboo and fingers can get stuff this way.
+**Description**: Children, parents or demonstrators could be tempted to put their fingers in the hollow sides of the bamboo and fingers can get stuck this way.
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Tell people to not put their fingers in the bamboo and don't let them get carried away. Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
-## Risk Assessment Check History
+### Risk Assessment Check History
 
 <br/>
 
@@ -260,4 +260,4 @@ In case of injury, call first aider.
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk) 
+**Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 3**: 2025-02-01 - Jessica Trevelyan (jet81@cam.ac.uk) 
