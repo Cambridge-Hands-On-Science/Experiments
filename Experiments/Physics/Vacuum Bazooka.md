@@ -79,7 +79,7 @@ Also see the Vacuums experiment which can be paired with this one.
 
 **Mitigation**: Demonstrator should maintain control of the direction the bazooka is firing in.
 If not holding the firing tube the demonstrator should have the projectile, end stop or both in his/her possession at all times to prevent bazooka being fired by anyone else.
-Bazooka should be sited to allow it to be fired along the room into a wall or (ideally) curtain, such that people who are not involved in the experiment cannot accidentally walk through the area, and so that those that are participating can be excluded from the firing area during firing.
+Bazooka should be sited to allow it to be fired along the room into a wall or (ideally) curtain, such that people who are not involved in the experiment cannot accidentally walk through the area, and so that those that are participating can be excluded from the firing area during firing. The firing range should be marked with hazard tape and physically blocked off (e.g. with chairs or tables) where possible. 
 Projectile should be composed principally of light-weight packing material or similar (such as bubble wrap). It may be desirable to weight the front end with blu-tack or similar to encourage predictable flight but this should be done with consideration for the total resulting weight.
 Call a first aider in the case of an injury.
 
