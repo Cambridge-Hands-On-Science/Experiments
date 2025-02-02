@@ -2,7 +2,7 @@
 
 This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2024-02-15 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,7 +54,7 @@ By this logic, we want an infinitely thick column. There are a couple of problem
 
 **3-Point Bending:**
 
-In the context of house-building, I claim that roof beams are loaded under a 3-point bend. To be honest, I have no idea if this is the case. So if someone has a better way to put it into context then let me know.
+In the context of house-building, I claim that roof beams are loaded under a 3-point bend. To be honest, I have no idea if this is the case. So if someone has a better way to put it into context then let me know. You could also use the example of the typical primary school benches (the wooden ones with the rubber bumps on the ends) or a bookshelf, for something younger children might be more familiar with. For these the supports at either end and a person sitting / an object placed at the centre would provide the 3 points.
 
 First, ask the student if you can make stronger roof beams by laying them out individually or bundling them up. Hopefully they will say bundling up. There are two reasons why bundling them up is better. Firstly, The more logs you have in the roof beam, the more weight they can bear since the weight is shared between the logs. Laying them out side by side means that you can't fit as many logs along the length of the ceiling that if you bundle them up, and make use of the vertical space.
 
@@ -185,4 +185,6 @@ In case of contact, advise parents to take children to GP if illness develops.
 **Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk)
  
