@@ -2,7 +2,7 @@
 
 **Rapid crystal growth from sodium acetate.** - Find out about how handwarmers work, and see solid crystals form in seconds right in front of your eyes. 
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Andrew Marriott (asm206@cam.ac.uk)
+Last initially checked on 2025-02-02 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,39 +19,30 @@ Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and
 ## Equipment Needed 
 - **Electricity needed**
 - Sodium Acetate
-- Saucepan + cooker ring of some sort
+- Saucepan + electric hotplate of some sort
 - Stirrer (not glass)
 - Metal cups for pouring
 - Plastic cups (ideally clear)
 - Cling film (not value cling film as it doesn't cling very well in this situation)
 - Cold water tray
+- Ice (optional)
 - **You will probably need one person making the solution and the other demonstrating.**
 
 <br/>
 
 ## Experiment Explanation 
 
- In a nutshell...
-----------------
-
-
-
+### In a nutshell...
 Sodium acetate forms a very stable supersaturated solution quite easily, so it is possible to grow crystals in front of the kids' eyes. First make a supersaturated solution and cool it, then add a crystal of sodium acetate to provide a nucleation centre for rapid crystallization.
 
-How to set up the experiment
-----------------------------
+### How to set up the experiment
 
-
-
-1) Add the sodium acetate (just crystals) to the pan and begin heating- add small amounts of water (you really don't need much) until the crystals have dissolved. Once they've dissolved, don't heat it too much as the water will be driven off.
+1) Add the sodium acetate (just crystals) to the pan and begin heating to about 80°C - add small amounts of water (you really don't need much) until the crystals have dissolved. Once they've dissolved, don't heat it too much as the water will be driven off.
 NOTE: If the sodium acetate does not seem to be going into solution, check carefully that you are heating it before adding more water. The solution in the pot usually has a thin crust on top and it still works fine.
 2) Use the metal pots to pour the solution into plastic cups, and place cling film over the top, so you don't get small crystals forming on the surface and triggering the crystallisation.
 3) Cool the cups down in cold water or ice. A mixture of cold water and ice works well. Make sure the cups are as stable as possible and only touch them when you demonstrate it. Even so, expect at least a third of solutions to crash out before demonstrating!
 
- Demonstration
---------------
-
-
+### Demonstration
 
 Start by explaining that there is loads of stuff in the water and that it wants to from crystals but it can't, because water is holding it apart, so it's easy to grow crystals but hard to start them off. In explaining what sodium acetate is, possibly call it a cross between salt and vinegar or explain that it comes from a reaction between bicarb and vinegar.
 
@@ -65,16 +56,17 @@ Heat is usually released when things crystallise in the same way it is when they
 
 You can also use solutions to make towers in a plastic dish by pouring the solution out, this should be enough to trigger crystallization.
 
- Where do we see this?
-----------------------
+### Where do we see this?
 
-
-
-Nucleation:
+#### Nucleation:
 Clouds won't form unless they have nucleation points so people have tried adding dust to clouds to stimulate rain - The Soviets used to seed clouds before they got to Moscow to stop it raining on days of the big parades.
-The commercial hand warmers have a little clickey thing that you click to make it start crystallising. Apparently these work by trapping little crystals in the crack, but trapped deep so they can't act as nuclei, when you click the thing it releases them - starting the crystallisation.
+
+The commercial hand warmers have a little clickey thing that you click to make it start crystallising. Apparently these work by trapping little crystals in the metal disc, but trapped deep so they can't act as nuclei, when you click the thing it releases them - starting the crystallisation.
 
 Sodium acetate solution has a much lower freezing point than water (like brine). It is used to de-ice planes as it is less environmentally damaging than NaCl, KCl or ethylene glycol (the traditional alternatives). It is used as a commercial deicer in airports and similar places, because it is attracted to water so strongly it will decrease its melting point significantly.
+
+### Packing away
+Turn off the hotplate, allow the sodium acetate to cool and crystallise it all. Get as many of the crystals as possible back into the bottle – they can be re-used. Any remaining sodium acetate in the pan or on the beakers can be washed away with warm water. Make sure all the metal equipment is dry before returning it to the box, or it might rust! Make sure the hotplate has cooled fully before putting it away.
 
 <br/>
 
@@ -88,8 +80,8 @@ Sodium acetate solution has a much lower freezing point than water (like brine).
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: The samples used must already have been cooled in order to crystallise, so the hotplate/hot liquid can and should be kept out of reach of the public at all times. In practice, for a long event, this may mean that two demonstrators are needed, one to heat the solution, the other to demonstrate. Demonstrator to wear eye protection (goggles) when heating up the solution.
-Run any burns under tepid water for at least 10 minutes, and call first aider.
+**Mitigation**: The samples used must already have been cooled in order to crystallise, so the hotplate/hot liquid can and should be kept out of reach of the public at all times. In practice, for a long event, this may mean that two demonstrators are needed, one to heat the solution, the other to demonstrate. Demonstrator to wear eye protection (goggles) when heating up the solution. Use the minimum possible temperature on the hot plate (around 80°C).
+Run any burns under cool water for at least 10 minutes, and call first aider.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -103,7 +95,7 @@ Run any burns under tepid water for at least 10 minutes, and call first aider.
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Ensure hotplate is kept out of reach of public and is attended while switched on. Keep away from flammable items, and be careful when handling hot pan. Switch off when not in use. Have tepid water nearby to cool burns.
+**Mitigation**: Ensure hotplate is kept out of reach of public and is attended while switched on. Keep hot plate away from flammable items. Don't leave metal spoons etc in the pan for more than a minute so they don't become too hot to safely touch. Be careful when handling hot pan and any metal implements that have been in it. Switch off when not in use. Have cool water nearby to cool burns.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -111,7 +103,7 @@ Run any burns under tepid water for at least 10 minutes, and call first aider.
 
 ### **Hazard**: Sodium acetate solution
 
-**Description**: Risk of solution splashing into eyes - it has a high osmotic potential, so will sting like salt.
+**Description**: Risk of solution splashing into eyes - it has a high osmotic potential, so will sting like salt, although sodium acetate is not otherwise classified as hazardous.
 
 **Affected People**: All
 
@@ -145,26 +137,26 @@ Call a first aider if an accident occurs.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Avoid using glass beakers to prepare sodium acetate solution if possible; otherwise, clear up broken glass immediately.
+**Mitigation**: Plastic cups are provided and should be used instead of glass (they can still be washed and re-used). If glass is being used, clear up broken glass immediately.
 Call a first aider if there’s an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
 <br/>
 
 ### **Hazard**: Heating apparatus
 
-**Description**: Electrical parts risk - see Electrical Parts RA.
+**Description**: Electrical hazard, particularly because electricity is being used in conjunction with conductive solutions.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: See Electrical Parts RA.
+**Mitigation**: See Electrical Parts RA. The hot-plate should be suitable for use with liquids. Keep it as far away as possible from plug sockets and extension leads. Clean and dry hands before touching switches, cables, plugs, etc.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -195,3 +187,5 @@ Call a first aider if there’s an accident.
 **Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-07 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Andrew Marriott (asm206@cam.ac.uk)
+
+**Check 1**: 2025-02-02 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
