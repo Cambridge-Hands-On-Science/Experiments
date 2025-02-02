@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - Experiment with the properties of light as certain filters block light, but only in certain directions!
 
-Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-01-06 by Lucy Bland (lb831@cam.ac.uk)
+Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2024-01-06 by Lucy Bland (lb831@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -318,3 +318,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk)
