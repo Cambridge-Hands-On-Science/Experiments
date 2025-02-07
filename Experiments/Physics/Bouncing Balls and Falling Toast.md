@@ -2,7 +2,7 @@
 
 **Looking at odd properties of bodies with spin.** - A selection of mechanics experiments which investigate the properties of bodies with added spin. From bouncing balls off walls to dropping toast from tables we find out the hidden influence of angular momentum and why it makes our carpet buttery. 
 
-Last initially checked on 2024-02-15 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-02-15 by Lachlan Rooney (lgmr2@cam.ac.uk)
+Last initially checked on 2025-02-7 by Duncan Green (dg678@cam.ac.uk) and double-checked on ____________ by __________
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,7 +31,8 @@ _Note: this experiment seems to be missing. If anyone knows where it is then let
 
 A superball is a solid rubber ball, we'll assume it's elastic and close to lossless. It also grips any surface so contacts are no-slip. We assume conservation of momentum, angular momentum around any point and no-slip and assume points of impact store and release energy in zero time. Impact via elastic particle model.
 
-Stuff about elastic and inelastic collisions. 
+Elastic (Lossless) collisions - Idealised collisions no energy is lost to the ball deforming or heat or sound etc. - The superballs are close enough to this for a couple bounces.
+For advanced participants could ask how likely it is the ball is perfectly elastic and what that might mean in terms the outcomes of the experiments in-silico vs in real life.
 
 ### How to do the experiment (part I)
 
@@ -43,9 +44,9 @@ They're different! What's going on?
 
 The point of this experiment is not only to look at how far the ball bounces back, but to think about how the spin direction changes. After saying this you may want to repeat the experiment to investigate. If you think of the ball rolling clockwise when it moves towards the wall, then on the way back it must be rolling anticlockwise. This change in spin direction requires energy, but where is the energy coming from? For advanced groups you can relate this to its angular momentum and this change in momentum requires a force. 
 
-When rolling the ball against a dry wall, you may have noticed that it bounces at the wall. It is this bounce that helps the ball to change its spin direction, and it's the wall that's providing the kick.
+When rolling the ball against a dry wall, you may have noticed that it bounces up and way from the wall. It is this bounce that helps the ball to change its spin direction, and it's the wall that's providing the kick.
 
-Taking a closer look, you will see that as the ball approaches the wall, it tries to continue up the wall, rolling in the direction it was going (ie: clockwise). However, gravity means that it can't do that for very long, and so it has to fall back down again. This makes the ball start to bounce and roll the other way (to see a graphical simulation of this effect, go to Hugh Hunt's website).
+Taking a closer look, you will see that as the ball approaches the wall, it tries to continue up the wall, rolling in the direction it was going (ie: clockwise). However, gravity means that it can't do that for very long, and so it has to fall back down again. This makes the ball start to bounce and roll the other way (to see a graphical simulation of this effect, go to Hugh Hunt's website - search "Hugh Hunt bouncing ball").
 
 So what happens when there is oil on the wall? In contrast to when the wall was nice and dry, the ball can no longer grip and roll upwards. This prevents the ball from bouncing and can no longer use the wall to change its spin direction.
 
@@ -56,9 +57,9 @@ This is why the ball doesn't roll back as far when there is oil on the wall. The
 So can we see this effect anywhere else? You might expect to see balls bouncing in this way when they roll towards the cushion in a game of snooker. In fact, you won't see this at all because the cushions are specially designed so that the ball won't jump when it bounces back. The cushions are angled so that the point of contact between the ball and the cushion is not exactly half way up the ball (as when it hits a vertical wall), but higher up on the ball's surface. This gives a downwards force.
 
 ### How to do the experiment (part II)
-Bounce the ball under a table so that it comes up and hits the table, and, due to its spin, returns to you by bouncing back out (c.f. Lampard's 2010 World Cup no-goal which hit the crossbar and bounced back and out of the goal due to this effect). Note that it enters without spin, picks up spin in the direction it enters and this then reverses on the underside of the table and remains in this direction.
+Bounce the ball under a table so that it comes up and hits the table, and, due to its spin, returns to you by bouncing back out (c.f. Lampard's 2010 World Cup no-goal which hit the crossbar and bounced back and out of the goal due to this effect). Note that it enters without spin, picks up spin in the direction it enters and this then reverses on the underside of the table and remains in this direction. (A live video and a simulation of this is also on Hugh Hunt's website)
 
-The ball also returns very close to its entry path, compare this to what a light particle would do. Is this an issue with the particle theory of light? Only if we assume that bouncy balls act like particles, in fact they don't and it's not an issue. We assume light particles are massless and have no physical size which defo isn't true of the ball.
+The ball also returns very close to its entry path, compare this to what a light particle would do. Is this an issue with the particle theory of light? Only if we assume that bouncy balls act like particles, in fact they don't and it's not an issue. We assume light particles are massless and have no physical size which defo isn't true of the ball. 
 
 ### How to do the experiment (part III)
 Make sure the book is together with an elastic band and says butter on one side. 
@@ -161,3 +162,6 @@ Call a first aider in the event of an accient.
 **Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
+
+**Check 1**: 2025-02-7 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 
+
