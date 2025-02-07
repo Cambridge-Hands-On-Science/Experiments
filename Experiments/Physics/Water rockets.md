@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle water rockets with a foot pump.** - Try not to get wet as you fire water-powered rockets into the air. Who can shoot it the highest?
 
-Last initially checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk) and double-checked on _____ by __________.
+Last initially checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk) and double-checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -173,4 +173,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk)
