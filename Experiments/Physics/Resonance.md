@@ -2,7 +2,7 @@
 
 **What is the link between earthquakes and cello strings?** 
 
-Last initially checked on 2024-01-11 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk) and double-checked on 2024-01-30 by Lauren Mason (llm34@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
