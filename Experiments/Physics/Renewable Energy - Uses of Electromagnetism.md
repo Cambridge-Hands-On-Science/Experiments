@@ -2,7 +2,7 @@
 
 **Making power using wind and water!** - Explore how we can use the power of electromagnetism to power our day to day lives!
 
-Last initially checked on 2025-02-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
