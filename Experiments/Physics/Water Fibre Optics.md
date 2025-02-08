@@ -2,7 +2,7 @@
 
 **Constraining light in a stream of water, making it work like an optical fibre.** - Find out what happens when light is trapped inside a stream of water. Make a beam of light bend round corners and see how fibre optics are helping to change the world!
 
-Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2023-02-18 by Lachlan Rooney (lgmr2@cam.ac.uk)
+Last initially checked on 2025-02-08 by Joshua Wu (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,7 +19,7 @@ Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-
 <br/>
 
 ## Equipment Needed 
-- **Darkroom needed**
+- **Darkroom advised**
 - Large bucket
 - Lemonade bottle with a hole drilled in it
 - Torch (the more powerful the better)
@@ -43,10 +43,9 @@ A stream of water is used to bend light and demonstrate how fibre optics work.
 
 
 1. With the bottle empty, ask where they expect the light to go when the torch is switched on. Most will say in a straight line. Show them they are correct - it's useful to have a wall to point the torch at.
-2. Put your finger over the hole and fill the bottle up with water.
+2. Put your finger over the hole and fill the bottle up with water, holding it over the bucket or other container to catch the water.
 3. Shine the torch through the bottle at the back of the hole.
 4. Remove your finger from the hole and move it down the stream of water, showing how the light no longer travels in a straight line.
-
 
 
 If you can, put a short straw into the hole - you'll get a smoother flow of water than just through the hole alone.
@@ -100,7 +99,7 @@ It may be worth laying down newspaper in the area around the bucket.
 Try to do the experiment so as to minimize the amount of water getting on the floor in the first instance.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -136,7 +135,7 @@ Take care not to drop the torch in the water.
 Turn off torch if in contact with the water.
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
@@ -161,12 +160,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
 **Mitigation**: Do not shine torch near people's faces and warn children/visitors not to do so if they are using it.
 Using an LED torch - as these are typically low power and do not pose a risk to sight - would be desirable if possible, though natural aversion should be sufficient in most cases to avoid damage. In the event of a person being dazzled by lights, switch off lights and get them to sit down until they have recovered. Check they are ok before letting them walk around in case they walk into something!
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
 
@@ -197,3 +196,5 @@ Using an LED torch - as these are typically low power and do not pose a risk to 
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
