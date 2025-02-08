@@ -2,7 +2,7 @@
 
 **Looking at floating and sinking using a bed of sand** - Find out more about quicksand and how sand can behave like a fluid.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??
+Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -132,7 +132,7 @@ Call first aider in event of injury.
 
 ### **Hazard**: Loud Blower
 
-**Description**: May cause hearing damage if used in confined space. May be unconfortable or cause distress for people sensitive to loud noises.
+**Description**: May cause hearing damage if used in confined space. May be uncomfortable or cause distress for people sensitive to loud noises.
 
 **Affected People**: All
 
@@ -201,4 +201,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
