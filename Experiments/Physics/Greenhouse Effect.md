@@ -2,7 +2,8 @@
 
 **Illustrating the greenhouse effect with hot resistors in flasks** 
 
-Last initially checked on 2024-02-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2024-02-22 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
+ and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -72,7 +73,9 @@ Testing at 12.9 V shows that a 20–30 °C rise is achievable over about 20 minu
 
 Note on the resistors: These ‘vintage’ blue-green resistors are from Cavendish Stores, with a _nominal_ power rating of 5 W and resistance about 12 Ohms, so the maximum power supply voltage we should use is about 15 V. In case the resistors blow up, there are a bunch of spares in the box, but they are expensive to buy online…
 
-[TODO] Power equation.
+```math
+P = \frac{V^2}{R} = \frac{15^2}{12} = 18.75 V
+```
 
 ### **Heat Transfer**
 
@@ -96,8 +99,6 @@ Links:
 
 ### **Resistors**
 
-[TODO] What resistors are these?
-
 What are resistors? They dissipate energy in the form of heat.
 
 What is resistance? Maybe something like friction to electricity? You can ask them to rub their hands together and feel them heat up. This is how incandescent light bulbs work (but they are inefficient and waste energy). 
@@ -110,6 +111,7 @@ Links:
 Where does Earth get its heat? The Sun. So it’s a bit different to the internal production here with the resistors. 
 
 [TODO] Primordial heat and radiogenic heat. 
+
 
 [TODO] Greenhouse effect diagrams and explanation. 
 
@@ -191,3 +193,6 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 ## Risk Assessment Check History 
 
 **Check 1**: 2024-02-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-22 - Lauren Mason (llm34@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 
+
