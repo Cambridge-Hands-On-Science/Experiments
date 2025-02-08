@@ -616,6 +616,20 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 <br/>
 
+### **Hazard**: Hand lens
+
+**Description**: Could cause mild eye strain if used incorrectly; bright LED could shine in eye if held the wrong way round.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+
+**Mitigation**: Demonstrator to show correct use of hand lens before letting children use it. If the light is working, turn it on before giving the hand-lens to the child, and make sure they are pointing the light away from their eyes.
+
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+
+<br/>
+
 ## Risk Assessment Check History
 
 **Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-14 - Adam Casey (ac675@cam.ac.uk)
@@ -641,3 +655,5 @@ If a child is distressed, put away the sample, assure the child that it's just a
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-17 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
