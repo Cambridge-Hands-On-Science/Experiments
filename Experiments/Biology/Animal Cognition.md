@@ -160,4 +160,4 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), 
+**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk)
