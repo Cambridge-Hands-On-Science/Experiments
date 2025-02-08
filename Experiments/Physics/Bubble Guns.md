@@ -2,7 +2,7 @@
 
 **Bubbles** - Magical bubbles!!!
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and on _____ by _____ 
+Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -97,4 +97,4 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: ______  - _____
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08  - Tara Doherty (ted37@cam.ac.uk)
