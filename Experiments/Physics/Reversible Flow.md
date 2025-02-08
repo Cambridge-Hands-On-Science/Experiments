@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk).
+Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,20 +33,21 @@ It consists of two concentric cylinders that can be rotated relative to one anot
 
 ### What to do
 
-Put three cans of golden syrup in the white bucket. Sprinkle some of the icing sugar(or similar) in a straight radial line on the surface of the syrup. Whilst holding the bottom of the bucket firmly, get the children to SLOWLY turn the handle to rotate the inner cylinder (say 90°). Then get them to rotate it back slowly. The powder should be in the same pattern as initially. 
+Put three cans of golden syrup in the white bucket. Sprinkle some of the icing sugar(or similar, just make sure it's edible!) in a straight radial line or some other recognisable pattern (e.g. a letter) on the surface of the syrup. Whilst holding the bottom of the bucket firmly, get the children to SLOWLY turn the handle to rotate the inner cylinder (say 90°). Then get them to rotate it back slowly. The powder should be in the same pattern as initially. 
 
 
 ### How to explain it
 
 Imagine the syrup as little blobs of syrup. When you turn the inner cylinder they experience a force and so move. When you turn the cylinder back, they experience the same magnitude of force but pushing them in the opposite direction. So in the end it's as if they never moved at all.
 
+Depending on the knowledge level of the child, feel free to get some advanced bits from the science background below for a deeper explanation (e.g. why this works in syrup but not other fluids)
 
-### Related stuff
+### Related phenomena
 
- A fish which swims in water by wiggling its tail from side to side wouldn't get anywhere if you put it in syrup. Moving the tail one way and then the other in syrup just puts the fluid back where it started, with no forward push. Sperm get round this by having a spiral tail which rotates, so their swimming motion is never 'reversed' and they can travel forwards.
+ A fish which swims in water by wiggling its tail from side to side wouldn't get anywhere if you put it in syrup. Moving the tail one way and then the other in syrup just puts the fluid back where it started, with no forward push. Sperm and some bacteria get round this by having a spiral tail which rotates, so their swimming motion is never 'reversed' and they can travel forwards.
 
 
-### What are we seeing?
+### What are we actually seeing?
 
 'The syrup is sticky so all the bits next to each other stay together' - close... 
 
@@ -54,7 +55,7 @@ Imagine the syrup as little blobs of syrup. When you turn the inner cylinder the
 If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and lengthscales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup. (see: scallop theorem/hydrodynamic starvation)
 
 
-### Science background
+### More background
 
 Golden syrup has a very high viscosity, so the flow should be laminar. It is the little bit of turbulence that is unavoidable that will mean that you will have to occasionally clean it out and put fresh syrup in! The slowly is to minimise turbulence. This causes turbulent mixing which stops the demonstration working. 
 For a more detailed explanation, a low Reynolds number means the inertia of the fluid is negligible compared to the viscous forces.
@@ -92,7 +93,7 @@ Applications such as tissue engineering performed on carrier particles, or cell 
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Make sure equipment is secure on a flat surface.
+**Mitigation**: Make sure equipment is secure on a flat surface, and far away from the edge of the table.
 Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -107,7 +108,7 @@ Call first aider in case of injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: If syrup gets on hands/arms, make sure children don't lick it off, and that they wash their hands once they've finished the experiment. Warn children not to inhale when you are pouring any icing sugar.
+**Mitigation**: If syrup gets on hands/arms, make sure children don't lick it off, and that they wash their hands once they've finished the experiment. Have a pack of wet wipes or tissues nearby to give to them. Warn children not to inhale when you are pouring any icing sugar.
 Call a first aider in the event of an emergency.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
@@ -141,3 +142,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
