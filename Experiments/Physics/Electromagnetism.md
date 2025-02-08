@@ -29,7 +29,7 @@ Last initially checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk) and doubl
 - Two pipes, one copper, one plastic.
 - Green 'iron filing' paper
 - 'Stripey' magnet for use with green paper
-- Selection of coin magnets (don't get more than a couple out an once).
+- Selection of coin magnets (don't get more than a couple out at once).
 
 #### Motors etc.
 - Motor
