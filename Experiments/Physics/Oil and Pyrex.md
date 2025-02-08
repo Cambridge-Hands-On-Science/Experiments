@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2024-01-25 by Joshua Wu (jw2311@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2024-02-15 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -71,7 +71,7 @@ In a non-cross linked form the polymer absorbs water much more quickly but sadly
 ### Waves at Boundaries (for older visitors)
 
 
-At CHaOS+ events, or if you are confident at public events, this can be used to demonstrate how waves change speed indifferent mediums. To set up, clamp the wave model between 2 tables and add weights to skewers on one end. Playing around with this you should be able to see reflected waves and a noticeable change in wave speed at the boundary.
+At CHaOS+ events, or if you are confident at public events, this can be used to demonstrate how waves change speed in different mediums. To set up, clamp the wave model between 2 tables and add weights to skewers on one end. Playing around with this you should be able to see reflected waves and a noticeable change in wave speed at the boundary.
 
 [1] The "speed of light" is defined in a vacuum; in denser materials it travels slightly more slowly.
 [2] And any impurities in the glass - this is why most glass is green if you look at it side-on. Optical glass (for optical fibres, etc) is much higher purity.
@@ -184,3 +184,5 @@ In the event that something is eaten, warn parents/relevant adult.
 **Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
