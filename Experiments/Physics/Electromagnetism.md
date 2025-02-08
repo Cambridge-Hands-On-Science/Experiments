@@ -110,7 +110,7 @@ Wrap wire around a nail attach it to a power supply and see how it affects paper
 Put a current through the wire on top of the magnet, you should notice the wire is pushed by the magnet. If you reverse the direction of the current the direction of the force reverses.
 
 #### Simple motor
-This is a simple toy motor. There are two commutators one which keeps the polarity the same - you can show that you can get some movement but not rotation, and one which swaps the polarity, that will make it turn nicely.
+This is a simple toy motor. There are two commutators: one which keeps the polarity the same - you can show that you can get some movement but not rotation, and one which swaps the polarity, that will make it turn nicely.
 
 - Have a look at the motor there are a load of wires near some magnets, so there will probably be some forces going on from the Jumping wire experiment.
 
