@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2024-02-18 by Emily Wolfenden (elw74@cam.ac.uk) and double-checked on 2024-02-19 by Lucy Bland (lb831@cam.ac.uk)
+Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -116,11 +116,11 @@ As far as the eye is concerned, I think the small size of the iris makes the roo
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
 
-**Mitigation**: Make sure hot water is not hot enough to burn. If it does burn, run under running tepid water for 10 mins. Call first aider in event of injury.
+**Mitigation**: Make sure hot water is not hot enough to burn. If it does burn, run under running tepid water for 10 mins and call first aider. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
 <br/>
 
@@ -184,3 +184,5 @@ Call first aider in event of injury.
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
