@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
