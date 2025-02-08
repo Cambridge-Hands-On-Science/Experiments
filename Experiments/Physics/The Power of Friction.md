@@ -3,7 +3,7 @@
 **(Brief Description)** - See how strong two interleaved books are
 
 Last initially checked on 2025-01-23 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
-**Frequency of use:** 1
+2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -108,6 +108,6 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
