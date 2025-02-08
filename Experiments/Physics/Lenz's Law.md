@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on 2024-02-15 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2024-02-15 by Lauren Mason (llm34@cam.ac.uk)
+Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,7 +39,7 @@ Get a volunteer to hold the pipe and challenge them to put the magnet in it and 
 
 This is because the moving magnet is inducing an electrical current in the metal. There are two ways to explain why this causes it to slow down:
 
-Easier - Some energy is needed to make the electrical current (like turning the handle before). This time the energy comes from the falling magnet, and when it loses kinetic energy it slows down.
+Easier - Some energy is needed to make the electrical current (like turning the handle before - from another experiment in the electromag box). This time the energy comes from the falling magnet, and when it loses kinetic energy it slows down.
 
 Harder - Eddy currents of electricity are formed, and these create an electromagnetic effect opposing the motion of the magnet, hence it slows down.
 
@@ -127,3 +127,7 @@ Call first aider in case of injury.
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk)
+
+
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 
+
