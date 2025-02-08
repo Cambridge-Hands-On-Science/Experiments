@@ -74,7 +74,7 @@ Tips for demonstrating:
 
 - The whirly woo only makes a sound when you rotate it at the right frequency. Similar ideas to the above but 100x more exciting for kids than a panpipe.
 
-- One of the whirly woos is stretchy - you can get the kids to take and end each and stretch it out and hear the note getting deeper: the resonant frequency changes with the length of the pipe - explains wind instruments, organ pipes etc. 
+- One of the whirly woos is stretchy - you can get the kids to each take an end, stretch it out and hear the note getting deeper: the resonant frequency changes with the length of the pipe - explains wind instruments, organ pipes etc. 
 
 - Hit the tuning fork and explain that the note that you hear corresponds to the resonant frequency of the tuning fork. Again, draw a parallel to the swing and that the note you hear is the frequency at which the tuning fork 'likes' to vibrate. With older kids you can talk about how initially the fork is vibrating at lots of frequencies but all the ones which aren't the resonant one decay quickly, like how the swing's amplitude quickly decays if you push it at the wrong frequency. 
 
