@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2025-01-21 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
+Last initially checked on 2025-01-21 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -237,4 +237,4 @@ In the event of accident, call a first aider/mechanic.
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
