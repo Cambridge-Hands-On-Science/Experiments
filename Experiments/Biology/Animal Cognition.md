@@ -2,8 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-14 by Timothy Wong (chw55@cam.ac.uk)
-
+Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on  by 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -40,6 +39,8 @@ During the experiment:
 1. What is intelligence?
 2. How do we test human intelligence? - IQ tests (more info below), school exams
 
+Kids often ask about IQ as a form of human intelligence testing. As IQ has several flaws, it is important to discuss this while encouraging the suggestion. Compare IQ and intelligence to a 100m sprint; a very specific form of measuring one aspect of a person's overall traits ('is a person with the best 100m time the best football/basketball/rugby player?'). But it is still narrow and can be trained for rather than being objective. This may resonate when compared to school exams
+
 3. Obviously we can't give animals these tests so what kind of tests might we use to test their intelligence?  - Mazes, puzzles, memory tests
 
 This challenge is an example of a puzzle:
@@ -51,9 +52,11 @@ Congratulate for effort and talk about why using gravel worked, or if they manag
 6. What challenges are there with testing animal intelligence? 
 - Motivation - use food instead of balloon
 - Ambiguity - we think this shows understanding of displacement but can't be certain of what an animal's thought process is so this is a bit of an assumption. - Complex patterns of behaviour can also be instinctive rather than require cognition as shown in fixed action patterns e.g. grey geese scoop eggs up into their nest if they roll away but will also scoop up anything egg-like in their vicinity - don't know why they're doing it just doing the action. Also, there can be other underlying reasons for behaviour, for example Clever Hans was a horse who appeared to be able to perform simple addition but was just interpreting subtle unintentional body language cues from a trainer to see what the right answer was
-7. How else can we estimate animal intelligence? - Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator.
+7. How else can we estimate animal intelligence? - Cranium size - good to compare magpie and pigeon skulls here and similar sized birds but magpie's cranium is significantly bigger. Magpies are very intelligent, indicated by tool use and good spatial memory. Large brains use up a lot of energy so animals will only have big brains if they need them, making it a fairly useful indicator. Also bring in the relative placements of eye sockets for the two birds; magpies have more forward facing eyes than pigeons. This helps with tool use and moving things in front of their face.
 
 If they seem interested, you can go into more detail about other animal intelligence tests:
+
+- The key idea to communicate is that intelligence is an aspect of an animal, with different types evolving in different circumstances. Some animals (Jellyfish have no discernible 'intelligence' and no brain). Group living animals (humans, dolphins, cows) have more use for social intelligence, while physical and spatial intellgence can be more use in certain habitats or diets (crows and rodents).
 
 - Physical intelligence - this is the kind of test we have just done. It tests the animal's 'knowledge' of the physical laws of the universe e.g. gravity, water displacement etc. It also tests whether they understand the properties of objects, in particular whether they can use them as tools.
 
@@ -126,6 +129,17 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 <br/>
 
+**Description**: Damage from sharp elements of skulls on sensitive areas (eyes)
+
+**Affected People**: All; especially children
+
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+
+**Mitigation**: Minimise handling time from the children, and do not take multiple skulls out at the same time. Ensure all handling is done while a demonstrator is present.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+
+<br/>
 ## Risk Assessment Check History 
 
 **Check 1**: 2015-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk)
@@ -145,3 +159,5 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 **Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), 
