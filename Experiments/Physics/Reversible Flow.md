@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked by 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -143,4 +143,4 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
