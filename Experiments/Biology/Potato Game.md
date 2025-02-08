@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -138,4 +138,4 @@ There's also supply and demand which will factor in.
 
 **Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
