@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2024-02-15 by Chiara Cordeiro (cd796@cam.ac.uk) and double-checked on 2024-02-15 by Vlad Penzyev (vp410@cam.ac.uk)
+Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
