@@ -1,8 +1,8 @@
 # Pendulum Waves
 
-**nan** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
+**Watching pendulum phase dynamics** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
 
-Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -38,12 +38,12 @@ The period of one complete cycle of the dance is t (60) seconds. The length of t
 
 One instance of interest to note is at t/2 (30) seconds (halfway through the cycle), when half of the pendulums are at one amplitude maximum and the other half are at the opposite amplitude maximum.
 
-It's worth noting the mass has no effect on the period of the pendulum (however gravity strength does) so it doesn't matter about the number of washers on the strings. 
+It's worth noting the **mass has no effect on the period of the pendulum** (however gravity strength does) so it doesn't matter about the number of washers on the strings. 
 The demonstration is used in the Czech Republic under the name Machuv vlnostroj—the "Wavemachine of Mach." Harvard also have one which is used in one of their museums.
 
 James Flaten and Kevin Parendo have mathematically modelled the collective motions of the pendula with a continuous function. The function does not cycle in time and they show that the various patterns arise from aliasing of this function—the patterns are a manifestation of spatial aliasing (as opposed to temporal). Indeed, if you've ever used a digital scope to observe a sinusoidal signal, you have probably seen some of these patterns on the screen when the time scale was not set appropriately. You could talk about sampling and trying to guess the pattern if you know about this.
 
-You can also talk about Reset times, after t seconds we're back to where we started and the system has reset, this is an important part of Markov chains and other probabilistic results, if the system resets (or regenerates). This means we can treat parts of the process as independant statistically.
+You can also talk about Reset times: after t seconds we're back to where we started and the system has reset. This is an important part of Markov chains and other probabilistic results, if the system resets (or regenerates). This means we can treat parts of the process as independent statistically.
 It could(??) be used to simulate quantum revival. So here you have quantum revival versus classical periodicity! Quantum revival is when we complete a full period of the system wave function, something which often takes a long time - but not always, when components of the superposition have equal spacing in frequency!
 
 **Coupled Pendulums**
@@ -88,7 +88,7 @@ In case of an accident, untie/cut the string if necessary. If necessary, call a 
 
 ### **Hazard**: Wood
 
-**Description**: Splinters from wood.
+**Description**: Splinters from wood, causing injury.
 
 **Affected People**: All
 
@@ -123,7 +123,7 @@ In case of an injury, contact a first aider.
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Encourage people not to stick their fingers in the washers lest they get stuck
+**Mitigation**: Encourage people not to stick their fingers in the washers lest they get stuck. In case of injury, contact a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -143,4 +143,4 @@ In case of an injury, contact a first aider.
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
