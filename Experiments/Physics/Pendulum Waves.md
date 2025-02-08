@@ -2,7 +2,7 @@
 
 **nan** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
 
-Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -30,9 +30,9 @@ Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-
 2 pendulum experiments - one that usually gets wrapped in clingfilm? which can be done alone and one in a cardboard box that can be done with resonance
 
 **Uncoupled Pendulums**
-To set this up you'll need to have two equal sized supports, using a combination of tables and boxes works well. You'll want to view them from above or down the length (e.g. from under the table). 
+To set this up you'll need to have two equal height supports, using a combination of tables and boxes works well. You'll want to view them from above or down the length (e.g. from under the table). 
 
-There are several uncoupled simple pendulums of monotonically increasing lengths which dance together to produce visual travelling waves, standing waves, beating, and random motion. One might call this kinetic art and the choreography of the dance of the pendulums is stunning! Aliasing and quantum revival can also be shown.
+There are several uncoupled simple pendulums of monotonically increasing lengths which dance together to produce visual travelling waves, standing waves, beating, and random motion. One might call this kinetic art and the choreography of the dance of the pendulums is stunning! Aliasing can also be shown.
 
 The period of one complete cycle of the dance is t (60) seconds. The length of the longest pendulum has been adjusted so that it executes some number (51) oscillations in this t (60) second period. The length of each successive shorter pendulum is carefully adjusted so that it executes one (perhaps) additional oscillation in this period. Thus, the 15th shortest pendulum (or however many there are) undergoes 65(ish) oscillations. When all 15 pendulums are started together, they quickly fall out of sync—their relative phases continuously change because of their different periods of oscillation. However, after t (60) seconds they will all have executed an integral number of oscillations and be back in sync again at that instant, ready to repeat the dance.
 
@@ -43,7 +43,8 @@ The demonstration is used in the Czech Republic under the name Machuv vlnostroj�
 
 James Flaten and Kevin Parendo have mathematically modelled the collective motions of the pendula with a continuous function. The function does not cycle in time and they show that the various patterns arise from aliasing of this function—the patterns are a manifestation of spatial aliasing (as opposed to temporal). Indeed, if you've ever used a digital scope to observe a sinusoidal signal, you have probably seen some of these patterns on the screen when the time scale was not set appropriately. You could talk about sampling and trying to guess the pattern if you know about this.
 
-You can also talk about Reset times, after t seconds we're back to where we started and the system has reset, this is an important part of Markov chains and other probabilistic results, if the system resets (or regenerates). This means we can treat parts of the process as independant statistically. It could be used to simulate quantum revival. So here you have quantum revival versus classical periodicity! Quantum revival is when we complete a full period of the system wave function, something which often takes a long time - but not always, when components of the superposition have equal spacing in frequency!
+You can also talk about Reset times, after t seconds we're back to where we started and the system has reset, this is an important part of Markov chains and other probabilistic results, if the system resets (or regenerates). This means we can treat parts of the process as independant statistically.
+It could(??) be used to simulate quantum revival. So here you have quantum revival versus classical periodicity! Quantum revival is when we complete a full period of the system wave function, something which often takes a long time - but not always, when components of the superposition have equal spacing in frequency!
 
 **Coupled Pendulums**
 You want to hang the string between two fixed boxes and then try swinging various pendulums, you'll notice as there weakly coupled you can occasionally get other pendulums to also swing due to them having resonant periods. 
@@ -62,7 +63,7 @@ You want to hang the string between two fixed boxes and then try swinging variou
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
 
-**Mitigation**: Make sure weights are attached properly.
+**Mitigation**: Make sure weights are attached properly before demonstration.
 Make sure the stand is secured properly.
 In case of emergency contact a first aider.
 
@@ -141,3 +142,5 @@ In case of an injury, contact a first aider.
 **Check 1**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2023-02-17 - John Leung (cfl35@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
