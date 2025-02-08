@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle air rockets along a rope** - 5, 4, 3, 2, 1, Lift Off! With a lemonade bottle and a bike pump, we'll show you how to make a rocket! How high can you get it to fly?
 
-Last initially checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk) and double-checked on _____ by ______
+Last initially checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ Like the water rockets, everyone likes to play with the air rockets... and they 
 
 If you want to explain the experiment, you'll probably find it best not to let the kids get onto the launch platform until you've talked to them a bit. It's generally best to ask a question first to see what they know already.
 
-There's quite a lot of physics you can explain with the experiment. Firstly the idea of pressure - you can talk about the pump - put your finger over the valve and get them to push down on the pump - they'll find it gets harder as they push down and increase the pressure. So we have the idea that as we pump the bottle up, we increase the pressure and this pushes the bung out. If they understand (ask them to explain it again!) you can talk about molecules. The molecules move at about 500 ms-1, so even though they are light give a good push on the walls of the bottle when they hit (plus obviously there are > 10^23 of them!). So, as you pump up the bottle, adding more molecules, there is a harder push against the wall and the bottle gets harder.
+There's quite a lot of physics you can explain with the experiment. Firstly the idea of pressure - you can talk about the pump - put your finger over the valve and get them to push down on the pump - they'll find it gets harder as they push down and increase the pressure. So we have the idea that as we pump the bottle up, we increase the pressure and this pushes the bung out. If they understand (ask them to explain it again!) you can talk about molecules. The molecules move at about 500 ms-1 so, even though they are light, give a good push on the walls of the bottle when they hit (plus obviously there are > 10^23 of them!). So, as you pump up the bottle, adding more molecules, there is a harder push against the wall and the bottle gets harder.
 
 So what happens when the rocket launches? We've said that the bung gets forced out by the pressure in the bottle (what pressure it reaches depends on how hard you jam the bung in each time, and varies, and thus does the height the rocket gets to). You probably don't want to talk about conservation of momentum with the kids - the bung flies out backwards with a certain momentum, and thus to give the overall system zero momentum the bottle gets equal and opposite momentum, sending it up the rope. You can talk about equal and opposite reactions, though. Think about leaning on a wall - does it push back on you? Most kids probably think not. However, if you get one of them to push on your hand, and you push back, you both stay where you are. If you ask them to stop pushing, then you fall forwards (or at least pretend to!) - so leaning against the wall, the wall must be pushing against you! Going back to the rocket - when you pump up the bottle the air is pushing against the bung - when the bung pops out it's like stopping pushing against your hand, so the rocket flies forward. You can show this with throwing a bag of rice; as you throw it it pushes you back. Another example that kids might know about is cannon/ gun recoil which is essentially the same physics as this. The cannon moves backwards and fires the shot forwards and in the same way the bung moves backwards and fires the bottle forwards. 
 
@@ -133,4 +133,4 @@ In the event of an accident call a first aider.
 
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-02-07 by Duncan Green (dg678@cam.ac.uk), **Check 2**: ___________
+**Check 1**: 2025-02-07 by Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
