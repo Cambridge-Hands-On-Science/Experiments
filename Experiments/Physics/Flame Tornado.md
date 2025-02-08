@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -29,7 +29,7 @@ Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
 ### Old explanation
 Demo of a flame tornado - a small fire is made at the centre of a rotating mesh tube. The tube is rotated giving incoming air angular momentum, so it gets dragged in and makes a cool tornado effect.
 
-To set up place a crucible at the centre of the tray. Let people give it a spin to show a tornado isn't formed like that. Place mesh around and spin again. This messes with incoming air and leads to vorticies and tornadoes through scientific magic someone should explain here! 
+To set up place a crucible at the centre of the tray. Let people give it a spin to show a tornado isn't formed like that. Place mesh around and spin again. This messes with incoming air and leads to vortices and tornadoes through scientific magic someone should explain here! 
 
 ### New explanation
 Ensure the turntable is placed on a flat surface outside. Cover cotton wool with petroleum jelly ahead of demonstrating because a) it's not nice to do and b) it will make demonstrating easier. Place some in the centre of the turntable and (very carefully) light it using the lighter (aim for the cotton wool as the jelly itself isn't flammable and will melt). Make sure people are standing out of the way when you do this! Then, spin the turntable (first without the mesh outside, then with the mesh outside) and you should see a flame tornado when the mesh is present.
@@ -128,6 +128,6 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Chiara Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
+**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk),
+**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
