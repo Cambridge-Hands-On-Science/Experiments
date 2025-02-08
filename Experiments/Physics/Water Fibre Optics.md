@@ -2,7 +2,7 @@
 
 **Constraining light in a stream of water, making it work like an optical fibre.** - Find out what happens when light is trapped inside a stream of water. Make a beam of light bend round corners and see how fibre optics are helping to change the world!
 
-Last initially checked on 2025-02-08 by Joshua Wu (pm631@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
