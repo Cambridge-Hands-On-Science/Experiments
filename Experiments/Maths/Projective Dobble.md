@@ -2,7 +2,7 @@
 
 **The maths of Dobble** - Introduction to axiomatic maths and projective geometry via the card game Dobble. Learn how to make your own Dobble decks by constructing the "axioms of Dobble" from the rules, then developing methods to build these.
 
-Last initially checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ?? by ??
+Last initially checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,7 +117,7 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Make sure cards are not on the floor. Call first aider in case of injury.
+**Mitigation**: Make sure cards are not on the floor and children don't drop them. Call first aider in case of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -125,6 +125,6 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 **Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 
