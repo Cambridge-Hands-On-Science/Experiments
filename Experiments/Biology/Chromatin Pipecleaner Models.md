@@ -4,7 +4,7 @@
 
 **- Humans have 19,000 genes. How are only certain genes turned on in each cell so that brain cells express brain genes, but not heart genes and vice versa? Here we make fun chromatin models to explore epigenetics.**
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -128,4 +128,4 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
