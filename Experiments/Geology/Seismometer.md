@@ -135,7 +135,7 @@ Lithosphere → strong but brittle solid layer
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Do not ask them to jump if the floor seems dangerous or they do not seem steady on their feet. Avoid doing this activity near to steps / uneven floors.
+**Mitigation**: Do not ask them to jump if the floor seems dangerous or they do not seem steady on their feet. Avoid doing this activity near to steps / uneven floors / tables with sharp corners.
 In case of injury call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 
@@ -158,7 +158,7 @@ In case of injury call a first aider.
 
 ### **Hazard**: Sharp seisometer parts
 
-**Description**: Some parts are sharp or could trap fingers.
+**Description**: Some parts (e.g. the metal spring in the seismometer) are sharp or could trap fingers.
 
 **Affected People**: All
 
@@ -209,3 +209,5 @@ In case of injury call a first aider.
 **Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk) 
+
+**Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**:
