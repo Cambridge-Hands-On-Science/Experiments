@@ -134,4 +134,4 @@ For example:
 
 **Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
