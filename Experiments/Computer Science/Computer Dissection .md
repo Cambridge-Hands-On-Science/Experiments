@@ -2,7 +2,7 @@
 
 **Dissecting a computer** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on
+Last initially checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -184,5 +184,5 @@ Printer cartridge - Not sure why this is in here, but could talk about how compu
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
