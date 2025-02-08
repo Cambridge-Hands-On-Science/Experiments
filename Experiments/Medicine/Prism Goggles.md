@@ -2,7 +2,7 @@
 
 **Demonstrate how the brain adapts to changes in environmental input using prism goggles.** - See how quickly your brain adapts by wearing our prism goggles whilst playing a target-hitting game.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??
+Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -157,4 +157,4 @@ Call first aider if necessary.
 
 **Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
