@@ -190,4 +190,4 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 **Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), 
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
