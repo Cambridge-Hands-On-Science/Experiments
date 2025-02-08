@@ -2,8 +2,7 @@
 
 **Examining a variety of objects under a microscope, including a variety of slides** - All sorts of things can be viewed down a microscope! This might include the biology lesson classic of an onion skin, the shapes of salt and sugar crystals, the eye of the insect you found in your tent, a drop of puddle water... 
 
-Last initially checked on 2024-02-15 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham (ig419@cam.ac.uk)
-
+Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on by 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -168,7 +167,7 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 
 ## Risk Assessment
 
-### **Hazard**: Microscopes
+### **Hazard**: Microscopes and laptop
 
 **Description**: Electrical hazard, especially near possible water-based samples.
 
@@ -176,7 +175,7 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Keep water-based samples away from the microscope. Take care. See separate electrical parts risk assessment.
+**Mitigation**: Keep water-based samples away from the microscope and laptop. Take care. See separate electrical parts risk assessment.
 In case of accident, call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -269,3 +268,5 @@ In case of accident, call first aider.
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk)
