@@ -2,7 +2,7 @@
 
 **Measure the speed of light** - Measure the speed of light using butter and a microwave!
 
-Last initially checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -114,4 +114,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk),  **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),  **Check 2**: 
+**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),  **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
