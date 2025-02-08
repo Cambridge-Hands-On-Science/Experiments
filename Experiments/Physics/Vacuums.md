@@ -2,7 +2,7 @@
 
 **Various demonstrations using a vacuum pump.** - The idea of a vaccum is very different to what we experience in everyday life, with some surprising consequences!
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -141,7 +141,7 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
 
 
