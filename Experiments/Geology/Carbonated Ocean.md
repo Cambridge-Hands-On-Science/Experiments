@@ -2,7 +2,7 @@
 
 **What happens to CO₂ in Earth's oceans?** - Make your own carbonate minerals, and discover the effects of ocean acidification using a SodaStream.
 
-Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Frequency of use:** N/A
 
@@ -165,7 +165,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 #### Other (optional) points to mention
 
-- Some people may mention coral bleaching: this is not thought to be direcly related to ocean acidification (the impact of acidic seawater on corals is still being studied) but is due to the higher temperatures due to rising CO₂ and climate change. The photoendosymbiotic zooxanthellae that live in coral are very sensitive and only live in a specific temperature range.
+- Some people may mention coral bleaching: this is not thought to be directly related to ocean acidification (the impact of acidic seawater on corals is still being studied) but is due to the higher temperatures due to rising CO₂ and climate change. The photoendosymbiotic zooxanthellae that live in coral are very sensitive and only live in a specific temperature range.
 - This experiment focusses on ‘inorganic carbon’ (i.e. carbon in the +4 oxidation state) but we can also remove CO₂ from the atmosphere by the ‘organic carbon’ (oxidation state = 0) side of the carbon cycle, through photosynthesis and burial. Instead of carbonate rocks, organic carbon is geologically stored as fossil fuels – the much more rapid than usual release of this reservoir is the primary reason for the current rise in CO₂. Some people are considering ‘fertilising’ the oceans to speed up this sink, but this may have all sorts of unintented ecological consequences.
 - Likewise, there is a lot of research being done into adding bases to raise the pH of the ocean so it will hold more CO₂ – ‘Ocean Alkalinity Enhancement’ (OAE). This might also cause trouble... Ironically, geologists also use the acronym ‘OAE’ for ‘Oceanic Anoxic Event’, which is what could happen if OAE is not managed properly!
 
@@ -317,6 +317,6 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-08-05 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2024-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
