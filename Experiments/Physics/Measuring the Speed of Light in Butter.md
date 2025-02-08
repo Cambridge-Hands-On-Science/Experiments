@@ -2,7 +2,7 @@
 
 **Measure the speed of light** - Measure the speed of light using butter and a microwave!
 
-Last initially checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-02-15 by Vlad Penzyev (vp410@cam.ac.uk)
+Last initially checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,12 +31,12 @@ Last initially checked on 2024-01-23 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 ## Experiment Explanation 
 
-Explain how light is a wave and that microwaves are just some wavelength of this. A microwave has a generator (called a magnetron), standing waves are formed in the oven box, and the nodes and antinodes have different energy levels, the rotation means food gets heated evenly. (Antinodes max heat, nodes have no heating except diffusion).
-Remove the turntable from the microwave, this allows us to identify the hotspots. To do so take some cardboard/paper plate and spread a fine layer of butter evenly across it. Place in the microwave for a few seconds. You should notice a pattern in the melted butter, if not keep microwaving it until you see things. 
-Use the ruler to measure the distance between the hotspots: this gives us half the wavelength of microwaves. 
-Then speed of light = wavelength * frequency ($c=f\lambda$). The frequency of microwaves is around 2.5Ghz. 
-The speed of light is 29,979,245,800 cm/sec (as you'll probably measure the distance in cm)
-For thought how can you improve the accuracy? Choose some other EM wave, better generator, deal with reflection inside the microwave.
+- Explain how light is a wave and that microwaves are just some wavelength of this. A microwave has a generator (called a magnetron), standing waves are formed in the oven box, and the nodes and antinodes have different energy levels. Microwave turntable rotation means food gets heated evenly. (Antinodes provide maximum heat, nodes have no heating except diffusion).
+- Remove the turntable from the microwave, this allows us to identify the hotspots. To do so take some cardboard/paper plate and spread a fine layer of butter evenly across it. Place in the microwave for a few seconds. You should notice a pattern in the melted butter, if not keep microwaving it until you see things. 
+- Use the ruler to measure the distance between the hotspots: this gives us half the wavelength of microwaves. 
+- Then speed of light = wavelength * frequency ($c=f\lambda$). The frequency of microwaves is around 2.5Ghz. 
+- The speed of light is 29,979,245,800 cm/sec (as you'll probably measure the distance in cm)
+- For thought: how can you improve the accuracy? Choose some other EM wave, better generator, deal with reflection inside the microwave.
 
 <br/>
 
@@ -44,7 +44,7 @@ For thought how can you improve the accuracy? Choose some other EM wave, better 
 
 ### **Hazard**: Microwave
 
-**Description**: Can cause sparks or explosions if metal microwaved. The microwave should not be run empty to prevent damage.
+**Description**: Can cause sparks or explosions if metal is microwaved. The microwave should not be run empty to prevent damage.
 
 **Affected People**: All
 
@@ -64,7 +64,7 @@ For thought how can you improve the accuracy? Choose some other EM wave, better 
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
 
-**Mitigation**: Be careful when removing things from the microwave, avoid using bare hands. Microwave for appropriate time and don't over cook. Ensure children adequately supervised. Allow item to cool before children measure if needed. Run any burns under cool (not cold) running water for at least 20 minutes.
+**Mitigation**: Be careful when removing things from the microwave, avoid using bare hands. Microwave for appropriate time and don't over cook. Ensure children are adequately supervised. Allow item to cool before children measure if needed. Run any burns under cool (not cold) running water for at least 20 minutes.
 
 Call first aider in case of injury.
 
@@ -113,3 +113,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
 
 **Check 1**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk),  **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),  **Check 2**: 
