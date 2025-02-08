@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on ______ by ____
+Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,7 +57,7 @@ But what about wavelength/ spectra?
 -----------------------------------
 
 
-Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about IR/UV before, and you can overwhelm them. You can come back to this later on once you'rve showed them some of the cool things you can see with the IR camera!
+Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about IR/UV before, and you can overwhelm them. You can come back to this later on once you've showed them some of the cool things you can see with the IR camera!
 
 EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electromagnetic radiation". One way of understanding this is to say that all these kinds of light have different sizes of wavelength. There are some charts in the box that you can point at when you explain this. Start with the rainbow: Red light waves are wider/longer than blue light waves. Following on from that, infra-red has longer waves than red light; UV has a shorter waves than blue. If you go further outside that you can see microwaves (that you can cook with) and radio waves (which can hold information, like music). These have a longer wavelength, much longer than infra-red. If you go the other way you get to X-rays - these have smaller waves than UV!
 
@@ -251,7 +251,7 @@ Call first aider in case of injury
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk) **Check 2**: 
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk) **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 
 
