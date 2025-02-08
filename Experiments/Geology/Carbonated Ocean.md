@@ -2,7 +2,7 @@
 
 **What happens to CO₂ in Earth's oceans?** - Make your own carbonate minerals, and discover the effects of ocean acidification using a SodaStream.
 
-Last initially checked on 2024-08-05 by Peter Methley (pm631@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
+Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
 
 **Frequency of use:** N/A
 
@@ -142,7 +142,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 #### Impacts of Ocean Acidification
 
 - Ask what the impacts of this on shells might be. Some may know that carbonates react with acid and dissolve. Acid can also stop carbonates from forming.
-- Repeat the precipitaion experiment above in another test tube, but this time add ~ 7 drops of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
+- Repeat the precipitation experiment above in another test tube, but this time add ~ 7 drops of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
 - _CHaOS+: Note that we cannot just use the carbonated water here, as the CaCl₂ + NaHCO₃ mixture is at an unnaturally high supersaturation, so the precipitation can happen fast enough to see. The ethanoic/acetic acid in vinegar is much more concentrated than the carbonic acid in sparkling water._
 - You might see bubbles of CO₂ degassing (as the carbonate equilibria are shifted towards CO₂) but no precipitate should form.
 - This is because the acid from the vinegar reacts with the carbonate ion to make bicarbonate, so it cannot directly be used to precipitate CaCO₃.
@@ -286,7 +286,7 @@ If ingested, advise parents that reactants are all non-toxic, but to seek medica
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Do wet chemistry inside plastic tray. Don't demonstrate near electical equipment.
+**Mitigation**: Do wet chemistry inside plastic tray. Don't demonstrate near electrical equipment.
 
 Do not mix the solutions in large quantities (<1ml of each solution is necessary)
 
@@ -315,6 +315,8 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History
 
-**Check 1**: 2024-08-05 - Peter Methley (pm631@cam.ac.uk), **Check 2**: yyyy-mm-dd - Name (email@cam.ac.uk)
+**Check 1**: 2024-08-05 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2024-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
