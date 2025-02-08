@@ -2,7 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2024-01-06 by Joshua Wu (jw2311@cam.ac.uk)
+Last initially checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on yyyy-mm-dd by Name (email@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -28,7 +28,7 @@ Last initially checked on 2023-12-23 by Lauren Mason (llm34@cam.ac.uk) and doubl
 Pulsar Experiment/Demonstration
 
 1) Get out model pulsar, preferably in a dark/dim place. Turn on the fairy lights and spin the model around so that the kids get the idea that you can only see the light/emitted radiation when the beam is pointed towards them. Explain that this is because the axis of rotation is different to the axis along which the radiation is emitted. 
-2) Explain that these stars spin very fast because they are the remnants of much larger stars that exploded (The sun's rotation period is about 25 days at the equator and 36 at the poles. Caveat: it won't form a pulsar after it dies). These larger stars were spinning much more slowly but, after the explosion, they because much smaller. Hence, to conserve angular momentum, the rate at which they spin had to go up. Make comparison to ice skater/ point at spinny chair if that’s out as well. 
+2) Explain that these stars spin very fast because they are the remnants of much larger stars that exploded (The sun's rotation period is about 25 days at the equator and 36 at the poles. Caveat: it won't form a pulsar after it dies). These larger stars were spinning much more slowly but, after the explosion, they became much smaller. Hence, to conserve angular momentum, the rate at which they spin had to go up. Make comparison to ice skater/ point at spinny chair if that’s out as well. 
 3) Give them some numbers – the range of pulsars’ periods is from 1.4 milliseconds to 8.51 seconds with a typical period being around 1 second. Try and impress upon them how fast this is for a star to be rotating. Earth takes a whole day, so that's 86400 times faster! 
 4) Tell them how some kinds of pulsars have such reliable periods that they can be used as clocks. Demonstrate how this would work by using the model. 
 5) Get out the screen of translucent material. Ask one of the kids to hold it between the star and the audience and then ask the audience what they notice about the pulses from the star. Hopefully they’ll say that the pulses are less bright. Explain how this means that pulsars can be used to examine the properties of the media that lie between the pulsar and Earth. 
@@ -101,3 +101,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-09 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
