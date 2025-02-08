@@ -2,7 +2,7 @@
 
 **Large working model of a hand and forearm, with all the tendons to show how a hand works.** - Take control of an <em>enormous</em> hand, playing the part of the muscles that control it! Can you work out how to make a fist? Why are there tendons running down both sides of the fingers?  And exactly how are your thumbs different to your fingers?
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2024-02-1 by Asmita Niyog (an637@cam.ac.uk)
+Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -30,7 +30,7 @@ This experiment is a bit of a crowd-pleaser. There is a subtle technique of keep
 Explanation
 
 1. Guess what the model is of – nice and easy start!
-2. Ask what do the pieces of wood represent = bones, and where in the body they are. 
+2. Ask what the pieces of wood represent = bones, and where in the body they are. 
 3. Talk about moving your fingers, and ask what in the body moves them = muscles (after several shouts of veins, ARGH!!), then where are the muscles that move your fingers = forearm not in the hand, and the fact the muscle belly mostly ends quite before the wrist. You can get them to wiggle their fingers and see if you can see the muscles moving in the forearm, but not above the elbow (this is often more visible on demonstrator/parent than child!)
 4. Leads onto the fact that muscles are in forearm, but need to join onto fingers in order to move them – how? Gives off strings that run along fingers and attaches to the bones (show on model) – what are the strings called? = tendons (after more shouts of veins!!). So, to move, muscles contract (tighten up/become shorter), and pull the tendons, which pull the bones.
 5. Then let them play around a bit – I usually get them to pick a pink string (but avoid thumb for now), and then a purple string, and see the difference between them. Pink string goes all the way to the end bone, so can bend the end joint, whereas purple string can’t because it doesn’t attach to the end bone.
@@ -95,7 +95,7 @@ Call a first aider in case of accident.
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-**Mitigation**: Hand is sanded and shaped to try to reduce this. 
+**Mitigation**: Hand is sanded and shaped to reduce this. 
 
 Call a first aider in the event of injury.
 
@@ -149,5 +149,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
  
