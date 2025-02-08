@@ -3,7 +3,7 @@
 **Illustrating the greenhouse effect with hot resistors in flasks** 
 
 Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
- and double-checked on 
+ and double-checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -144,7 +144,7 @@ Links:
 
 The glass flasks can contain shrapnel from an exploding resistor. 
 
-In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. Do not attempt to remove shrapnel from wound. 
+In case of burns, run affected area under tepid (not cold) water for 10 minutes. Call a first aider. Do not attempt to remove shrapnel from wound. 
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
@@ -159,7 +159,7 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 
 **Mitigation**: Resistors will be really hot – do not touch them directly. They are fixed by the crocodile clips on the bungs so there should be no need to handle them directly. If you need to change resistors (if they stop working), make sure they have cooled down before touching them. Flasks are unlikely to reach higher than 60 °C, so they are relatively safe to touch. 
 
-In case of burns, run affected area under tepid water for 10 minutes. Call a first aider. 
+In case of burns, run affected area under tepid (not cold) water for 10 minutes. Call a first aider. 
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
 
@@ -194,5 +194,5 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 
 **Check 1**: 2024-02-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-22 - Lauren Mason (llm34@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
 
