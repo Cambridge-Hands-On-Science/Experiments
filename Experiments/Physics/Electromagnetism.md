@@ -239,4 +239,4 @@ There is a real motor in the box too, which you can compare it to.
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-02-XX - XXX (XXX@cam.ac.uk)
+**Check 1**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
