@@ -2,7 +2,9 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??
+Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+
+Tags
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -185,4 +187,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
