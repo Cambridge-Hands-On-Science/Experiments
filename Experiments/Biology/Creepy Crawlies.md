@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2024-02-01 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2024-02-15 by Isobel Gilham  (ig419@cam.ac.uk)
+Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,9 +31,11 @@ We will collect these hopefully from a variety of habitats. It's interesting to 
 
 Some examples of things that might be collected are:
 
-**Insects**
+**Invertebrates**
 
-There are around a quarter of a million times more insects in the UK than humans, and more than a million different kinds of insects discovered on Earth (of these >20,000 species live in the UK). Beetles are the biggest group within the insects. (Note: All bugs are insects, but not all insects are bugs) 
+Any animal without a backbone is an invertebrate, and they are 97% percent of all the species on earth. You might recognise many different kinds from your back yard including squishy earth worms, hard-shelled crabs and scuttling spiders. The biggest group invertebrates by species number is insects and they contain some of the most iconic creepy-crawlies, such as bees, ants and butterflies.
+
+There are around a quarter of a million times more insects in the UK than humans, and more than a million different kinds of insects discovered on Earth (of these >20,000 species live in the UK). Beetles are the biggest group within the insects. (Note: All bugs are insects, but not all insects are bugs). 75% of animal species are insects!
 
 All insects have 6 legs and their bodies are divided into three main parts; the head, thorax & abdomen.
 
@@ -41,7 +43,7 @@ The skeleton of an insect is on the outside of its body (and is called an 'exosk
 
 Insects breathe through little holes in their abdomen called spiracles (they don't have lungs). [for older kids] This way of breathing puts a size limit on the insects - they rely on diffussion (movement of particles from areas where there are lots to where there are fewer). When there was a higher concentration/more oxygen in the air (in the Permian), insects could be bigger - with wingspans as wide as your armspan! (As the greater difference in oxygen concentrations (between the air outside and within the insect) allows diffusion over a longer distance).
 
-Examples of insects that you might collect are:
+Examples of invertebrates that you might collect are:
 
 - Froghoppers
 - Crickets
@@ -49,12 +51,14 @@ Examples of insects that you might collect are:
 - Woodlice
 - Spiders
 
+The first three are insects, the last two are not.
+
 A few interesting facts are:
 - Froghoppers are best known for their nymph stage, which produces a cover of frothy plant sap, "cuckoo spit" which hides the nymph from predators, insulates them against the cold, UV radiation and keeps them moist.
 - Crickets and grasshoppers both have jumping hind legs
 
 **Woodlice**
-- Crustaceans with a rigid, segmented shell-like exoskeleton
+- Isopods with a rigid, segmented shell-like exoskeleton
 - 14 jointed limbs
 - Some woodlice can roll up into a sphere as a defensive mechanism
 - Live in moist places (e.g. under rocks and logs) because they breathe through gills
@@ -157,3 +161,5 @@ If bitten, reassure that there probably won't be a problem, pull out any visible
 **Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk)
