@@ -2,8 +2,7 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on ??
-
+Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -113,13 +112,13 @@ It might also be possible to plug the end of a mouthpiece with the rubber bung, 
 
 ### **Hazard**: Over-Exertion
 
-**Description**: Fainting risk due to over-exertion.
+**Description**: Fainting risk due to over-exertion/hyperventilation.
 
 **Affected People**: Public
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
-**Mitigation**: Keep an eye on people using the peak flow meter to ensure that they are not over-exerting themselves to this point. Be aware of what participants might fall on in the event of fainting. Only allow them to try the exhaling through straws part if they are SITTING DOWN, and only let them do so for a few, gentle breaths.  
+**Mitigation**: Keep an eye on people using the peak flow meter to ensure that they are not over-exerting themselves to this point. If child tries to breath too rapidly, tell child to slow down. Be aware of what participants might fall on in the event of fainting. Only allow them to try the exhaling through straws part if they are SITTING DOWN, and only let them do so for a few, gentle breaths.  
 In case of accident, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
@@ -171,4 +170,4 @@ In case of accident, call a first aider and encourage child to cough.
 
 **Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock
