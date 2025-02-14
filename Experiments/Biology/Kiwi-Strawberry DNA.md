@@ -38,8 +38,8 @@ Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - Laminated sheets: provide some useful images, and there’s a wheel to show how DNA code is used to encode amino acids. Please try to dry these if they get damp during the day. 
 - DNA model in box. Roughly 1.4bn times bigger than real life (if my maths + memory is correct).
 
-**Should I use a kiwi or a strawberry?**
------------
+### Should I use a kiwi or a strawberry?
+
 Strawberries seem to work slightly better, possibly simply due to the colour of the solution making the DNA layer more visible. In the past we have been struggling with picking up the DNA with both fruits - we may be lying to children about actually extracting DNA but it's getting them excited about science that matters :) However, there are some reasons why you would want to use kiwi instead of strawberry.
 
 Longevity - kiwis are quite sturdy and can sit around for up to one week without refrigeration, strawberries last one to two days before getting mouldy.  
@@ -52,8 +52,7 @@ Conclusion - use strawberries when it has been confirmed that the experiment is 
 
 
 
-Overview
---------
+### Overview
 
 
 Breaking open the cells of a fruit to extract the DNA. You can demonstrate it to one family or a whole crowd as a show, discussing cells, DNA and proteins!
@@ -67,8 +66,7 @@ Tips for demonstrating:
 - Be aware that young children won't know a lot of science. For instance, don't assume they know about cells (most don't), they know about humans being animals and that plants and animals have a lot in common. They might not even have reached the stage where they relate the idea of parts of the body having different structures and functions.
 
 
-Preparation
------------
+### Preparation
 
 
 You need to have:
@@ -81,8 +79,7 @@ You need to have:
 - A bottle of lysis buffer - contains washing up liquid, salt and water. As a general guide, in a bottle, put about 1/8 volume salt and dissolve in 3/4 bottle of warm water, then top up with washing up liquid and invert a few times to mix. You don't want it particularly thick, so err on the side of less washing up liquid - you can always add more.
 
 
-Basic procedure and explanation
--------------------------------
+### Basic procedure and explanation
 
 
 
