@@ -25,26 +25,26 @@ Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 ## Experiment Explanation 
 
-ACTIVITIES:
+### Activities
 
 - Show the model to kids, let them feel it and ask them to guess what they think it may be
 - Illustrate the length of the intestine: get a kid to stand up and use the model to illustrate how long the intestine actually is (you can hide it in the bag and give the child one end to gently pull out and walk across the room until the whole thing is stretched out, if there's enough space and the child is sensible about it). Get them to imagine that such a long tube is actually rolled up within the small space of their tummies...
 - Get them to feel the inside - there are ridges. You could use this to discuss surface area (i.e. “what would happen if all these ridges were smoothed out?”)
 - Use the plastic ball as a bolus of food and squeeze it through the tights tube to describe peristalsis.
 
-THINGS TO TALK ABOUT:
+### Things to talk about
 
 - Basic theory of digestion, i.e. "what happens to the food once we’ve eaten it?"
 - What you need to make digestion effective: surface area of the intestine; how to increase surface area (ridges, length of intestine- use model to demonstrate)
 - Things that can go wrong: diarrhoea, constipation, etc.
 
-TIPS FOR DEMONSTRATING:
+### Tips for demonstrating
 
 The idea is to get the kids involved as much as possible. The best way to do this is by using the model as much as possible when you explain things. Let the kids play with it as well- and get them to figure out things for themselves.
 
-BASIC PROCEDURE AND EXPLANATION:
+### Basic procedure and explanation
 
-What do we use our intestines for?
+**What do we use our intestines for?**
 
 - Our body is made up of loads of small factories, called cells
 - What do they think these factories need? – Food (That’s why we eat...)
@@ -55,17 +55,17 @@ What do we use our intestines for?
 - The intestine is the place where the food gets taken up into the blood (for older kids, talk about absorption etc.)
 - How does food move through the intestine? Use the ball and tights tube to explain peristalsis - there are muscles in the intestine walls that contract to squeeze the food along (use your hands to represent the muscles) 
 
-What makes the intestine so good at what it does?
+**What makes the intestine so good at what it does?**
  
 This point is all about absorption and how you can increase the latter by increasing the surface at which it can occur.
 
-For young kids:
+**For young kids:**
  
 - Get them to imagine how long the intestine is by using the model. 
 - Can they imagine that such a long tube is actually folded up within their tummies (see activities)? 
 - So there is a lot of space for the food to get into the blood...
 
-For older kids:
+**For older kids:**
 
 - Talk about the length of the intestine as before. 
 - Also get them to feel the ridges inside - what do they think would happen if they were all smoothed out? 
@@ -76,12 +76,12 @@ What happens to the food we don’t absorb?
 
 - It moves through the intestine and leaves our body as poo - small kids often find this strangely fascinating.
 
-OTHER THINGS TO TALK ABOUT:
+### Other things to talk about
 
 - There are two types of intestine (small and large) - they have different functions (parents may ask you about this.)
 - Things that can go wrong: diarrhoea, constipation, malabsorption, inflammatory bowel disease etc... see below for ideas:
 
-Diarrhoea – ask who knows what this is?! 
+**Diarrhoea** – ask who knows what this is?! 
 
 - It’s watery, frequent stool. 
 - Very important to kids in developing countries especially – losing so much water (and you can lose blood too – this is called dysentery, which happens with Shigella and Amboebiasis) can be fatal. 
@@ -96,7 +96,7 @@ Explain that ions are chemicals like sodium, chlorine, and potassium, and that t
 Ask them if they think it’s important that you keep your cellular ions at a constant level. 
 Ions are lost into the intestine because inflammation at its mucosal surface makes it leaky.
 
-Malabsorption:
+**Malabsorption**:
 
 - What if a surgeon cuts out half your small intestine because it got damaged in a skiing accident or whatever? 
 - Do you think your intestine will work as well? 
@@ -104,15 +104,15 @@ Malabsorption:
 - This is what happens in celiac disease – it is an inappropriate immune reaction to gluten in the diet. 
 - The patient (usually a child) becomes thin and malnourished, slows down their growth and can become deficient in micronutrients, eg. vitamins, which are usually absorben in the small intestine. 
 
-Villi are also destroyed in Inflammatory Bowel Disease (these diseases are Crohn’s disease and Ulcerative Colitis). 
+Villi are also destroyed in **Inflammatory Bowel Disease** (these diseases are Crohn’s disease and Ulcerative Colitis). 
 
 - Ulcerative colitis tends to affect the large bowel almost exclusively, decreasing its ability to absorb water. Therefore someone with Ulcerative Colitis will get watery stools. The tissue gets so inflamed (or I guess you could say “attacked” to younger kids) that it bleeds, which can be noticed in stools. 
 - Crohn’s can affect the small intestine and cause malabsorption of lots of nutrients, carbohydrates, and lipids.
 
-We mentioned that the pancreas makes enzymes – I like to describe them as being like tiny scissors which chop up the smallest nutrients up into a form which they can just nicely be absorbed into villi. 
+We mentioned that the pancreas makes **enzymes** – I like to describe them as being like tiny scissors which chop up the smallest nutrients up into a form which they can just nicely be absorbed into villi. 
 If someone’s pancreas isn't working properly (eg. it gets clogged up in cystic fibrosis, or if they have a gallstone obstructing its outflow) they can’t absorb a lot of things like lipids, proteins and fat-soluble vitamins (A, D, E, K).
 
-Bacteria in the intestines- these play an important role too in breaking down components in your food. 
+**Bacteria in the intestines** - these play an important role too in breaking down components in your food. 
 There are about 100 trillion bacteria in your intestine, more in the large intestine than the small intestine. Some of these are beneficial, others are pathogenic. Probiotics are to help encourage growth of bacteria that are beneficial. 
 Examples of bacteria that are damaging in the gut include Campylobacter and some types of Salmonella. 
 

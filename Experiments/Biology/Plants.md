@@ -29,18 +29,15 @@ Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and
 ## Experiment Explanation 
 
 Ideas to explain:
-----------
 
-For younger children
+**For younger children**
 
 - Talk about what plants need to grow (water, warmth, light)
 - Look at sequence of development i.e. seed, beansprout, small plant, larger plant, bigger plants flower and produce seeds (life cycle)
 - Plants need light to produce energy - they don't eat like animals do (avoid using the term 'photosynthesis' with small children)
 - Might want to look at plant cells in the microscope. They have a cell wall, so have a rigid shape, unlike animal cells. Green because of the pigment (chlorophyll) that they use to produce energy from light.
 
-----------
-
-Older children
+**For older children**
 
 - More detail on the different events happening in early plant development
 

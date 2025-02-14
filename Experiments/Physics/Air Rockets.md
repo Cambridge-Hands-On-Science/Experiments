@@ -33,6 +33,7 @@ Last initially checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk) and doubl
 Launching lemonade bottle air rockets along a rope (going up at an angle of 20-30 degrees) - this is a less messy version of the water rockets experiment which can be done inside in a suitably large hall.
 
 **Setup**
+
 Set up the rope running from the launch area to a higher point (raising the launch area, e.g. blocks, can keep the rope above head height) - run the rope through the tube attached to the bottle. Jam the bung in the bottle and get kids to pump until the rocket launches up the rope. Hopefully it should come back down to somewhere you can grab it. Keep people out of the area where the rope is so that they don't get hit by the rocket or walk into the rope! 
 
 As a further point - it can very occasionally be done without the guide rope pointing vertically upwards, or without a guide rope at all. This is suitable in large sports halls or outside only. Here care needs to be taken that a large enough area is cordoned off so that it does not hit anyone when it returns to Earth. If a guide rope is not being used, it can still be helpful to attach a rope to the rocket, in order to limit its range (such as to avoid hitting people if you can't cordon off a large enough area) - however, care must be taken to ensure the rope itself does not pose a hazard in such cases.

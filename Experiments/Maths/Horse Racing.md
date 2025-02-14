@@ -19,21 +19,19 @@ Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and doub
 <br/>
 
 ## Equipment Needed 
-- *  Duplo blocks (horses) and cardboard racetrack
-- * 2 giant write on/ wipe off dice
-- * 3 giant normal dice
-- * Lego blocks and baseplate
-- * Drywipe pen for writing on dice and lego
-- * Laminated sheet of paper for use as whiteboard
-- (* There are other misc dice in the box which may be useful, including a D12)
+- Duplo blocks (horses) and cardboard racetrack
+- 2 giant write on/ wipe off dice
+- 3 giant normal dice
+- Lego blocks and baseplate
+- Drywipe pen for writing on dice and lego
+- Laminated sheet of paper for use as whiteboard
+- (There are other misc dice in the box which may be useful, including a D12)
 
 <br/>
 
 ## Experiment Explanation 
 
-**Explanation and Demonstrating**
-
-The Horse Race
+**The Horse Race**
 
 This can be done either with duplo horses on the boards, or if space permitting with the children playing the part of the horses. 
 
@@ -51,7 +49,7 @@ Now, using the wipe clean dice, try changing up the rules to see what effect it 
 
 There are lots of things you can try here, but here are a few ideas, you may find some work better with different ages:
 
-1. Change Dice Numbers
+1. **Change Dice Numbers**
 
 Subtract one from each side of one dice (or better yet, change the six to a zero!) - Now six and seven should be neck and neck. You can either show them this beforehand, or get them to guess which horse they're going to be and see whose understood it (nothing wrong with letting more than one person be represented by the same number now, but keep them in separate lanes).
 
@@ -61,7 +59,7 @@ Change how many steps some numbers get to take - Why not let all numbers less th
 
 There is also a D12 in the Maths box which can be used, this obviously makes the game totally fair. 
 
-2. The two dice 
+2. **The two dice**
 
 This is a very nice demonstration of why the previous experiment works. Simply ask people to throw two dice, and put a lego brick in the column relating to their result. Quite quickly a pretty uniform distribution should build up, looking like a pyramid (this isn't actually the underlying distribution, just the fact that we've got very few different possibilities flattens the sides of what should look like a bell curve). That said, at times it will look quite irregular and it's a good chance to talk about error, lots of people will think the dice must be weighted to cause irregularities but actually it's simply that there is a natural variation to any test and that only for a large number of tests is this smoothed out (error in mean scales as 1/sqrt(N) and roughly speaking so does all the variations, where N is the number of tests). 
 
@@ -74,7 +72,7 @@ http://www.syque.com/quality\_tools/toolbook/Variation/measuring\_variation.htm
 
 You could link this to central limit theorem and talk about how heights are distributed roughly normally, as are most other things.
 
-3. How long until you roll a six
+3. **How long until you roll a six?**
 
 Very simple premise but a slightly more complex explanation this one: throw a dice as many times as necessary until you get a 6. What distribution would you expect to see?
 

@@ -25,19 +25,19 @@ Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 
 ## Experiment Explanation 
 
-ACTIVITIES:
+### Activities
 
 - Use the model to generate different pitches/ how do get low/ high tones (ensure the children are gentle with the model - they usually want to hit the pump as hard as possible to make a loud noise, but this will break it and you can't change the tone unless you press the pump gently)
 - Use the pictures to illustrate how the larynx works + things that can go wrong with it...
 - Get the kids to feel their own thyroid cartilage/hyoid bones (could show Adam’s apple if they are accompanied by an older male sibling/their fathers)
 
-THINGS TO TALK ABOUT:
+### Things to talk about
 
 - What is the larynx? Where is it? What does it do?
 - How do we generate high/ low pitch (use model)
 - Things that can go wrong (cancer, polyps etc.)
 
-BASIC PROCEDURE AND EXPLANATION:
+### Basic procedure and explanation
 
 What is the larynx/ voicebox and where is it?
 
@@ -55,11 +55,11 @@ What are the vocal cords and how do they function?
 - So when we breath out, air travels from the lungs through the wind pipe and gets to the vocal cords - they can then vibrate and this generates sound
 - Do we need anything else for speech? Talk about pharynx, tongues, mouth, teeth, lips, i.e. they all help to “shape sound”
 
-OTHER THINGS TO TALK ABOUT:
+### Other things to talk about
 
 - Things that can go wrong: use the pictures - can they find anything that looks funny? Talk about cancer, polyps. What causes them? Cigarette smoke!!! (Your larynx is pretty much the first thing that is exposed to cigarette smoke...)
 
-Another approach:  
+Another approach:   
 I was running this model alongside the lung model, so after asking them why you need to breathe (it appears that quite a lot of the general public believe we can extract carbon dioxide from the atmosphere......) I then asked them to try to talk without breathing out, and used that to introduce the idea that breathing out enables us to talk. I got them to put their hands on their throats and hum, then asked if they could feel anything, and explained that the buzzing was their 'voice box' and vocal cords. I then showed them the model, using the lung model to orient it, and explained that in place of bits of balloon we have flaps of 'skin'/membrane in our throats, and that when we speak we force air up between them. I then let the kids play around making noises with the model, getting them to work out how to change the pitch/volume etc. Finally I tried to relate this to how we make sounds by asking them to talk to me without moving their lips or their tongue - the sounds they made were very similar to the 'honking' of the model, so I could explain that the actual sound and how high or low it is is produced by the 'voice box' , but to form words we use our mouth/teeth/tongue/lips/etc. The sound of the model is also quite similar to babies crying, which again is noise made without fine control of the mouth etc.  
 
 

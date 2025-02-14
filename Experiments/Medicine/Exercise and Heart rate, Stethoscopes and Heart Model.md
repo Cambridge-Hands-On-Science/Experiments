@@ -24,7 +24,8 @@ Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-
 
 ## Experiment Explanation 
 
- **Exercise and Heart Rate**
+### Exercise and Heart Rate
+
 - Check for asthma. If child is asthmatic, check with parents (or teacher) about severity, and if the child can do five minutes of fairly heavy-impact exercise. If they can do it, ensure they have an inhaler, and ensure they don't push themselves too far.
 
 - Take child's pulse (radial side of forearm), and write it down.
@@ -52,21 +53,24 @@ So, why does your heart rate go up?
 
 (N.B. I find this experiment is quite useful with groups of lively children, as provided you can get them to be reasonably sensible and you have enough space, they can jump up and down until they're quite tired and then they will often sit down calmly and listen to the explanation afterwards!)
 
-**Heart Model and Diagrams**
+### Heart Model and Diagrams
 
-ACTIVITIES
+**Activities**
+
 - Let the kids take the model apart and let them figure out how it all fits together
 
-THINGS TO TALK ABOUT
+**Things to talk about**
+
 - What is “circulation” and why do we need it (see below)
 - Structure and function of the heart
 - Things that can go wrong (valve defects, heart attack etc)
 
-TIPS FOR DEMONSTRATING
+**Tips for demonstrating**
+
 - It is quite surprising how little most people know about circulation. It is therefore very important to find out how much the kid knows already and work from that.
 - I have included a very basic script for explaining circulation below - you would obviously have to adapt that to the age of the kid and to what he/she knows already.
 
-BASIC PROCEDURE AND EXPLANATION
+**Basic procedure and explanation**
 
 A) BASIC CONCEPTS
 
@@ -106,7 +110,8 @@ C) OTHER THINGS TO TALK ABOUT
 - When the heart pumps, it makes a noise - this is what you can hear with a stethoscope; refer them to the stethoscope experiment
 - For older children - noise heard through the stethoscope is actually the closure of the different valves in the hear
 
-**Stethoscopes**
+### Stethoscopes
+
 Using a stethoscope to listen to the heart and find out how it works
 Use the 'heart rate and exercise' explanation too!
 

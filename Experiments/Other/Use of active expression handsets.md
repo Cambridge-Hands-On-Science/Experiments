@@ -1,6 +1,6 @@
 # Use of active expression handsets
 
-**nan** - nan
+**N/A** - N/A
 
 Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
 

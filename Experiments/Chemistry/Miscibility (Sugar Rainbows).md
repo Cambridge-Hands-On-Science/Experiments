@@ -33,7 +33,7 @@ Last initially checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk) and d
 
 ## Experiment Explanation 
 
-Here's How:
+**Procedure**
 
 Line up five glasses. Add 1 tablespoon (15 g) of sugar to the first glass, 2 tablespoons (30 g) of sugar to the second glass, 3 tablespoons of sugar (45 g) to the third glass, and 4 tablespoons of sugar (60 g) to the fourth glass. The fifth glass remains empty.
 Add 3 tablespoons (45 ml) of water to each of the first 4 glasses. Stir each solution. If the sugar does not dissolve in any of the four glasses, then add one more tablespoon (15 ml) of water to each of the four glasses.
@@ -55,10 +55,12 @@ Now repeat with oil and water, try stirring and see them separate out after a wh
 
 Ask them to tell you what they can tell about the oil because it sits on top of the water. Encourage them to think about the sugar and water earlier. Hopefully some should be able to tell you that it is less dense.
  
-Other ideas: 
+**Other ideas:**
+
 A measuring cylinder filled half with castor oil, half with water, with blue ice cubes floating on the top. The ice melts and the blue water drifts down through the castor oil to sit on the meniscus.
 
-Tips:
+**Tips:**
+
 Try to avoid using gel food coloring. It is difficult to mix the gels into the solution. Darker colours e.g. black can also cause problems when they bleed into the other colours so you can't see the rainbow.
 
 

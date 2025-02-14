@@ -26,13 +26,13 @@ Last initially checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk) and double-
 
 ## Experiment Explanation 
 
-*** OVERVIEW/THINGS YOU MIGHT LIKE TO TALK ABOUT ***
+### Overview / Things you might like to talk about
 
 - The life cycles of frogs and bees. Can use butterfly life cycles as an introduction for younger kids as they should know about this.
 - Social structure of bee colonies and communication amongst bees.
 - Using stages of insect development to "date" a decomposing corpse.
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### Basic procedure and explanation
 
 1) Let them pick which life cycle they want to look at first. Ask if they know what animal it is.
 
@@ -48,7 +48,7 @@ Last initially checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk) and double-
 
 8) After you've finished explaining the life cycle of the animal, you might ask the child if humans go through metamorphosis. Explain that while humans don't go through metamorphosis, we do change a lot in our mummy's tummy! We also go from an egg (one tiny cell smaller than the full stop at the end of this sentence) which divides lots of times to create a baby!
 
-*** EXTRA INFO ***
+### Extra info
 
 **BEES**
 
@@ -77,6 +77,7 @@ Female bee: Queen
 Honey. Why do they make it? What from? Uses nectar to feed larvae. Honeycomb, useful to farmers as pollinators.
 
 **FROGS**
+
 1) Egg -> Frogspawn -> Tadpoles -> Frogs
 
 2) Frogspawn is like jelly, provides a food source for the growing embryo (the black spot)
@@ -88,6 +89,7 @@ Honey. Why do they make it? What from? Uses nectar to feed larvae. Honeycomb, us
 Amphibian, need to stay damp as they breathe through their skin. They're vertebrates and have a backbone.
 
 **BUTTERFLIES**
+
 Ova -> Larvae -> Pupae -> Adult
 1) Patterns/colouration - eye spots deflect attack from the butterfly's body, camouflage is another way of increasing the likelihood of survival allowing it to rest undetected
 
@@ -97,7 +99,7 @@ Ova -> Larvae -> Pupae -> Adult
 
 Caterpillars can be poisonous and brightly coloured to warn predators. Some butterflies only live a couple of weeks. Monarch butterflies migrate from Canada to Mexico (3000 miles) using landscape (mountains/sun) to navigate. Some moths use earth's magnetic field. Some eat plants like milkweed which make them poisonous to other animals. 
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS ***
+### Science backgorund for demonstrators
 
 More information on Forensic Entomology (http://www.forensicentomology.com/appear.htm)
 "What information can a forensic entomologist provide at the death scene?"

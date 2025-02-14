@@ -31,23 +31,27 @@ Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and d
 
 In this experiment the children will investigate the food colourings found in sweets, and dyes from felt-tip pens using chromatography. This will show that colours like brown actually consist of other colours, which we can separate using water.
 
-Possible Activities:
+**Activities:**
 
 Separating the food colouring components from sweets and dyes in felt-tip pens.
 
-Tips for demonstrating:
+**Tips for demonstrating:**
 
-Prepare some in advance, so if it takes a long time, or you want to show multiple dyes at once, you have some examples.
+- Prepare some in advance, so if it takes a long time, or you want to show multiple dyes at once, you have some examples.
 
-Label the dye samples so that you can remember which is which!
+- Label the dye samples so that you can remember which is which!
 
-Test similar dyes from different sweets, e.g. brown Smarties and brown M&Ms.
+- Test similar dyes from different sweets, e.g. brown Smarties and brown M&Ms.
 
-The best dyes are brown colours as they tend to have the most components.
+- The best dyes are brown colours as they tend to have the most components.
 
-The pens tend to work better than the sweets as they cause a stronger trail.
+- The pens tend to work better than the sweets as they cause a stronger trail.
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+**Science background for demonstrators:**
+
+Basics of chromatography.
+
+### Basic procedure and explanation
 
 - Moisten the end of one of the cotton wool buds with water.
 - Use this to get some of the food colouring off the sweets.
@@ -58,15 +62,12 @@ The pens tend to work better than the sweets as they cause a stronger trail.
 
 [Slightly more advanced explanation- Chromatography in general involves a stationary phase (in this case filter paper) and a mobile phase (in this case water). Different compounds have different levels of affinity for the stationary phase, and so are carried over it by the mobile phase at different speeds, resulting in their separation.]
 
-*** OTHER THINGS TO TALK ABOUT ***
+### Other things to talk about
 
 Different ways of separating components from a mixture.
 
 Uses of chromatography.
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS ***
-
-Simple chromatography. 
 
 <br/>
 

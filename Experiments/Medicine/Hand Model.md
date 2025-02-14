@@ -27,7 +27,7 @@ Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-
 
 This experiment is a bit of a crowd-pleaser. There is a subtle technique of keeping kids' fingers out of the wooden joints, and after this has been achieved, all ages will be amused by playing with it.
 
-Explanation
+### Explanation
 
 1. Guess what the model is of – nice and easy start!
 2. Ask what the pieces of wood represent = bones, and where in the body they are. 
@@ -41,13 +41,13 @@ Explanation
 10. Then ask what’s telling the muscles to contract and pull the tendons = brain. And how = send messages = nerves, and briefly explain concept of nerves sending messages.
 11. I usually end by saying that to play the piano for example, or type on a keyboard, your fingers have got to move in lots of different ways, so your brain has got to send all those messages in the right order to the right muscles, to pull on the right tendons. So, it’s actually really complicated just to move your fingers.
 
-Thumbs
+### Thumbs
 
 The yellow string pulls the thumb across the palm. You can use this to talk about how thumbs can move in an additional special way so you can pinch things - show them how you can oppose the pads of your thumb and fingers, but not of your fingers. They may have heard of opposable thumbs - some will tell you the word, others will recognise it. You can talk about different animals not having opposable thumbs and thus not being able to use tools etc.
 
 If you've got the short (c. 6 inches) lengths of cord, you can challenge them to tie a simple knot in one. When they triumphantly present you with the resultant knot, get them to do it again without using their thumbs (police this vigilantly, people cheat without even noticing!). Usually this is much much harder. If somehow they do it easily, tell them to undo it without their thumbs. This is more challenging!
 
-General stuff 
+### General stuff 
 
 – Useful to refer to your own or their hand while describing stuff, for example show the extensor tendons on the back of your hand (they’re a lot easier to see in adults than on themselves). Get them to feel the muscles working on themselves or on you. Do this by getting them to place their whole hand over their arm (both sides!) and then wiggling their fingers! Then they have to believe you!
 
@@ -55,17 +55,17 @@ General stuff
 
 - This is a great "How-Science-Works" experiment even if you don't know the biology. Ask about how we can find out about how our hands work, we have hands so look how they work. We can feel muscles moving and see tendons. We can get an X-Ray to see the bones, an ultrasound gives us more information on muscles. We can do a dissection too. Then we build a model to test our theory. The paper model is a nice simple model, what can't we do with it? We don't have as much movement, bones aren't as accurate, make the wooden model with more motion. 
 
-Additional stuff:
+### Additional stuff:
 
 1. Carpal tunnel syndrome:
-- Carpal ligament bridges wrist bones, making a small tunnel for nerves and tendons to go through.
-- Median nerve goes through – sensation to most of hand (not little finger), and muscle control of some thumb muscles. 
-- Compression of tunnel walls (due to repeated wrist movements) or swelling (due to injury/arthritis), causes pressure on median nerve.
-- Symptoms – aches, pins+needles, pain, numbness, loss of fine finger movements e.g. writing.
-- Treatment - stretching exercises, anti-inflammatory drugs, surgery (cut carpal ligament = relieve pressure).
+    - Carpal ligament bridges wrist bones, making a small tunnel for nerves and tendons to go through.
+    - Median nerve goes through – sensation to most of hand (not little finger), and muscle control of some thumb muscles. 
+    - Compression of tunnel walls (due to repeated wrist movements) or swelling (due to injury/arthritis), causes pressure on median nerve.
+    - Symptoms – aches, pins+needles, pain, numbness, loss of fine finger movements e.g. writing.
+    - Treatment - stretching exercises, anti-inflammatory drugs, surgery (cut carpal ligament = relieve pressure).
 
 2. Difference between ligaments and tendons
-- Explain that a joint is where 2 bones come together and they can move. But the bones need something to hold them in place, this is what ligaments do, connect bones to other bones. Tendons connect muscles to bones so they can move the joints.
+    - Explain that a joint is where 2 bones come together and they can move. But the bones need something to hold them in place, this is what ligaments do, connect bones to other bones. Tendons connect muscles to bones so they can move the joints.
 
 <br/>
 

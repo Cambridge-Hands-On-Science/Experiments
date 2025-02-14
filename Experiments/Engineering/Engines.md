@@ -29,7 +29,8 @@ Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) an
 Engines Experiment - Explanation
 Last Update - Gareth Funk, April 2015
 
-************** INTRODUCTION **************
+### Introduction
+
 I like to start with the Stirling Engine whirring away whilst I give the following introduction. To do this, the Stirling Engine should be placed on a mug of freshly boiled water and given a push to get it going. It will only go one way for reasons which should become clear.
 
 Before looking in detail at any of the models, it is worth asking the question “what is an engine?”, or alternatively, “what do you know that has an engine?” and as a follow-up “why does it need an engine?”. 
@@ -45,7 +46,8 @@ Excluding the Electric motor, all the above are heat engines: they use heat ener
 
 The Stirling Engine is the best one to demonstrate because it best exemplifies the idea of a thermodynamic cycle and gives a real-life demonstration of an engine in action. The Internal Combustion Engine and the Jet Engine models are just models and a lot of children can’t see past the fact that a battery and an electric motor are what is making them turn. However, if there is time left after the Stirling Engine demonstration, feel free to move on to the others if you have time.
 
-************** STIRLING ENGINE **************
+### Stirling Engine
+
 The Stirling Engine we have is one of three commonly seen implementations of the Stirling Cycle. Out of interest, ours is a Gamma Configuration Stirling Engine. Most Stirling Engines used in practice are of different configurations but the thermodynamic processes they undergo are the same.
 
 The following explanation requires that the children are familiar with the concepts of pressure and volume. A good, quick way to explain pressure is to get them to consider running around in a room with their eyes closed. They’d bump into walls every so often. They’d bump into walls more often if there were more of them in the room, or if the room got smaller.
@@ -78,8 +80,7 @@ Note here that these processes have to happen in this order hence why the wheel 
 To finish off, take the stirling engine off the heat, let it stop, and then ask “what would happen if we were to spin the flywheel in the opposite direction to the way it normally spins?”. Think about the system we had before: Heat was added at the bottom, the wheel turned round. The answer to the question is that the opposite would happen if we were to spin the wheel in the opposite direction the bottom surface would heat up. This will not be practical the demonstrate as it’s difficult to spin the wheel sufficiently fast but it is nonetheless true. Some children will instinctively get this without much prompting but in my experience most struggle with the concept.
 
 
-
-************** INTERNAL COMBUSTION ENGINE **************
+### Internal Combustion Engine
 
 Our particular model is of a four cylinder, four-stroke engine. The piston completes four separate strokes which together comprise a single thermodynamic cycle. A stroke refers to the full travel of the piston along the cylinder, in either direction. The strokes are as follows:
 INTAKE: this stroke of the piston begins at top dead centre. The piston descends from the top of the cylinder to the bottom of the cylinder, increasing the volume of the cylinder. A mixture of fuel and air is forced by atmospheric (or greater) pressure into the cylinder through the intake port.
@@ -94,8 +95,8 @@ Note that the cylinders are not all moving together and even those that are do n
 Side Note: The model can be switched off and on such that it gets out of sync with the spark. If it does this, turn it off and on again, stopping at a different point in the cycle, until it gets back in sync.
 
 
+### Jet Engine
 
-************** JET ENGINE **************
 As of this update, the Jet Engine model has not been built yet. This section will need updating once the model is finished and I have decided what can be demonstrated with it. 
 
 The following is from wikipedia: 

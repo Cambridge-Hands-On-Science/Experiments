@@ -29,7 +29,7 @@ Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and doubl
 - Slinky
 - A bunch of photographic CPL (see explanation)
 
-- PLUS only:
+PLUS only:
 - Two circularly polarising glasses
 - Michel-Levy Chart + diagram of LCD screen and of twisted nematic structure
 
@@ -41,21 +41,22 @@ Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and doubl
 
 Demonstrating the use of polarisers with crossed polars, polythene strips, plastic rulers and a light box.
 
-Possible activities:
+**Possible activities:**
+
 - Demonstrate how crossed polars work by rotating two pieces of polaroid with respect to each other and looking through them to see how the light changes.
 - Looking at stressed plastics under polarisers.
 - Demonstrate the colour change when a strip of polythene is stretched when viewed under the polariser material.
 
-Other things to talk about:
+**Other things to talk about:**
+
 - LCDs and how they work.
 
-Tips for demonstrating:
+**Tips for demonstrating:**
+
 - Let the children experiment with different objects under the polarisers as this will keep their interest.
 - Use paper strips with waves drawn on to help to demonstrate how polaroid filters work.
 
 ### Basic Procedure and Explanation
-
-  
 
 #### 1. Show them the light box and the polarising filters
 
@@ -70,22 +71,19 @@ Tips for demonstrating:
 #### 2. Introduce the idea of light as a wave
 
 
-##### Do they know what a wave is?
-
+**Do they know what a wave is?**
 
 - Ask them what types of waves they know about: sound, water, etc.
 - Can they make a wave along their arms? (An awesome dance move if you can pull it off!)
 
-##### Light behaves like a wave, this wave can be in all directions
-
+**Light behaves like a wave, this wave can be in all directions**
 
 - Explain that light is a wave using a wave sketch on a bit of paper
 - Light can wobble in different orientations - polarisations. It can wobble up-down, side-to-side, and everything in between
 - You can imagine this as a 2D wave like the one sketched on the paper
 (Yes, we know that there's a second component of the wave, but if you consistently talk about the same component of the wave the explanation is right..)
 
-##### Polarising filters are like grills that let light through in only in some directions
-
+**Polarising filters are like grills that let light through in only in some directions**
 
 - Using your fingers as a grill demonstrate what the polariser looks like. Get them to try and get the piece of paper in the through the grill parallel and perpendicular to the grill, i.e. in the two different polarisations.
 - Only half the light can get through - this is why the plastic looks slightly darker normally.
@@ -93,8 +91,7 @@ Tips for demonstrating:
 
 - You'll have lots of hands available, you can show the effect of as many twice as many polaroid filters as you have people! You can show that if the light passes through the first filter if it stays at that orientation it can't get through the second one.
 
-##### Demonstrating polarisation with a slinky
-
+**Demonstrating polarisation with a slinky**
 
 If you have the space and at least 3 people, then instead of using finger grills, you can illustrate polarisation using the slinky:
 - Get someone to hold each end of the slinky.
@@ -106,38 +103,33 @@ If you have the space and at least 3 people, then instead of using finger grills
 #### 3. Twisting the direction of the light
 
 
-##### Demo with the filters
-
+**Demo with the filters**
 
 - Ask them what you would have to do to the light (wave drawn on paper) between the crossed polars to get it through. They normally tell you to twist it. 
 - You can introduce a third polar at 45 degrees to do this (current kit only has two though, unless you use the sunglasses)
 
-##### Polythene (bags) can twist light
-
+**Polythene (bags) can twist light**
 
 - The polythene normally doesn't affect the light but if you stretch it, it will twist the light.
 - Let them have a go at stretching the polythene strip in the light box under the polaroid filter (this can take a while as they find it fascinating!). You should see many colours.
 - The different colours twist the light by different amounts. So pick a red bit (best as they know what colour you get if you mix blue and green). You may rotate red by 90deg so it will get through, blue by 180deg so it won't, and green by 360deg so it won't...
 - Now get them to look at a red bit while you turn the polariser through 90deg - it should now look turquoise... Now the polars are parallel so red is twisted 90deg so it doesn't get through, blue is by 180deg so it does... -> turquoise light gets through.
 
-##### Plastic rulers can twist the light
-
+**Plastic rulers can twist the light**
 
 - Put a ruler between crossed polars, you should see lots of colours. These are because they are made by injection moulding, so the plastic is effectively stretched in manufacture.
 - The place where the most stretching happens is where the plastic was squirted in - you should be able to see this and you can probably see the rough bit where the sprue was attached.
 - There are some rulers that have been cooked, and you should see the shape has changed most in the place where there was the most stress.
 - You can also bend the ruler and see stress. A ruler with a crack in it should concentrate stress.
 
-##### Calcite crystals can twist light
-
+**Calcite crystals can twist light**
 
 - The crystals of calcite twist light as it travels through, so can appear lighter or darker than the background when placed between the crossed polarisers.
 - If v. keen can try and explain birefringence - section below.
 - Calcite crystals make double images! The images can be blurry so this may be hard to see. Try looking through the crystal at a line drawn on paper or the numbers on a ruler.
 - Light slows down and travels at a different speed in some materials, so the light path bends (refraction). In calcite the speed is different for the two polarisations (birefringence - see below), so the bending is different for the two polarisations. This means there are two paths for the crystal and so you see two images (double refraction).
 
-##### CPLs
-
+**CPLs**
 
 - Photographic circular polarisers (CPLs) are directional. In the direction of photographic usage, they feature a linear filter (distal of the sensor), followed by a quarter-wave plate (proximal) The latter turns the (now) linearly polarised light into circularly polarised light.
 

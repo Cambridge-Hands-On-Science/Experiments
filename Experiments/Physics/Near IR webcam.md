@@ -34,15 +34,12 @@ Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and doubl
 
 ## Experiment Explanation 
 
-What is it?
------------
-
+### What is it?
 
 Take a normal webcam, remove the IR filter and replace it with crossed polars or a piece of exposed colour film and hey presto you have a near IR camera. Practical point: the webcam has a focusing ring in front of the lens, which may be turned during an event, causing the image to become blurred. If this happens, ask a committee member to show you how to focus it (there is a knack, and if you do it wrong you can jam the focus). 
 
-What is light/ IR light?
-------------------------
 
+### What is light/ IR light?
 
 The light most of us are really familiar with is white light. But that's actually a mixture of different colours. Most of the time we can't tell that, but sometimes we can see these colours split up, like in a rainbow.
 
@@ -53,17 +50,15 @@ It turns out that there are more kinds of light than our eyes can see. Some kind
 
 It's weird to think that there are kinds of light we can't see, but not all kinds of eyes detect the same light. For example, some people can't tell red and green apart, which is called "colour blindness". Another example: some insects, such as bees, can see UV light. Some types of flowers have extra patterns in UV, so this helps them find the nectar in the middle of a flower! (How cool is that?!)
 
-But what about wavelength/ spectra?
------------------------------------
 
+### But what about wavelength/ spectra?
 
 Add this extra level of detail with caution: it can be too much detail to take in if they've never thought about IR/UV before, and you can overwhelm them. You can come back to this later on once you've showed them some of the cool things you can see with the IR camera!
 
 EM Spectrum: we call all the kinds of light (including UV, IR, visible) "electromagnetic radiation". One way of understanding this is to say that all these kinds of light have different sizes of wavelength. There are some charts in the box that you can point at when you explain this. Start with the rainbow: Red light waves are wider/longer than blue light waves. Following on from that, infra-red has longer waves than red light; UV has a shorter waves than blue. If you go further outside that you can see microwaves (that you can cook with) and radio waves (which can hold information, like music). These have a longer wavelength, much longer than infra-red. If you go the other way you get to X-rays - these have smaller waves than UV!
 
-What do I look at with the camera?
-----------------------------------
 
+### What do I look at with the camera?
 
 Firstly, plug the *new* camera into a laptop and use VLC player (open up the video devices settings and select USB input owtte).
 [Or maybe do ->Open Capture Device (Ctrl+c)-> PC Camera this sometimes also works]
@@ -87,9 +82,8 @@ The laptop screen appears blank.
 
 Remote control- uses IR, point at the camera while pressing buttons. Many camera phones lack IR filters so can test this on parents phone use it to see light from the end of the remote control.
 
-Crookes' Radiometer
--------------------
 
+### Crookes' Radiometer
 
 A Crookes' radiometer has four vanes suspended inside a glass bulb. Inside the bulb, there is a good vacuum. When you shine a light on the vanes in the radiometer, they spin -- in bright sunlight, they can spin at several thousand rotations per minute!
 
@@ -108,9 +102,8 @@ The final piece of the puzzle, thermal transpiration, was theorized by Osborne R
 There are lots of cool things to look at according to this:
 http://www.hoagieshouse.com/IR/
 
-Link to UV
-----------
 
+### Link to UV
 
 This experiment often links well if placed near UV or demonstrated as a pair. You'll find the lights in IR can be too bright to see UV florescence. If separate demonstrations try and place slightly further apart or use the boxes as a screen if paired then switch off when moving across. 
 

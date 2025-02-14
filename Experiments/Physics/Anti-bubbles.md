@@ -31,9 +31,7 @@ Shares some equipment with bubbly crystals
 Description taken from Dave's Naked Scientist write-up:
 http://www.thenakedscientists.com/HTML/content/kitchenscience/exp/bubbles-that-sink-antibubbles/
 
-What to Do
-----------
-
+### What to Do
 
 Add 3-4 tsp of salt into the wash bottle, or rather more into a washing up liquid bottle and then top it up with water.
 
@@ -45,16 +43,12 @@ Drip the saltwater from the wash bottle onto the top of the tank from 5-10cm abo
 
 Now do the same thing looking into the side of the tank, for a couple of hundred drops, does anything interesting appear?
 
-What May Happen
----------------
-
+### What May Happen
 
 On the top mostly you will produce normal drops, but sometimes you will see what look like bubbles but if you look closer they reflect light much better and they have far more momentum skittering across the surface.
 If you look from the side you sometimes see bubbles which actually sink rather than float.
 
-What is going on?
------------------
-
+### What is going on?
 
 You are creating what are known as antibubbles. A conventional bubble is air surrounded by a thin film of water in air, an antibubble is the other way around, water surrounded by a thin film of air in water.
 Both types of bubble are highly unstable in pure water because water molecules attract one another very strongly and try to minimise the surface area of the liquid. Detergent molecules have one end which is very attracted to water and a long oily tail which is repelled by it. so they cover the surface of the bubble stabilising it.

@@ -38,22 +38,16 @@ Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 Race the jam jars down a slope to see which one is faster.
 
-In a Nutshell
--------------
-
+### In a Nutshell
 
  Show people that rotational motion is a bit weird - you have to account for the distribution of mass not just the overall properties.
 
-Setup
------
-
+### Setup
 
  Not much to do. Place the ramp on the floor (if using a board then use a couple of jars/ spare box or find something else to hold the back end up). If using an opened t-shirt box to catch the jars, place at the bottom of the ramp, or if using foam, place about 10cm past the end of the ramp (taping it down helps if its small). 
 
 
-The Experiment
---------------
-
+### The Experiment
 
 Gain attention by telling people they'll be racing jars down a hill. Explain what's in the jars.
 
@@ -73,10 +67,7 @@ The interesting case of the half-full jar and the jam jar can now be the ultimat
 
 In conclusion for linear motion the distribution of mass is irrelevant, only the total, whereas for rotational motion it's not just the mass that matters, its position is important as well.
 
-PLUS Explanation
-----------------
-
-
+## PLUS Explanation
 
 First, bring out the drop test objects and ask kids which one is heavier (they can feel this for themselves) and ask which one will hit the ground first if they're dropped from the same height at the same time. Both should hit at the same time (demonstrate a couple of times, from different heights if necessary). Get them to tell you what force pulls things down. The heavier something is, the stronger the gravity. BUT, the heavier something is, the harder it is to get it to move. These effects cancel each other out so all objects fall under gravity at the same rate.
 

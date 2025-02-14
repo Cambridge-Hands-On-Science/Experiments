@@ -30,38 +30,28 @@ Tags
 
 What we're going to do is think about how our senses work, ask about what sense we have and maybe think about what the extremes of these are? How precise are our senses? What are they designed for? For instance lots of our senses are designed to protect us, we shouldn't touch hot things for instance. In this experiment we'll find out our sense are sensitive to quick changes in conditions and often can be quite paradoxical, in that we can get different results from different sensors to the same conditions. There are three senses you can try:
 
-Temperature
------------
 
+### Temperature
 
 Get three bowls of water, one hot (not so hot as it will hurt anyone), one cold, and one in between get them to put one hand in the hot, and one in the cold. Wait a few seconds, then get them to put them both in the warm one.
 
-
 You should find they look very confused as one hand will feel the warm water as hot and one as cold.
-
-
 
 Try the 2 "opposites" with different hands, then use the intermediate one with both hands, and see if they feel different.
 
 This shows that a lot of our senses are relative rather than absolute, you are much more sensitive to a change in temperature than the absolute temperature. I suppose this is an extreme, where a lobster won't really react if the water temperature is increased slowly enough...
 
 
-Brightness
-----------
-
+### Brightness
 
 If you go from a dark room into bright sunlight it feels very bright but if you are in a light room and go outside it doesn't seem so bright as there is less change in brightness. We can try this in a dim room with a kitchen roll tube. With one eye open everything is the same level of brightness. Now try with one eye but looking down the tube, here you have really dark walls of the tube and a brighter area out of the tube. Now what happens looking out of both eyes, one tubed and one not? You should see a bright circle in your vision caused by the end of the tube, it's because from the sense from the tubed eye it's much brighter, even though both eyes see the same.
 
 
-Roughness
----------
-
+### Roughness
 
 Another manifestation of this is rubbing your hands on rough and smooth sandpaper, and then both on some intermediate sandpaper...
 
-
 You get a similar reaction as the temperature - it is very strange, as there is nothing physical changing in your hands this time...
-
 
 I think you have vibration sensors in your skin which detect the amount of vibration, instead of each movement, and the nervous system must just be more sensitive to changes than absolute values in general??
 
@@ -69,18 +59,7 @@ I think you have vibration sensors in your skin which detect the amount of vibra
 ### Additional background for demonstrators
 
 
-The same is true of temperature and vibration. If you put one hand in a bowl of hot water it 
-feels hot because the nerves which detect higher temperatures become more 
-active. If you leave your hand there the nerves gradually become less 
-active even though the temperature is staying the same. The same works for 
-your other hand - the one in the cold water. The nerves that detect raised 
-temperature become less active initially so you feel cold but if you leave 
-your hand there then they become a bit more active even though the 
-temperature is the same. When you move both hands into the normal 
-temperature water your brain compares the temperature with the previous 
-temperature. The hand from the hot water is used to warm temperatures and 
-so feels cold. The hand from the cold water is used to cooler temperatures 
-so feels hot.
+The same is true of temperature and vibration. If you put one hand in a bowl of hot water it feels hot because the nerves which detect higher temperatures become more active. If you leave your hand there the nerves gradually become less active even though the temperature is staying the same. The same works for your other hand - the one in the cold water. The nerves that detect raised temperature become less active initially so you feel cold but if you leave your hand there then they become a bit more active even though the temperature is the same. When you move both hands into the normal temperature water your brain compares the temperature with the previous temperature. The hand from the hot water is used to warm temperatures and so feels cold. The hand from the cold water is used to cooler temperatures so feels hot.
 
 
 This makes sense, as the important things are more normally the changes in a sense rather that the absolute value, eg it is interesting that the temperature has suddenly changed, as this may mean a change in the weather, your house has fallen down, etc. but if your nervous system kept shouting 'It's quite warm' all day, you would be distracted from the sabre tooth tiger creeping up on you...
@@ -102,10 +81,6 @@ I wonder then, why it is that when you go from v. bumpy to q. bumpy, the resulta
 On a neural/receptor level, it is hard to account for because the changes to the receptors are not gradual (eg. a slow warming of the hand as it enters warmer water) but instant. But I may be entirely wrong...!
 
 As far as the eye is concerned, I think the small size of the iris makes the room look dark when you come indoors, but there's also something the eye does to adjust its way of looking at things to enable it to see changes in light and dark at any level of light on an absolutely enormous scale (10^1 - 10^20, I think). This it does chemically, i think, by allowing the light to "bleach out" the activity of some receptors... I think...
-
-
-
-
 
 
 <br/>

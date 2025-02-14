@@ -29,9 +29,7 @@ Last initially checked on 2024-12-17 by Chiara Delpiano-Cordeiro (cd796@cam.ac.u
 This is a neat experiment which kids often find quite exciting, particularly in a large room (preferably away from any outside doors on windy days, even small amounts of wind are a pain for this one). 
 You can draw nice links to with the vacuum demonstrations (which can involve similar ideas of the particle theory of gases and show that air is not nothing!)*.
 
-Bottle with balloon
--------------------
-
+### Bottle with balloon
 
 It's nice to start by asking the kids what is in the bottle (lots of kids will say nothing [more rarely they say water if the bottle hasn't been fully dried!], this experiment is a good way of seeing that air isn't nothing!), and what will happen if we heat it up (the balloon expands, some of them will wishfully say it explodes). Depending on how old they are and how much they know you can talk about the following while you do the heating:
 
@@ -43,9 +41,7 @@ It's nice to start by asking the kids what is in the bottle (lots of kids will s
 
 Heating is best done by running it under a hot tap, then you can cool under the cold tap, but you can use the toaster if you don't have a sink (for obvious reasons don't do a mixture of the two!). If using the toaster, you need to hold it a good distance away (at the top of the shield) to avoid melting the bottle.
 
-Balloons
---------
-
+### Balloons
 
 You could ask the kids to think of something powered by hot air (many get it straight away, some need a remarkable amount of prompting and loads say aeroplane...).
 

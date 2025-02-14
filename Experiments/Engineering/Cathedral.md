@@ -30,8 +30,7 @@ Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) an
 
 ## Experiment Explanation 
 
-*** OVERVIEW ***
-
+### Overview
 
 Investigating how the ideas used to make arch bridges can be used to build cathedrals and other buildings. Looking at the foundations needed for arches and flying buttresses.
 
@@ -52,7 +51,7 @@ Best demonstrated if the children have already looked at the arch bridge experim
 
 Be careful with the weights as they do pose a finger-trap and bruising hazard - best to get them to hold the wooden arches, well away from where the weights will drop, whilst you position the weights in the correct places. It is *very difficult* to get the weights to balance, so I often just get the kids to press vertically down on top of the block with their index finger. This achieves the same effect, but you should make clear that this is the same as putting a big weight on top. 
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+### Basic procedure and explanation
 
 1. Starting off
 
@@ -101,21 +100,20 @@ Instead of flying buttresses we could use thick walls and put weights on top. Tr
 This is quite tricky to do, so make sure you practice it before trying with the children. First place the thick walls at the locations marked on the base, then rest the arch (matching up the A and sides) on the marked part of the top of the thick walls. The arch won't stay up at this stage so keep holding it up. Next place the thin walls (upside down and oriented so that the top surface is flat) on top of the thick ones and add the weights to the top of the thin walls. The weights need to be as close to the centre as is possible without them falling off, the structure should now stand up on its own. 
 
 
-*** OTHER THINGS TO TALK ABOUT ***
+### Other things to talk about
 
-Applications with bridges.
-How old buildings were made.
-Cement as a glue for bricks.
-How modern buildings are made.
-Look at the buildings around you.
-How does your roof at home stay up? Look in the attic - timber beams...
+- Applications with bridges.
+- How old buildings were made.
+- Cement as a glue for bricks.
+- How modern buildings are made.
+- Look at the buildings around you.
+- How does your roof at home stay up? Look in the attic - timber beams...
 
 
-*** SCIENCE BACKGROUND FOR DEMONSTRATORS ***
+### Science background for demonstrators
 
 Using the science behind arch bridges to make buildings.
 Resolving forces - how adding weights/using thicker walls, stops the roof from caving in.
-
 
 
 <br/>

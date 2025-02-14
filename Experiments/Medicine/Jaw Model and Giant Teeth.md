@@ -24,19 +24,27 @@ Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 ## Experiment Explanation 
 
-ACTIVITIES:
-- Show whole model- what do they think it is? Let them point to their own jaws
-- Take the model apart - any ideas what individual bits are?
+### Activities
 
-OTHER THINGS TO TALK ABOUT:
+- Show whole model. What do they think it is? Let them point to their own jaws
+- Take the model apart
+- Any ideas what individual bits are?
+
+### Other things to think about
+
 - Losing teeth; getting new ones (especially when the kids are at that age)
-- Teeth are different - why do you need different shaped teeth? If we've got the animal skulls out, you could get them to go and have a look at those afterwards and think about why different animals have differently-shaped teeth.
-- Toothache - look at nerves coming into teeth - that's how you can feel pain
+- Teeth are different. Why do you need different shaped teeth? If we've got the animal skulls out, you could get them to go and have a look at those afterwards and think about why different animals have differently-shaped teeth.
+- Look at nerves coming into teeth: that's how you can feel pain when you have a toothache
 
-TIPS FOR DEMONSTRATING:
-- Focus your explanation on the age of the audience; if you have 6/7 year olds that are just getting their adult teeth, talk about that; if you have teenagers, you could talk about braces etc.
+### Tips for demonstrating
 
-BASIC PROCEDURE AND EXPLANATION:
+Focus your explanation on the age of the audience.
+
+**6/7 year olds**: they are just getting their adult teeth, talk about that.
+
+**Teenagers**: you could talk about braces etc.
+
+### Basic procedure and explanation
 
 - Compare model to skull so they know what they're looking at. How the jaw bone fits onto the skull so we can open and close it to speek, eat etc. Let them feel the joint on themselves by putting their fingers on the sides of their head just in front of ear, moving their jaw around. Explain how it can slide forward so we can open our mouths further.
 
@@ -44,7 +52,7 @@ BASIC PROCEDURE AND EXPLANATION:
 
 - See where the blood vessels and nerves go to teeth. Think about what nerves are doing, funny that they go to bones. When do we know about them being there... toothache. Why might we get it? Protection covering teeth damaged by sugar, bacteria, etc.  
 
-OTHER THINGS TO TALK ABOUT:
+### Other things to talk about
 
 - Numbers and names of teeth: 20 primary teeth (8 incisors, 4 canines, 8 molars); 32 permanent teeth (8 incisors, 4 canines, 8 premolars, 12 molars + 4 wisdom teeth)  
 

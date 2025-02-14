@@ -25,11 +25,11 @@ Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and
 
 ## Experiment Explanation 
 
-IN GENERAL:
+**IN GENERAL:**
 
 These optical illusions are best used with the eye model/blind spot test. Some explanations may be a little difficult for younger children.
 
-STROOP EFFECT
+**STROOP EFFECT**
 
 To do:
 
@@ -44,7 +44,7 @@ Extra stuff:
 •There is some evidence that the anterior cingulate area/dorsolateral prefrontal area might be active while performing the Stroop test – thought to be important for conflict monitoring/resolution
 •You can see similar effects if you’re scared of spiders and the words are related to spiders e.g. “hairy” and “web” – it takes you longer to read the colours of these words than a set of neutral words. Again, this is thought to be because the scary words grab your attention too much and slow you down.
 
-CHECKERBOARD SHADOW ILLUSION
+**CHECKERBOARD SHADOW ILLUSION**
 
 To do:
 
@@ -65,7 +65,7 @@ Explanation:
 •'Paintness' of checks – aided by form of “X junctions” formed by 4 abutting checks – this type of junction is usually a signal that all the edges should be interpreted as changes in surface colour rather than in terms of shadows or lighting
 •Effect really demonstrates successes rather than failure of visual system – visual system not very good at being a physical light meter – but that is not its purpose – important task is to break image information down into meaningful components and thereby perceive the nature of objects in view
 
-HERMANN GRID ILLUSION
+**HERMANN GRID ILLUSION**
 
 To do:
 
@@ -79,7 +79,7 @@ Explanation:
 •Receptive field that lies at the intersection of the white cross has more light falling on its inhibitory surround than does receptive field that lies between 2 black squares (see lower bit of diagram) – excitatory centre of receptive field between squares yields a stronger response than that which lies at intersection of white cross
 •Upper part of diagram – receptive fields in central fovea – much smaller than rest of retina (as we have lots and lots of receptors here)– so in all cases, both the centre and surround are completely in the white sections, and you don’t see the illusion at the intersection where you stare
 
-YOUNG GIRL AND OLD WOMAN (or other similar illusions)
+**YOUNG GIRL AND OLD WOMAN (or other similar illusions)**
 
 To do:
 • Duck or rabbit?
@@ -90,7 +90,7 @@ Explanation:
 
 A lot of optical illusions are caused by ambiguities in 'perception'. Our eyes contain receptors that send signals to our brain about the light that we see. 'Perception' is how our brain interprets these signals and tries to make sense of them. Where there are ambiguities in perception there can be more than one interpretation of what we see, this is what’s happening here. The lines and shapes of an image have two different meanings depending on which perception you have at that particular moment. E.g. what is the young woman's chin is the tip of the old woman's nose. Once you see both interpretations, you cannot see only one of them. The other will keep "popping" into your vision from time to time.
 
-NECKER CUBE (and similar)
+**NECKER CUBE (and similar)**
 
 To do:
 

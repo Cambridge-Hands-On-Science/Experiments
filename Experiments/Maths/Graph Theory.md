@@ -16,15 +16,20 @@ Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and doub
 
 <br/>
 
-## Equipment Needed 
+## Equipment Needed
+
 - Either: Lots of plain paper, coloured pens
 - Or: Whiteboards, coloured markers
-- ------------
+
+\-----------------
+
 - Optional CHaOS Graph Theory Booklet with sketches of some of the things you may like to do.
 - The following booklets formed the inspiration and may be useful.
 - Http://jdh.hamkins.org/math-for-seven-year-olds-graph-coloring-chromatic-numbers-eulerian-paths/
 - Http://jdh.hamkins.org/math-for-eight-year-olds/
-- -----------
+
+\-----------------
+
 - Utility Problem Mug (Please Draw on it with erasable pens)
 - K7 Mug (Please don't draw on it)
 

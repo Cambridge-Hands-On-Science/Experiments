@@ -93,7 +93,7 @@ This is a great way to explain the basic concepts of what nerves are and what th
 
 #### Background information about neurons:
 
-![](/sites/default/files/neurone1.gif)
+![](Images/neurone1.gif)
 
 Our nervous system (which includes the brain and spinal cord, together the central nervous system) is one of the ways we send messages around the body, working alongside hormones (chemicals that travel in our bloodstream).  
 The nervous system uses electricity (but much lower voltages and currents than we use to run lightbulbs!) to transmit these messages.  

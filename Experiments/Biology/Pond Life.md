@@ -37,7 +37,7 @@ Using identification charts to look at and identify pond life (either with the n
 You'll have the pond/rock pool water and creatures in a white tray to make it easy to see them. Let the kids choose a creature to identify then use the pictures/flow charts on the identification sheets to help you. 
 There are lots of different things you could talk about - predators and prey, how animals breathe under water (see lesser water boatman, frogs), metamorphosis and life cycles (see dragonflies, frogs).
 
-FACTS ABOUT COMMONLY FOUND PONDLIFE
+### Facts about commonly found pond life
 
 Great Diving Beetle - a very large diving beetle, blackish-green in colour, with a yellow border to the thorax and around the wing cases. They predate smaller invertebrates, tadpoles and even small fish. FUN FACT males have suction pads on their front feet in order to grip the females when mating.
 
@@ -60,7 +60,7 @@ ID TIP - the larvae are long and slender with three distinctive "tails"
 Common frog (demo may have frogspawn or tadpoles in it) - Common frogs are amphibians. They feed on invertebrates and sometimes smaller amphibians. They lay their eggs in rafts of jelly-like frog spawn that hatch into black tadpoles. A single female lays up to 4,000 eggs in one spring! When the tadpoles hatch they look like small black blobs with tales. As they get older they start growing legs and get bigger until they resemble tiny versions of the adult frogs. This is an example of metamorphoses (you could compare this to dragonflies and butterflies, also see resources for life-cycles demo). Male common frogs have 'nuptial pads' on their front feet to help them grip on to females during the breeding season (note this is similar to the great diving beetle). The male frog wraps himself around the female and fertilises her eggs as she deposits them.
 FUN FACT - frogs breathe through their skin, allowing them to stay underwater without drowning. Their skin is thin, with an extensive network of blood vessels under its surface. Oxygen is absorbed through the skin and goes into the blood stream which transports it around the body. (compare to the lesser water boatman)
 
-WILD ABOUT GARDENS CAMPAIGN
+### Wild About Gardens campaign
 
 If people are interested about how they can encourage wildlife, you can direct them to the Wild About Gardens Campaign, run by the Wildlife Trusts and Royal Horticulture Society https://www.wildaboutgardens.org.uk/. It has loads of useful tips on wildlife gardening and their focus this year (2020) is on ponds!
 

@@ -35,7 +35,8 @@ A really fun one to get them to solve is, draw a sad face on a hexaflexagon (thi
 
 For more capable people, you can start talking to them about equations and even solving equations. For example, if any equation like (up flip up up) x (down down flip)=flip you can solve this. But to work up to this, get them used to the idea that ax=b means x=a^-1 b not x=ba^-1. Explain it as, order matters. Putting an action on the left means you do it last, where as putting it on the right means do it first. 
 
-----------Advanced--------------
+### Advanced
+
 Obviously, all Vihart's videos on Hexaflexagons are compulsory watching: https://youtu.be/VIVIegSt81k
 
 The group here has 6 elements, and is in fact D\_3 (or some people call it D\_6). For very advance and capable students, show them that the hexaflexagon group is actually isomorphic to D\_3 by using the triangle in the box. Ask them which elements get identified and how many rules they need to show to show that's true.

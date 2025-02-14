@@ -21,6 +21,7 @@ Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and on 20
 <br/>
 
 ## Equipment Needed 
+- **This experiment can take place outdoors**
 - Bubble Gun (don't keep mix in here)
 - Bubble Mix holder (don't throw away)
 - Bubble Mix (buy or make and transfer to gun holder)

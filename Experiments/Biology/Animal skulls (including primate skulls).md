@@ -61,7 +61,7 @@ Our advice is to start talking about one skull in detail, then compare other sku
 
 Interesting features/comparisons include:
 
-TEETH
+**TEETH**
 
 The type, shape and number of teeth an animal has can help determine its diet.
 
@@ -84,7 +84,7 @@ Shark - sharks have many sharp teeth. Their teeth often fall out as they grab mo
 
 Crocodile - the crocodile can also replace its teeth when it loses them but rather than having a 'conveyor belt' system like the shark, it has permanent teeth buds (which are what your teeth develop from) under each tooth which are stimulated by the tooth falling out, causing another one to grow.
 
-BEAKS
+**BEAKS**
 
 You might want to talk about how birds such as the chicken use their beaks to feed, and talk about how other birds have adapted their beaks to help them eat their chosen food.
 
@@ -100,7 +100,7 @@ Pigeons: homing pigeons have iron containing structures in their beaks which may
 
 Other birds (which we don't have, but that you could discuss) include - the hawk, which has a sharp hooked beak used in tearing flesh from its prey or carrion. A hummingbird uses its long narrow beak to lap nectar from flowers and a sparrow has a small powerful beak used for picking berries and cracking seeds.
 
-NOSES
+**NOSES**
 
 Possibly start by asking what is missing (nose, ears, eyes and other soft tissues) - they are not part of the skeleton, made of either cartilige or muscles and nerves. The kids can think about the differences in nose sizes, do they think that cats have a better sense of smell than dogs? etc (dogs are 10,000 times more sensitive to odors than humans). Apart from food, what else do animals need noses for? (smelling mould, predators, recognising family members, detecting when another animal is in heat). The sheep skull has large nasal cavities, with delicate rolls of (turbinate) bones, which support a large area of nasal epithelium (skin inside the nose) for many, many scent receptors and to reduce heat/moisture loss.
 
@@ -110,7 +110,7 @@ Nose length varies in dog species:
 - Brachycephalic- short nosed breeds like pugs
 - Mesocephalic- medium nosed breeds like terriers
 
-EYE PLACEMENT AND SIZE (particularly relevant to mammals)
+**EYE PLACEMENT AND SIZE (particularly relevant to mammals)**
 
 Large eye sockets suggest an animal is active at night (nocturnal). In this case, a larger eye has evolved to allow the animal to see better at night. Moles and cats (very obvious large eye sockets) are nocturnal, hunting prey and remaining active at night.
 
@@ -121,7 +121,7 @@ Animals with eyes that are located on the side of its head would suggest a prey 
 
 "Eyes in the front, the animal hunts. Eyes on the side, the animal hides."
 
-CRANIUM
+**CRANIUM**
 
 The size of an animal’s cranium (relative to its body size) can give you an idea of how well developed its cerebral cortex (the part of the brain that contributes to ‘intelligence’) is. The size of an animal’s cerebral cortex can be used as a rough indicator for how 'intelligent' it is as a larger brain gives more processing power. A good way to compare the size of the brain cavity is to look at how big it is relative to the rest of the animal’s skull. Generally, social animals such as monkeys, apes (including humans), dolphins, and elephants have large cerebral cortices. This is because keeping track of social relations within the group requires a great deal of ‘processing power’.
 
@@ -187,7 +187,7 @@ These allow the brain to connect to send and receive signals from the rest of th
 
 Basic information about the skulls is as in the regular explanation. Extra things to mention for CHaOS+ are:
 
-TEMPOROMANDIBULAR JOINT
+**TEMPOROMANDIBULAR JOINT**
 
 This is the 'jaw joint between the cranium and the mandible. In carnivores it is quite limited to a dorsoventral hinge movement (in badgers the lower jaw is so firmly hinged that it cannot be detached). In contrast, in herbivores there is much lateral grinding movement as well. The temporomandibular joints each contain a disk similar to the menisci of the stifle, and like the menisci, the disks may help to partition the movements of the jaw joint into compartments (hinge-like between disk and mandible, translation between disk and skull)
 

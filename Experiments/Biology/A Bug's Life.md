@@ -28,34 +28,38 @@ Last initially checked on 2024-12-23 by Smiley Chan (scc93@cam.ac.uk) and double
 
 ## Experiment Explanation 
 
-*** OVERVIEW ***
+### Overview
 
 Children will look at lots of jars and blocks of interesting creatures, try to identify them, and learn a few things are each one. This is one of those experiments where you'll often get kids who are very interested or not really interested at all, so feel free to vary how long you keep them with you depending on how interested they seem. Don't worry if they only look at one thing then leave!
 
-Tips for demonstrating: 
+**Tips for demonstrating:**
+
 1) Make sure that none of your bugs disappear during the day! I would recommend having a smaller selection out at a time so you can keep an eye on them all (and can remember interesting facts about them all). Some selection ideas are included but feel free to come up with your own sets!
 2) If they're young ask them to look at their fingernail or a hair under the magnifying glass – this will give them a better concept of scale and show them how much more detail you can see under the magnifying glass!
 
-*** BASIC PROCEDURE AND EXPLANATION ***
+**Basic info**
+
+We have a large selection of perspex blocks containing a range of arthropods. Arthropods include: insects; arachnids (spiders, scorpions and mites); crustaceans (including crabs and woodlice); and myriapods (including centipedes and millipedes). The phylum arthropoda also includes trilobites, which are now extinct. Arthropods have existed in some form since before the dinosaurs, with the first arriving ~500 million years ago (dinosaurs appeared ~240 million years ago, and humans about 200,000 years ago). 
+
+### Basic procedure and explanation
 
 Ask the child to choose a sample on display that looks interesting to them. Then go through the following questions with them:
+
 1) What do you think this is?
 2) Do they know anything about the type of bug? (if they recognise it they will often start splurging everything they know about it - just let them talk to you about it!)
 3) If they look using the magnifying glass can they see anything interesting (hairs on legs, joints of exoskeleton etc. - talk about the purposes of these things if you know!) 
 4) For older/very keen kids you can talk about taxonomy (a good website to flick through if you have time before you start: http://www.earthlife.net/insects/classtax.html)
 
-*** About the Insects ***
+### About the Insects
+
 These insects were released as part of a children's magazine series "Real Life Bugs and Insects" which was done in partnership between the Natural History Museum and National Geographic (RRP £5.99 an issue). CHaOS has all 100 issues plus a bonus insect for subscribing to all issues, these were bought second-hand in 2023. All the insects included were (at the time of release in 2016) "not endangered or threatened species". They were also (allegedly) "bred, farmed and harvested in a sustainable way" coming from "specialised, purpose-built farms and the (publishers) can certify that none of these specimens were taken from the natural environment". (Quotes taken directly from the magazine publishers)
 
 There was some controversy at the time of release about how true these statements were. For instance, the stag beetle (sample ID) has a seven-year larvae stage which seems impractical for a magazine gift. You can discuss this if you really want to.
 
 Many children will ask how they are made. The insects inside are all real. They were gassed before being encased in resin. 
 
-***BASIC INFO***
 
-We have a large selection of perspex blocks containing a range of arthropods. Arthropods include: insects; arachnids (spiders, scorpions and mites); crustaceans (including crabs and woodlice); and myriapods (including centipedes and millipedes). The phylum arthropoda also includes trilobites, which are now extinct. Arthropods have existed in some form since before the dinosaurs, with the first arriving ~500 million years ago (dinosaurs appeared ~240 million years ago, and humans about 200,000 years ago). 
-
-***KEY DESCRIPTIONS FOR PERSPEX BLOCKS***
+### Key descriptions for perspex blocks
 
 **Beetles General Info**
 
@@ -64,6 +68,7 @@ We have a large selection of perspex blocks containing a range of arthropods. Ar
 Beetles are the largest group of insects, with over 400,000 known species (about 4000 in the UK). Insects generally have two pairs of wings, but in beetles the forewings are hardened into elytra that protect the hindwings. Although beetles are still capable of flight, this adaptation allows them to burrow and move around on the ground without damaging their wings, which is what scientists believe to be the reason they are so numerous. With so many species, beetles exhibit amazing diversity – we have a sample of different species here for you to compare.
 
 **Large Specimens Box (Box L) and Spider**
+
 0) Cuban Tarantula <br>
 This isn't in the box but loose and large. Cuban Tarantulas are farmed as an allegedly tasty snack. They don't have a poisonus bite but do have itchy hairs. You can see these clearly on the legs without a microscope. Insert more facts.
 
@@ -141,6 +146,7 @@ Walks very slowly, pretending to be a leaf; then, if it needs to escape predator
 Crickets are closely related to grasshoppers, and also stridulate. (See Large Specimens #2).
 
 **Box B**
+
 1) Flower Mantis <br>
 See Large Specimens #4. Note the camouflage comparison between the two mantis species – one pretends to be a stick, the other a flower. Different species of flower mantis have different patterns (specific to the area they live in and what flowers are there). They sit very still, waiting for pollinators to come up to them, then strike out with their long forearms.
 
@@ -183,6 +189,7 @@ See B-8.
 Named for their shape -- closely related to stink bugs.
 
 **Box E**
+
 1) Asian Water Beetle <br>
 Some species of water beetle carry an air bubble under their abdomen to prevent water getting into its spiracles. Other species have a modified exoskeleton which can carry out gas exchange with the water. This particular water beetle is a tasty food in south-east Asia, often boiled or fried whole. The taste is often compared to sweet scallops or shrimp.
 
@@ -220,7 +227,8 @@ A tropical species of cockroach – see A8 for more.
 15) Chinese Lantern Bug <br>
 Lantern bugs are native to China, but are an invasive species in South Korea and the United States. They produce honeydew which they leave behind on plants. Other bugs like to eat the honeydew, but it can also cause sooty mould to grow on plants, inhibiting the plant’s ability to photosynthesize and hurting the plant’s ability to survive and grow.
 
-*** Interesting Pairings ***
+### Interesting Pairings
+
 In this section we'll pick out a few pairs/groups of specimins from across the boxes which have interesting comparitive elements you can talk about. You will probably want 12-20(ish) samples and this section hopefully helps with some ideas although you are welcome and encouraged to come up with new connections or just talk about them individually.
 
 - Types: Have an assortment of insects (many), arachnids (many), crustaceans (none yet) and myriapods [B3,F?]. You can get people to try and sort them, usually the number of legs is a good hueristic. Including Stick Insect [A6] is good if you want people to guess the types, most people will get arachnids but may struggle on insects, in which case point them to this one.
