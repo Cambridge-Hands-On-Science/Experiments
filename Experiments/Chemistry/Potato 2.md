@@ -1,6 +1,6 @@
 # Potato 2 
 
-**Make invisible ink with vitamin C solution and iodine** - Explain the use of iodine as an indicator using potatoes, paper and vitamin C solution!
+**Make invisible ink with vitamin C solution and iodine** - Explain the use of iodine as an indicator using potatoes, paper and vitamin C solution! Potato game's chemist cousin. 
 
 Last initially checked on  by  and double-checked on by 
 
