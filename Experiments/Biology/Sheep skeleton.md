@@ -35,53 +35,70 @@ Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and
 ## Experiment Explanation
 
 ### In a nutshell
-The aim of this experiment is to show children a (half) complete animal skeleton, so they can see how some parts are very different (legs, feet) and some parts are quite similar (spine, ribs) to how a human skeleton looks. Even the "very different" parts have similar bones, because we evolved from a common ancestor that had similar bones. They can also handle the bones directly and notice just how well the joints slot together.
+The aim of this experiment is to show children a (half) complete animal skeleton, so they can learn about how different parts of a mammalian skeleton work and why they may have evolved. They can also learn about how some parts of a sheep skeleton are different to a human skeleton, and some are similar. Even the "very different" parts have similar bones, because we evolved from a common ancestor that had similar bones. They can also handle the bones directly and notice just how well the joints slot together.
 
 ### Set-up
-Lay the anatomy diagram board flat on a table or other hard surface. Spread out the sheep bones nearby. Place the unnumbered sheep skeleton on the table for children to reference. Keep the numbered skeleton for demonstrator use, as the numbers match numbers on the sheep bones and will let you confirm everything is in the right place.
+Lay the anatomy diagram board flat on a table or other hard surface. Spread out the sheep bones nearby. Keep the numbered skeleton for demonstrator use, as the numbers match numbers on the sheep bones and will let you confirm everything is in the right place. Time permitting, learn how to construct the skeleton without the reference so that you do not need it to help the children.
 
 
 ### How to demonstrate
-1. Start by asking the children if they know what the skeleton is. They'll probably guess because the anatomy diagram board has a wooly sheep outline, but you can also have them look at the sheep's teeth and notice it's a herbivore (see notes) and at the feet and notice it only has two toes. Give them progressively easier hints (eg "found on a farm, wooly, baas") and they'll guess it quickly. For older groups you may want to spend more time on identification and comparison, if so see the section below.
+#### For younger groups
+1. Start by asking the children if they know what the skeleton is. They'll probably guess because the anatomy diagram board has a wooly sheep outline, but you can also have them look at the sheep's teeth and notice it's a herbivore (see notes) and at the feet and notice it only has two toes. Give them progressively easier hints (eg "found on a farm, wooly, baas") and they'll guess it quickly.
 
 2. Have the children assemble the completed sheep skeleton. Note that we have HALF a sheep skeleton here to make it easier to lay out on the anatomy board: there is a complete skull and spine, but only half the ribs, 1x forelimb and 1x hindlimb(including just one scapula (shoulder blade) and half of the pelvis). As the children are assembling things, see how many bones they can name. Help them work out where leg bones go by noticing which bones slot together at the joint. Compare with the numbered diagram to correct them.  
 
 3. Discuss the bones themselves and how they differ from human bones and how they're similar. Can do this as they assemble or after, depending on how quickly the children finish it. Talk about what the bones do -- ribs protect the internal organs, the skull protects the brain, etc. Also have the children bend the legs at the joints appropriately -- notice how the "wrist"/"ankle" joints are the lower joints we see and NOT the knees or elbows, because a sheep's foot is extended. See notes for more information.
 
+#### For older groups
+1. Start by giving the children context as to why they're constructing a sheep skeleton - when the remains of an animal are found, they aren't necessarily all in the right place, and it's up to us to use what we know about bones to fit everything together.
+
+2. Ask the children to pick up bones one-by-one, and for each, discuss the adaptations in that bone with reference to the sheep's lifestyle after the child has laid it in the right place. Try your best to gague the ability/previous knowledge of the children, and ask them questions that you think will challenge them. Where appropriate, compare the structures to the equivalent ones in humans, and discuss why sheep and humans may have evolved different skeletons based on their lifestyle. More detail on this is in the notes.
+
+3. Once the skeleton is complete, ask the children why we might be interested in learning how to build skeletons. Guide them towards the point that sometimes skeletons and other remains are the only things we have of an animal, especially extinct species, and that by learning how to fit skeletal remains together, we can understand what these animals might have looked like. Furthermore, by observing the characteristics of each of the components, we can make guesses about the kinds of lifestyle an animal was living.
+
 ### Notes
 
-1. Skull
-- Point them towards Animal Skulls to discuss the teeth/skull in more detail, but can discuss how the teeth tell us this is a herbivore. Big, flat molars/premolars are good for grinding and crushing up vegetation. Incisors are good for pulling grass and other vegetation. Note that sheep are lacking upper incisors; instead, they have a hardened gum line called a "dental plate" to pinch grass against. 
+1. Skull (and jaw)
+- Teeth: Sheep have large flat molars and a set of incisors at the front. Ask the children about what each are for - Flat molars are good at grinding up food, whereas incisors are good at making precise cuts. Ask the children what we can learn about a sheep's diet from looking at its teeth - The sheep has adapted to cut and grind food, so is well adapted for eating plants. It does NOT have any canines, so would not be very well adapted for eating meat
+- Jaw: Note how the jaw is very triangular and pointy, unlike the much more rounded one in humans. Sheep cannot pick up food with their hands, so have evolved a long pointy jaw to better pick food from the ground or the surface of plants
+- Eyes: Note that the eyes are on the side of the head, allowing the sheep to look for predaotrs more easily. See the advanced points for the children that pick this up easily
+- Cranium: Note that the skull is quite big and heavy compared to the other bones - this is because it houses the brain, which needs to be heavily protected
 
 2. Spine
-- The spine can be divided into the cervical vertebrae (neck), thoracic vertebrae (ribcage), lummbar vertebrae (lower back), sacrum (where the pelvis attaches) and **normally** we should also have coccygeal vertebrae that make up the tail, but our sheep is missing its tailbones. 
+The spine protects the spinal cord - introduce the concept of nerves and how the brain and the rest of the body "talk" to each other via sending signals up and down the spinal cord. Draw attention to how the spine is a protective bone like the skull, but becuse it is made of many smaller pieces, it can still move around and bend. The skull does not need to do this, so has evolved to be much more rigid than the spine.
 
 3. Ribs
-- Sheep have 13 pairs of ribs: 8 pairs are sternal/true ribs that would connect directly with the sternum; 4 pairs are asternal/false ribs that don't connect directly with the sternum because they connect to the ribs above; and one pair of floating ribs that don't connect with the sternum at all. See "ribs printout" -- this is a human diagram, but the structure is similar.
+The ribs connect to and protect the lungs. Compare the ribs to the skull and spine - the lungs need to expand and contract, so cannot be encased in solid bone like the brain, so are more similar to the spine - many small bones that, together, make a strong protective system, but still allow for slight movement. Also discuss that the ribs are connected to the spine.
 
 4. Front foot
-- Made up of the phalanges in the toes, the metapodial/cannon bone in the "palm" (equivalent to fused metacarpals), and carpals in the "wrist". See "front foot printout" for how the bones differ from a human hand. A sheep's foot is made of some of the same bones a human hand has, and would be equivalent to a human hand with just the middle and ring finger. Notice how sheep, like many animals, walk on just their toes. Sheep toes are normally covered by horn material to make hooves, similar to horses. Note that the first "bend" in the front leg is equivalent to the wrist.
+Made up of the phalanges in the toes, the metapodial/cannon bone in the "palm" (equivalent to fused metacarpals), and carpals in the "wrist". See "front foot printout" for how the bones differ from a human hand. A sheep's foot is made of some of the same bones a human hand has, and would be equivalent to a human hand with just the middle and ring finger. Notice how sheep, like many animals, walk on just their toes. Sheep toes are normally covered by horn material to make hooves, similar to horses. Note that the first "bend" in the front leg is equivalent to the wrist.
 
 5. Radius and Ulna
-- Would be the lower arm in a human, and joins at the elbow with 6 (humerus). Have the kids move the bones in a hinge fashion like a human arm would.
+Would be the lower arm in a human, and joins at the elbow with 6 (humerus). Have the kids move the bones in a hinge fashion like a human arm would.
 
 6. Humerus
-- Would be the upper arm in a human
+Would be the upper arm in a human
 
 7. Scapula / shoulderblade (note the absence of clavicle)
-- Similar to the shoulderblade in a human, but note that unlike humans, sheep (and horses) lack a clavicle/collarbone connecting to the scapula. In humans, the clavicle acts as a strut between the shoulderblade and the sternum, connecting the arm directly to the spinal column; but in sheep the front limb attaches only via muscle and tendons. The missing collarbone improves running efficiency because without the collarbone the shoulderblade can act almost like an extra limb segment, creating a longer stride.
+Similar to the shoulderblade in a human, but note that unlike humans, sheep (and horses) lack a clavicle/collarbone connecting to the scapula. In humans, the clavicle acts as a strut between the shoulderblade and the sternum, connecting the arm directly to the spinal column; but in sheep the front limb attaches only via muscle and tendons. The missing collarbone improves running efficiency because without the collarbone the shoulderblade can act almost like an extra limb segment, creating a longer stride.
 
 8. Hind foot
-- Made up of the phalanges in the toes, the metatarsals, and the tarsals in the hock. See "hind foot printout" for how the bones differ from a human foot (the printout shows a horse foot but they are structurally similar, minus a sheep having two toes vs a horse's single toe).
+Made up of the phalanges in the toes, the metatarsals, and the tarsals in the hock. See "hind foot printout" for how the bones differ from a human foot (the printout shows a horse foot but they are structurally similar, minus a sheep having two toes vs a horse's single toe).
 
 9. Tibia
-- Would be the lower leg in a human, and joins at the knee wth 10 (femur).
+Would be the lower leg in a human, and joins at the knee wth 10 (femur).
 
 10. Femur
-- Would be the upper leg in a human. Notice how high up in the body the knee joint is; this is why some people think an animal's "knees" are where we now know the ankles are, and why some people think their "knees bend backwards". Their knees bend the right way, they just have them hidden under wool!
+Would be the upper leg in a human. Notice how high up in the body the knee joint is; this is why some people think an animal's "knees" are where we now know the ankles are, and why some people think their "knees bend backwards". Their knees bend the right way, they just have them hidden under wool!
 
 11. Pelvis (half)
-- Joins with the sacrum at the sacroiliac joints, and with the femur at the hip joint. Notice the hip is a ball and socket joint, unlike the hinge joints of the elbow/knee. Swivel the bones in the joints to show how much freedom of movement there is.
+Joins with the sacrum at the sacroiliac joints, and with the femur at the hip joint. Notice the hip is a ball and socket joint, unlike the hinge joints of the elbow/knee. Swivel the bones in the joints to show how much freedom of movement there is.
+
+### Advanced points
+Some more challenging points to present to the children that are doing particularly well in the demonstration
+
+1) Eye position: Most children can deduce that sheep have eyes on the side of their heads to look for predators - if this is established quickly, ask why humans and other predators DON'T have their eyes on the side of their head. While sheep have a big range of vision, there are very few points that they can see with both of their eyes at the same time, giving them very poor depth perception. While humans have a much smaller field of view, becuase most objects are viewed by both eyes simultaneously, humans can gague DISTANCE, which is very important for a hunting lifestyle. Sheep don't need very good depth perception because their food isn't very difficult to find.
+2) Joints: Ask children about the distribution of ball and socket joints VS hinge joints - they may notice that most of the ball and socket joints are close to the "centre" of the animal (proximal), while most of the hinge joints are further away (distal). Considering ball and socket joints give so much extra movement, ask why all joints haven't evolved to be ball and socket joints. The children may come to the conclusion that ball and socket joints are harder to maintain and easier to injure (for instance, you hear a lot more about dislocated shoulders and hips than hinge joints). Raise the point that animals don't NEED ball and socket joints all the way down a limb if there's one at the base, since it allows a full range of motion for the entire limb to position the more distal hinge joints where they are needed.
 
 ### Identification
 If you want to do this in detail then you really need to turn the board over between demos. In schools asking the previous gorup to shuffle the bones back to a pile then flip it over quickly during changeover.
