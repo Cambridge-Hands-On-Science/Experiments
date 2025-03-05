@@ -34,9 +34,8 @@ Last initially checked on  by  and double-checked on by
 
 ## Experiment Explanation 
 ### In a nutshell.....
-&&Acid + Carbonate → Salt + Water + Carbon Dioxide
+Iodine turns blue black in contact with starch, this doesn't happen in the presence of vitamin C so vitamin C solution can be used as invisible ink on regular, starchy paper. Iodine will reveal the message/painting. 
 
-&& Production of carbon dioxide in a sealed container to produce explosions.
 
 ### How to set up the experiment
 Put down a tablecloth and wear gloves, set up bottles of iodine and small beakers of vitamin C solution with paintbrushes in them. 
