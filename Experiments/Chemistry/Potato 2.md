@@ -34,118 +34,85 @@ Last initially checked on  by  and double-checked on by
 
 ## Experiment Explanation 
 ### In a nutshell.....
-Acid + Carbonate → Salt + Water + Carbon Dioxide
+&&Acid + Carbonate → Salt + Water + Carbon Dioxide
 
-Production of carbon dioxide in a sealed container to produce explosions.
+&& Production of carbon dioxide in a sealed container to produce explosions.
 
 ### How to set up the experiment
-Set up the clear plastic box in a large tray, with the lid opening towards you. 
+Put down a tablecloth and wear gloves, set up bottles of iodine and small beakers of vitamin C solution with paintbrushes in them. 
 
-**Important:** Stick some gaffer tape along the hinge line facing the audience to prevent lemon juice escaping through the crack. Fill one of the smaller Tupperware containers with water to use for washing out film canisters.
+**Important:** Only you should handle iodine, do not let the participants handle iodine (even if they ask nicely) as it stains the skin.
 
 ### Demonstrating the experiment
-Initially, mix lemon juice (about 1/8 fill the canister) and bicarb (1/4 of a teaspoon) in the film canister with the lid off, so that the kids can see it frothing up. If the kids seem responsible, you can add the bicarb and let a volunteer add a squirt of lemon juice. Ask them where they think the bubbles are coming from/what's in the bubbles (space for a bit of a discussion of different gases here, many of them will have heard of CO₂). 
 
-Get them to think about what lemon juice is like (sour therefore an acid), and what else is sour (vinegar, other citrus juice...) and discuss that any acid can let out the gas that's "trapped" in the powder. Possibly also discuss use of bicarb in baking - heating it up releases gas, which puts bubbles in your cakes.
+#### What does iodine do?
+•	Show them the samples of food. Show them a set without iodine solution and the set with iodine solution. 
+•	Show them that some foods cause the iodine to turn blue black because they are full of starches,  whilst others do not because they contain very little (or no) starch.
 
-The bubbles should froth well over the top of the canister. Ask them to predict what will happen if you put a lid on (does the gas have anywhere else to go?)
 
-Now try it and see if they're right! With older kids you can discuss how molecules create pressure, ask them to push their hands against each other a bit to demonstrate reaction forces. 
+#### Vitamin C Invisible ink
+•	Tell the participant to write their name on the back of the paper.
+•	Tell the participant to draw anything they like on the paper using the paintbrushes and the vitamin C solution. This will work best when the layer is quite thin (because it will dry quicker and not spread around as much).
+•	Wait for the vitamin C to dry slightly.
+•	Brush on a thin layer of the iodine solution. The paper should turn blue-black whilst the parks with vitamin C should remain white. Try to do just one layer!
+•	Hang the drawing up on a peg and ask the participant to come back later if they want the drawing, this might be tricky based on how busy CBS is so make an assessment on whether you will keep saying this or not.
+•	You can take the paper off the peg and leave it for people to collect once it has dried.
 
-Some children ask why there is no 'fire' if it is an explosion. It can be worth explaining that an explosion is simply a rapid expansion of gases and release of stored energy, often with heat being produced, though this is not a necessary condition. Sealing the canister causes the pressure to build up, which stores energy, until the lid can no longer resist the force of the trapped gases. The stored energy is then released rapidly when the lid pops off and gases expand, causing the explosion.
 
-There are 2 slightly different approaches:
+### Simple explanation 
+Some foods are full of a type of molecule called starch, which is a type of carbohydrate. Think of things like potatoes and pasta and rice, they are all made of starch. 
 
-#### Method 1 (easier and effective)
-Fill the canister about 1/6 of the way with lemon juice (or let a responsible volunteer do it), press bicarb into the well in the centre of the lid. Invert the lid and make sure the bicarb stays stuck in there. Inside the plastic box, with the lid partly shut, gently put the lid on the canister; the bicarb is now held at the top of the canister away from the lemon juice.
+Iodine solution is a common test for these starch molecules. On its own, it’s a yellow colour, but when it comes into contact with starch it becomes blue-black. You can see which foods contain starch because they are stained blue, whereas other foods are yellow because they contain less (or no) starch.
 
-Invert the canister, place it on the bottom of the box, and shut the lid fully (it's often a good idea to have the lid partially shut before you invert the canister to reduce the risk of it getting on you). The bicarb and lemon juice will mix, pressure builds, and the pot will explode upwards. The less lemon juice there is, the more time you have before the explosion but the explosion is no less vigorous (assuming the seal is good), since the film canister will always pop at the same pressure and a slower reaction will build up pressure more slowly. You could ask older children to work this fact out for themselves.
+We also use starch to make our paper stronger and smoother. It’s a small amount, but it’s enough to make the iodine go blue-black. 
 
-#### Method 2
-Put some lemon juice in the canister, put a piece of tissue paper over the top of the canister with bicarb on top of that, push the lid on so it hold the tissue paper. The bicarb is now held at the top of the pot away from the lemon juice.
-Put the canister upside down in the clear plastic tank and shut the lid (it's often a good idea to have the lid partially shut before you invert the canister to reduce the risk of it getting off you). The bicarb and lemon juice will mix and the pot will explode upwards.
+The vitamin C reacts with the iodine to and prevents it from going dark. In fact, it also turns it from yellow to colourless! This is why the parts of the paper with the vitamin C remains white
 
-It's usually a good idea to try both methods before the kids arrive and see which one works better for you and the type of film canister you happen to have.
 
-**Some film canisters explode better than others, so it is worth trying different ones to make sure you are using the right lid. The translucent white plastic ones work really well.** Ask a committee member or experienced demonstrator.
+### Less simple explanation 
+Starches are complex carbohydrates. They are made of repeating units of simpler carbohydrates (like glucose) and they form long chains. In our bodies, starches are broken down into simple sugars so that we can use them in respiration to give us energy. 
+One of the starches in our food (and in the paper) is called amylose, which has a helical structure. When iodine solution comes into contact with it, the triiodide anion (three iodine atoms joined together with and overall negative charge) embeds itself within the helix on the amylose. This complex turns a blue-black colour, much different to the yellow of the iodine solution. 
+Vitamin C is acting as a reducing agent, which turns the triiodide anion into regular iodide ions (just one iodine atom with a negative charge), which is colourless. This is why the parts of the paper that has the vitamin C remains white, as neither the yellow nor blue-black iodine colour can form in the presence of Vit. C.
+One use of the iodine test is to determine the ripeness of fruits such as apples. As fruits ripen, their starches are converted to sugars, which makes them sweeter. Farmers can take sample fruits and use iodine to determine the level of starch within them, which is inversely proportional to the level of sugar. This means that they can determine more objectively how ripe their fruits are.  
 
-### Other things to think about
-Vinegar (acetic acid) is a stronger acid than lemon juice (citric acid); if using vinegar expect this reaction to be quite quick... (can talk about why stronger acids cause a faster reaction). You could also link the experiment to a rocket launch – the canister shoots upwards because the gas pressure pushes the CO₂ and liquid out of the bottom, generating an upwards reaction force. Rockets work in the same way by forcing gas out of the back at great speed (though this is normally powered by combustion rather than an acid-base reaction).
+### Questions to ask 
+•	What food groups can you think of. Do you know any molecules that might be prevalent within those groups?
+•	Do you think we can test for these molecules?
+•	What is starch?
+•	Why do you think some foo here are blue and others aren’t? Can you see any similarities between them?
 
-### Packing away
-Give everything a wash, ideally with hot, soapy water. Dry the box (by leaving it out or using paper towels). Put everything (except the big tray) back in the big blue box – to make everything fit you will probably need to put smaller components (e.g. the tub of film canisters) inside the clear plastic box.
 
 <br/>
 
 ## Risk Assessment
 
-### **Hazard**: Liquids
+### **Hazard**: Iodine
 
-**Description**: Spillages pose a slip hazard.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
-
-**Mitigation**: Clear up spills as soon as possible if on a slippery floor. Do experiment outside if possible. Do experiment in tray to avoid spilled liquid going on floor. Put wet floor sign down if needed.
-
-Call first aider in case of injury.
-
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
-
-<br/>
-
-### **Hazard**: Explosions
-
-**Description**: Explosions could get out of box, (or occur before the canister has been put in the box) and get into eyes, or box could jolt and hit children if they are too close.
+**Description**: Very dilute iodine, as used in this experiment, is not classified as hazardous but it can stain hands and clothes. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
 
-**Mitigation**: Do experiment in a clear lidded fish tank so kids are not peering over the top to see what is happening and tell them to stay a good distance back, keep lid opening faced towards demonstrator. It is important to keep the kids under control. Try to keep control over at least one of the reagents, so the kids can't just do it themselves.
+**Mitigation**: Only small volumes of iodine will be used and this will only be done by the demonstrator. Care should be taken to not flick the paintbrush with iodine on. Participants should only handle the paper once it has dried. Iodine on skin should be washed off immediately in the toilets. If iodine gets in eyes, will require flushing area with water by a first aider. 
 
-Ensure the top of the tank is not at eye level (it is common for a small volume of the reagents to be propelled through the crack between the top of the tank and the lid). **Run a length of plastic tape along the hinged side (which should be closest to your audience) to prevent splattering.**
 
-Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes.
-
-Eyewash should be kept on hand when demonstrating (but put back in Safety for storage between demonstrating days). If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
-
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
 
 <br/>
 
-### **Hazard**: Reactants
+### **Hazard**: Vitamin C 
 
-**Description**: Some people might be allergic to lemon juice or bicarbonate of soda.
+**Description**: Not an allergen but an irritant. 
 
-**Affected People**: Public
+**Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
 
-**Mitigation**: Put up a sign warning of potential allergens in the reagents. If participant(s) are allergic, they should stand well back and not touch anything. Do not leave kids alone with the experiment.
+**Mitigation**: Vitamin C will be diluted down <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
-<br/>
-
-### **Hazard**: Reactants
-
-**Description**: The reaction mixture could be eaten by a child and cause a stomach upset.
-
-**Affected People**: Public
-
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
-
-**Mitigation**: The lemon juice and bicarbonate of soda are food-safe, but they still should not be eaten as they might be out of date and will not have been refrigerated.
-
-Do not let the kids do the reactions themselves or leave them alone with the experiment.
-
-It is important to keep the kids under control. Try to keep control over both reagents. Warn children not to eat/put hands in mouth.
-
-In the event of eating, advise them to seek medical attention if they start to feel ill.
-
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
 <br/>
 
