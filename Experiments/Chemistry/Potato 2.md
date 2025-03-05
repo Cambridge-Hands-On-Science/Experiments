@@ -27,7 +27,7 @@ Last initially checked on  by  and double-checked on by
 - Tablecloth
 - Retort stands
 - Pegs and strings
-- Small bowl or plate 
+- Small bowls or plates
 
 
 <br/>
