@@ -51,10 +51,15 @@ Put down a tablecloth and wear gloves, set up bottles of iodine and small beaker
 
 #### Vitamin C Invisible ink
 •	Tell the participant to write their name on the back of the paper.
+
 •	Tell the participant to draw anything they like on the paper using the paintbrushes and the vitamin C solution. This will work best when the layer is quite thin (because it will dry quicker and not spread around as much).
+
 •	Wait for the vitamin C to dry slightly.
+
 •	Brush on a thin layer of the iodine solution. The paper should turn blue-black whilst the parks with vitamin C should remain white. Try to do just one layer!
+
 •	Hang the drawing up on a peg and ask the participant to come back later if they want the drawing, this might be tricky based on how busy CBS is so make an assessment on whether you will keep saying this or not.
+
 •	You can take the paper off the peg and leave it for people to collect once it has dried.
 
 
