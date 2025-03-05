@@ -75,14 +75,19 @@ The vitamin C reacts with the iodine to and prevents it from going dark. In fact
 
 ### Less simple explanation 
 Starches are complex carbohydrates. They are made of repeating units of simpler carbohydrates (like glucose) and they form long chains. In our bodies, starches are broken down into simple sugars so that we can use them in respiration to give us energy. 
+
 One of the starches in our food (and in the paper) is called amylose, which has a helical structure. When iodine solution comes into contact with it, the triiodide anion (three iodine atoms joined together with and overall negative charge) embeds itself within the helix on the amylose. This complex turns a blue-black colour, much different to the yellow of the iodine solution. 
 Vitamin C is acting as a reducing agent, which turns the triiodide anion into regular iodide ions (just one iodine atom with a negative charge), which is colourless. This is why the parts of the paper that has the vitamin C remains white, as neither the yellow nor blue-black iodine colour can form in the presence of Vit. C.
+
 One use of the iodine test is to determine the ripeness of fruits such as apples. As fruits ripen, their starches are converted to sugars, which makes them sweeter. Farmers can take sample fruits and use iodine to determine the level of starch within them, which is inversely proportional to the level of sugar. This means that they can determine more objectively how ripe their fruits are.  
 
 ### Questions to ask 
 •	What food groups can you think of. Do you know any molecules that might be prevalent within those groups?
+
 •	Do you think we can test for these molecules?
+
 •	What is starch?
+
 •	Why do you think some foo here are blue and others aren’t? Can you see any similarities between them?
 
 
