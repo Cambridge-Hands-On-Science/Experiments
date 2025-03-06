@@ -94,17 +94,19 @@ One use of the iodine test is to determine the ripeness of fruits such as apples
 
 ## Risk Assessment
 
+Likelihood and severity scores are out of five and overall score is out of twenty-five. 
+
 ### **Hazard**: Iodine
 
 **Description**: Iodine is a toxic chemical. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4/5, Severity: 4/5, Overall: 16/25 (high)
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (high)
 
 **Mitigation**: See COSHH assessment below. Iodine must only be used at low concentrations (0.01M), which makes it not very harmful, but it can stain skin. Explain to the participants that iodine is harmful and they should not touch anything except what they are directed to touch (paintbrushes with vitamin C, dry paper). Demonstrator to wear gloves. No one but the demonstrator should touch the paper until it is dried. Great care should be taken to not flick the paintbrush when removing it from the bottle. If iodine gets on the skin, wash immediately with plenty of water. If it gets in the eyes it should be washed out by a parent/first aider with plenty of water. If swallowed, the person should drink water (at most two glasses) and be advised to see a doctor if they feel unwell. In case of spills, evacuate area and wipe up immediately. Iodine cannot be poured down the sink and must be taken to a chemistry lab for disposal.
 
-**After Mitigation**: Likelihood: 3/5, Severity: 2/5, Overall: 6/25 (moderate)
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (moderate)
 
 **COSHH**
 
@@ -122,44 +124,33 @@ One use of the iodine test is to determine the ripeness of fruits such as apples
 
 <br/>
 
-### **Hazard**: Vitamin C 
-
-**Description**: Vitamin C is an irritant. Consuming large quantities can cause gastrointestinal distress (diarrhea, cramps, nausea). 
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 3/5, Severity: 2/5, Overall: 6/25 (moderate)
-
-**Mitigation**: Vitamin C should not be handled by the participants. The solution will be diluted down to <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
-
-**After Mitigation**: Likelihood: 2/5, Severity: 2/5, Overall: 4/25 (low)
- 
-
 ### **Hazard**: Glassware
 
 **Description**: Broken glassware can cause cuts. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3/5, Severity: 3/5, Overall: 9/25 (moderate)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (moderate)
 
 **Mitigation**: Demonstrator to ensure glassware remains on the table and away from the edges. If glassware breaks, the area should be closed until it is cleared away. 
 
-**After Mitigation**: Likelihood: 2/5, Severity: 3/5, Overall: 6/25 (moderate)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (moderate)
 
-
+<br/>
+ 
 ### **Hazard**: Retort stands
 
 **Description**: Retort stands are heavy and could injure someone if they fall from the table. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3/5, Severity: 3/5, Overall: 9/25 (moderate)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (moderate)
 
 **Mitigation**: Keep the retort stands away from the edges of the table. Demonstrator to ensure children don't knock the retort stands. 
 
-**After Mitigation**: Likelihood: 2/5, Severity: 3/5, Overall: 6/25 (moderate)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (moderate)
 
+<br/>
 
 ### **Hazard**: Food
 
@@ -167,11 +158,25 @@ One use of the iodine test is to determine the ripeness of fruits such as apples
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 2/5, Severity: 4/5, Overall: 8/25 (moderate)
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (moderate)
 
 **Mitigation**: Advise the participants not to eat the food. Keep out of reach of children when not in use. 
 
-**After Mitigation**: Likelihood: 1/5, Severity: 4/5, Overall: 4/25 (low)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (low)
+
+<br/>
+
+### **Hazard**: Vitamin C 
+
+**Description**: Vitamin C is an irritant. Consuming large quantities can cause gastrointestinal distress (diarrhea, cramps, nausea). 
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (moderate)
+
+**Mitigation**: Vitamin C should not be handled by the participants. The solution will be diluted down to <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (low)
 
 <br/>
 
