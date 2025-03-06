@@ -2,7 +2,7 @@
 
 **Make invisible ink with vitamin C solution and iodine** - Explain the use of iodine as an indicator using potatoes, paper and vitamin C solution! Potato game's chemist cousin. 
 
-Last initially checked on  by  and double-checked on by 
+Last initially checked on 2025-03-06 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -28,37 +28,36 @@ Last initially checked on  by  and double-checked on by
 - Retort stands
 - Pegs and strings
 - Small bowls or plates
-
+- Food to test for starch, such as fruit/veg/bread. 
 
 <br/>
 
 ## Experiment Explanation 
 ### In a nutshell.....
-Iodine turns blue black in contact with starch, this doesn't happen in the presence of vitamin C so vitamin C solution can be used as invisible ink on regular, starchy paper. Iodine will reveal the message/painting. 
+Iodine turns blue black in contact with starch. This doesn't happen in the presence of vitamin C so vitamin C solution can be used as invisible ink on regular, starchy paper. Iodine will reveal the message/painting. 
 
 
 ### How to set up the experiment
-Put down a tablecloth and wear gloves, set up bottles of iodine and small beakers of vitamin C solution with paintbrushes in them. 
+Put down a tablecloth and wear gloves, set up bottles of iodine and small beakers of vitamin C solution with paintbrushes in them. Put a selection of food in two small bowls (the same selection in each) and add iodine solution to one bowl. The starchy foods should turn blue/black. 
 
-**Important:** Only you should handle iodine, do not let the participants handle iodine (even if they ask nicely) as it stains the skin.
+**Important:** Only you should handle iodine, do not let the participants handle iodine (even if they ask nicely) as it stains the skin and is harmful. 
 
 ### Demonstrating the experiment
 
 #### What does iodine do?
 •	Show them the samples of food. Show them a set without iodine solution and the set with iodine solution. 
-•	Show them that some foods cause the iodine to turn blue black because they are full of starches,  whilst others do not because they contain very little (or no) starch.
-
+•	Show them that some foods cause the iodine to turn blue/black because they are full of starches,  whilst others do not because they contain very little (or no) starch.
 
 #### Vitamin C Invisible ink
 •	Tell the participant to write their name on the back of the paper.
 
-•	Tell the participant to draw anything they like on the paper using the paintbrushes and the vitamin C solution. This will work best when the layer is quite thin (because it will dry quicker and not spread around as much).
+•	Tell the participant to draw anything they like on the paper using the paintbrushes and the vitamin C solution. This will work best when the layer of vitamin C solution is quite thin (because it will dry quicker and not spread around as much).
 
 •	Wait for the vitamin C to dry slightly.
 
 •	Brush on a thin layer of the iodine solution. The paper should turn blue-black whilst the parks with vitamin C should remain white. Try to do just one layer!
 
-•	Hang the drawing up on a peg and ask the participant to come back later if they want the drawing, this might be tricky based on how busy CBS is so make an assessment on whether you will keep saying this or not.
+•	Hang the drawing up on a peg and ask the participant to come back later if they want the drawing. This might be tricky based on how busy CBS is so make an assessment on whether you will keep saying this or not.
 
 •	You can take the paper off the peg and leave it for people to collect once it has dried.
 
@@ -88,7 +87,7 @@ One use of the iodine test is to determine the ripeness of fruits such as apples
 
 •	What is starch?
 
-•	Why do you think some foo here are blue and others aren’t? Can you see any similarities between them?
+•	Why do you think some foods here are blue and others aren’t? Can you see any similarities between them?
 
 
 <br/>
@@ -97,34 +96,85 @@ One use of the iodine test is to determine the ripeness of fruits such as apples
 
 ### **Hazard**: Iodine
 
-**Description**: Very dilute iodine, as used in this experiment, is not classified as hazardous but it can stain hands and clothes. 
+**Description**: Iodine is a toxic chemical. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4/5, Severity: 4/5, Overall: 16/25 (high)
 
-**Mitigation**: Only small volumes of iodine will be used and this will only be done by the demonstrator. Care should be taken to not flick the paintbrush with iodine on. Participants should only handle the paper once it has dried. Iodine on skin should be washed off immediately in the toilets. If iodine gets in eyes, will require flushing area with water by a first aider. 
+**Mitigation**: See COSHH assessment below. Iodine must only be used at low concentrations (0.01M), which makes it not very harmful, but it can stain skin. Explain to the participants that iodine is harmful and they should not touch anything except what they are directed to touch (paintbrushes with vitamin C, dry paper). Demonstrator to wear gloves. No one but the demonstrator should touch the paper until it is dried. Great care should be taken to not flick the paintbrush when removing it from the bottle. If iodine gets on the skin, wash immediately with plenty of water. If it gets in the eyes it should be washed out by a parent/first aider with plenty of water. If swallowed, the person should drink water (at most two glasses) and be advised to see a doctor if they feel unwell. In case of spills, evacuate area and wipe up immediately. Iodine cannot be poured down the sink and must be taken to a chemistry lab for disposal.
 
+**After Mitigation**: Likelihood: 3/5, Severity: 2/5, Overall: 6/25 (moderate)
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**COSHH**
+
+**Hazards**: Toxic to humans and aquatic life
+
+**Approx. Quantity and Physical Form**: 1L of 0.01M solution
+
+**Risk Phrases**: H302 (harmful if swallowed), H332 (harmful if inhaled), H312 (harmful in contact with skin), H315 (causes skin irritation), H319 (causes serious eye irritation), H335 (may cause respiratory irritation), H372 (causes damage to organs through prolonged or repeated exposure if swallowed), H400 (very toxic to aquatic life). 
+
+**Exposure Routes**: Ingestion, inhalation, absorption
+
+**PPE**: Gloves
+
+**Waste Disposal**: Aqueous (hazardous)
 
 <br/>
 
 ### **Hazard**: Vitamin C 
 
-**Description**: Not an allergen but an irritant. 
+**Description**: Vitamin C is an irritant. Consuming large quantities can cause gastrointestinal distress (diarrhea, cramps, nausea). 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3/5, Severity: 2/5, Overall: 6/25 (moderate)
 
-**Mitigation**: Vitamin C will be diluted down <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
+**Mitigation**: Vitamin C should not be handled by the participants. The solution will be diluted down to <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2/5, Severity: 2/5, Overall: 4/25 (low)
+ 
 
+### **Hazard**: Glassware
+
+**Description**: Broken glassware can cause cuts. 
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3/5, Severity: 3/5, Overall: 9/25 (moderate)
+
+**Mitigation**: Demonstrator to ensure glassware remains on the table and away from the edges. If glassware breaks, the area should be closed until it is cleared away. 
+
+**After Mitigation**: Likelihood: 2/5, Severity: 3/5, Overall: 6/25 (moderate)
+
+
+### **Hazard**: Retort stands
+
+**Description**: Retort stands are heavy and could injure someone if they fall from the table. 
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3/5, Severity: 3/5, Overall: 9/25 (moderate)
+
+**Mitigation**: Keep the retort stands away from the edges of the table. Demonstrator to ensure children don't knock the retort stands. 
+
+**After Mitigation**: Likelihood: 2/5, Severity: 3/5, Overall: 6/25 (moderate)
+
+
+### **Hazard**: Food
+
+**Description**: The food may be contaminated with iodine or other things from the venue so must not be consumed. 
+
+**Affected people**: All
+
+**Before Mitigation**: Likelihood: 2/5, Severity: 4/5, Overall: 8/25 (moderate)
+
+**Mitigation**: Advise the participants not to eat the food. Keep out of reach of children when not in use. 
+
+**After Mitigation**: Likelihood: 1/5, Severity: 4/5, Overall: 4/25 (low)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: Y-M-D - Name (crsid@cam.ac.uk), **Check 2**: : Y-M-D - Name (crsid@cam.ac.uk)
+**Check 1**: 2025-03-06 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: : Y-M-D - Name (crsid@cam.ac.uk)
