@@ -43,10 +43,12 @@ Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and doub
 - Waste container
 - Teaspoon measures
 - Bottles or cups to hold solutions
+- Funnel for filtering solutions
 
 **Consumables:**
 
-- Distilled or Deionised Water (can be bought from auto supplies part of Tesco, etc.)
+- (Optional) Distilled or Deionised Water (can be bought from auto supplies part of Tesco, etc.)
+- Kitchen roll or filter papers
 - Bicarbonate of Soda, NaHCO₃
 - White Vinegar, CH₃CO₂H
 - Calcium Chloride Dihydrate, CaCl₂⋅2H₂O (sold on Amazon, etc. as a salinity balancer for swimming pools)
@@ -84,15 +86,24 @@ Show that making the solution acidic by adding vinegar stops carbonate precipita
 
 - _CBS Only: Put some eggs to soak in vinegar (any kind) for at least a day before the event. Keep them in a sealed container, but you may need to periodically open it to vent CO₂ gas. The shell should soften and eventually disappear, leaving just the membrane holding the egg bits inside. Before starting, drain the vinegar, carefully rinse the eggs with water, and put them back into a sealed tupperware._
 
-- Fill the SodaStream bottle to the ‘max’ line (not the flavouring line) with tap water, and another bottle with tap water.
-- Insert the water bottle and the CO₂ cylinder into the SodaStream as indicated by the SodaStream instructions.
-- Dissolve ~ 2.8 g (~ 3 tsp) CaCl₂⋅2H₂O into ~ 50 ml of deionised water in a container. The solution may be cloudy to begin with but will (hopefully) clear over tens of minutes.
-- Dissolve ~ 1.7 g (~ 1.5 tsp) NaHCO₃ into ~50 ml of deionised water in another container.
-- Also prepare a container of white vinegar.
-- Label containers to make sure you know which is which!
-- Also have a waste container handy. Waste from this experiment is non-hazardous and can be flushed down the sink with plenty of water.
-- Put the infographic somewhere people can see it.
-- Give the Sodastream around 5 good presses to carbonate the water (or you can let the first group of the day do this instead.)
+- **Solution prep**: This can be done on the day but ideally before as it takes a while! The solutions should last for a few days of demonstrating, if they are stored in sealed bottles with minimal headspace.
+  - If available, this works better with deionised water, but it can be done with tap water and some filtering
+  - Dissolve 28 g (~6 tsp or 2 tbsp) CaCl₂⋅2H₂O into ~500ml of water.
+  - Dissolve 6 g (~1 tsp) NaHCO₃ into ~500ml of water.
+  - If the solutions still remain cloudy after a while (this may especially be true for the calcium chloride as it doesn't seem to be 100% pure), they should be filtered by pouring through a funnel lined with several layers of kitchen roll into another bottle.
+  - Store in labelled 500 ml bottles that are as full as possible, as minimising the headspace stops CO₂ getting out of the bicarb solution and stops CO₂ getting into the calcium chloride and making it go cloudy prematurely.
+  - Do a test run by mixing ~1ml of each solution in a test tube. It should go cloudy within a few seconds.
+
+- **On the day:**
+  - Fill the SodaStream bottle to the ‘max’ line (not the flavouring line) with tap water, and another bottle with tap water.
+  - Insert the water bottle and the CO₂ cylinder into the SodaStream as indicated by the SodaStream instructions.
+  - Get the bottles of calcium chloride and sodium bicarbonate solution. If necessary, tip out a small amount of each into separate cups or beakers so they are easier to pipette from.
+  - Do a test run by mixing ~1ml of each solution in a test tube. If it does not turn cloudy within 10 to 20 seconds, you may need to remake the solutions (see above).
+  - Also prepare a container of white vinegar.
+  - Label containers to make sure you know which is which!
+  - Also have a waste container handy. Waste from this experiment is non-hazardous and can be flushed down the sink with plenty of water.
+  - Put the infographic somewhere people can see it.
+  - Give the Sodastream around 5 good presses to carbonate the water (or you can let the first group of the day do this instead.)
 
 ### How to demonstrate
 
@@ -112,7 +123,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 - Say that we will be focussing on the carbonate sink, show shells and limestone
 - These are made of calcium carbonate: Ca²⁺ + CO₃²⁻ → CaCO₃
 - _CHaOS+: talk about the carbonate equilibria here: how do we get CO₃²⁻ from HCO₃⁻?_
-- Do the reaction in a test tube by pipetting in ~1 ml of the sodium bicarbonate and calcium chloride solutions.
+- Do the reaction in a test tube by pipetting in ~1 ml of the sodium bicarbonate and calcium chloride solutions. You can also demonstrate how to use the pipettes and let (sensible) children do it. Make sure to use separate pipettes for each solution and not mix them up!
 - A cloudy, white precipitate should form over the next 10 seconds or so – ask them what it is (CaCO₃).
 - _CHaOS+: When doing the reaction like this, the precipitate you see is amorphous calcium carbonate (ACC) because the carbonate saturation is high enough to form it and it has a negligible kinetic barrier to its formation. This will gradually transform over time into more stable, crystalline calcite (or aragonite if magnesium is present). Many (if not all) biomineralising organisms are now known to initially precipitate ACC or ACMC (amorphous calcium-magnesium carbonate)_
 - This is the reaction happening inside shellfish when they make their shells!
@@ -171,9 +182,9 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 #### After each experiment
 
-- Put the top back on the vinegar bottle so it doesn't stink!
 - Top up the Sodastream bottle to ‘max’ if necessary, then return the bottle to the Sodastream.
 - Make sure all the calcium carbonate in the test tubes has dissolved by adding vinegar to the tubes until the solutions are completely clear.
+- Put the top back on the vinegar bottle so it doesn't stink!
 - Empty the test tubes into a waste bottle and rinse with some water. Return to the rack.
 
 ### Packing away
@@ -222,7 +233,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 ### **Hazard**: Vinegar, Bicarbonate, CaCl₂
 
-**Description**: Vinegar (~ 0.8 M acetic acid), sodium bicarbonate solution (0.4 M) and calcium chloride solution (0.5 M) are irritant to eyes, and possible allergens
+**Description**: Vinegar (~ 0.8 M acetic acid), sodium bicarbonate solution (0.2 M) and calcium chloride solution (0.3 M) are irritant to eyes, and possible allergens
 
 **Affected People**: All
 
