@@ -2,7 +2,7 @@
 
 **Keeping demonstrators happy.**
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-11-23 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2025-1X-XX by XXXXX (XXXXX@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -85,7 +85,8 @@ If you're floating you're likely to be the first point of contact for any incide
 Lost Children<br/>
 This happens occasionally on public events, if the child is wandering aimlessly and seems lost approach, don't take them anywhere at this point, ask where their adult is, they may just be confused by the amazing choice of science they have and can't decide where to go next! If they're not sure then implement the venue's lost child policy, if we're part of a larger event that means getting a friend and taking them over to a central desk normally. If it's a CHaOS ran event then the best course of action is to reassure them, ask if they had a meeting point or time agreed, then get their name and you'll look around for their parents, you can sit them down with a demonstrator at a new experiment while they wait to keep them occupied and try and reduce the worry, their parents often have just popped out and will be back shortly. Look in another room or outside for parents, they may have nipped out to take a call or followed a younger child, ask if they're looking for a child and what their child's name is. If it's a match on names bring the parents towards the child, try and stop them before to give the child chance to approach them to confirm. You can also ask if they know any phone numbers, in the worst case a call to the police will need to be made.
 
-Theft
+Theft<br/>
+Demonstrators will have bags and other valuables (e.g. charging devices) with them at school and public events. Occasionally, there will be no separate secure space for storing valuables – this is especially a concern at public events because valuables could be taken by members of the public who come and go freely. We have had phones stolen in the past. Keep an eye on demonstrators' property, and remind demonstrators to look after their own devices if they are charging out of sight. In the event of theft, report it to teachers, venue staff, and/or police if necessary. 
 
 Injury<br/>
 In the event of a serious injury follow common sense, for demonstrator injuries it may be more appropriate to use a CHaOS driver to transport to A&E, this person can expense reasonable food and miles at A&E so make sure they eat! After resolving the accident consider what this means for the event, especially on levels of committee, closing the event to the public and packing away may be the best option. It may also mean people need to sort alternative transport back to the site, using bus, train or a second run in the mpv, especially as this could take out two drivers. Consider also effects of being unable to move a vehicle, contacting a venue to make arrangements or paying for additional parking. Try and ensure keys don't leave with the casualty. Home contacts should be able to help with other logistics situations on tour as replacement drivers may be required to continue the next days events. <br/>
@@ -149,3 +150,6 @@ After the injury it is useful to have an idea of what caused it and how to preve
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-1X-X - XXXXX (XXXXX@cam.ac.uk)
+
