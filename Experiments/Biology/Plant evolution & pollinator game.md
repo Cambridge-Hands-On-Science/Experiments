@@ -2,7 +2,7 @@
 
 **Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them.
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk)
+Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk)
 
 ## Tags
 
@@ -219,12 +219,12 @@ A quarter of all bat species use flowers for food to some extent. The anthers of
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Place timeline on table if possible. If little space is available, try unraveling the timeline like a scroll in the demo, or use tape to attach it to a wall. If you have to have it on the floor, put it in a safe place – i.e. not across a likely walkway, and ensure children do not walk/run across it.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -234,12 +234,13 @@ In case of injury, call first aider.
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 **Mitigation**: Don't allow anyone to throw the tiles, keep them flat on table/floor.
+
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -249,11 +250,11 @@ In case of injury, call a first aider.
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Ask parents if child is allergic to any of the plants before beginning the demonstration. Ensure demonstrators who are allergic do not handle the specimens. In case of adverse reaction, call a first aider. Ask public to handle specimens carefully and encourage them to wash their hands afterwards. Make sure children do not put specimens in their mouths.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -261,11 +262,11 @@ In case of injury, call a first aider.
 
 **Description**: Large fossils are heavy and may cause injury if dropped. Fragile fossils may break and produce sharp edges or small pieces, which could lead to choking hazard
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Keep heavy samples over table, and don't let children handle them. Also keep fragile samples away from children, preferably in their bags to protect them. If a sample has broken, discard any pieces small enough to cause choking, and check for sharp edges. Put sample away if edges do become sharp. Refer to the 'Rocks and Fossils' risk assessment for more details.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -298,3 +299,5 @@ In case of injury, call a first aider.
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk) 
 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
