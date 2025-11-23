@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-29 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -173,7 +173,7 @@ Can talk about:
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Demonstrator to control heat gun. Do not leave on. Keep flammable material away from the heat gun and use with heat proof mat. Use stand instead of lying heat gun on a surface. Do not touch the heat gun. Keep the temperature setting low. 
 
@@ -181,7 +181,7 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 
 Follow venue RA protocols in case of fire.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 
 ### **Hazard**: NiTinol wire and tongs hot when heated
@@ -190,7 +190,7 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: all
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Do not let anyone near the heated wire. The wire is thin and should cool within a few seconds, but care should be taken with the tongs. If possible, obtain a heat-resistant mat to lay the tongs/wire on after heating. 
 
@@ -198,7 +198,7 @@ In case of burns, run affected area under tepid water for 10 minutes. Call a fir
 
 Follow venue RA protocols in case of fire.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6  
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 
 ### **Hazard**: Ends of wires
@@ -207,11 +207,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Make sure sharp ends are doubled back.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 
 ### **Hazard**: Cutlery
@@ -220,11 +220,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Limit cutlery to spoons as much as possible. Make sure that any knives or forks are not sharp. Only give cutlery to responsible children and if they being silly with the cutlery take it off them.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 
 ### **Hazard**: Magnets
@@ -233,11 +233,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Use weak magnet so won’t cause harm if occurs.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 
 ### **Hazard**:  Bimetallic jumping discs
@@ -246,11 +246,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Do not demonstrate jumping discs around small children who may eat the discs. Do not heat discs beyond a few seconds with a heat gun. Do not pick up discs with fingers if they are overheated. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 
 ### **Hazard**:  Bimetallic jumping discs
@@ -259,11 +259,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Do not demonstrate jumping discs around small children who may eat the discs. Watch small children carefully. In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 
 ### **Hazard**:  Heat proof mat
@@ -272,11 +272,11 @@ Follow venue RA protocols in case of fire.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Ensure that the gaffer tape covers the cut edge of the heat proof mat. Do not touch or breathe in calcium silicate powder. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 
 <br/>
@@ -308,3 +308,5 @@ Follow venue RA protocols in case of fire.
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
 
 **Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk)
