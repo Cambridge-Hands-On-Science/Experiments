@@ -2,7 +2,7 @@
 
 **Functional model of the intestine** - Everyone knows that your intestines are long, but how long is long? Find out with our scale fabric model, and you might be surprised!
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk)
+Last initially checked on 2025-11-23
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -126,13 +126,13 @@ Examples of bacteria that are damaging in the gut include Campylobacter and some
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Supervise children carefully and do not allow them to wrap model around neck. 
 
 Call first aider in case of accident
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -142,13 +142,13 @@ Call first aider in case of accident
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Supervise children carefully, only allow them to walk (not run) across the room and do not allow it at all if there is insufficient space or the room is busy. Do not allow children to attempt to jump or limbo under the intestine.
 
 Call first aider in case of accident
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -158,13 +158,13 @@ Call first aider in case of accident
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Only have one ball out at a time and keep an eye on where it is. Pick up ball if it falls on floor. 
 
 Call first aider in case of accident
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -198,3 +198,4 @@ Call first aider in case of accident
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk),**Check 2**: 2025-01-19 Marin Lee (ml2072@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
