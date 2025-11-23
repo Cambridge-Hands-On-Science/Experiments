@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - Experiment with the properties of light as certain filters block light, but only in certain directions!
 
-Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,6 @@ Last initially checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk) and doubl
 <br/>
 
 ## Equipment Needed 
-- **Darkroom preferable**
 - **Electricity needed**
 - Blue light box
 - Two polaroid filters.
@@ -211,13 +210,13 @@ If there's time, and the conditions are right, you could comment on the Brewster
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Do not allow children to bend items to point where they are likely to break. Remove items which are broken.
 
 Call first aider in event of injury. Stop experiment if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -227,13 +226,13 @@ Call first aider in event of injury. Stop experiment if required.
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Make sure equipment is safely and securely placed, at the side of the dark room out of the way of where people are walking. Do not allow the power cable to run across a walkway. Ideally tape down cables if necessary.
 
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -243,11 +242,11 @@ Call a first aider in the event of an emergency.
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: See electrical parts RA 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -257,13 +256,13 @@ Call a first aider in the event of an emergency.
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Turn off box between demonstrations to prevent excessive heating, or otherwise monitor for overheating and be prepared to take a break and let it cool down. Do not let children touch the light box.
 
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -273,13 +272,13 @@ Call a first aider in the event of an emergency.
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Don’t have the slinky across somewhere people will be walking, and make sure that no one is standing where they could be hit.
 
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -312,3 +311,6 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk),  **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
