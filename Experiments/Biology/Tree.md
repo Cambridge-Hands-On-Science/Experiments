@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 
@@ -180,12 +180,12 @@ In any case, flowering produces masses of seeds, typically suspended from the en
 
 **Affected People**: Visitors or demonstrator
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Place wood away from edges of tables for wood measure.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -195,11 +195,11 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Do not use any pieces of wood with sharp bits, and smooth them down when possible so can be used in demonstration again. Get first aider or parent to remove splinter and clean the skin. Tell parent to take child to GP if the wound appears infected later.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -209,11 +209,11 @@ In case of injury, call first aider.
 
 **Affected People**: All (mainly kids to each other)
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Monitor all pieces of wood and make sure the kids are sensible with them. If kids start misbehaving, don't let them get carried away with the wood. Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -223,11 +223,11 @@ In case of injury, call first aider.
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Tell people to not put their fingers in the bamboo and don't let them get carried away. Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 ### Risk Assessment Check History
@@ -261,3 +261,5 @@ In case of injury, call first aider.
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 3**: 2025-02-01 - Jessica Trevelyan (jet81@cam.ac.uk) 
+
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk)
