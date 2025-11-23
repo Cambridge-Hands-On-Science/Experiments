@@ -2,7 +2,7 @@
 
 **A seismometer and lots of explanation** - Find out about the structure of the earth, and how we have found it out despite only digging down 0.2% of its depth.
 
-Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -133,12 +133,12 @@ Lithosphere → strong but brittle solid layer
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Do not ask them to jump if the floor seems dangerous or they do not seem steady on their feet. Avoid doing this activity near to steps / uneven floors / tables with sharp corners.
 In case of injury call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -148,11 +148,11 @@ In case of injury call a first aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep the seismometer in one piece. If small children are watching, no touching. Keep careful watch on tennis ball fillings and don't allow very small children to open the tennis balls.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -162,11 +162,11 @@ In case of injury call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: If small children are watching, no touching. Warn children of any sharp or trappy parts. Demonstrator be aware of risk and be careful of sharp parts.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -176,11 +176,11 @@ In case of injury call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Be aware of what children are doing with tennis balls and restrict their use if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -190,11 +190,11 @@ In case of injury call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep magnet in the seismometer assembly or a labelled, sealed box at all times. Do not allow magnet to leave experiment area. Warning sign regarding presence of magnet.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -211,3 +211,5 @@ In case of injury call a first aider.
 **Check 1**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk) 
 
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk) 
+
+**Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
