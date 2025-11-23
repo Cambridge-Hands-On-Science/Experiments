@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,12 +117,12 @@ This experiment often links well if placed near UV or demonstrated as a pair. Yo
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Take reasonable level of care with lamps. Do not place near desk edge. Prevent children playing with lamps.
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -132,13 +132,13 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Do not allow children to touch lamps, do not place too near the darkroom wall, or any flammable object. Turn off between demonstrations.
 
 In the event of broken glass, move public away and clear up mess carefully as soon as possible. In the event of injury, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -148,7 +148,7 @@ In the event of broken glass, move public away and clear up mess carefully as so
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Ensure lamp is stable and not easy to knock over.
 Consider using LED bulb rather than fluorescent bulb for the energy efficient one if available.
@@ -156,7 +156,7 @@ If lamp becomes broken, keep the public well away from the area, and ventilate a
 
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Meduim)
 
 <br/>
 
@@ -166,11 +166,11 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (Low)
 
 **Mitigation**: Warn children/visitors not to look directly into the lamps when you switch them on.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 <br/>
 
@@ -180,13 +180,13 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Try to keep cables out of thoroughfare. If cables must be placed somewhere people are likely to be walking, tape them down. 
 
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -196,11 +196,11 @@ Call first aider in case of injury
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Do not let children drink the Coke. In the event of drinking, call first aider. Coke bottle is sealed with tape.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -210,11 +210,11 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Keep excitable children away from the radiometer. Don't let them touch the radiometer - there's no need to. Keep it in a safe place, either in sight, or away and consider taping down. If the radiometer does smash, clear up immediately and clear the area until safe.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -244,7 +244,8 @@ Call first aider in case of injury
 
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk) **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
 
 
