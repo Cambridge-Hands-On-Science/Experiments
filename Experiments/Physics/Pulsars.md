@@ -2,7 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-02-08 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -48,12 +48,12 @@ How to use pulsar clocks - have seen changes in the frequency due to the effect 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Turn off fairy lights when model not in use.
 In the event of a burn call first aider and run the burn under tepid water for an appropriate amount of time (at least 10 minutes). In the event of fire, follow procedures in venue RA.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -63,12 +63,12 @@ In the event of a burn call first aider and run the burn under tepid water for a
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Carry out demonstration at a safe distance from the children. 
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -78,11 +78,11 @@ Call a first aider in the event of an emergency.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Tell children not to look straight into the lights. The fairy lights used are very dim.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -103,3 +103,6 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
