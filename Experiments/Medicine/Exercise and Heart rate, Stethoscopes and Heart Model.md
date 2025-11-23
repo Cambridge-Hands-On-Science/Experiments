@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio 3@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -172,13 +172,13 @@ Heart.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Check child's asthma status with parent or teacher (or with child themselves if old enough) before doing experiment. Do not allow child to exercise if asthma is severe, and DO NOT ALLOW AN ASTHMATIC CHILD TO DO EXPERIMENT IF THEY DO NOT HAVE AN INHALER. 
 
 In case of an attack, sit child down, keep them calm, locate inhaler for child to self-administer. Call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -188,13 +188,13 @@ In case of an attack, sit child down, keep them calm, locate inhaler for child t
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
-**Mitigation**: Make sure exercise area is clear, use on-the-spot exercise e.g. star jumps if space is limited.
+**Mitigation**: Make sure exercise area is clear, use on-the-spot exercise e.g. star jumps if space is limited, instruct child to be careful and aware of surroundngs.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -204,13 +204,13 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Demonstrator to ensure floor area is clear and dry. If inside area becomes wet, locate a mop and dry the area. If on grass, do not demonstrate if the ground becomes too muddy and slippery.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -220,13 +220,13 @@ Call first aider in case of injury.
 
 **Affected People**: Public (especially small children)
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn't be an issue). Do not let children play with experiments unattended.
+**Mitigation**: (The heart model is suitable for older children, so hopefully shouldn't be an issue). Do not let children play with experiments unattended and check all pieces in heart model are present at end of experiment.
 
 Call first aider in case of ingestion and encourage the child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -236,13 +236,13 @@ Call first aider in case of ingestion and encourage the child to cough.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Sharp points filed down to be as safe as reasonably possible.
 
 Call a first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -252,11 +252,11 @@ Call a first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Wipe ear pieces with antiseptic wipes or tissues and disinfectant before use and after you or a child has used it.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -266,13 +266,13 @@ Call a first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Ensure stethoscopes are removed before doing exercise. Keep children under control, and if children are misbehaving, don't give them a stethoscope.
 
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -282,13 +282,13 @@ Call first aider if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep children under control, and if children are misbehaving, don't give them a stethoscope. Ensure stethoscopes are removed before doing exercise.
 
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -321,3 +321,5 @@ Call first aider if necessary.
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1** 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
