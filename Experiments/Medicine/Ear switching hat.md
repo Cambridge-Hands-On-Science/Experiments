@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,13 +64,13 @@ Hearing is even all the more clever when you take into account how the hair cell
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Warn children not to shout loudly into ears, and make sure you talk quietly into the ears. 
 
 Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -80,13 +80,13 @@ Call a first aider in the event of an injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Tell child to sit down if they feel disorientated/dizzy. Before letting the child close their eyes make sure the area has no sharp objects, near sharp drops and isn't too crowded.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -96,13 +96,13 @@ Call a first aider in the event of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Warn child not to pull hat off quickly to avoid injury, especially with long hair. 
 
 Call a first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -112,11 +112,11 @@ Call a first aider in case of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Visually inspect hat between use. Wipe down the ear cups and headband with disinfecting wipes between sessions.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -149,4 +149,6 @@ Call a first aider in case of injury.
 **Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
 
