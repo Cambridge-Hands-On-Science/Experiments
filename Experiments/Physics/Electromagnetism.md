@@ -24,19 +24,8 @@ Last initially checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk) and doubl
 - Green rotating generator.  Clamps to attach it to a table.
 - Wooden box with bulbs/handle/generator
 
-#### Dropping magnets
-- Metal 'coin drop' setup, separate wooden base (base in box, the rest is separate)
+#### Dropping magnets (Lenz's Law)
 - Two pipes, one copper, one plastic.
-- Green 'iron filing' paper
-- 'Stripey' magnet for use with green paper
-- Selection of coin magnets (don't get more than a couple out at once).
-
-#### Motors etc.
-- Motor
-- Power pack (stored in separate power pack box)
-- Real motor (non-functional)
-- Magnet/wire with 'indicator lights'
-- Nail with coil of wire.
 
 <br/>
 
@@ -133,11 +122,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Do not put too much current through a coil/wire: if it is getting hot, turn it down. Demonstrator to turn off power supply to motor when not in use.  If there is a burn, run under tepid water for ten minutes. In the event of any injury, turn off electricity at mains, and call first aider.  In event of fire, follow procedure in venue RA (raise alarm, evacuate).
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -147,11 +136,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Warn visitors if you give them a magnet. Use the minimum number of free magnets. Keep the magnets under control. Cover with tape to reduce impact, and contain any shards. Pad edges of magnet to reduce finger trap. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -161,11 +150,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Demonstrator should hold pipe for younger kids and monitor use for others. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (Medium)
 
 <br/>
 
@@ -175,11 +164,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Use clamps to keep generators and motor firmly attached to table. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -189,11 +178,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Keep kids' fingers away - if it needs pushing it should be done on the axle, not the armature. Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -203,11 +192,11 @@ There is a real motor in the box too, which you can compare it to.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Place generator on flat surface so visitors can't catch their fingers underneath so easily. Tell visitors to hold only the rotating part of the generator handle and not the entire handle. Keep control of the visitors at all times and don't let them get overexcited while turning the handle. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -240,3 +229,5 @@ There is a real motor in the box too, which you can compare it to.
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk)
