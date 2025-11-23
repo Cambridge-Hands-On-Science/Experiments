@@ -2,7 +2,7 @@
 
 **By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!** - By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-30 by Rowam Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by X
 
 ## Tags 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -66,13 +66,13 @@ Alpha Centauri 10m
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Demonstrator must emphasise that children must walk, should stop everyone walking to actually do explanations. Take note of any trip hazards (cables, other experiments, etc.) that may block the path of children walking & warn them to be careful of these if necessary.
 Must be made very clear to children that they may not kick or throw the balls ever.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -82,13 +82,13 @@ Call first aider in case of injury.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Do not use small balls parts of experiment for audiences of very young children.
 Keep track of all small parts.  Don't lose your marbles!
 Call a first aider in the event of swallowing/choking
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -115,3 +115,6 @@ Call a first aider in the event of swallowing/choking
 **Check 1**: 2024-01-31 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
+
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+
