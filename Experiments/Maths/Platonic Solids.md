@@ -128,13 +128,13 @@ The platonic solids have been historically important, with Greek philosophers be
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep the experiment attended at all times. Do not give small plastic parts to very young children (or let them take them).
 
 Call first aider if child swallows, if choking encourage child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -144,13 +144,13 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Keep a close eye on children using them. Advise caution.
 
 Call first aider in case of injury.
 
-**After Miigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Miigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -160,13 +160,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Keep decagons out of reach of small and/or badly behaved children (they aren't really necessary for the Platonic solids, but may be useful for some of the more general solids that you might build with older children).
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 <br/>
 
@@ -185,4 +185,7 @@ Call first aider in case of injury.
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Henry Warburton (hw653@cam.ac.uk), **Check 2**:
+
 
