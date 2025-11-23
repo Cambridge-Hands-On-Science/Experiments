@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2024-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked by 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -52,7 +52,7 @@ Depending on the knowledge level of the child, feel free to get some advanced bi
 'The syrup is sticky so all the bits next to each other stay together' - close... 
 
 
-If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and lengthscales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup. (see: scallop theorem/hydrodynamic starvation)
+If the syrup is deep enough and the turning was not too fast, the flow has very little turbulence. This is not just because the syrup is "sticky" - if you turn too fast you will lose the picture no matter how sticky the syrup is! How a flow behaves depends not only on the stickiness of the fluid, but also on speed of flow (and density of flow and length scales). In the case of very low Reynolds number and nice boundary conditions, reversing the boundary conditions reverses the flow almost exactly - which is why the picture comes back almost exactly and why flapping fish can't swim in golden syrup. (see: scallop theorem/hydrodynamic starvation)
 
 
 ### More background
@@ -91,12 +91,12 @@ Applications such as tissue engineering performed on carrier particles, or cell 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Make sure equipment is secure on a flat surface, and far away from the edge of the table.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -106,12 +106,12 @@ Call first aider in case of injury.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: If syrup gets on hands/arms, make sure children don't lick it off, and that they wash their hands once they've finished the experiment. Have a pack of wet wipes or tissues nearby to give to them. Warn children not to inhale when you are pouring any icing sugar.
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -144,3 +144,6 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
