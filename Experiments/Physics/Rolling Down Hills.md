@@ -2,7 +2,7 @@
 
 **Racing jam jars down a gentle slope, to see how filling them affects the speed.** - Find out about rotational mechanics by racing jam jars of differing weights downhill. 
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-01 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 202X-XX-XX by X
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -20,13 +20,13 @@ Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and doubl
 <br/>
 
 ## Equipment Needed 
-- *In the box there should be:*
+*In the box there should be:*
 - Empty jam jar
 - Jar half full of water
 - Jar full of water
 - Full jar of jam
 
-- *You will also need:*
+*You will also need:*
 - Gentle slope - Large wooden board. There is one dedicated to this purpose, but if that cannot be found, the archbridge base should work instead if not in use.
 - A couple of things of obvious different weights to drop that won't break. Two rolls of gaffa of different sizes works nicely.
 - Foam block/thick pad/sleeping mat - something soft to place at the bottom of the ramp to stop the jars escaping. The foam covering lungs works. Alternatively use an opened t-shirt box to catch the jars. Hitting the t-shirts gives them a soft landing. Some padding around the sides of the ramp is needed in case the jars roll off the ramp.
@@ -71,7 +71,7 @@ In conclusion for linear motion the distribution of mass is irrelevant, only the
 
 First, bring out the drop test objects and ask kids which one is heavier (they can feel this for themselves) and ask which one will hit the ground first if they're dropped from the same height at the same time. Both should hit at the same time (demonstrate a couple of times, from different heights if necessary). Get them to tell you what force pulls things down. The heavier something is, the stronger the gravity. BUT, the heavier something is, the harder it is to get it to move. These effects cancel each other out so all objects fall under gravity at the same rate.
 
-Explain that we are ignoring air resistance (or get them to tell you that). Use Newton’s second law to explain how mass doesn’t affect acceleration under gravity. It seems odd that the inertial mass term in Newton’s second law happens to be the gravitational mass. Einstein used this empirical fact in his ‘Equivalence Principle’ where he equates the gravitational force experienced by an observer to the same force that would be experienced if the observer were accelerating. This then lead to his Theory of General Relativity: The currently used theory that describes the effect of gravity. 
+Explain that we are ignoring air resistance (or get them to tell you that). Use Newton’s second law to explain how mass doesn’t affect acceleration under gravity. It seems odd that the inertial mass term in Newton’s second law happens to be the gravitational mass. Einstein used this empirical fact in his ‘Equivalence Principle’ where he equates the gravitational force experienced by an observer to the same force that would be experienced if the observer were accelerating. This then led to his Theory of General Relativity: the currently used theory that describes the effect of gravity. 
 
 These effects can also be understood if the falling masses are described by their energies. As the mass falls, gravitational potential energy is converted into kinetic energy, but again (use equations to show) the speed at which they fall is the same.
 
@@ -90,7 +90,7 @@ Now instead of just thinking about F=ma, need to think about G=I*angular acceler
 
 As rotating need to think about moment of inertia. The jar of jam has a larger mass than the empty jar and it also has a larger moment of inertia. However, because the jam is distributed uniformly throughout the jar, the mass increases by a larger fraction than the moment of inertia compared to the empty jar. The empty jar has almost all of its mass concentrated in a very thin layer of glass a long way from the axis of rotation whereas the one full of jam has a lot of mass quite close to the middle. Objects with more mass closer to the axis of rotation are easier to rotate than objects with more mass closer to the edges of the object. This means that relatively speaking gravity finds it easier to rotate the jam jar. This means that the jam jar travels faster down the slope. If instead we compared an empty jam jar made of glass and an empty jam jar of the same shape but made of lead, the jars would reach the bottom of the slope at the same time. The important point isn’t that the jam jar has extra mass but the fact that the extra jam mass is distributed throughout the jar. 
 
-(could be worth mentioning, to reinforce the idea that total mass is irrelevant, that if there were no friction the jars would all slide (not roll!) down the hill in the same amount of time). 
+Could be worth mentioning, to reinforce the idea that total mass is irrelevant, that if there were no friction the jars would all slide (not roll!) down the hill in the same amount of time. 
 
 Next try the jar of jam vs the jar of water. The jar of water wins, why? What’s the difference between the water and the jam? Answer: Jam is sticky, but water isn’t. Because of this the jam is stuck to the outside of the jar and rotates with the jar when it rolls down the slope. The water however, isn’t ‘stuck’ to the side of the jar so only sloshes slightly as the jar rolls. This costs less energy, so more energy goes into the linear kinetic energy of the jar down the slope. Overall energy must be conserved and both jars start with the same energy. (Neglecting the difference in mass between water and jam). So the water jar travels faster and wins the race. 
 
@@ -121,12 +121,12 @@ The wikipedia page on 'moment of inertia' has more information and a nice gif an
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Make sure the base of the slope is not heading towards a gangway or towards people's legs.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -136,13 +136,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Put something soft at the base and as much as you can around the sides of the slope (particularly near the base) to catch the objects. Consider wrapping the jars in sellotape. 
 In case of breakage, close experiment until broken glass and spilled water is cleared up.
 Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -152,12 +152,12 @@ Call a first aider in the event of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep children away from any spillages and dispose of safely and quickly. Put something soft at the base and as much as you can around the sides of the slope (particulary near the base) to catch the objects.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -167,12 +167,12 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Do the experiment on the ground.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -203,3 +203,5 @@ Call first aider in case of injury.
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
