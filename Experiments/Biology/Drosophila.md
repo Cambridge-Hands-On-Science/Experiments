@@ -2,7 +2,7 @@
 
 **This experiment aims to introduce kids to a wonderful model organism, the Drosophila fruit fly.** - You'll have seen some of these fruit flies before: these cool and beautiful little creatures have shown us how genes can be inherited (by following patterns of features like eye colours), and how genes work.
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -47,12 +47,12 @@ It may be easier to view the flies if they are in a petri dish so a microscope c
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ensure that the flies are kept in close range. Ask children to be careful when handling tubes/petri dishes. Use plastic vials (instead of glass) to contain flies if possible.
 Call a first aider in the event of cuts. Wash any small cuts with soapy running water. Compress and elevate large cuts.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -62,11 +62,11 @@ Call a first aider in the event of cuts. Wash any small cuts with soapy running 
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Switch off microscope between uses if it starts to become hot. In the event of a burn, hold area under tepid water for at least ten minutes. Call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -76,12 +76,12 @@ Call a first aider in the event of cuts. Wash any small cuts with soapy running 
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Secure the petri dish lids to the petri dishes using tape (stretchy lab tape is fine) so that it is obvious to all that the dishes should not be opened. Demonstrator to keep an eye on all plates.
 In the event of an incident, demonstrator must regain the petri dish/vial and diffuse the situation. Call for help if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -114,3 +114,6 @@ In the event of an incident, demonstrator must regain the petri dish/vial and di
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), 
+
