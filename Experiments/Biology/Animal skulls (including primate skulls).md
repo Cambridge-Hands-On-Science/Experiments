@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
-Last initially checked on 2025-12-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,13 +19,13 @@ Last initially checked on 2025-12-23 by Adam Carreyette (ac2736@cam.ac.uk) and d
 ## Equipment Needed 
 - Various different skulls and a pile of laminated photos
 
-- Box 1
+Box 1
 - Mammals: sheep, dog, cat, fox, mole, rabbit, roe deer
 - Birds:  magpie, pigeon, oystercatcher, duck (one complete, one in parts), parrots
 - Other: gulper shark jaw, striped snakehead fish, snake (some kind of boa), Siamese Crocodile
 - (nb: The magpie and pigeon skulls are sometimes moved into animal cognition)
 
-- Box 2
+Box 2
 - Primates: human, chimp, gorilla, orangutan (all models)
 
 - For CBS,  some can also be borrowed from the zoology museum.
@@ -291,4 +291,4 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-12-23 - Adam Carreyette (ac2736@cam.ac.uk)
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk), 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
