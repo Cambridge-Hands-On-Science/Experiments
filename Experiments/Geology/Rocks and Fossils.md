@@ -563,12 +563,12 @@ This experiment has no explicit PLUS explanation. It's more a case of how much o
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
 **Mitigation**: Ensure that small samples are not in the reach of small children. Keep an eye on children with samples and make sure they don't put things in their mouths. Would advise keeping the very small gemstones in their plastic bag.
 Call a first-aider in event of ingestion.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium) 
 
 <br/>
 
@@ -578,12 +578,12 @@ Call a first-aider in event of ingestion.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Keep fragile samples in clear plastic bags for protection and to prevent dust if breakage occurs. If any samples do break, carefully remove the broken bits from display to avoid people cutting themselves.
 In case of injury call first-aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low) 
 
 <br/>
 
@@ -593,12 +593,12 @@ In case of injury call first-aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Low) 
 
 **Mitigation**: Take care with woolly mammoth bone, turtle shell and vesicular basalt.
 If a child is distressed, put away the sample, assure the child that it's just a rock, and allow them to calm down elsewhere.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low) 
 
 <br/>
 
@@ -608,11 +608,11 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium) 
 
 **Mitigation**: Ensure children do not pick up samples that are too heavy for them. Keep all heavy samples over the table or close to the floor; do not allow children to hold them where they could be dropped on feet. Call a first-aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Low) 
 
 <br/>
 
@@ -622,11 +622,11 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (Low) 
 
 **Mitigation**: Demonstrator to show correct use of hand lens before letting children use it. If the light is working, turn it on before giving the hand-lens to the child, and make sure they are pointing the light away from their eyes.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low) 
 
 <br/>
 
@@ -659,3 +659,4 @@ If a child is distressed, put away the sample, assure the child that it's just a
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
+
