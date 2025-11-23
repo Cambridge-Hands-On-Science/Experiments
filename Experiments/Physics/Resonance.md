@@ -2,7 +2,7 @@
 
 **What is the link between earthquakes and cello strings?** 
 
-Last initially checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,6 @@ Last initially checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk) and dou
 <br/>
 
 ## Equipment Needed 
-- **Electricity needed**
 - For earthquakes (large blue box):
 - Earthquake table (wooden box with handle)
 - Sections of tower for the above, made of perspex, magnets and springs.
@@ -100,12 +99,12 @@ You may like to note (so to speak) that the pan pipes are tuned to a pentatonic 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Tape the box to a table, and not so high that falling tower blocks could hit children on the head.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -115,30 +114,30 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Mount the box with the handle far enough clear of the table that there's no possibility of a finger trap. 
 Be careful when setting up/packing away.
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
 ### **Hazard**: Whirly woo
 
-**Description**: Child or demonstrator hitting someone with the whiry woo while swinging it.
+**Description**: Child or demonstrator hitting someone with the whirly woo while swinging it.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Make sure there is a clear space in which the whirly woo can be used.
 If the children seem too excited, demonstrate the whirly woo yourself.
 Swing the whirly woo above your head so that it is above the height of the children watching and so can't hit them. 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -148,13 +147,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: If public are offered to use it, make sure they don't actually touch the ends of the pipes when blowing.
 Wipe the ends of the pipes with some anti-bac wipes when they're done.
 If possible, only the demonstrator should use the pan pipes.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -164,12 +163,12 @@ If possible, only the demonstrator should use the pan pipes.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ensure that people keep their hands out of the way from under the mass hanger. Perform at low height over a table rather than over the floor.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -202,3 +201,6 @@ Call first aider in case of injury.
 **Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk), **Check 2**: 2025-02-08 – Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
