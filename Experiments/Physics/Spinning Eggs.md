@@ -2,7 +2,7 @@
 
 **How to test if an egg is uncooked or hard boiled.** - Can you tell the difference between a hard-boiled egg and a raw egg without breaking them?
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 202X-XX-XX by X
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,8 +18,7 @@ Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
 ## Equipment Needed 
 - Eggs
-- A mixture of uncooked and hard boiled (you'll probably want more hard boiled ones
-- As they tend to crack).
+- A mixture of uncooked and hard boiled (you'll probably want more hard boiled ones, as they tend to crack).
 
 <br/>
 
@@ -49,14 +48,14 @@ Apparently if you spin a hard boiled egg fast enough on a very smooth surface it
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Spin eggs in a shallow tray to reduce risk of dropping them and/or perform experiment well away from table edges.
 Have equipment available to clear up broken eggs (e.g. paper towels).
 If breakage does occur, watch the area until it's clean and don't let kids run around (they shouldn't be running around anyway).
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -66,14 +65,14 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Ask if comfortable with eggs around, and the possibility things might get a little messy.
 If an egg is broken ensure it is thoroughly cleared up, keep visitors away from area until area has been cleaned.
 Anyone with a level of allergy which might cause a major issue should be carrying appropriate drugs etc and they (or their carer) will know what to do. Risk is no greater in this case than going into a supermarket.
 Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -83,11 +82,11 @@ Call a first aider in the event of an emergency.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 5, Overall: 20
+**Before Mitigation**: Likelihood: 4, Severity: 5, Overall: 20 (unacceptable)
 
 **Mitigation**: Take care in the spinning technique, so as to spin the egg, rather than launch. Use only the hardest boiled eggs to avoid breakage spills. Ensure no observers are standing in the projectile path of the egg, should it escape, and especially that no one's head is in the path.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -97,13 +96,13 @@ Call a first aider in the event of an emergency.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Only use lion-marked eggs which have been declared salmonella free.
 Don’t allow people to ingest raw egg / lick fingers having touched a broken egg etc.
 As above, ensure egg breakages are cleaned up as soon as possible.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -136,3 +135,5 @@ As above, ensure egg breakages are cleaned up as soon as possible.
 **Check 1**: 2023-02-18 - Arian Pourabadey (asfp2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-02-31 - Rowan Ong (rzmo2@cantab.ac.uk)
+
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**:
