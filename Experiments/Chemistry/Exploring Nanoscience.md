@@ -2,7 +2,7 @@
 
 **Activities to discover the nanoscale**
 
-Last initially checked on 2024-12-17 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and double-checked on ... by ...
 
 
 ## Tags
@@ -82,11 +82,11 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Watch small children carefully. In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 ### **Hazard**: Sand (I)
 
@@ -94,11 +94,11 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Discourage children from throwing sand. Ask them to wipe their hands after playing with the sand. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 ### **Hazard**: Sand (II)
 
@@ -106,11 +106,11 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Affected People**: Small Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Watch small children carefully. In the event of sand being swallowed, encourage child to cough into a sink. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 ### **Hazard**: Water
 
@@ -118,11 +118,11 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
-**Mitigation**: Take care when pouring water than it doesn't go on the floor. Clean up any spills immediately. 
+**Mitigation**: Take care when pouring water that it doesn't go on the floor. Clean up any spills immediately. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 <!-- End of hazard section. -->
@@ -133,3 +133,4 @@ You could also talk about how we can take a single layer of graphite, called gra
 
 **Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 
