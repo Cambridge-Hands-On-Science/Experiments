@@ -2,7 +2,7 @@
 
 **A selection of organisms from a local pond or rock pool** - nan
 
-Last initially checked on 2024-12-24 by Smiley Chan (scc93@cam.ac.uk) and doubled checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and doubled checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -81,12 +81,12 @@ creatures can get in and out."
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (unacceptable)
 
 **Mitigation**: Send two demonstrators to collect specimens and exercise caution when choosing location (e.g. make sure there is something solid to stand on near the edge of the water). Check tide tables/observe the tide movement before going to rock pools to collect specimens.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -96,12 +96,12 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Encourage hand washing after touching experiment. Hand washing facilities made available. Cover up any cuts whilst handling water.
 Call first aider in case of injury. If child ingests anything from the aquarium, advise parents to take child to GP if child becomes ill, and give them notes about where water was collected.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -111,11 +111,11 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Clear up spills immediately. In case of injury, call first aider. Use wet floor sign.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -125,11 +125,11 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (medium)
 
 **Mitigation**: If water is spilled on microscope, turn it off, clear up, then turn it on again. Ensure microscope has been PAT tested within the past 2 years. See separate electrical parts risk assessment. In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -160,3 +160,5 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk),  **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2024-12-24 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk)
