@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2024-12-27 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-11 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -116,13 +116,13 @@ You can also do a ‘proof by impossibility’. First, go back to the fact that,
 
 **Affected People**: Anyone on the chair
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Demonstrator must maintain control of the chair and should not allow it to spin at speeds at which there is a significant risk of the child falling off. Starting children with arms tucked in and moving them out to slow down is a good way to ensure this. Make sure that the chair is placed on a flat floor, or grass which is sufficiently flat to ensure stability, with no corners or edges to fall against. If there is an area of flat grass or carpeted or wooden floor, this should ideally be used, though carpet introduces the possibility of grazing - warn the users of the wheel of this. Avoid placing the weights, and other hard objects on the floor haphazardly near the chair, which could injure children if they fall off. Sit well back on the chair to ensure good contact with the seat and allow easy adjustment of the centre of gyration by leaning forwards. Similarly avoid dizziness in both yourself and children by not spinning too fast or for too long.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 <br/>
 
@@ -132,13 +132,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Stop children/ members of public getting too violent - do not allow them to spin too fast. Ensure chair is on flat ground. Tell children to step off if it is spinning too fast. Stop the chair if it gets out of control. Make sure other children stand away from the chair whilst it is spinning. Use chair with stable base. Small children need to be lifted onto the chair by an accompanying adult to avoid pushing it over.
 
 Demonstrator to ensure the chair is correctly assembled (all parts are labelled). If unsure, ask an experienced member of committee to help.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -148,13 +148,13 @@ Demonstrator to ensure the chair is correctly assembled (all parts are labelled)
 
 **Affected People**: All around the chair
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Keep viewers back, possibly by marking an area with hazard tape. Encourage people not to spin too fast and to stay aware of their surroundings when spinning.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 ### **Hzard**: Chair and bags of rice
 
@@ -162,13 +162,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: The person carrying the equipment should be strong enough to do so, or get someone to help carry it. Use standard manual handling techniques.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -178,13 +178,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: Bicycle wheel is covered in stiff plastic to stop fingers being inserted between spokes. Be ready to help child with rotating wheel if it gets out of control.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -194,7 +194,7 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator should assess the size/strength of a child before getting them to hold the gyroscope. If the child cannot hold it comfortably in both hands, with arms horizontal and the wheel easily not touching them then they are too small and/or weak (remember they will have to hold it for a while, and not drop it when it feels like it's fighting them). The demonstrator ought to be ready to take the wheel back if required or help support the wheel by the other handle, and take some time to practice and get a feel for how it moves before demonstrating it to the public (it's not hard to do, but it's difficult to think of why people might drop it if you've not had a play yourself).
 
@@ -203,7 +203,7 @@ Another dropping risk comes from dangling it on the end of a piece of string. Th
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -236,3 +236,5 @@ Call a first aider in the case of an injury.
 **Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),**Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),**Check 2**:
