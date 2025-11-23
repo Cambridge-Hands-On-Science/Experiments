@@ -2,7 +2,7 @@
 
 **Talk about the different parts of a tree whilst building one out of craft materials** - Can you build a tree?
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk)
+Last initially checked on 2025-11-25 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,12 +57,12 @@ Can talk about different tree shapes - conifers vs deciduous trees (e.g. snow co
 
 **Affected People**: Anyone using materials
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (Medium)
 
 **Mitigation**: Fold over the tips and warn children about scratches.
 Call first aider in event of incident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 <br/>
 
@@ -72,12 +72,12 @@ Call first aider in event of incident.
 
 **Affected People**: Everybody
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Encourage children to be sensible with straws/pipe cleaners, ask them to leave if they are being silly.
 Call first aider in event of injuries.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -87,12 +87,12 @@ Call first aider in event of injuries.
 
 **Affected People**: Everybody
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Encourage children to be sensible with elastic bands, ask to leave if they won't.
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Low)
 
 <br/>
 
@@ -102,12 +102,12 @@ In case of injury call first aider.
 
 **Affected People**: Everybody
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 **Mitigation**: Warn children not to put straws in mouths, dispose of any straws which have been eaten.
 Warn parents of the possibility of germ transfer if child has been eating straws.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -117,11 +117,11 @@ Warn parents of the possibility of germ transfer if child has been eating straws
 
 **Affected People**: Everybody
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
-**Mitigation**: Younger children should be accompanied by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors. Call a first aider to deal with any cuts.
+**Mitigation**: Younger children should be accompanied by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors. Remove scissors if children are misbehaving with them. Call a first aider to deal with any cuts.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -145,5 +145,7 @@ Warn parents of the possibility of germ transfer if child has been eating straws
 
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham(ig419@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Charlotte Greensmith (cg865@cam.ac.uk), 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
  
+
