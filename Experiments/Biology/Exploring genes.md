@@ -2,7 +2,7 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2024-12-23 by Smiley Chan (scc93@cam.ac.uk) and double-checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -68,12 +68,12 @@ Last initially checked on 2024-12-23 by Smiley Chan (scc93@cam.ac.uk) and double
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Keep all props in contained area and immediately pick up any that drop on floor.
 In case of emergency, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -83,13 +83,13 @@ In case of emergency, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator should handle dyes if child is too young or is misbehaving. 
 Wash affected area.
 Call a first aider in the event of an adverse reaction.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -99,12 +99,12 @@ Call a first aider in the event of an adverse reaction.
 
 **Affected People**: Children or demonstrator moving the model
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Take care when stretching the DNA model, preferably using both hands to stabilise it. Tell children to handle the model carefully!!! Watch them when they're playing with the model and help hold the model if the children is too young. 
 Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -135,3 +135,5 @@ Call a first aider in the event of an injury.
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), 
