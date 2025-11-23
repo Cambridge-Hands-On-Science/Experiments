@@ -2,7 +2,7 @@
 
 **Large working model of a hand and forearm, with all the tendons to show how a hand works.** - Take control of an <em>enormous</em> hand, playing the part of the muscles that control it! Can you work out how to make a fist? Why are there tendons running down both sides of the fingers?  And exactly how are your thumbs different to your fingers?
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -77,13 +77,13 @@ If you've got the short (c. 6 inches) lengths of cord, you can challenge them to
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Do not allow the kids to touch the hand itself when someone is pulling the tendons and do not allow the kids to pull the strings when you are manipulating the hand.
 
 Call a first aider in case of accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -93,13 +93,13 @@ Call a first aider in case of accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Hand is sanded and shaped to reduce this. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -109,7 +109,7 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (medium)
 
 **Mitigation**: Do not let the people pulling the tendons get too violent. Do not let the kids pull multiple strings at once. Hold on to the model to prevent it from sliding along the desk, or place it on the floor if possible.
 
@@ -117,7 +117,7 @@ Ensure kids are behaving sensibly. Inform people to be away from the hand model 
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
 
 <br/>
 
@@ -151,3 +151,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
  
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
