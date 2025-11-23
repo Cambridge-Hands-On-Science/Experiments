@@ -2,7 +2,7 @@
 
 **Game introducing the phases of matter and phase changes** - Outside game introducing the concept of different phases of matter and the different ways to transition between them.
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,11 +90,11 @@ For example:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Children should be asked be careful and to be aware of falling over risk. Ensure there is sufficient space for the number of children participating. The speed of the game should be limited to a safe one (get them to walk instead of run if they are behaving dangerously). Over-excited children should be asked to stand out for a round or two. Make sure that the floor isn't slippery before starting (wet hall floor, leaves outside, wet grass etc. Call first aider in event of injury. Stop experiment if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -104,11 +104,11 @@ For example:
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (High)
 
 **Mitigation**: Clear away or keep the game away from any static objects likely to cause danger. Use area markers which are not dangerous to run into. As for falling over risk, limit the excitement of the game as required and make the children aware of the risk. Call a first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -135,3 +135,6 @@ For example:
 **Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 
+
