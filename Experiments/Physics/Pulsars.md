@@ -2,7 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2025-02-08 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
