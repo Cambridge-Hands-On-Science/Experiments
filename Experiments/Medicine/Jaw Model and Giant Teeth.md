@@ -3,7 +3,7 @@
 **Anatomical model of the half jaw, parts can be removed to show structure of the teeth.** - An enlarged model of the jaw with some giant teeth that can be opened up.  Find out why we have milk teeth, why there are different types of teeth, and why different species have different teeth.
 
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -70,11 +70,11 @@ Focus your explanation on the age of the audience.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: If teeth fall on the floor, stop the demonstration and pick up the teeth as soon as is safe. Warn anyone who is walking nearby about the teeth on the floor.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -108,3 +108,4 @@ Focus your explanation on the age of the audience.
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
