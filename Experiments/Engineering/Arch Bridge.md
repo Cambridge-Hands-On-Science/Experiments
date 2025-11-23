@@ -2,7 +2,7 @@
 
 **Building an arch bridge, and then walking over it.** - Can you build a bridge strong enough to walk on?
 
-Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
+Last initially checked on 2025-11-23 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,7 +35,7 @@ Possible activities:
 2. Walk over it.
 
 Other things to talk about:
-Forces on blocks.
+Forces on blocks. What direction is the bridge stong/weak in (e.g. it is easy to lift blocks out of the bridge, and it is easy to push the bridge over sideways, but very hard to push the blocks down).
 
 Tips for demonstrating:
 The blocks are quite heavy for small children, so you may need to lift them for them/get parents to help. Don't let them jump on the bridge/too many on at once - jumping off sideways may cause the bridge to fall to the side, too many children on at once may push each other off.
@@ -68,13 +68,13 @@ It can be useful to ask the children how the other blocks would have to move to 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Blocks are designed to be fairly light and covered with rubber. Demonstrators may need to help younger children carry the blocks. When taking apart ensure feet are sufficiently far back.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -84,7 +84,7 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Demonstrators should test the bridge by walking over it before any children do. Children should not be allowed to jump off the bridge sideways, as this may cause the bridge to fall. Only one child should be allowed to walk across the bridge at a time. Blocks should be checked for smoothness at the beginning of the event. Demonstrator should remain vigilant for blocks slipping during the event.
 
@@ -92,7 +92,7 @@ Demonstrator must stop experiment if they suspect that the blocks are getting sm
 
 Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -102,13 +102,13 @@ Call first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Demonstrators may wish to help small humans when placing the blocks. Mention that it is better to hold them across their sides rather than ends.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -118,13 +118,13 @@ Call a first aider in the event of injury.
 
 **Affected people**: All 
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Small or overexcited children should be supervised when moving blocks. Demonstrator should volunteer to do it themselves.
 
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -134,13 +134,13 @@ Call first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Make sure that the bridge is erected somewhere the floor is level, with no sharp corners or objects to fall on. Don't let kids jump up and down on the bridge (both because the blocks can slip and the child can fall off). Children should only go on the bridge one at a time. Don't let children crawl under the bridge. Demonstrator to check the bridge is stable before allowing children to stand on it.
 
 Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -175,3 +175,6 @@ Call first aider in the event of injury.
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk)
+
