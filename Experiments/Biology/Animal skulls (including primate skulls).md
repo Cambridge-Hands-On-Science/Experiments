@@ -2,7 +2,7 @@
 
 **Looking at different animal skulls to compare them and see how they differ.** - Why do some animals have really long beaks? Why do others have really big TEETH? With our collection of animal skulls, you can find out how different animals evolved to suit their habitats - and how you are a lot more similar to them than you might think!
 
-Last initially checked on 2025-01-01 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-12-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -217,7 +217,7 @@ Extremely delicate skulls– sometimes the occiput falls off, which is the bones
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Remind children to handle skulls carefully; in particular, be careful not to pinch fingers/hands in the jaw.
 
@@ -225,7 +225,7 @@ Demonstrator should visually inspect skulls before use - any skulls with sharp e
 
 Call first aider in event of incident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -235,13 +235,13 @@ Call first aider in event of incident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator only have a few skulls present at a time to minimise risk of children picking up or playing with skulls. Demonstrator to keep an eye on anybody holding skulls. If a skull smashes, clear it up immediately with dustpan and brush. Any damaged skulls with sharp edges should be repaired as soon as possible - demonstrator should notify committee if this is needed. 
 
 Call first aider in event of injuries.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -251,13 +251,13 @@ Call first aider in event of injuries.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: We have boiled the skulls we found in bleach for a few hours to sterilise them. Please note, however, this does not necessarily mean that the skulls are completely sterile now. One could give the skulls a gentle clean with disinfecting wipes if they're on hand. Encourage participants to wash or sanitise hands after handling skulls.
 
 Call first aider to properly dress and sterilise wounds. Warn parents of the possibility of infection if a child does cut him/herself on the skull. Advise parents to take child to a doctor if the cut looks infected.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -291,3 +291,4 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
+**Check 1**: 2025-12-23 - Adam Carreyette (ac2736@cam.ac.uk)
