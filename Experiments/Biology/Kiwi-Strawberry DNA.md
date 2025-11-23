@@ -2,7 +2,7 @@
 
 **Breaking open cells of a fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-26 Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -137,12 +137,12 @@ That's because both you and the fruit are made up of cells and the cells in the 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: Only have a small amount of ethanol/isopropanol out, away from naked flames AND THE PUBLIC. Avoid contact with skin and eyes. Do not ingest. Only allow parents and children to mash kiwi on its own - not once mixed with detergent or ethanol/isopropanol. Ensure eyewash is nearby and that you know the location of it.
 In case of contact, wash off skin. Use eyewash to wash out of eyes if trained and confident to do so, and call first aider. If ingested call first aider immediately.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -152,11 +152,11 @@ In case of contact, wash off skin. Use eyewash to wash out of eyes if trained an
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Maintain the water bath at 60°C out of reach of children. In case of burns, run tepid water over affected area for at least 10 mins. Call first aider. Ensure has passed PAT test in last 2 years. Ensure cables are taped to the ground/table to reduce risk of person tripping on/pulling the cables. Refer also to the Electrical Parts RA.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -166,12 +166,12 @@ In case of contact, wash off skin. Use eyewash to wash out of eyes if trained an
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Dispose safely of any broken glassware immediately. Keep spares out of reach. Check plastic container and ethanol/isopropanol are compatible.
 First aider to be summoned in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (medium)
 
 <br/>
 
@@ -181,12 +181,12 @@ First aider to be summoned in the event of an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Do not allow children to mash the fruit once it has been mixed with detergent or ethanol/isopropanol. Keep all mixtures within demonstrator's reach. Avoid contact with eyes or the mouth. Try to work on a surface which is not at eye level. Demonstrator can show children how to mash the fruit without splashing fruit everywhere. If any does splash out of the container, clean up immediately. Know the location of the nearest eyewash.
 In case of contact with eyes, use eyewash to wash out of eyes if trained and confident to do so and call first aider. If ingested call first aider immediately.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -196,12 +196,12 @@ In case of contact with eyes, use eyewash to wash out of eyes if trained and con
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Supervised use only. Keep sharp knives away from children. It's impractical to cut all the fruit beforehand, but after cutting fresh fruit, keep the knife in the pencil case provided and keep this in a drawer/out of sight.
 First aider to be summoned in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -211,12 +211,12 @@ First aider to be summoned in the event of an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Wipe up any spills. Use wet floor sign if necessary. Keep experiments away from electrics.
 First aider to be summoned in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -226,12 +226,12 @@ First aider to be summoned in the event of an accident.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Demonstrator to check that visitors are not allergic to kiwi/strawberry fruit before commencing the experiment.
 In case of contact, call first aider. Rinse skin with clean water.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -241,12 +241,12 @@ In case of contact, call first aider. Rinse skin with clean water.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep model completely assembled and prevent children taking it apart. Keep the black stopper on top of the stand as this prevents the rest being disassembled.
 If child ingests small part of model, call first aider immediately.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -279,3 +279,5 @@ If child ingests small part of model, call first aider immediately.
 **Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), 
