@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2025-01-11 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -138,11 +138,11 @@ Others:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: See electrical parts RA (attached)
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -152,13 +152,13 @@ Others:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: Discourage demonstrators with epilepsy from choosing this experiment, and the public from staring too closely at the light box for prolonged periods. If they complain of feeling unwell switch the box off and advise them not to look at it further. Switch off the light box if necessary. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -168,13 +168,29 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ensure that the light box is not close to the edge of the table and is in a stable position. 
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
+
+<br/>
+
+### **Hazard**: Light box (heat)
+
+**Description**: Possible risk of light box getting too hot and scalding users.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (High)
+
+**Mitigation**: Warn the students that the light box is hot at the start of the experiment.
+
+Call first aider in case of injury.
+
+**After Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 <br/>
 
@@ -208,3 +224,4 @@ Call first aider in case of injury.
 
  **Check 1**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
