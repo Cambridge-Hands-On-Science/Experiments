@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2024-12-23 by Smiley Chan (scc93@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-12-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -250,13 +250,13 @@ Some sample sets:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (unacceptable)
 
 **Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen tubes every time a demonstration is completed.
 Call first aider in case of injury (cut). Clear up perspex (using the dustpan and brush from Set Up and Clear Up), wrapping up in paper or similar so that it won't rip through the bin bag. Place in broken glass box if available at a school.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -266,13 +266,13 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Demonstrators should make sure that blocks are not played with by young children without supervision. 
 If a block is dropped, it should be picked back up as soon as the area is safe to do so. 
 In case of a child (or adult) tripping over, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -282,11 +282,11 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Take away from kids if they are being silly with them. Keep all perspex blocks in sight during the demonstration.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -296,10 +296,10 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 6 (medium)
 
 **Mitigation**: Prevent kids from removing magnifying glasses. Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things. If possible, avoid setting up this experiment somewhere with bright light or near the window.
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -309,11 +309,11 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (unacceptable)
 
 **Mitigation**: Keep a careful eye on the jars and do not let anyone open them. They should all be taped up around the top - if the tape is coming off redo it. If any liquid leaks, clear it up straight away, preferably wearing gloves, then wash your hands immediately. Advise any children to wash their hands immediately if any liquid goes on their skin.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -346,3 +346,5 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2024-02-21 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2024-02-22 - John Leung (cfl35@cam.ac.uk)
 
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-12-23 - Adam Carreyette (ac2736@cam.ac.uk)
