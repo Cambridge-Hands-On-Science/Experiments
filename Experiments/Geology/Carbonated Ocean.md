@@ -2,8 +2,7 @@
 
 **What happens to CO₂ in Earth's oceans?** - Make your own carbonate minerals, and discover the effects of ocean acidification using a SodaStream.
 
-Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
-
+Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on X by X (@cam.ac.uk) 
 **Frequency of use:** N/A
 
 ## Tags
@@ -203,7 +202,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (Medium) 
 
 **Mitigation**: CO₂ is used in a commercial product that is rated for use at home by non-experts. Always follow the SodaStream safety instructions, which should be left in the box. In particular:
 
@@ -213,7 +212,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 - Don't attempt to carbonate an empty bottle.
 - In the event of a leak, clear and ventilate the area, and breathe fresh air.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (High) 
 
 <br/>
 
@@ -223,11 +222,11 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
 **Mitigation**: Limit the amount that the button is pressed. Check the CO₂ cylinder is not cold by first looking for frost, then using back of hand, before handling.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low) 
 
 <br/>
 
@@ -237,7 +236,7 @@ The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high) 
 
 **Mitigation**: State reagents on a sign to highlight allergens. If participant(s) are allergic, they should stand well back and not touch anything.
 
@@ -247,7 +246,7 @@ Be extra careful when preparing stock solutions from solids, as more concentrate
 
 If in contact with eyes, wash with emergency eye wash provided if trained and confident to do so. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -257,7 +256,7 @@ If in contact with eyes, wash with emergency eye wash provided if trained and co
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high) 
 
 **Mitigation**: Keep test tubes in rack at all times unless emptying/washing them. Don't let children handle test tubes.
 
@@ -267,7 +266,7 @@ If a test tube does get broken, carefully wrap in kitchen roll and dispose of it
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -277,7 +276,7 @@ Call first aider in case of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Don't let people drink the water out of the Sodastream, as it will have had pipettes put in it.
 
@@ -285,7 +284,7 @@ Don't leave children with experiment unsupervised. Only prepare a small amount (
 
 If ingested, advise parents that reactants are all non-toxic, but to seek medical attention if child is feeling unwell.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium) 
 
 <br/>
 
@@ -295,7 +294,7 @@ If ingested, advise parents that reactants are all non-toxic, but to seek medica
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Do wet chemistry inside plastic tray. Don't demonstrate near electrical equipment.
 
@@ -305,7 +304,7 @@ Clear spills promptly, use wet floor sign if needed.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium) 
 
 <br/>
 
@@ -315,11 +314,11 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Keep eggs sealed in Tupperware at all times during demonstration. Only let people gently shake the Tupperware. Only start dissolving the eggshells a few days before the event so they don't go rotten!
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low) 
 
 <br/>
 <!-- End of hazard section. -->
@@ -329,5 +328,7 @@ Call first aider in case of injury.
 **Check 1**: 2024-08-05 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
