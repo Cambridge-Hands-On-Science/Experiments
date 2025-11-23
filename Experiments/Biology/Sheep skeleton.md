@@ -2,7 +2,7 @@
 
 **Investigate a sheep skeleton and see if you can reconstruct it** - Put together a sheep skeleton like a jigsaw puzzle! How is a sheep skeleton different to a human skeleton? How is it the same?
 
-Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-13 by Smiley Chan (scc93@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-01-13 by Smiley Chan (scc93@cam.ac.uk)
 
 ## Tags
 
@@ -134,13 +134,13 @@ While it may seem weird there's not a lot of information on this if you think fr
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Remind children to handle bones carefully. The skull has been inspected and sharp edges filed down, but some may have been missed, or breakages could produce sharp edges. Demonstrator should visually inspect skulls before use - any skulls with sharp edges may need to be smoothed off or replaced. 
 
 Call first aider in event of incident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 
 <br/>
@@ -151,13 +151,13 @@ Call first aider in event of incident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator to keep a close eye on anybody holding the skull, as this is the most likely to shatter if dropped. If a skull smashes, clear it up immediately with dustpan and brush. Any damaged skulls with sharp edges should be repaired as soon as possible - demonstrator should notify committee if this is needed. Most of the bones are quite light, but demonstrator should watch all children handling bones, especially the more club-like ones like the femur. The number of bones out has been limited by e.g. wiring feet together and threading the spine together to make it easier for the demonstrator to monitor.
 
 Call first aider in event of injuries.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -168,13 +168,13 @@ Call first aider in event of injuries.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: All bones have been sterilised by soaking in bleach for several hours. Please note, however, this does not necessarily mean that the skulls are completely sterile now. One could give the skulls a gentle clean with disinfecting wipes if they're on hand.
 
 Call first aider to properly dress and sterilise wounds. Warn parents of the possibility of infection if a child does cut themselves on the skull. Advise parents to take child to a doctor if the cut looks infected.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -190,5 +190,5 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2025-01-11- Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-13 - Smiley Chan (scc93@cam.ac.uk)
 
-
+**Check 1**: 2025-01-11 - Adam Carreyette (ac2736@cam.ac.uk)
 <!-- (duplicate as necessary) -->
