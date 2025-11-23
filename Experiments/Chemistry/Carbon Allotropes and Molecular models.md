@@ -2,7 +2,7 @@
 
 **Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and double-checked on ... by ...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -51,12 +51,12 @@ You can show how graphite is diamagnetic by balancing some pencil lead off the e
 
 **Affected People**: Small Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (Unacceptable)
 
 **Mitigation**: Watch carefully over children, use pre-assembled models so fewer small parts.
 In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -66,12 +66,12 @@ In the event of a piece being swallowed, encourage child to cough. Call a first 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Use small charge.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -81,12 +81,12 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Warn visitors if you give them a magnet. Use the minimum number of free magnets. Keep the magnets under control. Cover with tape to reduce impact, and contain any shards.
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 3 (Low)
 
 <br/>
 
@@ -113,3 +113,6 @@ Call first aider in case of injury
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 
+
