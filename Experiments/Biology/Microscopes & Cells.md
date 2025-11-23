@@ -173,12 +173,12 @@ Roundworms (Nematodes): Adult and larval roundworms are bisexual, cylindrical wo
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Keep water-based samples away from the microscope and laptop. Take care. See separate electrical parts risk assessment.
 In case of accident, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -188,12 +188,12 @@ In case of accident, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: If children are very young or being silly, the slides should only be handled by the demonstrator - this will reduce the risk of breakage. If slides are broken, carefully collect/sweep up broken pieces, wrap in paper and dispose of carefully.
 In case of accident, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -203,12 +203,12 @@ In case of accident, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Warn children to be careful, turn off lamp when not in use, if it's getting hot put a cardboard shield around (but not touching) the lamp to prevent accidental contact. 
 In case of accident, call first aider. In case of burns, encourage victim to run affected area under tepid water for 10 minutes.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -218,11 +218,11 @@ In case of accident, call first aider. In case of burns, encourage victim to run
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Avoid inflating the model cells if a sufferer of asthma. In case of incident, use inhaler. Call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -232,12 +232,12 @@ In case of accident, call first aider. In case of burns, encourage victim to run
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Keep all props in contained area. If dropped, pick up immediately.
 In case of accident, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -270,3 +270,5 @@ In case of accident, call first aider.
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
