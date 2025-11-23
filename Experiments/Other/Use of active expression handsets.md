@@ -7,7 +7,7 @@ Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Active** (Experiment has working equipment at the time of last update, and is available for events.)
+**RETIRED** 
 
 **CBS only** (Non-transportable experiments that tend to be used for CBS only.)
 
@@ -89,3 +89,4 @@ Call first aider in the event of an accident.
 **Check 1**: 2023-02-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+
