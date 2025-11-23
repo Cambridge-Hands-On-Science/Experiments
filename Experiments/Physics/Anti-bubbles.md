@@ -2,14 +2,14 @@
 
 **Make fascinating bubbles which rather than floating on water actually sink.**
 
-Last initially checked on 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
-**CBS only** (Non-transportable experiments that tend to be used for CBS only.)
+**Standard** 
 
 **Physics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -67,11 +67,11 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Clear up any spillage immediately. Have mops or paper towels ready. Ensure there are no electric components on ground near the experiment. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -81,11 +81,11 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Try to keep children under control. Demonstrator should not show effect unless group are very calm and should take bottle away if child shows signs of getting excitable. Do not allow very young children to hold the bottle. Call a first aider in the event of an accident. If the salt mixture from the dropping bottle, or washing up water from tank, gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so. If ingestion occurs, get child to drink a glass of water. If liquid gets on skin, check about allergies.
+**Mitigation**: Try to keep children under control. Demonstrator should not demonstrate unless group are very calm and should take bottle away if child shows signs of getting excitable. Do not allow very young children to hold the bottle. Call a first aider in the event of an accident. If the salt mixture from the dropping bottle, or washing up water from tank, gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so. If ingestion occurs, get child to drink a glass of water. If liquid gets on skin, check about allergies.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -116,3 +116,6 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2025-01-17 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk)
+
