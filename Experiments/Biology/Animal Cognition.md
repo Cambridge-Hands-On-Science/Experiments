@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -129,6 +129,8 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 <br/>
 
+### **Hazard**: Sharp elements of skulls
+
 **Description**: Damage from sharp elements of skulls on sensitive areas (eyes)
 
 **Affected People**: All; especially children
@@ -162,4 +164,5 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 **Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+
