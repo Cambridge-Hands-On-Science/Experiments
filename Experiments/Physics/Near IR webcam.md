@@ -2,7 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
