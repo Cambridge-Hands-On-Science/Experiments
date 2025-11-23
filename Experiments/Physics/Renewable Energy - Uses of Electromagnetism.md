@@ -2,7 +2,7 @@
 
 **Making power using wind and water!** - Explore how we can use the power of electromagnetism to power our day to day lives!
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Lachlan Rooney (lgmr2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -88,12 +88,12 @@ There's also the solar power but that uses a different principle - semiconductor
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Do not put too much current through a coil/wire, if it is getting hot, turn it down.
  If there is a burn, run under tepid water for ten minutes, call a first aider. In event of fire, follow procedure in venue RA (raise alarm, evacuate).
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -103,7 +103,7 @@ There's also the solar power but that uses a different principle - semiconductor
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Warn visitors if you give them a magnet.
 Use the minimum number of free magnets.
@@ -111,7 +111,7 @@ Keep the magnets under control.
 Cover with tape to reduce impact, and contain any shards.
 Pad edges of magnet to reduce finger trap.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -121,12 +121,12 @@ Pad edges of magnet to reduce finger trap.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Keep kids' fingers away - if it needs pushing it should be done on the axle, not the armature.
 Contact a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -136,13 +136,13 @@ Contact a first aider in the event of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Place generator on flat surface so visitors can't catch their fingers underneath so easily.
 Tell visitors to hold only the rotating part of the generator handle and not the entire handle.
 Keep control of the visitors at all times and don't let them get overexcited while turning the handle.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -152,11 +152,11 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Use clamps to keep generators firmly attached to table, ensure table is stable; Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -166,11 +166,11 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: Secure tubing to tap with gaffer if necessary. Keep an eye on turbine and keep children away from surrounding area. If water is spilled, stop the demonstration, use a wet floor sign, and clean up.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -191,3 +191,6 @@ Keep control of the visitors at all times and don't let them get overexcited whi
 **Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
