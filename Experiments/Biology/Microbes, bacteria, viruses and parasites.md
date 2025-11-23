@@ -383,11 +383,11 @@ We’ve come incredibly close to eradicating polio in recent years, and it’s n
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Keep all props in contained area and pick up any fallen toys as soon as is safe. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -397,11 +397,11 @@ We’ve come incredibly close to eradicating polio in recent years, and it’s n
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Wash between events if possible. Encourage children not to put near face/mouth.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -411,12 +411,12 @@ We’ve come incredibly close to eradicating polio in recent years, and it’s n
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: When giving UV cream to children, tell them not to put their fingers near their eyes and ensure they rinse it off.
 Call first aider in case of injury. If washing up liquid gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -426,11 +426,11 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**Before Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 **Mitigation**: All spills should be cleared up immediately. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -440,11 +440,11 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Ask all participants in the hand-washing activity (if doing) to ensure they do not have sensitive skin. If it starts to itch/hurt, wash off immediately and call first aider. Seek further medical advice where appropriate.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -454,11 +454,11 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Deal with topic respectfully, move on if it seems distressing. Move to different experiment if required.
 
-**After Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**After Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (Medium)
 
 <br/>
 
@@ -480,4 +480,6 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-26 -sobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
