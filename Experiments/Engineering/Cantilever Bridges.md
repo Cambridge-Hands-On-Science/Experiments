@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2025-11-23 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
+Last initially checked on 2025-11-23 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -210,5 +210,6 @@ Call first aider in the event of injury.
 
 **Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+
 
