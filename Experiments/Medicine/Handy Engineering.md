@@ -2,7 +2,7 @@
 
 **Build a small working model hand from card and straws!** - Build a model of the inner workings of your hand! Learn about how muscles and tendons work together to control the movements of our fingers, and have a model to take home, made of simple household objects!
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -58,13 +58,13 @@ Damage to the tendons will compromise flexion of the fingers.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Younger children should be supervised by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 ### **Hazard**: Straws
 
@@ -72,13 +72,13 @@ Call a first aider in the event of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Younger children should be supervised by an adult. CHaOS volunteers to oversee carefully and ensure straw segments not lying around. Ensure kids are not putting straw segments in their mouths. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -105,3 +105,5 @@ Call a first aider in the event of injury.
 **Check 1**: 2024-01-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
