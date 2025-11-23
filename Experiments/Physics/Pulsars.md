@@ -2,7 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2025-02-08 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-02-08 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -105,4 +105,5 @@ Call a first aider in the event of an emergency.
 **Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
 
