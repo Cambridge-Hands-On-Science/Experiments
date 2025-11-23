@@ -2,7 +2,7 @@
 
 **See who is better at hearing high pitched sounds: kids or adults!** - See who is better at hearing high pitched sounds: kids or adults!
 
-Last initially checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2025-12-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,11 +39,11 @@ Test the hearing of people of lots of different ages. Record your results.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Ask the participants if they are ok with you playing a sound before beginning the experiment. Only listen to each sound for as long as you need to tell if you can hear it or not. Make sure you don't have the volume too loud, especially if using headphones to listen to the noise. If you start to get a headache, stop the experiment.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -58,3 +58,5 @@ Test the hearing of people of lots of different ages. Record your results.
 **Check 1**: 2023-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-12-23 - Adam Carreyette (ac2736@cam.ac.uk)
