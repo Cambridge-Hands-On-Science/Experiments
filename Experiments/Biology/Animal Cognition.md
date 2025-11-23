@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -76,12 +76,12 @@ If they seem interested, you can go into more detail about other animal intellig
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Warn children to be sensible and careful and not grab/throw/stab each other with the pegs/pipe cleaners/gravel.
 Call first aider in event of incident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -91,12 +91,12 @@ Call first aider in event of incident.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ensure the children don't drink the water or splash it in each other's faces. Tell them to stop if they put things in their mouth. Suggest they wash hands when they leave.
 If ingested encourage child to spit out water and rinse out mouth with clean water.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -106,12 +106,12 @@ If ingested encourage child to spit out water and rinse out mouth with clean wat
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Don't carry out experiment near a thoroughfare and be careful when emptying/refilling the tube (do over a sink if there is one next to you), don't let the children add too much gravel at once or add with too much vigour.
 Mop up any spilt water as soon as possible. Call first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -121,11 +121,11 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Don't give gravel to really young children, confiscate if they are getting silly and putting anywhere near mouth. Call a first aider and/or a ambulance in the event of choking. Give Heimlich manoeuvre if confident you know how.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -133,11 +133,11 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 **Affected People**: All; especially children
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Minimise handling time from the children, and do not take multiple skulls out at the same time. Ensure all handling is done while a demonstrator is present.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 ## Risk Assessment Check History 
@@ -161,3 +161,5 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
