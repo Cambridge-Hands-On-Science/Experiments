@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2024-12-17 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
+Last initially checked on 2025-11-23 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2024-12-18 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -122,13 +122,13 @@ This was used in passages and tombs, before the true arch was developed.
 
 **Affected People**: All (especially children)
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Demonstrator to monitor building, anticipate collapse, and get children to stand back. Demonstrator should prevent children from building excessively tall towers. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -138,13 +138,13 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Don't put the experiment in an area which is likely to be used as a thoroughfare.
 
 Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -154,13 +154,13 @@ Call first aider in the event of injury.
 
 **Affected People**: All (especially children)
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Demonstrator to ask children to not place their fingers where they can be pinched between the boards. Tape gaps between boards and boards and floor.
 
 Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -170,13 +170,13 @@ Call first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth.
 
 Call first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -209,3 +209,6 @@ Call first aider in the event of injury.
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk)
+
