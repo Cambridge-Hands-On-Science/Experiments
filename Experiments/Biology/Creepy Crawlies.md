@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2025-02-08 by Isaac Howell (ih393@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -81,12 +81,12 @@ A few interesting facts are:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Watch very young children to ensure they do not put soil or insects in their mouths. Ensure that any child who has touched soil or insects washes hands. Do not allow people with cuts to handle soil - demonstrator to wear a plaster if they have a cut.
 In case of contact, tell them to wash out the cut and reassure that there will probably not be a problem, but to contact GP if any symptoms ensue.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -96,12 +96,12 @@ In case of contact, tell them to wash out the cut and reassure that there will p
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Switch off microscope between uses if it starts to become hot. Don't set up near taps or wet experiments.
 Switch off equipment in the event of an electrical problem, clear area, call first aider. If child burns themselves, keep affected area under running tepid water for 10 mins, call a first aider. Read attached electrical RA.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -111,11 +111,11 @@ Switch off equipment in the event of an electrical problem, clear area, call fir
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Ensure the insects are all kept in close range, and that children do not open tray lids without supervision. If an insect gets loose, clear the area, get adults to help keep their children under control, retrieve insects (call for help if necessary). In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -125,12 +125,12 @@ Switch off equipment in the event of an electrical problem, clear area, call fir
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high) 
 
 **Mitigation**: Don't assign demonstrators with an allergy to insect bites to this experiment. Encourage children to be gentle when handling insects. Do not let very young children handle the insects themselves.
 If bitten, reassure that there probably won't be a problem, pull out any visible sting (get first aider), wash under a cold tap to soothe irritation. If irritation persists contact as first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -163,3 +163,5 @@ If bitten, reassure that there probably won't be a problem, pull out any visible
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), 
