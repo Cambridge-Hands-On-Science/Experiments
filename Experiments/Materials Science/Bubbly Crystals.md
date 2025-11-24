@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2024-12-21 by Andrew Marriott (asm206@cam.ac.uk)
+Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk)
 
 **Frequency of use:** 4
 
@@ -205,11 +205,11 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Affected People**: Demonstrator and demonstratees
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: No pointing skewers near people’s faces. Don’t let young children hold skewers (they can use fingers if not allergic to soapy water); sand down any rough and sharp bits before use
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 <!-- End of hazard section. -->
@@ -220,11 +220,11 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Affected People**: Demonstrator and demonstratees
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: I would advise against demonstrating if you are irritated by soapy water. Use a sign to indicate the presence of soap. Ask parent/ responsible child if OK to put their hands in soapy water. Otherwise, can do as demo only or only let them touch the water via the skewers. Do not let children drink the soapy water.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -234,13 +234,13 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Affected People**: Demonstrator and demonstratees
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Don’t let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first, including yourself. Know where the nearest eye wash is (there should at least be some in the Safety box).
 
 Summon first-aider to wash eyes if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -250,27 +250,27 @@ Summon first-aider to wash eyes if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: I would advise doing this experiment outside or in a room with a wipeable floor. Do not put near electrical equipment. Do not use more water than is necessary (5mm depth is fine), and if possible fill the tray using a water bottle and then don’t move it. Keep the gas generator in a place where it is difficult to knock over. Warn people of any spillages and clear them up promptly using the kitchen roll.
 
 Summon first-aider in event of someone tripping and hurting themselves.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
-### **Hazard**: Small Quartz Crystal
+### **Hazard**: Small Quartz Crystal and Blue Tack
 
 **Description**: Choking hazard
 
 **Affected People**: All but particularly young children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: Use a larger crystal for demonstrations if possible. Don't let young children hold it, and if you do hand it out then keep an eye on it and don't let it go near anyone's mouth!
+**Mitigation**: Use a larger crystal for demonstrations if possible. Don't let young children hold it, and if you do hand it out then keep an eye on it and don't let it go near anyone's mouth! Keep demonstratees from messing with gass generator tube.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -283,5 +283,7 @@ Summon first-aider in event of someone tripping and hurting themselves.
 **Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk)
+
+**Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk) 
 
 <!-- (duplicate as necessary) -->
