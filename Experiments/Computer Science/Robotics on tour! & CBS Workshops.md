@@ -2,8 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
-
+Last initially checked on 2025-11-24 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on <em>date</em> by <em>person</em> (<em>email</em>).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -22,10 +21,10 @@ Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and doub
 - 18 x AA Batteries  (Currently there are 16 rechargeable and 2 non rechargeable)
 - 2 x Recharge stations
 - 1 x Green fabric with blue fabric "pond" sewn on (this has been replaced by a paper version)
-- Worshops:
-- 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from University of Cambridge Engineering Department
-- 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Cambridge Engineering Department
-- Assorted paper and pens
+- Workshops:
+    - 8 x Robotics Kits, consisting of Lego Mindstorms NXT brick, motors, assorted sensors, associated connectors, structural lego components and moving parts (i.e. gears) - On loan from Cambridge Engineering Department
+    - 8 x laptops with software installed to program Mindstorms NXT bricks - On loan from Cambridge Engineering Department
+    - Assorted paper and pens
 - As many charged batteries as possible for CBS
 
 <br/>
@@ -51,6 +50,8 @@ If you are confident the batteries are suitably charged, put the batteries into 
 
 If the robot is damaged, fix it (I need to take pictures so everybody knows what it looked like).
 
+Also check motors to ensure they are properly sealed.
+
 The Ev3 Brick should be put onto the robots base. 
 
 Connect the colour sensor to port 3, and the motors to ports B and C. The motor wires **should** cross due to way the steering works.
@@ -73,7 +74,7 @@ There's full support for variables (but that doesn't mean you want to use them a
 
 **Demonstrating:** 
 
-I start off by asking them their names so that we have an easily identifiable program (In schools the groups will likely be too large for this. I then ask them, what do robots do? You will get a range of different responses, sometimes close to the answer of "they follow instructions". I then introduce the program to them and tell them that the blocks are just instructions for the robot. 
+I start off by asking them their names so that we have an easily identifiable program (In schools the groups will likely be too large for this. I then ask them, what do robots do? You will get a range of different responses, sometimes close to the answer of "they follow instructions"). I then introduce the program to them and tell them that the blocks are just instructions for the robot. 
 
 Depending on the age of the children you can ask them what they want it to do e.g. "Do you want it to turn left or right?" and program it yourself or tell them "this slider controls how it will turn" and let them do it. After they have made their block they need to download the program to the robot. 
 
@@ -152,13 +153,13 @@ Potential inputs could be morse code claps to be picked up by a microphone and s
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Ensure wires are either taped securely to surfaces, or are placed behind tables, so no one walking past will catch themselves on the wires. 
 
 In case of an accident, turn off power at the mains, do not touch any other components, such as the laptop or its battery. Call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -168,11 +169,11 @@ In case of an accident, turn off power at the mains, do not touch any other comp
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: All laptop chargers will be PAT checked for safety and will be kept out of reach of children. See electrical parts RA.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -182,13 +183,13 @@ In case of an accident, turn off power at the mains, do not touch any other comp
 
 **Affected People**: Mainly young children
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: All participants will be monitored regularly by demonstrators to ensure they do not put Lego in their mouths. The robots are largely pre-built, minimising visitors’ use of individual parts, and any modifications will be conducted by a demonstrator. Particularly young children will be supervised closely and if at CBS, will also be under parental supervision, though it is unlikely that very young children will be present as the workshop is targeted at older children. Any spare parts should be kept well away from participants and only used to repair robots in between sessions.
 
 Call a first aider if choking occurs.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -199,13 +200,13 @@ children/sitting children.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Robots should be used on the floor unless they are immobile or all children present are standing and have their heads above the edge of the table. Laptops if used on tables shouldn’t be moving around, and should be far enough away from table edges. At CBS, parents and demonstrators should be asked to monitor this closely.
 
 Call a first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -215,13 +216,15 @@ Call a first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Motors are sealed in a robust manner, so any short circuits will result in a simple failure, with no risk to users. In the very unlikely event of an exposed short, voltages and currents used are very low (powered by 4 AA batteries), so present no significant risk to users. 
 
 If short circuit occurs, power down the robot and do not use the kit further. Call a first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+Check that motors are properly sealed before setting up experiment, do not demonstrate and contact experiments officer(s) if unsealed.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -231,13 +234,15 @@ If short circuit occurs, power down the robot and do not use the kit further. Ca
 
 **Affected People**: All, particularly those with long hair
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Motors are sealed, so hair is unlikely to be caught, though it may be caught by gearing systems. All visitors will be made aware of the risk and asked to ensure any dangling objects on their person are kept out of the way and advised to tie long hair up if they might lean near the gearing system. They will also be made aware of the emergency stop, which will shut off all motors instantaneously. 
 
 Immediately stop robot if anything is caught in motors. Call a first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+Check that motors are properly sealed before setting up experiment, do not demonstrate and contact experiments officer(s) if unsealed.
+
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 <br/>
 
@@ -264,4 +269,7 @@ Immediately stop robot if anything is caught in motors. Call a first aider if re
 **Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
+
+**Check 1**: 2025-11-24 - Jesse Luo (jl2491@cam.ac.uk),
+
 
