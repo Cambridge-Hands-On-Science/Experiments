@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 
@@ -262,4 +262,5 @@ In case of injury, call first aider.
 
 **Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 3**: 2025-02-01 - Jessica Trevelyan (jet81@cam.ac.uk) 
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk)
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+
