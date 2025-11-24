@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2025-01-20 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on...
+Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -122,13 +122,13 @@ The insects recovered from decomposing human remains can be a valuable tool for 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen tubes every time a demonstration is completed.
 Call first aider in case of injury (cut). Clear up perspex (using the dustpan and brush from Set Up and Clear Up), wrapping up in paper or similar so that it won't rip through the bin bag. Place in broken glass box if available at a school.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -138,13 +138,13 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall:  (medium)
 
 **Mitigation**: Demonstrators should make sure that blocks are not played with by young children without supervision. 
 If a block is dropped, it should be picked back up as soon as the area is safe to do so. 
 In case of a child (or adult) tripping over, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -154,11 +154,11 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Take away from kids if they are being silly with them.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -168,11 +168,11 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -206,3 +206,4 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
 
+**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), 
