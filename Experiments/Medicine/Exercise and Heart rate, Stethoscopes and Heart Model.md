@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk)
+Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -322,5 +322,6 @@ Call first aider if necessary.
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1** 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk)
+**Check 1** 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+
 
