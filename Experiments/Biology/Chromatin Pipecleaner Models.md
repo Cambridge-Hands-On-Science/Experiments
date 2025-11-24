@@ -4,7 +4,7 @@
 
 **- Humans have 19,000 genes. How are only certain genes turned on in each cell so that brain cells express brain genes, but not heart genes and vice versa? Here we make fun chromatin models to explore epigenetics.**
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk) 
+Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -59,12 +59,12 @@ To renew stocks, get stripey pipecleaners and beads (9mm pony beads, roughly £6
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Fold over the tips and warn children about scratches.
 Call a first aider in the event of severe scratches.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -74,12 +74,12 @@ Call a first aider in the event of severe scratches.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Encourage children to be sensible with pipe cleaners, ask them to leave if they are being silly.
 Call a first aider if an accident occurs.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -89,11 +89,11 @@ Call a first aider if an accident occurs.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Do not let children under 3 make the models. Children below ~age 8 should be supervised by parents. CHaOS volunteers should also oversee carefully and prevent any beads going in mouths. In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -103,12 +103,12 @@ Call a first aider if an accident occurs.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Pick up corks immediately if they fall on the floor, or ask the children to.
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -129,3 +129,5 @@ Call a first aider in the event of an accident.
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), 
