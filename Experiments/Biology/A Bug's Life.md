@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -299,6 +299,7 @@ In case of a child (or adult) tripping over, call first aider.
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 6 (medium)
 
 **Mitigation**: Prevent kids from removing magnifying glasses. Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things. If possible, avoid setting up this experiment somewhere with bright light or near the window.
+
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
@@ -347,4 +348,4 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk)
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk), **Check 2**: 2025-11-24, Leah Helm (lkh53@cam.ac.uk)
