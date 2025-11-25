@@ -2,7 +2,7 @@
 
 **Dissecting a computer** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-25 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on (date) by (name) (email)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,6 +25,7 @@ Last initially checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk) and doubl
 - Dissected Mouse.
 - Various earphones/headphones
 - Toaster parts (connected chips)
+- (Optional) Pen and Paper for explanations / demos
 
 <br/>
 
@@ -36,11 +37,11 @@ This can be demonstarted in any order (can start with data storage and then rela
 When putting the box away, it's easiest to put the DVD drive and floppy drive together (held by elastic band), and separate the other parts into the relevant bags. 
 
 ### Data Storage
-This is a crucial part of what we do on a computer, what sort of factors might be important? Size controls how much you can store. It might also be important to think about price and data access and transfer times. Flash memory and solid state drives are really quick but very expensive. Data is stored as 0s and 1s and each digit is called a bit. These are stored in various ways. Another thing to think about is 'volatility', meaning if the things in memory are preserved when the device is powered off. Also the method of accessing it the data should be considered, the main ways are 'serial' or 'random'.
+This is a crucial part of what we do on a computer, what sort of factors might be important? Size controls how much you can store. It might also be important to think about price and data access and transfer times. Flash memory and solid state drives are really quick but expensive. Data is stored as 0s and 1s and each digit is called a bit. These are stored in various ways. Another thing to think about is 'volatility', meaning if the things in memory are preserved when the device is powered off. Also the method of accessing it the data should be considered, the main ways are 'serial' or 'random'.
 
-Hard Drive (HDD)- data stored on disks by magnetic means. Imagine an iron nail, normally it's not magnetic however rub it with a magnet and it becomes magnetic. Rub it again and we can demagnetise it. This stores the data by saying magnetised means 1 and not means 0. The arm swings across the platter and has a tiny magnet to read and write. Many modern drives have multiple platters inside and multiple heads, they're also normally double sided. Data is placed on tracks (concentric circles) broken up into sectors. Part of the drive is reserved for a sector map (Windows File Allocation Table - FAT) to allow the data to be found. Things that can go wrong include a 'head crash' where the read write head gets knocked into the platter and 'thrashing' where the platter spins back and forth to allow the computer to access files at different locations on the same platter. These give random access.
+Hard Drive (HDD)- data stored on disks by magnetic means. Imagine an iron nail, normally it's not magnetic however rub it with a magnet and it becomes magnetic. Rub it again and we can demagnetise it. This stores the data by saying magnetised means 1 and not means 0. The arm swings across the platter and has a tiny magnet to read and write. Many modern drives have multiple platters inside and multiple heads, they're also normally double sided. Data is placed on tracks (concentric circles) broken up into sectors. Part of the drive is reserved for a sector map (Windows File Allocation Table - FAT) to allow the data to be found. Things that can go wrong include a 'head crash' where the read write head gets knocked into the platter and 'thrashing' where the platter spins back and forth to allow the computer to access files at different locations on the same platter. These give random access. 
 
-Flash memory (Solid State) - Used in USB sticks and new solid state drives. They have no moving parts (hence the solid state) so it's ideal for memory sticks. It uses transistors to alter the flow through a gate (very complicated, high charge causes electrons to be fired inducing charges...). It's much smaller and lighter as it doesn't need a moving arm or motor, it's also much faster access and is random like HDD, however is much more expensive. 
+Flash memory (Solid State) - Used in USB sticks and new solid state drives. They have no moving parts (hence the solid state) so it's ideal for memory sticks. It uses transistors to alter the flow through a gate (very complicated, high charge causes electrons to be fired inducing charges...). It's much smaller and lighter as it doesn't need a moving arm or motor, it's also much faster access and is random like HDD, however is much more expensive. It also has a limited number of write cycles to each memory cell.
 
 Magnetic Tape - This is a much older method of storage which works by storing data on a magnetisable tape. It's very cheap and is still used in medium-large data centres. The main advantage of tape storage is it's very easy to swap tape cartridges into a reader than move HDDs and cheaper than installing connections for all these drives.
 
@@ -68,6 +69,8 @@ There's also some great examples of data issues with vinyl, records come mainly 
 
 CPU (Central Processing Unit) - This sends signals and controls other parts of the computer. We often compare clock rates, the CPU completes one basic task in a tick of the clock. Overclocking increases the number of ticks a second, it's designed that computers can easily complete most tasks within a tick, so decreasing the time shouldn't cause most tasks to fail. The computer in front has 200MHz clock speed (I think), a modern intel i7-3970X (very good 2018 CPU) has a 3.5GHz clock speed and iPhone X has 2.39GHz.
 
+We could demonstrate pipelining using a quick demo. Get some pieces of paper and some pens and get the children to line up in an 'assembly line'. Each child is responsible for drawing one stroke of e.g. a square which takes 4 children to be drawn. Without pipelining, allow the kids to start producing squares but the first child must wait for the entire square to be completed before they can start on the next one. With pipelining, the first child can continuously grab paper and draw the first stroke without waiting for the rest. Can then talk about how this increases throughput, the need for buffers and latches to balance producer/consumer inconsistencies, e.t.c.
+
 Fans - These cool down the components, they're an active cooling method as they require power. This computer had several plastic pieces to control where the fans cooled. Other active cooling methods include water cooling (and other fluids) which is more common in high end gaming PCs and commercial data centres and servers. With water their is added risk as water and computers don't mix well! However water is better at transporting heat than air. There is a red ended cable labelled 'F' which goes from the red pins on the motherboard to the fan and controls it's speed and provides power.
 The power supply has a built in fan, which connects to port J18 on the motherboard.
 
@@ -81,7 +84,7 @@ Network card with ethernet port (old computers didn't have wireless!) - this pro
 
 Sound card - Does really what it says, converts signals from the CPU into a form that can be sent on, encoding it into various formats and outputting it. Also deals with things like microphones etc (the aux port inputs and outputs can be seen on the side). The sound card in here is a HP Soundblaster 16. You'll notice a cable labelled 'A' (for Audio) which is attached to this card, it goes to the CD drive.
 
-Video card / Graphic Card - Basically sound card but for video, many modern ones have a GPU (Graphical Processing Unit), this is a really specialised processing unit designed for computations to do with displaying images. They're also sometimes used for mining bitcoins as they do better than standard CPUs for these calculations. This computer has a Trio 64V2 which is on the motherboard (see diagram) and no external card (but there is a AGP port to add one for better performance), these became more common with the rise of video games. 
+Video card / Graphic Card - Basically sound card but for video, many modern ones have a GPU (Graphical Processing Unit), this is a really specialised processing unit designed for computations to do with displaying images. They're also sometimes used for mining bitcoins as they do better than standard CPUs for these calculations. This computer has a Trio 64V2 which is on the motherboard (see diagram) and no external card (but there is a AGP port to add one for better performance), these became more common with the rise of video games. Could try and explain how a GPU tries to maximise throughput (number of tasks finished per second, processing in parallel) whereas a CPU tries to minimise latency (time taken to complete one task from start to finish, processing in series)
  
 Power supply - This is the unit with a standard IEC lead input and lots of cabling coming out. DON'T PLUG IT INTO THE MAINS. This supplies power to all the different parts, you'll see they're all labelled Px and if you look at other bits you can see some black tape which indicates there's a power lead going there. For instance P1 goes to the motherboard. You'll notice it has it's own internal fan to keep cool. 
 
@@ -108,10 +111,10 @@ Cabling - There's quite a few cables people might be familiar with included insi
 Some devices when connected also need power to be supplied, USB doesn't standardly provide a lot of power. for example, if you plug a phone into a computer you'll probably notice a slow charge however you may notice modern computers may come with charging ports which supply a non-standard amount of amps to charge devices faster. Ethernet is great for long distances, it's easily boosted for even longer distances and can be switched via routers to form large networks. 
 
 Wireless Charging - This was a big thing for phones a few years ago and then people moved on to rapid charging and other things when people realised it was a bit rubbish then. Some phones still have it however there was lots of cheap Chinese charging pads and even fitting kits which is what we have here. 
-The technology is developing and more modern phones have the capability to recieve it (though not through thick or metal phone cases).
+The technology is developing and more modern phones have the capability to receive it (though not through thick or metal phone cases).
 If they've seen the electromagnetism experiment they should be familiar with this! Essentially in the charging pad (the top swivels to reveal the insides) you can see the coil and piece of metal this creates a magnetic field when plugged in (don't plug it in though). There's then a thin piece of plastic which I've peeled open which has a coil, magnet induces current in coil, this charges the phone. The major downsides of this are, it's not very efficient and everything gets very very hot (slightly broken the receiver when dismantling it, if you desired to fix it solder the other end of the coil to AC2).
 
-Plug - This is an old and broken USB plug. You can see how the wires go in the inside. There's a plastic prong, this prong is usually an earth prong. In the UK plugs need to have these as most sockets require something to be plugged in here before opening the other holes (that's why it's slightly longer). Double insulated device's don't need the earth connection. In EU and US plugs there are earth connectors at the top and bottom, you find plugs that need earth are more circular so the can reach them, however those that don't are quite linear.
+Plug - This is an old and broken USB plug. You can see how the wires go in the inside. There's a plastic prong, this prong is usually an earth prong. In the UK plugs need to have these as most sockets require something to be plugged in here before opening the other holes (that's why it's slightly longer). Double insulated devices don't need the earth connection. In EU and US plugs there are earth connectors at the top and bottom, you find plugs that need earth are more circular so the can reach them, however those that don't are quite linear.
 
 Toaster parts - Shows that electronic circuits are present in lots of everyday items. It has resistors, capacitors, chips, LEDs and switches that can be pointed out (there's push-to-make buttons that say bagel and defrost).. There's also a relay to provide elctrical isolation (prevent electrocutions etc).
 
@@ -134,25 +137,55 @@ Printer cartridge - Not sure why this is in here, but could talk about how compu
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Never plug anything in
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
-### **Hazard**: Sharp and small bits
+### **Hazard**: Sharp bits
 
-**Description**: Getting stabbed with computer parts, and the potential for swallowing / choking on small parts
+**Description**: Getting stabbed / cut with computer parts
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
-**Mitigation**: Keep track of all the bits, don't let people run off with them. Visually inspect components for sharp points/edges. If children are being silly take bits off them.  Don't let kids put them near their mouths.
+**Mitigation**: Keep track of all the bits, don't let people run off with them. Visually inspect components for sharp points/edges and avoid demonstrating with them. If children are being silly take bits off them. 
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
+
+<br/>
+
+### **Hazard**: Small bits
+
+**Description**: Potential for swallowing / choking on small parts
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
+
+**Mitigation**: Keep track of all the bits, don't let people run off with them. If children are being silly take bits off them.  Don't let kids put them near their mouths. It could be easier to manage if you keep the box of all components under your table and take out a couple at a time as you are demonstrating, rather than laying everything out on the table and being overwhelmed.
+
+Call a first aider if choking occurs.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+
+<br/>
+
+### **Hazard**: Falling bits
+
+**Description**: Heavier parts e.g. power supply could get knocked off table and bump into someone / hit someones foot
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+
+**Mitigation**: Don't put parts near the edge of tables and make sure they are securely on the table. Maybe heavier components should just stay on the floor. It could be easier to manage if you keep the box of all components under your table and take out a couple at a time as you are demonstrating, rather than laying everything out on the table and being overwhelmed.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -162,11 +195,11 @@ Printer cartridge - Not sure why this is in here, but could talk about how compu
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Do not connect a power source, try to get people to hold it one at a time
+**Mitigation**: Do not connect a power source, try to get people to hold it one at a time. Keep an eye out for children trying to spin the wings with their fingers
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -185,4 +218,8 @@ Printer cartridge - Not sure why this is in here, but could talk about how compu
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-25 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 
+
+
 
