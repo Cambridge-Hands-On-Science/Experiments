@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -73,12 +73,12 @@ i. Algae. Simple plant-like creatures. Some unicellular, others multicellular. C
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Do not let children eat organisms. Remind them to wash hands afterwards if they have touched apparatus. Make sure any wounds are covered by a plaster. Only let older children move the petri dish. Keep stocks away from children. We only use protozoa from standard school suppliers.
 If ingestion occurs, advise family to see GP if signs of sickness are shown and provide notes of what was ingested.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -88,12 +88,12 @@ If ingestion occurs, advise family to see GP if signs of sickness are shown and 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep children under control. Dispose safely of any broken glassware immediately (sharps bin).
 In case of accident, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -103,12 +103,12 @@ In case of accident, call first aider.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Supervised use of pipettes only. Do not let very young children use them. Keep away from eyes. Take off of children if they are messing about.
 In case of accident, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -118,12 +118,12 @@ In case of accident, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Place TV away from the edges of table, preferably against a wall so that it cannot be knocked off easily. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put TV near water. See separate electrical parts risk assessment. 
 Switch off power at mains if a problem arises with the TV. Clear the area of people and call first aider if anyone is injured. In case of electrocution, do not go near casualty. Try to isolate the power without danger to yourself, and call ambulance.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -133,12 +133,12 @@ Switch off power at mains if a problem arises with the TV. Clear the area of peo
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Only switch lamps on when necessary. Do not touch and warn visitors not to touch them either. Ensure electrical equipment has been PAT tested within the last 2 years. Keep equipment dry by keeping hands dry. Do not put lamps near water. See separate electrical parts risk assessment.
 If person gets a burn, run tepid water over affected area for at least 10 minutes, and call a first aider. Switch off power at mains if you suspect an electrical problem. Call first aider if there is a casualty.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -172,3 +172,5 @@ If person gets a burn, run tepid water over affected area for at least 10 minute
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk) , 
