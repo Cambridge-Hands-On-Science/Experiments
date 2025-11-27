@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by 
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -237,4 +237,5 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),**Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),**Check 2**:
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),**Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
+
