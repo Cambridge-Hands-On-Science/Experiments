@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk)
+Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and second checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk)
 
 **Frequency of use:** 4
 
@@ -284,6 +284,6 @@ Summon first-aider in event of someone tripping and hurting themselves.
 
 **Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk) 
+**Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
