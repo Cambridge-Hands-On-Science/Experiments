@@ -2,7 +2,7 @@
 
 **Removing copper oxides from coins.** - Those grubby coppers in your pocket or purse can be shined up in minutes, give it a try and find out how it works.
 
-Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-17 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -19,6 +19,7 @@ Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and d
 ## Equipment Needed 
 - Plastic containers (e.g. disposable cups) - broad shallow containers are generally better.
 - Acids e.g. vinegar, cola, lemon juice, ketchup - at least a couple of different ones
+- Water
 - Salt
 - Copper coated coins
 - Waste bin
@@ -43,7 +44,7 @@ Some potential discussion points:
 - Which of the liquids would they expect to clean the coins fastest? We might expect this to be the strongest acid. Acids can make things taste sour, which tastes the most sour?
 - What metal are the coins made of? 
 - Why does the surface copper oxide get removed, but not the copper making up the coin? Copper oxide more soluble in acids than copper
-5) Take coins out and see if their predictions on what liquids clean best were correct
+5) Take coins out (maybe clean them with water and paper towels) and see if their predictions on what liquids clean best were correct
 
 **What you need to know during the experiment**
 - Corrosion is a result of the reaction of the metal with oxygen in air, forming the black solid copper oxide. You can compare it with rusting of iron and, for older kids, you can talk about the reaction being faster in the presence of moisture.
@@ -60,7 +61,7 @@ Some potential discussion points:
 
 ### **Hazard**: Copper dissolved in liquid
 
-**Description**: Ingestion of copper salts can lead to the creation of free radicals in the body (which can damage DNA).
+**Description**: Ingestion of copper salts can lead to the creation of free radicals in the body (which can damage DNA). Even ingestion of liquids without copper salts can be unsanitary and unsafe, given that these may not be kept refrigerated and might be quite old etc.
 
 **Affected People**: Public
 
@@ -69,6 +70,7 @@ Some potential discussion points:
 **Mitigation**: Concentrations are very low, the tolerable ingestion limit of copper is about 10mg, much less than would be present in a container used to clean a couple of coppers.
 Change acid every 10 coins and dispose of used solution down a drain immediately. Empty and rinse container.
 If cleaning large numbers of coppers to observe green colour of solution use a closed (plastic) jar and tape down lid. Keep control of jar (at busy events may be advisable to tape jar to a length of string to prevent it "walking off").
+Make sure children do not put their hands into cups with the liquids or otherwise ingest the acids.
 Call a first aider in the event of ingestion.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
@@ -133,3 +135,5 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 **Check 1**: 2023-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk),
