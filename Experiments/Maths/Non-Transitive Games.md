@@ -2,7 +2,7 @@
 
 **What's the best option in games of chance?** - Some games really aren't fair. Even if your opponent knows your exact move you can still beat them. Explore some of these games and find out there might not be a sensible best choice.
 
-Last initially checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-01-30 by Isobel Gilham (ig419@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -134,12 +134,12 @@ If you have a spare table this is a very easy experiment to float with by only g
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Don't use with small children and keep the dice attended.
 Call first aider if child swallows, if choking encourage child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -149,12 +149,12 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Keep an eye on where any dice go, and try to confine them to a desk or fixed area. Do not let multiple unattended children use dice at the same time.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -164,12 +164,12 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Encourage kids to be calm. Make them stop if they are being silly / don't play RPS with them
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -193,4 +193,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-01-30 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk)
+
