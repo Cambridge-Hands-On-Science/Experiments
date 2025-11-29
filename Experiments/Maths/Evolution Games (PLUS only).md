@@ -153,5 +153,6 @@ In case of injury call first aider.
 
 **Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
 
