@@ -2,7 +2,7 @@
 
 **Does a tube of water drain more slowly with a bung in the top?** - Does the diameter effect how fast water drains from a sealed tube? Watch the bubbles produced and see which is fastest. 
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by X
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,7 +54,7 @@ Did they see the bubble go up the tube? Get them to try to explain what was goin
 
 Next we have a race...
 Fill up all the tubes, put bungs in both ends, and recruit some help to get it started. (You will probably have to loosen off the bungs in the bigger ones, as they are quite difficult to remove.
-Which one is going to empty fastest? Why? See what each spectator thinks - often people have different views. They can be encouraged to argue it both ways: perhaps the big tube will empty faster, as there is more space at the bottom, perhaps it will empty more slowly, as there is mor water to come out, or perhaps these effects will cancel out and they will empty at the same speed.
+Which one is going to empty fastest? Why? See what each spectator thinks - often people have different views. They can be encouraged to argue it both ways: perhaps the big tube will empty faster, as there is more space at the bottom, perhaps it will empty more slowly, as there is more water to come out, or perhaps these effects will cancel out and they will empty at the same speed.
 
 Ready, steady, Go!
 
@@ -65,7 +65,7 @@ If you like, you can then move onto some straws, saying that straws are exactly 
 Straw under water, thumb on the top. Remove from water, remove thumb. A straw has such a small hole that the surface tension of the water cannot be broken.
 
 **An interesting addition**
-[Stolen from the Independent (2/8/06)]
+[Stolen from the Independent (02/08/2006)]
 Poke a hole in the side of a cup, cover the hole, fill with water, uncover the hole: water comes out Repeat, only this time drop the cup at the same time as uncovering the hole: water stays in, so you can talk about gravity acting on water and the cup, and things falling at the same speed etc. Probably not a tremendously exciting addition, but maybe something to talk about with very interested people, or something... [Plastic cups tend to shatter when dropped on concrete, and are a pain to make holes in, so maybe paper would be better.] 
 
 Another point of interest (stolen from a demonstrator at CBS) is if you take out the top bung slightly from the small tube as well as the bottom one you can slowly stop the water (by gradually putting it back in) and this will allow you the same 'floaty' water as with the straw. Disturbing the bottom with a piece of grass allows an air bubble to form and causes it to stop floating. You make a hole in the surface to allow an air bubble to form.
@@ -82,12 +82,12 @@ One final nice thing to mention... This experiment in particular can be used to 
 
 **Affected People**: All, particularly small children
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ensure that the board is properly bolted to the frame. 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -97,13 +97,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Use the box to catch the water. Clean up excessive spillage. Do the experiment outside if appropriate.
 Check also that the box is placed on a suitable surface that won't mind getting wet (e.g. not an expensive antique wooden chair).
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -133,6 +133,7 @@ In case of injury, call a first aider.
 
 **Check 1**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-30 -  Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
