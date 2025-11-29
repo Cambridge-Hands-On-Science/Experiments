@@ -177,11 +177,11 @@ How can we make jet engines more environemtally friendly? (It is very difficult-
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Keep away from very small children. Do not allow children to play with engines. Take care when assembling the Stirling engine, as the small disc that the flywheel axle sits in may pop out. If engines break, close experiment and put parts in box.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -210,6 +210,7 @@ How can we make jet engines more environemtally friendly? (It is very difficult-
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
 
 
 
