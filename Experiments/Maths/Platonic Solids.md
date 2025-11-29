@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk) and double-checked on 2025-02-02 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-11-23 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -160,13 +160,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep decagons out of reach of small and/or badly behaved children (they aren't really necessary for the Platonic solids, but may be useful for some of the more general solids that you might build with older children).
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -186,7 +186,8 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Henry Warburton (hw653@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-11-23 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
 
 
 
