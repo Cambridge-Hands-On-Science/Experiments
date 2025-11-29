@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2025-01-21 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on (date) by (name) (email)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -97,10 +97,10 @@ Recursion is not permitted and is implemented by procedures only being able to c
 #### DEMONSTRATING
 Try to split the group evenly between the different robots and ensure each one has enough space to move around.
 
-The robots are very simple to use so can be programmed with a try it and see approach. The sound feedback tells you what works and what doesn't and people will find out quickly what to do. You may wish to masking tape over some of the buttons, like the note and procedures to prevent them being used and increase the success of random button pressing.
+The robots are very simple to use so can be programmed with a try it and see approach. The sound feedback tells you what works and what doesn't and people will find out quickly what to do. You may wish to put masking tape over some of the buttons, like the note and procedures to prevent them being used and increase the success of random button pressing.
 
 The simplest aim is to set up some obstacles (cones or other) and ask them to navigate around the course. With sharpies one could also draw shapes on paper as an alternative. 
-Obviously there are also things to learn. Roamers are procedurly programmed, one can talk about how one might try and solve a problem. A natural way is to break it into smaller problems, breaking down tasks into a set of steps to be carried out is called an algorithm and is a key part of programming. You can illustrate this by drawing basic flowcharts.
+Obviously there are also things to learn. Roamers are procedurally programmed, one can talk about how one might try and solve a problem. A natural way is to break it into smaller problems, breaking down tasks into a set of steps to be carried out is called an algorithm and is a key part of programming. You can illustrate this by drawing basic flowcharts.
 
 When setting out the course think of repeatable steps you can build in so they can see they solve some problems a few times. This is where a procedure comes in. This could be something like navigate around a cone and this can be called whenever it's needed to navigate around a cone (similar to calling a function in coding). You can try this out with more advanced groups, if they seem to have a handle on the using the Go memory.
 
@@ -109,9 +109,9 @@ Procedures also have other advantages. For instance if we swap all the cones for
 
 The activity book has ideas for courses to build (we mostly use the maze one-easiest to set up, feel free to add some story to make it more interesting, eg. escaping a dungeon or looking fo treasure). The user guide provides more detail on how to program the roamers and what each button does, feel free to use these for reference.
 
-Bottom up programming - using existing knowledge to solve a new problem.
+Bottom up programming - solving a new problem by combining existing solutions.
 
-Top down programming - diving a complex problem into smaller sub problems.
+Top down programming - dividing a complex problem into smaller sub problems.
 
 #### CONTROL UNIT 
 We now own one Control Unit, this is in a cardboard box with lots of electronic sensors. It hasn't been used in demonstrations before.
@@ -120,9 +120,9 @@ The control unit screws into the depression on the bottom and the cable goes int
 
 
 #### VOLTY ROBOT
-This can be run alongside the turtle robots, or as it's own separate, smaller experiment (especially useful in space limited venues).
+This can be run alongside the turtle robots, or as its own separate, smaller experiment (especially useful in space limited venues).
 
-There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in a algorithm or flowchart.
+There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how to construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in a algorithm or flowchart.
 
 Once the circuit is completed, the command cards come into play. This helps the kids plan out coding Volty to follow the circuit. This is especially useful when you get to the more complicated diagram examples.
 
@@ -154,11 +154,11 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Check covering before beginning experiment and duct tape if needed. Call first aider in the event of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -168,11 +168,11 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Affected People**: Particularly demonstrator when handling batteries
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Don't use in rain. Call first aider in case of injury. Check batteries for signs of corrosion before demonstrating the experiment.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -182,12 +182,11 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Use on the floor or have barriers on tables.
-In the event of accident, call a first aider/mechanic.
+**Mitigation**: Use on the floor or have barriers on tables. In the event of accident, call a first aider/mechanic.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -197,11 +196,25 @@ In the event of accident, call a first aider/mechanic.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Don't use in thoroughfare and section off area for operation with hazard tape. Call first aider in the event of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (medium)
+
+<br/>
+
+### **Hazard**: Robots
+
+**Description**: Children could pick up robots and start trying to hurt each other with them.
+
+**Affected People**: Demonstratees
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+
+**Mitigation**: Monitor groups to ensure that the robot remains on the table / floor and that robots are not picked up and waved about. Call first aider in the event of accident.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -211,13 +224,11 @@ In the event of accident, call a first aider/mechanic.
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Laminated paper while possible, cards placed on the ground so minimal handling needed.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
-
-
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -238,3 +249,6 @@ In the event of accident, call a first aider/mechanic.
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 
+
