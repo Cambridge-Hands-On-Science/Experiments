@@ -2,7 +2,7 @@
 
 **A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.** - A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
  
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -278,4 +278,5 @@ Call first aider in case of injury.
 **Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
 
