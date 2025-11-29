@@ -2,7 +2,7 @@
 
 **(Brief Description)** - See how strong two interleaved books are
 
-Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -109,6 +109,6 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
