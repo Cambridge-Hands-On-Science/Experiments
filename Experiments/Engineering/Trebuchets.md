@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2024-12-27 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,6 +35,8 @@ The Challenge:
 
 Split the group into two teams. This could be two groups of children at schools or a child and their parents at events.
 Each team gets a trebuchet.
+*Note one of the trebuchets is currently broken (missing loading pin)
+
 Compete to try and launch the projectile the furthest or to get it into a box if space is limited.
 
 Optional challenge to beat the day's record.
@@ -80,12 +82,12 @@ The spagetti spoon end should be on the same side of the base which has the smal
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (Unacceptable)
 
 **Mitigation**: Instruct kids and demonstrators to fire the trebuchet by standing to one side and pulling out the firing pin. Do not let them stand over it and put their face in the way. Safety goggles should be available for anyone who wants them.
 In the event of an accident, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 <br/>
 
@@ -95,12 +97,12 @@ In the event of an accident, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Weight - has been made from nuts - no sharp edges and will deform on impact. Make sure small humans stand out of the way of the weight as it drops. Also don't let them be thrown/launched.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -110,12 +112,12 @@ Call first aider if required.
 
 **Affected People**: Mainly bypassers or observers
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Projectile - light rice bag, trebuchet designed to have limited range and velocity, and will not hurt on impact, even at high speeds. Make sure people do not stand in front of the trebuchets when firing - indicate firing zone with some hazard tape. Avoid busy areas/thoroughfares. If the area happens to get busy mid-demonstration, either ask people to evacuate the 'smash zone' or wait until they have moved.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -125,12 +127,12 @@ Call first aider if required.
 
 **Affected People**: Anyone operating the trebuchets
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Ends of firing pins should be sanded down to remove any sharp edges. Demonstrator to check edges are sufficiently blunt before using. Instruct people to hold firing pin by the pipe-cleaner. Demonstrator to check no pipe-cleaner ends are stick out.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -140,12 +142,12 @@ Call first aider if required.
 
 **Affected People**: Anyone operating the trebuchets
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: The supports are solid to reduce possibility of fingers being in way of arm. Given the launch position, it is highly unlikely that the person discharging the weapon will be at risk of this. Therefore, one must be aware of anyone else who may get in the way. Firing pins have string attached so trebuchet can be fired from a distance.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -155,12 +157,12 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Ensure all spare projectiles are near to the experiment, and don't end up in walkways. Preferably keep them in the box when not in use.
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -193,3 +195,6 @@ Call first aider if required.
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
