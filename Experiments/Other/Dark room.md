@@ -2,7 +2,7 @@
 
 **To be read before doing experiments in a dark room**
 
-Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 
 ## Tags
@@ -92,6 +92,7 @@ Some experiments are best performed in a dark room, read this RA in along with t
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
+
 ### **Hazard**: Falling from height during setup
 
 **Description**: During dark room setup, it will be necessary for committee members to stand om benches or chairs to tape up the dark room walls. They might accidentally fall down and injure themselves.
@@ -114,6 +115,6 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
