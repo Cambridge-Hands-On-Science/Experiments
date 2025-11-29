@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -119,14 +119,14 @@ If you can get hold of a computer – there is a really nice spinning female sil
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Use light professional display boards so they are not too heavy.
 Make sure the display boards are stable. Do not use them flat without taping them to something solid.
 Mark boards with highly visible stuff (e.g. hazard tape, white paper) if they are being used in the dark room.
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 <br/>
 
@@ -137,11 +137,11 @@ Could result in feeling ill, or wandering into walls / hitting things.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Monitor everyone, and stop if someone seriously expresses discomfort.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -166,3 +166,6 @@ Could result in feeling ill, or wandering into walls / hitting things.
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk), 
+
