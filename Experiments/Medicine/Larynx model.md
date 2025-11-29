@@ -74,11 +74,11 @@ I was running this model alongside the lung model, so after asking them why you 
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Close experiment immediately if small pieces become detached (it won't work then anyway). Do not let children play with experiments unattended. Advise parents to take child to A+E if an item is swallowed. Call a first aider immediately in the event of choking and encourage the child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -88,11 +88,11 @@ I was running this model alongside the lung model, so after asking them why you 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: If model breaks, close experiment immediately and remove broken models. Call a first aider in the event of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -102,11 +102,11 @@ I was running this model alongside the lung model, so after asking them why you 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (Medium)
 
 **Mitigation**: Reduce the finger-pinch hazard by ensuring the pump is placed on a flat surface (table/floor) and only allowing children to press the pump gently with the hands. Ensure fingers are free from the narrow end of the pump and do not let children hold the pump with both hands.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 <br/>
 
@@ -141,4 +141,5 @@ I was running this model alongside the lung model, so after asking them why you 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk), 
+
 
