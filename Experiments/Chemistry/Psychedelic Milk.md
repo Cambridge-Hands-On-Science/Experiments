@@ -2,7 +2,7 @@
 
 **See the amazing patterns made by food colouring and detergent in milk.** - A little milk, a little food dye, a little washing-up liquid... and an amazing display of colour. See the stunning swirling effects from disrupting the surface tension.
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -66,13 +66,13 @@ The bubbles in washing up liquid are not originally there - they get added becau
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: If children get their fingers in the washing up liquid, tell them not to put their fingers near their eyes and ensure they rinse it off.
 
 If washing up liquid gets into an eye, demonstrator must call a first aider and may perform an eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -82,13 +82,13 @@ If washing up liquid gets into an eye, demonstrator must call a first aider and 
 
 **Affected People**: All, particularly small children who try to ingest things
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Use a relatively harmless surfactant (standard washing up liquid) and watch the kids so they don't try to lick their fingers or drink any part of the experiment.  Food colouring probably shouldn't be ingested in large quantities, and the milk has likely been in the cupboard for a while.
 
 In the event of an incident, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -98,11 +98,11 @@ In the event of an incident, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: All spills should be cleared up immediately. Call first aider in case of injury. Don’t cry over it.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -136,4 +136,4 @@ In the event of an incident, call a first aider.
 
 **Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-20 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk), 
+**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
