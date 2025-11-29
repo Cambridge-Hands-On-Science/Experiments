@@ -2,7 +2,7 @@
 
 **Probabilities of rolling dice.** - Understanding the probabilities behind throwing pairs of dice.
 
-Last initially checked on 2025-01-12 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,12 +106,12 @@ Write the initials on each brick that someone places on the distribution and wat
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing. Do not use Lego with very small children and keep a close eye on the box of Lego and dice.
 If child swallows, call first aider and encourage child to cough if choking.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -121,12 +121,12 @@ If child swallows, call first aider and encourage child to cough if choking.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Keep an eye on where any dice go, and try to confine them to a desk or fixed area. Do not let multiple unattended children use dice at the same time. Quickly pick up any items which have fallen.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -156,4 +156,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk)
+
