@@ -2,7 +2,7 @@
 
 **Various demonstrations using a vacuum pump.** - The idea of a vaccum is very different to what we experience in everyday life, with some surprising consequences!
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -71,13 +71,13 @@ This leads nicely into the Vacuum bazooka experiment, which has a separate expla
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Use a polycarbonate desiccator as the chamber, as polycarbonate doesn't shatter. Check chambers for damage before using them. Don't put things inside the chamber.
 Can also use a metal vacuum chamber as this will not implode
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -87,14 +87,14 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: The exhaust from the pump is fitted with an air filter.
 If someone expresses discomfort (e.g. feels sick/dizzy) stop using the machine.
 Use outside / in a well ventilated area if possible.
 In the event of an accident/adverse reaction call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -104,12 +104,12 @@ In the event of an accident/adverse reaction call a first aider.
 
 **Affected People**: Visitors taking part in "tug of war" and anyone close by
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Don't allow "tug of war" in a confined space/area with risk of bumping into sharp objects/other hazards, sometimes best to make both parties sit down first. If group is (showing signs of becoming) over excited best for demonstrator to hold one end of the chamber to maintain control
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -143,5 +143,6 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
 
 
