@@ -2,7 +2,7 @@
 
 **A velcro apron with detachable 3D organs, to show what's inside your body.** - See if you can correctly place body organs using this wearable felt and velcro vest.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -87,6 +87,7 @@ The liver is able to regenerate to a certain extent, so you can donate part of y
 
 **Mitigation**: Don't let children lick the items / the vest.
 Wipe off spit etc if child drools over vest.
+Ensure vest has been washed before it is used.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
 
@@ -123,3 +124,6 @@ Wipe off spit etc if child drools over vest.
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 
+
