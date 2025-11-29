@@ -2,7 +2,7 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2025-01-17 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -114,12 +114,12 @@ An example lots of people like is Monopoly, it's an irreducible markov chain and
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing, but keep an eye out for children putting them in their mouths anyway.
 Call first aider if child swallows, if choking encourage child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -129,12 +129,12 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Keep the number of children playing the game on the giant cards under a sensible limit, I would suggest 8 at a time, and discourage them from running or any form of pushing and shoving.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -144,12 +144,12 @@ Call first aider in case of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Discourage people from actually stepping on the cards.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 2 (Low)
 
 <br/>
 
@@ -179,4 +179,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-17 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
