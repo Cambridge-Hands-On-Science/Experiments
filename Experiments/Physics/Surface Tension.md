@@ -2,7 +2,7 @@
 
 **Exploring surface tension through floating paperclips and racing boats** 
 
-Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,7 +31,7 @@ Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and doubl
 
  **Overview**   
 
-Showing that surface tension can support paperclips, but can be broken down by washing up liquid (surfactant) - this can be used to make 'boats' move across the water. This works well when demonstrated with psychedelic milk where you can see patterns forming with food colouring in milk due to flows driven by variations in surface tension. 
+Showing that surface tension can support paperclips, but can be broken down by washing up liquid (surfactant) - this can be used to make 'boats' move across the water. This works well when demonstrated with psychedelic milk (milk with food colouring in it) where you can see patterns forming with due to flows driven by variations in surface tension. 
 
 **What can you show with it?**   
 
@@ -110,13 +110,13 @@ TW - I believe this demo should also work if you use fountain pen ink (or other 
 
 **Affected People**: All, particularly small children
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Use safety scissors. Hand scissors to parents of small children. Supervise use at all times.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -126,13 +126,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Clean up spills quickly. Ensure mopping materials are available.
 
 In the event of an accident, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -142,13 +142,13 @@ In the event of an accident, call a first aider.
 
 **Affected People**: All, particularly small children who may try to ingest things
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Only use harmless surfactants; keep a track of where they are. Supervise the experiment well.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -159,7 +159,7 @@ Also possible that a small child could eat one.
 
 **Affected People**: Mainly small children
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Don't let children take paperclips away.
 Supervise use of all the objects in the experiment.
@@ -168,7 +168,7 @@ Don't use visibly broken and sharp paperclips.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -178,7 +178,7 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Be careful when using paper and cutting it up.
 
@@ -186,7 +186,7 @@ Cover up any wounds (either received during experiment or preexisting).
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -219,3 +219,6 @@ Call a first aider in the case of an injury.
 **Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-01-14 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-31 Rowan Ong (rzmo2@cantab.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
