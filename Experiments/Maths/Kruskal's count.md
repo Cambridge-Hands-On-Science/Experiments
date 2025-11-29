@@ -32,14 +32,15 @@ By placing cards on the floor in a circle and assigning a number of steps around
 
 You can then predict the future by laying out a whole deck of cards and predicting (with about 90% accuracy) what the last card they'll pick is.
 
-**Setup**
+### Setup
 You can either set up with standard or oversized cards. For the large ones spread the cards in a large circle, not every card needs to be used if space is limited, with plenty of space around the cards. For standard cards you can set up on a table, either in a circle or as multiple rows of around 8 cards, you may want to set up with cards in between or curving to make more of a snake shape as well so people know what to do when they reach the end of a row.
 If you need to skip cards for space you'll probably find leaving out picture cards saves the complication of explaining how to move on them.
 With the small cards duplo pieces can be used as placeholders. With the large cards, everyone can be their own placeholder, standing on the cards. (Warning, the whole point of this experiment is that everyone ends up on one card, so don't play with so many people that it becomes a scrum)
 
-**Explanation and Demonstrating**
+### Explanation and Demonstrating
 
-1st part. The circle
+**Part 1: The Circle**
+
 Much of the point of this experiment is that you can, with the children's instruction, vary the rules of the game somewhat to examine the effects. However a basic idea of the rules is et out here:
 
 Lay about half the deck on the floor in a circle (can use the whole deck, or even more than one, but the game will take longer and space is an issue), it doesn't really matter which cards go down, although lower cards will lead to a shorter game.
@@ -69,7 +70,13 @@ Why do we set a low value for all face cards, what happens when we increase it? 
 What about if you multiply all the step values by 2? Actually groups should form at the same rate as before, but you should eventually see two, roughly equal sized groups, unable to meet, as of course, if they are an odd number of cards away from each other there's no mechanism by which they'll come together.
 Once you've done this sometimes it's fun to try with multiplying by 3. People may feel that three groups should form however as 3 doesn't divide 52 you just end up moving further and still bunching up. It might increase the chance of independent cycles though. If they're really keen try 13 afterwards.
 
-2nd part. The ladder
+**Part 1 (alternative version)**
+
+I first saw this in a IB Markov Chains lecture by Ioannis Kontoyiannis.
+
+The numerical values of the cards are the same as before. At the beginning, everyone thinks of a number between one and ten. Then, deal the cards out slowly one by one. At each card dealt, everyone counts down mentally from their thought-of number. When they reach 1, they look at this card and use it as their new starting number. It is definitely worth doing a short example to make sure everyone understands how this works. With 2 decks, everyone is almost guaranteed to be on the same number by the end of the dealing due to many opportunities for coupling. (TODO: check exact probability.)
+
+**Part 2: The Ladder**
 
 After you've shuffled and layed out the deck, pick one of the first 9 cards and play the game, as before, reading the cards left to right, going down line by line like a book. (If there's space you can even lay them out in a very long line) When you go past the far end, take a note of the last card of the deck you were on (e.g. if you land on a five, with only three cards left, that's your card).
 
@@ -171,3 +178,5 @@ Call first aider in case of injury.
 **Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-17 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
