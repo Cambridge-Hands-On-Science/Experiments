@@ -22,7 +22,7 @@ Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and do
 - 
 - WARNING: STIRLING ENGINE MUST NEVER BE LUBRICATED WITH OIL. It will gum it up. Lubricate bearings with graphite from soft pencil only.
 
-- As of this update, only one of the stirling engines works. (you're welcome by the way - daniel)
+- As of this update, only one of the stirling engines works.
 
 <br/>
 
@@ -210,6 +210,7 @@ How can we make jet engines more environemtally friendly? (It is very difficult 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
 
 
 
