@@ -2,7 +2,7 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -136,4 +136,4 @@ Call a first aider in the event of an injury.
 
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), 
+**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
