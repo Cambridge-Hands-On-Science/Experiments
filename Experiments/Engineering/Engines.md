@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -97,12 +97,12 @@ Side Note: The model can be switched off and on such that it gets out of sync wi
 
 ### Jet Engine
 
-As of this update, the Jet Engine model has not been built yet. This section will need updating once the model is finished and I have decided what can be demonstrated with it. 
+As of this update, the Jet Engine model does not have a battery, however the key features of the model are visible- you just have to turn the fan yourself!
 
-The following is from wikipedia: 
+Turbofan engines (like our model) are an extension of turbojet engines (developed by Whittle in Cambridge! The Whittle lab is named after him). Turbojet engine work by drawing air into the front of the engine, mixing it with fuel and then burning the fuel. This increase the temperature and pressure of the gases in the combustion chamber, so when they are let out of the exhaust they are moving much faster than they were at inlet to the engine. The important thing here is that there has been an increase in the air momentum in the direction opposite to the aircraft travel- which produces a force on the engine. I explained this by getting the kids to think about the force they experience when shooting a bow and arrow.
 
-A turbofan engine is a gas turbine engine that is very similar to a turbojet. Like a turbojet, it uses the gas generator core (compressor, combustor, turbine) to convert internal energy in fuel to kinetic energy in the exhaust. Turbofans differ from turbojets in that they have an additional component, a fan. Like the compressor, the fan is powered by the turbine section of the engine. Unlike the turbojet, some of the flow accelerated by the fan bypasses the gas generator core of the engine and is exhausted through a nozzle. The bypassed flow is at lower velocities, but a higher mass, making thrust produced by the fan more efficient than thrust produced by the core. Turbofans are generally more efficient than turbojets at subsonic speeds, but they have a larger frontal area which generates more drag.[11]
-There are two general types of turbofan engines, low bypass and high bypass. Low bypass turbofans have a bypass ratio of around 2:1 or less, meaning that for each kilogram of air that passes through the core of the engine, two kilograms or less of air bypass the core. Low bypass turbofans often used a mixed exhaust nozzle meaning that the bypassed flow and the core flow exit from the same nozzle.[12] High bypass turbofans have larger bypass ratios, sometimes on the order of 5:1 or 6:1. These turbofans can produce much more thrust than low bypass turbofans or turbojets because of the large mass of air that the fan can accelerate, and are often more fuel efficient than low bypass turbofans or turbojets.
+Turbojet engines are inefficent- the speed of the exhaust is very high and most of the energy contained within the exhaust is lost. Therefore turbofan engines were developed to improve efficiency. To reduce the kinetic energy left in the exhaust jet, more air should be accelerated to a lower speed (thrust is proportional to both mass flow rate and change in velocity, but kinetic energy wasted in exhaust is proportional to mass flow rate and change in velocity^2^).
+
 
 <br/>
 
@@ -201,3 +201,4 @@ There are two general types of turbofan engines, low bypass and high bypass. Low
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+
