@@ -2,7 +2,7 @@
 
 **Modelling Evolution by Game Theory** - Simulate populations and explore stable and unstable equilibrium by using Game Theory to model animal behaviour in sharing a food supply.  
 
-Last initially checked on 2024-12-29 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -94,12 +94,12 @@ There are often questions which actually highlight the one major flaw in this mo
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing. Do not use Lego with very small children and keep a close eye on the box of Lego. This experiment is designed for CHaOS+ (i.e. 16+), so the risk of participants trying to eat the experiment should, hopefully, be very slim anyway when used for this.
 Call first aider if child swallows, if choking encourage child to cough. If the situation gets worse, i.e. child is suffocating and unable to cough the object out, call an ambulance immediately
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -109,12 +109,12 @@ Call first aider if child swallows, if choking encourage child to cough. If the 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: The pieces should be large enough that they don't present a large slip hazard. Be careful to keep pieces on the table and pick up anything that is dropped. Only use as many pieces as you need and keep the rest in the box.
 Call a first aider in case of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -124,12 +124,12 @@ Call a first aider in case of accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**Before Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 **Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first.
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -154,3 +154,4 @@ In case of injury call first aider.
 **Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+
