@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on...
+Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -162,6 +162,20 @@ In case of a child (or adult) tripping over, call first aider.
 
 <br/>
 
+### **Hazard**: Choking on perspex blocks
+
+**Description**: Children may try to swallow blocks and choke on them.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+
+**Mitigation**: Monitor children while they are holding the blocks, particularly if children are young. Remove blocks if children are behaving inappropriately with them. In event of choking, inform the first aider immediately.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+
+<br/>
+
 ### **Hazard**: Magnifying Glass
 
 **Description**: Kids (or demonstrators!) may set fire to paper or dry grass if very sunny.
@@ -206,4 +220,5 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), 
+**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+
