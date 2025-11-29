@@ -2,7 +2,7 @@
 
 **Using chromatography to investigate the colour of food.** - Using just water and bits of paper, split up the colours in pens and food colourings to see how they're made up of a mixture of differently coloured dyes.
 
-Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2025-01-01 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,15 +79,15 @@ Uses of chromatography.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (unacceptable)
 
 **Mitigation**: Explain to the children that the sweets are not clean, and that they should never eat any food used in an experiment/in the lab.
 
 Don't leave sweets unattended and/or in easy reach of children without supervision.
 
-If ingested, warn parents to seek medical advice if illness develops in their child after the event.
+If ingested, warn parents to seek medical advice if illness develops in their child after the event. Inform a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -97,13 +97,13 @@ If ingested, warn parents to seek medical advice if illness develops in their ch
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: Watch small children, and don't let them play with the sweets.
+**Mitigation**: Watch small children, and don't let them play with the sweets. Keep sweets out of reach of children.
 
 In the event of an accident, call first aider, who may perform the Heimlich if confident and trained to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -113,13 +113,13 @@ In the event of an accident, call first aider, who may perform the Heimlich if c
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Place plastic cup in a place where it won't be knocked over easily. Mop up any spilt water and pick up dropped papers immediately. Use wet floor sign if necessary.
 
 Call a first aider if an accident occurs.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -129,11 +129,11 @@ Call a first aider if an accident occurs.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator should be the only one to use the scissors and should cut the filter paper in advance. Use safety scissors if available and keep out of reach of the children (and preferably out of sight when not in use).
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -166,3 +166,6 @@ Call a first aider if an accident occurs.
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 
+
