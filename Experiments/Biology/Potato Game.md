@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk) 
+Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,12 +39,14 @@ How it works.
 
 Each farmer has one field in which they can plant potatoes in.
 They each start with £4000 in cold hard cash (monopoly money).
-The game will last three months, in each of which some potatoes will die.
-Each child will start with 20 small potatoes. Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
+The game will last three seasons, in each of which some potatoes will die.
+Each farm will start with 20 small potatoes. It works best to split the children into teams for each farm. 
+Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
 
 Players can opt for genetically modified disease-resistant potatoes. There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £2000 for resistant and £1000 for standard. Explain that both varieties are the same except the resistant potatoes have a chance to not get sick. 
-Players can then opt to spray pesticides or not spray, spraying will reduce their potato loss if disease hits. It costs £1000 to spray.
-Players can also opt for fertilisers, giving them an extra potato each round and immunity to poor soil conditions. This costs £1500. 
+Players can then opt to spray pesticides or not spray each season, spraying will reduce their potato loss if disease hits. It costs £500 to spray each season.
+Players can also opt for fertilisers each season, giving them an extra potato each round and immunity to poor soil conditions. This costs £500 each season.
+Players can also opt for sprinklers each season, giving them immunity to drought. This costs £500 each season.
 
 The catch - some people prefer organic potatoes, and will pay more for them if you let them grow without using any of the above! Each potato at the end of the game is worth £100 less for each of the above used - discuss at the end of the game why people think so and what the overall impact of each strategy is.
 
@@ -77,17 +79,18 @@ Plants get sick too! Unlike humans who have an immune system that can learn to f
     - Infected tubers (the bit we eat) develop dark patches that are brown beneath the skin and then rapidly decay into mush.
     - The disease caused the Irish Potato Famine (1845-57). Potatoes were the Irish staple crop and the loss caused over 1 million deaths and another 1 million people left Ireland due to the food shortages.
 
-If you chose disease resistant potatoes, congratulations! No potatoes lost. Otherwise, players draw one of three "resistance" cards and one of three "pathogen" cards. If the receptor on the resistance card matches the pathogen card, your crop can recognise the disease and fight it off! Otherwise, roll the dice to decide how many potatoes are lost. 
+If you chose disease resistant potatoes, congratulations! No potatoes lost. Otherwise (Optional), players draw one of three "resistance" cards and one of three "pathogen" cards. If the receptor on the resistance card matches the pathogen card, your crop can recognise the disease and fight it off! Otherwise, roll the dice to decide how many potatoes are lost. 
 
 
 
-At the end of the game (3 months) you should pay out for the potatoes left and see who's got the most money. Each potato with no controls used is worth £1000, deduct £100 from the price of each potato for each control measure used. 
+At the end of the game (3 seasons) you should pay out for the potatoes left and see who's got the most money. Each potato with no controls used is worth £1000, deduct £100 from the price of each potato for each control measure used. 
 
 Discuss why people think organic food is better e.g. belief that food is healthier, better for the environment etc. 
 Ask them if they think these thoughts are valid - some people think using special genetically modified crops to prevent disease would make the potatoes unhealthy, but no proof for this claim exists. 
 
 Pesticides and fertilisers - more complicated. Pesticides can be dangerous to human health, and there are many strict laws to prevent the use of more dangerous types. The types that are allowed break down into safer compounds, and there are strict laws on the maximum allowed to stay on food. Similar strict rules exist for fertilisers. If not properly used, both could cause damage to the environment - pesticides could enter the food chain, and fertiliser could cause eutrophication - discuss if these risks are worth the benefits - non-organic crops typically have higher yields, which also mean more people can be fed with less land being used, which may paradoxically mean that more of the environment is protected. Discuss which areas of the world are most affected by agricultural expansion and their views on how agriculture should progress. 
 
+For older children, you can discuss the implications of GMO crops. For example, the effects on subsistence farmers, with farmers not being able to use seeds from crops and instead having to re-buy seeds from agricultural companies every year. Also, the potential health effects - GMO crops are often used to increase nutrition (e.g. Golden Rice to combat vitamin A deficiency) but many groups have raised environmental/ethical/health concerns. Ask them these thoughts on using GMOs.  
 
 **How to Play**
 In a school you probably want to group into two teams (more than 3 players is fairly chaotic). Be careful of the potatoes as children will steal them.
@@ -139,3 +142,5 @@ There's also supply and demand which will factor in.
 **Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 
