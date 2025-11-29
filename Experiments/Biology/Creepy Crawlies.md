@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -164,4 +164,5 @@ If bitten, reassure that there probably won't be a problem, pull out any visible
 
 **Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), 
+**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+
