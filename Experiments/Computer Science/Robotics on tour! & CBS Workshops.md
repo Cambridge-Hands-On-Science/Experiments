@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2025-11-24 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on <em>date</em> by <em>person</em> (<em>email</em>).
+Last initially checked on 2025-11-24 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -270,6 +270,7 @@ Check that motors are properly sealed before setting up experiment, do not demon
 
 **Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-24 - Jesse Luo (jl2491@cam.ac.uk),
+**Check 1**: 2025-11-24 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+
 
 
