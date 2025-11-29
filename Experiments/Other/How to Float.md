@@ -2,7 +2,7 @@
 
 **Keeping demonstrators happy.**
 
-Last initially checked on 2025-11-23 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2025-1X-XX by XXXXX (XXXXX@cam.ac.uk)
+Last initially checked on 2025-11-23 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2025-11-29 by Jessica (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -103,11 +103,11 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Think about where you’re floating before you start – don’t stand in the middle of a thoroughfare or really close to somebody’s experiment. If you do find yourself in the way, try to take them to one side before you begin demonstrating. Taking a small experiment (i.e. oven shelf) that’s self-contained and portable will help you move easily!
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -117,11 +117,11 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Affected People**: Floater
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Make sure you’re on the lunch list! Get another floater/committee member to swap with you at a given time so you definitely get a lunch break. If you miss lunch, be sure to eat plenty of bounce!
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -131,11 +131,11 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Affected People**: Floater
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Don’t float with heavy experiments; pick something from the Floating box with the fancy tape. Read and sign RA for floaty experiment and mitigate risks accordingly.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -151,5 +151,6 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-1X-X - XXXXX (XXXXX@cam.ac.uk)
+**Check 1**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
 
