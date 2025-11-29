@@ -2,7 +2,7 @@
 
 **Looking at how materials fluoresce in UV light.** - The world looks different when it's lit by UV... see how you can use this type of light to make clothes look extra-bright, find out whether banknotes are real or fake, and revive dead glowsticks.
 
-Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and double-checked on 2025-01-31 by Rowan Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,7 @@ Last initially checked on 2025-01-14 by Lauren Mason (llm34@cam.ac.uk) and doubl
 <br/>
 
 ## Equipment Needed 
-- **Darkroom needed**
+- **Darkroom useful**
 - **Electricity needed**
 - Short blue box containing:
 - UV LED lamp
@@ -132,7 +132,7 @@ Why is there sunscreen in the box?
 ________
 **Bits of an old explanation- should all be in section above!**
 
-I start off trying to get the idea across, that UV is a colour, but you just can't see it..
+I start off trying to get the idea across, that UV is a colour, but you just can't see it...
 
 What colours are there in a rainbow? -> ROYGBIV..
 
@@ -179,13 +179,13 @@ This experiment often links well if placed near IR or demonstrated as a pair. Yo
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Use UVA LED light, which is less harmful, so much less harmful light.
 Warn users not to look directly at it. Avoid prolonged skin exposure. Ensure that if hands are at short distances directly under the lamp (<0.5 m), they don't remain there for longer than 5-10 mins. Minimise time drawing directly under lamp.
 In the event of an accident, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -195,12 +195,12 @@ In the event of an accident, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Place wires sensibly (not across middle of room), and put the UV light in a place it is not likely to get trodden on. Tape down if necessary.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -210,12 +210,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Washing powder to be kept in a sealed clear plastic tube.
 Call first aider in event of injury, who may perform an eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -226,12 +226,12 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: If children want to put sun cream on their skin, first make sure that they've previously used sun cream without allergic reaction.
 Call first aider in event of injury, who may perform an eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -241,12 +241,12 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Don't let children repeatedly play with and bend glowsticks.
 Make sure anyone in contact with the glow stick washes their hands immediately and clear up spillages before continuing. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -279,3 +279,6 @@ Make sure anyone in contact with the glow stick washes their hands immediately a
 **Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2025-01-14 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 
+
