@@ -2,7 +2,7 @@
 
 This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2025-11-26 by Maisie Howard (mah253@cam.ac.uk)
+Last initially checked on 2025-11-26 by Maisie Howard (mah253@cam.ac.uk) and double checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -82,7 +82,7 @@ Hollow Beam
 
 $$ I = \frac{wh^3 - w_{in}h_{in}^3}{12} $$
 
-An I-shaped beam is used by engineers because it can achieve a similar strength to a beam with a solid cross section but requires less material to make and is also lighter. Some manufacturers even go as far as to cut holes in the stem of the 'I'. The further away material is from the central axis of the beam, the more it contributes to the stiffness of the beam. This is why cross sections with a greater second moment of area give stiffer beams. The beam is an 'I' rather than an 'H' because this orientation of the beam provides the most resistance to elastic deformation when the beam is under a vertical load, which it usually is in service.
+An I-shaped beam is used by engineers because it can achieve a similar strength to a beam with a solid cross section but requires less material to make and is also lighter. Some manufacturers even go as far as to cut holes in the stem of the 'I'. The further away material is from the central axis of the beam, the more it contributes to the stiffness of the beam. This is why cross sections with a greater second moment of area give stiffer beams. The beam is an 'I' rather than an 'H' because this orientation of the beam provides the most resistance to elastic deformation when the beam is under a vertical load, which it usually is in service. (The letter I in this font doesn't illustrate the point of this at all, just imagine we were using serif font instead)
 
 <br/>
 
@@ -94,13 +94,13 @@ An I-shaped beam is used by engineers because it can achieve a similar strength 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Clear spaghetti debris from table throughout the experiment. Instruct kids to throw away spaghetti pieces as the experiment progresses rather than at the end. Also make sure fractured pieces are not held near the face. Do the experiment in a tray.
 
 Call a first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -110,13 +110,13 @@ Call a first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Clear spaghetti debris as much as you can throughout the experiment. As above, do the experiment in a tray to try to contain most of the shards.
 
 Call a first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -126,13 +126,13 @@ Call a first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Forewarn students and when bending spaghetti, bend away from self and away from others.
 
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -142,13 +142,13 @@ In case of injury call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Set-up on table to avoid toes. Have ‘drop zone’, no fingers under masses. Use light masses (10-50g) to avoid heavy masses hurting fingers.
 
 Call a first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -158,13 +158,13 @@ Call a first aider in event of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Instruct students to not eat the spaghetti. Use different strands for each student, and for each group.
 
 In case of contact, advise parents to take children to GP if illness develops.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 ### **Hazard**: Steel nuts 
@@ -173,11 +173,11 @@ In case of contact, advise parents to take children to GP if illness develops.
 
 **Affected people**: Demonstratees (young)
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Don't allow very young children to handle the steel nuts and keep a close eye on any children close to the table. Prevent anyone putting them close to their face. 
 
-**After Mitigation**: Likelihood: 1 Severity: 5, Overall: 5 (medium)
+**After Mitigation**: Likelihood: 1 Severity: 5, Overall: 5 (Medium)
 
 
 ## Risk Assessment Check History 
@@ -200,5 +200,6 @@ In case of contact, advise parents to take children to GP if illness develops.
 
 **Check 1**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk),  **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-26 - Maisie Howard (mah253@cam.ac.uk)
+**Check 1**: 2025-11-26 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
 
