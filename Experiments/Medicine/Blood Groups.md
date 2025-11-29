@@ -99,7 +99,7 @@ Your blood group is defined by your ABO group together with your RhD group. For 
 
 
 **Why is the Rhesus system important for pregnant ladies?**  
-Unlike A and B antibodies, RhesusD antibodies are not found in people who are RhesusD negative. Therefore they won’t react to RhesusD positive blood unless they have already been sensitised. If a RhD- mother has a RhD+ foetus (only possible if the father is RhD+), feto-maternal transfusion may occur during pregnancy/childbirth, causing the mother to produce anti-RhD antibodies. If the mother subsequently has a second Rh+ pregnancy, the anti-RhD antibodies can cross the placenta and cause agglutination and degradation of the red blood cells in the foetus. This causes ‘haemolytic disease of the newborn’, features of which include enlarged liver, spleen or heart in the foetus and anaemia, jaundice, enlarged organs and difficulty breathing in the newborn. To prevent this, RhD- mothers can be given IgG anti-D antibodies by intramuscular injection. These antibodies then cause destruction of foetal RhD+ blood cells before the maternal immune system can react to them. These are administered at 28 weeks of pregnancy, sometimes 34 weeks and within 72 hours of birth. This is passive immunity and wears off after 4-6 weeks so treatment is required with each pregnancy. 
+Unlike A and B antibodies, RhesusD antibodies are not found in people who are RhesusD negative. Therefore they won’t react to RhesusD positive blood unless they have already been sensitised. If a RhD- mother has a RhD+ foetus (only possible if the father is RhD+), feto-maternal transfusion may occur during pregnancy/childbirth, causing the mother to produce anti-RhD antibodies. If the mother subsequently has a second Rh+ pregnancy, the anti-RhD antibodies can cross the placenta and cause agglutination and degradation of the red blood cells in the foetus. This causes ‘haemolytic disease of the newborn’, features of which include enlarged liver, spleen or heart in the foetus and anaemia, jaundice, enlarged organs and difficulty breathing in the newborn. To prevent this, RhD- mothers can be given IgG anti-D antibodies by intramuscular injection. These antibodies then cause destruction of foetal RhD+ blood cells before the maternal immune system can react to them. These are administered at 28 weeks of pregnancy, sometimes 34 weeks and within 72 hours of birth. This is passive immunity and wears off after 4-6 weeks so treatment is required with each pregnancy. A new pharmaceutical is called RhoGam, which is an anti-Rh antibody that masks or eliminates Rh antigen before the mother has a chance to react to it. It may also induce lymphocyte tolerance by producing the antibody against the anti-Rh antibody.
 
 **Why do people have antibodies against the A and B antigens if they don’t have those antigens themselves?**  
 It's thought that blood groups are very similar to some bacterial/food sugars which act as antigens so you get cross reactivity. Because ABO antigens are expressed quite widely in tissues (all endothelium and all epithelial cells, and other cell types express the H antigen which is a precursor and can still react with antibody) your natural tolerance mechanisms kick in to protect the sugar you do have, but obviously not to the ones you don't.  
@@ -142,11 +142,11 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: All spills should be cleared up immediately, get children to be careful using pipettes. Call first aider in case of injury. Use wet floor sign if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -156,11 +156,11 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Remind people that the blood isn't real and ask them to tell you if they feel faint. Chair nearby for light-headed-feeling people ask them to sit down and remove 'blood' from line of site. If they feel very faint ask them to sit on the floor to remove risk of falling of chair. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -192,3 +192,4 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
 
+**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
