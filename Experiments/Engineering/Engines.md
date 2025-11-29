@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,7 +22,7 @@ Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and do
 - 
 - WARNING: STIRLING ENGINE MUST NEVER BE LUBRICATED WITH OIL. It will gum it up. Lubricate bearings with graphite from soft pencil only.
 
-- As of this update, only one of the stirling engines works.
+- As of this update, only one of the stirling engines works. (you're welcome by the way - daniel)
 
 <br/>
 
@@ -101,7 +101,7 @@ Side Note: The model can be switched off and on such that it gets out of sync wi
 
 As of this update, the Jet Engine model does not have a battery, however the key features of the model are visible- you just have to turn the fan yourself!
 
-Turbofan engines (like our model) are an extension of turbojet engines (developed by Whittle in Cambridge! The Whittle lab is named after him). Turbojet engine work by drawing air into the front of the engine, mixing it with fuel and then burning the fuel. This increase the temperature and pressure of the gases in the combustion chamber, so when they are let out of the exhaust they are moving much faster than they were at inlet to the engine. The important thing here is that there has been an increase in the air momentum in the direction opposite to the aircraft travel- which produces a force on the engine. I explained this by getting the kids to think about the force they experience when shooting a bow and arrow.
+Turbofan engines (like our model) are an extension of turbojet engines (developed by Whittle in Cambridge! The Whittle lab is named after him). Turbojet engines work by drawing air into the front of the engine, mixing it with fuel and then burning the fuel. This increases the temperature and pressure of the gases in the combustion chamber, so when they are let out of the exhaust they are moving much faster than they were at inlet to the engine. The important thing here is that there has been an increase in the air momentum in the direction opposite to the aircraft travel- which produces a force on the engine. I explained this by getting the kids to think about the force they experience when shooting a bow and arrow.
 
 Turbojet engines are inefficent- the speed of the exhaust is very high and most of the energy contained within the exhaust is lost. Therefore turbofan engines were developed to improve efficiency. To reduce the kinetic energy left in the exhaust jet, more air should be accelerated to a lower speed (thrust is proportional to both mass flow rate and change in velocity, but kinetic energy wasted in exhaust is proportional to mass flow rate and change in velocity<sup>2</sup>, so more mass accelerated less is better). This is done by using a big fan on the front of the engine - we can control quite precisly how much the air is accelerated using this fan. This big fan needs lots of energy to turn- so we use a central mass flow which passes through a combustion chamber and then some turbines which spin the big fan.
 
@@ -109,7 +109,7 @@ Turbojet engines are inefficent- the speed of the exhaust is very high and most 
 
 Why don't the blades in jet engines melt? (Single crystal blades so very little creep, lots of blade cooling, use nickel alloys because they have a high melting point)
 
-How can we make jet engines more environemtally friendly? (It is very difficult- batteries are too heavy for the strict weight requirements of planes, biofuels could work but there are concerns they may compromise food security, hydrogen is a point of lots of research. "Just put wind turbines on the plane to generate energy" won't work because wind turbines work by slowing down the air - the opposite of what we want to do!)
+How can we make jet engines more environemtally friendly? (It is very difficult - batteries are too heavy for the strict weight requirements of planes, biofuels could work but there are concerns they may compromise food security, hydrogen is a point of lots of research. "Just put wind turbines on the plane to generate energy" won't work because wind turbines work by slowing down the air - the opposite of what we want to do!)
 
 <br/>
 
@@ -209,7 +209,8 @@ How can we make jet engines more environemtally friendly? (It is very difficult-
 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
 
 
 
