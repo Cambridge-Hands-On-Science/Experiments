@@ -2,7 +2,7 @@
 
 **Plants - looking at germination, their structure and how they produce energy by photosynthesis** - nan
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-13 by Smiley Chan (scc93@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -67,12 +67,12 @@ Ideas to explain:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: See separate electrical parts risk assessment, keep microscope away from water as it is not required for this experiment.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -82,12 +82,12 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: If slides are broken, carefully collect/sweep up broken pieces, wrap in paper and dispose of carefully.
+**Mitigation**: Demonstrators should handle the mounting of slides and keep it away from children. If slides are broken, carefully collect/sweep up broken pieces, wrap in paper and dispose of carefully.
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -97,12 +97,12 @@ In case of injury, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Warn children to be careful, turn off lamp when not in use. If it's getting hot, put a cardboard shield around (but not touching) the lamp to prevent accidental contact.
 In case of accident, call a first aider and encourage children to run burns under tepid water for 10 minutes.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -112,11 +112,11 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 **Affected People**: Demonstrator/Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Ask parents if child is allergic to the plant we are using before beginning the demonstration. In case of adverse reaction, call a first aider. Tell children who have been touching soil to wash hands after experiment and supervise at all times so that children do not eat the sample. 
+**Mitigation**: Check beforehand for any allergens in demonstrators and ensure experiment allocations are appropriate. Ask parents if child is allergic to the plant we are using before beginning the demonstration. In case of adverse reaction, call a first aider. Tell children who have been touching soil to wash hands after experiment and supervise at all times so that children do not eat the sample. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -126,11 +126,11 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
-**Mitigation**: Have seedlings in plastic container, and use plastic plant pots. In case of injury, call a first aider.
+**Mitigation**: Have seedlings in plastic container, and use plastic plant pots (i.e. plastic cups). In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (low)
 
 <br/>
 
@@ -140,11 +140,11 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Avoid setting up so wires are in a walkway, tape down cables. In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -177,3 +177,5 @@ In case of accident, call a first aider and encourage children to run burns unde
 **Check 1**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-13 - Smiley Chan (scc93@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
