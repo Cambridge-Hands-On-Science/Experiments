@@ -2,7 +2,7 @@
 
 **(Brief Description)** - See how strong two interleaved books are
 
-Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
