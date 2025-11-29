@@ -2,7 +2,7 @@
 
 **Anatomical model of the ear, with removable parts.** - Use our large-scale model of the ear to discover how it enables you to hear sounds.
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-2025 by Marin Lee (ml2072@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-01-2025 by Marin Lee (ml2072@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -43,7 +43,7 @@ If the kids are really interested and know a lot already, you could talk a bit a
 ### **Ear Model**:
 
 What ears are for?  
-All our senses, ears, eyes etc there so we can get information from outside into our brains. In the case of ears we want to convert sound into something we understand, music, speech or whatever.
+All our senses, ears, eyes etc there so we can get information from outside into our brains. In the case of ears we want to convert sound into something we understand, music, speech or whatever. It is also used for balance, as part of the vestibular system.
 
 Sound:
 - The outside bit of ear's a funny shape, helping it to collect sounds and tell us a bit about where they are coming from. Sound makes the air vibrate, different sounds make it vibrate different amounts. This causes our ear drum to vibrate.
@@ -54,8 +54,8 @@ Ear drum:
 
 Bones in the ear:
 - Inside the ear we have the three smallest bones in our body. Think how much bigger this model is compared with our ears. 
-- The bones join the ear drum with the inside bit of our ear, they vibrate as well. They help make sure that as much of the energy from the sound outside gets passed into the inner bit of our ears as possible. 
-- There are also tiny muscles attaching to them that can help protect our ears against sounds that are too loud. 
+- The bones join the ear drum with the inside bit of our ear, they vibrate as well. They help make sure that as much of the energy from the sound outside gets passed into the inner bit of our ears as possible. This helps to overcome an impedence mismatch.
+- There are also tiny muscles attaching to them that can help protect our ears against sounds that are too loud.
 - The bones are called the malleus, incus and stapes (also known as the hammer, anvil and stirrup) because of their shape.
 
 Inside the ear:
@@ -64,20 +64,27 @@ Inside the ear:
 
 What happens in people who are deaf?
 - The message is lost somewhere along the way. Maybe the sound cant get to the eardrum because we have wax in our ears. We can get infections inside our ears behind our eardrums where the little bones are, if this gets filled with fluid the bones cant vibrate properly. Or the cells with hairs on or the nerves can be damaged so the message can't get from our ear to our brain.
+- To distinguish between conductive and sensorineural hearing loss, a Rinne test is used. The examiner places a tuning fork alternatively on mastoid process and ear canal (external auditory meatus). Conductive hearing loss impairs hearing through ear canal only but not bone. Sensorineural hearing loss impairs air conduction more than ear canal.
 
 ### **Balance**:
 
 Do we use our ears for anything else?
 - They help us to balance too, so even if we close our eyes we still have some idea of which way up we are. Get them to stand on one leg and close their eyes or something. What happens when they close their eyes? It's more difficult, so we need our eyes for balance, too.
 - There are little tubes filled with liquid at different angles, which are called semicircular canals. When we move, the fluid moves (bit like a spirit level?!). We can sense the fluid moving-that's how our brain knows that we're moving - can then help us balance movements. What happens when we get dizzy? We spin around lots so the fluids move round the tubes (use model), when we stop the fluid keeps moving for a bit after. So our ears think we're still moving, our eyes say we've stopped and our brains get confused. Similar idea in car sickness - when you look down at a book, your eyes start to think you're not moving, but your ears still think you are, so brain get confused again.
+- Structures called otolith organs are involved in balance, located within the cochlea of the inner ear. They have cilia of the hair cell embedded in a gel matrix that is denser than the surrounding fluid (endolymph). This means the cilia will 'lag behind' due to inertia, allowing angular or linear acceleration to be detected.
 
 ### **Other things to talk about**:
 
 Ever noticed ears going funny in tunnels/on aeroplanes?
-- Get them to breathe out, and then swallow while pinching the nose shut and with the mouth closed. There's a tube between our ear and throat that is normally closed but is opened when we yawn or swallow. It helps us by equalising the pressue in the inner ear and in the outside world, because if the air pressure (or better explain pressure without saying the word somehow!) around us is different to inside our ears our eardrum gets pulled in or pushed out, and opening the tube equalises the pressure, allowing the eardrum to return to its normal position. This is why sucking sweets helps when you go up in aeroplanes - I think because the sucking and swallowing causes the tube to open so the pressure difference is equalised frequently and so your ears don't 'pop'.
+- Get them to breathe out, and then swallow while pinching the nose shut and with the mouth closed. There's a tube between our ear and throat that is normally closed but is opened when we yawn or swallow, known as the Eustachian tube. It helps us by equalising the pressure in the inner ear and in the outside world, because if the air pressure (or better explain pressure without saying the word somehow!) around us is different to inside our ears our eardrum gets pulled in or pushed out, and opening the tube equalises the pressure, allowing the eardrum to return to its normal position. This is why sucking sweets helps when you go up in aeroplanes - I think because the sucking and swallowing causes the tube to open so the pressure difference is equalised frequently and so your ears don't 'pop'.
 
 What is sound?
 - Sound travels in waves. It's like when you throw a stone into a lake- waves travel from it. The stone is the sound (i.e. a word we say), and our words/music etc. can make waves in the air, just like the stone can make waves in water; the eardrum in our ear can then pick up the waves; our ear converts these waves into signals, they travel to the brain, the brain interprets them as words/music.
+
+Clinical conditions
+- Conduction deafness may be caused by wax, tympanic rupture due to grass seed
+- Nerve deafness may be congenital, especially in Dalmatians and white cats with blue eyes
+- Unilateral damage of the nerves for balance (vestibular VIII cranial nerve) may lead to human/animal rolling over, turning in circles, and nystagmus (slow drifting of eyes to lesion, fast phase back)
 
 <br/>
 
@@ -89,13 +96,13 @@ What is sound?
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Do not let children play with experiments unattended. 
 
 Call first aider in case of ingestion and encourage the child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -105,13 +112,13 @@ Call first aider in case of ingestion and encourage the child to cough.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Remove broken models. 
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -121,13 +128,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Sharp points filed down to be as safe as reasonably possible. 
 
 Call a first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -160,3 +167,5 @@ Call a first aider in case of injury.
 **Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
