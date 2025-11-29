@@ -2,7 +2,7 @@
 
 **Learn about codes and ciphers** - Learn about codes and ciphers through a selection of demonstrations of different methods using whiteboards and padlocks. 
 
-Last initially checked on 2025-01-27 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on (Date) by (name) (email)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -64,7 +64,7 @@ Quantum Cryptography (PLUS)
 
 ## Experiment Explanation 
 
-Firstly this is a large selection of small demos, each one is relatively fun and some link together well. They start off relatively easy however some of the demos at the end are really quite hard.
+Firstly this is a large selection of small demos, each one is relatively fun and some link together well. They start off relatively easy however some of the demos at the end are really quite hard. Note that currently almost all equipment for PLUS experiments are missing and as such you may wish to focus on the non-PLUS demos.
 
 The main thing you'll get confused about is this technicality 
 
@@ -76,7 +76,7 @@ This means lots of things we call codes are ciphers!
 
 #### Morse 'code' (actually a cipher)
 Press down on the morse code clicker (which should be connected to the buzzer) and make a buzz, using the morse code translation table you can transmit messages. Get one person to transmit and the others to try and transcribe the message.
-The clicker conrols a buzzer and an LED at the same time (though if the buzzer is getting annoying, the circular switch turns it off so only the LED is triggered).
+The clicker controls a buzzer and an LED at the same time (though if the buzzer is getting annoying, the circular switch turns it off so only the LED is triggered).
 
 Most competent transmitters can manage 40 words per minute and the record is 75.2wpm. However as words and characters have different lengths this is just an average!
 
@@ -186,11 +186,11 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
-**Mitigation**: Make sure children don't get too over excited and call a first aider in the event of an incident.
+**Mitigation**: Make sure children don't get too over excited and call a first aider in the event of an incident. Laminated instruction sheets will help
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -200,53 +200,71 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Make sure power is low (i.e. small battery) and people don't try and make connection using a finger (especially not when wet).
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+
+<br/>
 
 ### **Hazard**: Stick Flags
 
-**Description**: Someone coild be poked by the sticks in the semaphore flags
+**Description**: Someone could be poked or hit by the sticks in the semaphore flags
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
-**Mitigation**: Sand down the points on the flags, encourage people using them to be careful
+**Mitigation**: Sand down the points on the flags, encourage people using them to be careful and monitor for bad behaviour
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
-
-<br/>
-
-### **Hazard**: Persons padlocked together.
-
-**Description**: Persons padlocked together indefinitely.
-
-**Affected People**: Public
-
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
-
-**Mitigation**: Make sure padlocks have working keys before use. Make sure kids don't mess with them.
-
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 4 (medium)
 
 <br/>
 
-### **Hazard**: Padlock.
+### **Hazard**: Paper Telephones
 
-**Description**: Fingers caught in padlock.
+**Description**: Possible strangulation from the strings in the paper telephone
+
+**Affected People**: All - likely demonstratees
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+
+**Mitigation**: Encourage people using telephones to be careful and monitor for bad behaviour
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+
+<br/>
+
+### **Hazard**: PLUS - Padlocks
+
+**Description**: Fingers caught in padlock. Persons could accidentally become padlocked together
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
-**Mitigation**: Ensure padlocks not messed with: keep hold of them when not being used.
+**Mitigation**: Ensure padlocks not messed with: keep hold of them when not being used. Make sure padlocks have working keys before use.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (low)
 
 <br/>
+
+### **Hazard**: PLUS - Diffie-Helmann: Water
+
+**Description**: Risk of spilling water and slipping
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+
+**Mitigation**: Do not fill cups to the brim. Keep cups near the center of tables to minimise chance of them falling off the edge. Monitor children to make sure they do not dip their fingers into the cups or grab the cups.
+
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+
+<br/>
+
+Diffie-Helmann
 
 ## Risk Assessment Check History 
 
@@ -261,5 +279,8 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-27 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 
+
 
 
