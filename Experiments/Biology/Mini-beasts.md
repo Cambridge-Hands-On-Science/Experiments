@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -63,6 +63,8 @@ h. Hydra. Freshwater animals. A few mm long. Tubular body, anchored at one end a
 
 i. Algae. Simple plant-like creatures. Some unicellular, others multicellular. Can photosynthesize. Bottom of lots of food chains.
 
+j. Compare how the different organisms might feed. What features do different organisms have that can tell you this?
+
 <br/>
 
 ## Risk Assessment
@@ -75,7 +77,7 @@ i. Algae. Simple plant-like creatures. Some unicellular, others multicellular. C
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Do not let children eat organisms. Remind them to wash hands afterwards if they have touched apparatus. Make sure any wounds are covered by a plaster. Only let older children move the petri dish. Keep stocks away from children. We only use protozoa from standard school suppliers.
+**Mitigation**: Do not let children eat organisms. Remind them to thoroughly wash hands afterwards if they have touched apparatus. Make sure any wounds are covered by a plaster. Only let older children move the petri dish. Keep stocks away from children. We only use protozoa from standard school suppliers.
 If ingestion occurs, advise family to see GP if signs of sickness are shown and provide notes of what was ingested.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
@@ -173,4 +175,5 @@ If person gets a burn, run tepid water over affected area for at least 10 minute
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk) , 
+**Check 1**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk)
+
