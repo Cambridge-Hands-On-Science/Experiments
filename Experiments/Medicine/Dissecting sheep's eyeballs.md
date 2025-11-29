@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (ig419@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -40,15 +40,17 @@ STEP 1: Look at intact eye:
 
 - Curvature of cornea - also acts like a lens, but we can't change its shape like we can the lens inside the eye to focus on objects. In humans, the cornea contributes about 2/3 of the eye’s total refractive power (ability to focus light).
 
-STEP 2: Cut around the junction between the cornea and the scelera to remove the cornea:
+STEP 2: Cut around the junction between the cornea and the sclera to remove the cornea:
 
 - Can then see the iris lying on top of the lens.
 
-- Pupil just a hole, can change its size to let more or light in. So when you’re in a dark room need bigger pupils to get more light to see things. When you’re in bright light it need to be smaller to stop the light damaging inside your eyes. It’ s the iris that actually changes the size of the pupil. There are tiny muscles attached to the iris inside the eye that contract and relax to change the size of the pupil. 
+- Pupil just a hole, can change its size to let more or light in. So when you’re in a dark room need bigger pupils to get more light to see things. When you’re in bright light it need to be smaller to prevent saturation of rods. There are tiny muscles called circular and radial muscles that changes the size of the pupil. 
 
 - This is a reflex (you don’t have to think about making your pupil bigger, it just happens!). A good way to demonstrate this is in front of a mirror in a bright room. If you cover your hand over one eye and then move it away quickly you will see your pupil shrink as it is exposed to bright light from under the shadow of your hand. 
 
 - ‘Red-eye’ in photos happens because the flash makes the iris constrict, but not quickly enough to stop most of the bright light entering the eye. The light from the flash goes into the eye and reflects off the retina at the back of it, making the pupil appear bright red.
+
+- Green eye seen in animals in the dark, however, is due to the tapetum lucidum, a reflective structure behind the retina that improves the sensitivity of their eye in the dark.
 
 STEP 3: Cut the globe in half (coronal slice - so cornea on one half, optic nerve on the other):
 
@@ -62,11 +64,11 @@ STEP 5: In the back half of the eye:
 
 - See where the optic nerve leaves – ask the child where it goes (to the back of the brain where the visual cortex is). This is an opportunity to talk about the function of nerves if the child is keen.
 
-- The point where the optic nerve leaves is called the blind spot. There are no light sensitive cells here so you are actually blind in this bit of your eye. You can talk here about when Mum/Dad is driving the car and they have to turn around to check their blind spot before overtaking. 
+- The point where the optic nerve leaves is called the blind spot. There are no light sensitive cells here so you are actually blind in this bit of your eye. You can talk here about when Mum/Dad is driving the car and they have to turn around to check their blind spot before overtaking. This structure is also known as the optic disc, where the retina attaches to the eye.
 
 - See that it’s dark; this is so it absorbs the maximum amount of light
 
-- In sheep's eye there’s an iridescent coloured part, called the tapetum lucidum (‘bright carpet’ in Latin), just behind the retina. It reflects light back to the retina, increasing the amount of light that the retina receives. This helps animals such as the sheep to see better at night. We don’t have a tapetum lucidum so we can hardly see at all in the dark. Ask the child if they have ever seen a photo of their/their friend’s cat/dog. Animal’s eyes often appear to glow blue, yellow or green in photos because of the light from the flash reflecting off the coloured tapetum.
+- In sheep's eye there’s an iridescent coloured part, called the tapetum lucidum (‘bright carpet’ in Latin), just behind the retina. It reflects light back to the retina, increasing the amount of light that the retina receives. This helps animals such as the sheep to see better at night. We don’t have a tapetum lucidum so we can hardly see at all in the dark. Ask the child if they have ever seen a photo of their/their friend’s cat/dog. Animal’s eyes often appear to glow blue, yellow or green in photos because of the light from the flash reflecting off the coloured tapetum. This increases sensitivty, but decreases resolution. This is because a blurred image can be produced as a result of the rod cones sensing the photons that rebounces off the retina at an angle.
 
 
 ***OTHER THINGS TO TALK ABOUT***
@@ -83,6 +85,8 @@ Cones are used to see colour.
 Rods are used when it is darker.  
 The retinal cells contain a photopigment (opsins) that absorbs light and produces an electrical signal.
 
+Colour vision is achieved by comparing the ratio of activation of the three different cones, instead of the absolute activation of a certain cone. This is because cones are activated over a range of wavelengths, and the wavelength ranges for different cones overlap each other. This is called the principle of univariance. (Drawing a diagram would be useful)
+
 <br/>
 
 ## Risk Assessment
@@ -93,13 +97,13 @@ The retinal cells contain a photopigment (opsins) that absorbs light and produce
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Demonstrator to wear eye protection and to ensure that cutting does not take place close to where children are standing, especially during the first incision, when spurting is possible. Nitrile or neoprene gloves (NOT LATEX) to be worn by all who might touch the eyeballs.
 
 Call first aider if preservative goes in eyes. Demonstrator can administer eye wash if trained and confident to do so. Wash preservative off skin with ample water.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -109,13 +113,13 @@ Call first aider if preservative goes in eyes. Demonstrator can administer eye w
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (Medium)
 
 **Mitigation**: Two demonstrators present, one to demonstrate, the other to mainly check that children aren't trying to take things or get hold of scalpels etc, and to look after people who faint. 
 
 If equipment gets stolen, assisting demonstrator to relocate it and inform committee (especially if a scalpel has been taken).
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -125,11 +129,11 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Clearly signed and "separated" area for dissection, to keep away squeamish people. Chair nearby for light-headed-feeling people - may be preferable for them to sit on the floor as people can still faint off chairs. Call a first aider in case of fainting. Before starting demonstration, tell the public to let you know if they are feeling light-headed. 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -139,11 +143,11 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Wear gloves and cover any wounds on the hands with a bandage. Wash hands before and after demonstration. 
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
  
 <br/>
 
@@ -153,11 +157,11 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (Unacceptable)
 
 **Mitigation**: Scalpels to be kept out of way of kids, demonstrator to be experienced and takes care. Call first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -191,3 +195,4 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
 
+**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
