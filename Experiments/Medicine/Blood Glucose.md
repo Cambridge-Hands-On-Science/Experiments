@@ -2,7 +2,7 @@
 
 Learn about diabetes and try using a handheld blood glucose meter.
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-01-19 by Jeovana Ip (jci25@cam.ac.uk) and double-checked
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -110,7 +110,7 @@ Not quite – it’s sort of half of one! The aim of an ‘artificial pancreas�
 
 **Can’t we test real blood?**
 
-No! Good opportunity to talk about blood-borne diseases, blood and sharps safety. 
+No! Good opportunity to talk about blood-borne diseases (HIV/AIDS), blood and sharps safety. 
 
 
 <br/>
@@ -123,11 +123,11 @@ No! Good opportunity to talk about blood-borne diseases, blood and sharps safety
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: All spills should be cleared up immediately. Call first aider in case of injury. Use wet floor sign if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -137,12 +137,12 @@ No! Good opportunity to talk about blood-borne diseases, blood and sharps safety
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Red food dye is used, rather than realistic fake blood. Remind people that the blood isn't real and ask them to tell you if they feel faint. Chair nearby for light-headed-feeling people (although asking them to sit on the floor is better - fainted people fall off chairs). In case of faintness, ask person to sit or lie down and remove fake blood from line of sight. 
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -152,11 +152,11 @@ In case of injury call first aider.
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Do not crush tablet in glass containers, use plastic containers if available. Secure container with hand (or otherwise) while crushing to avoid breakage. Make sure your fingers are out of the way before crushing tablets. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -187,3 +187,5 @@ In case of injury call first aider.
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-04 - Emily Wolfenden (elw74@cam.ac.uk)
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
