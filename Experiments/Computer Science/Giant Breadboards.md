@@ -2,7 +2,7 @@
 
 **Make circuits using giant components** - Explore circuit basics, different components, logic gates, speakers, buzzers and build your own heat alarms and more.
 
-Last initially checked on 2025-01-23 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on (date) by (name) (email)
 
 ## Tags
 
@@ -82,11 +82,11 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Tell people to stand well back before powering the fan, and only use one battery pack to limit the speed and the height it reaches.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -96,25 +96,25 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 **Affected People**: All, particularly demonstrators
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
-**Mitigation**: Remove batteries from the battery boxes when not in use.
+**Mitigation**: Remove batteries from the battery boxes when not in use. Don't demonstrate this experiment outside in the rain.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
 ### **Hazard**: Using excessive voltage or current.
 
-**Description**: This could cause components to get damaged and have to be replaced. In the worst case, an overvolted capacitor could explode causing injury, although this is very unlikely with the small capacitors and voltages used.
+**Description**: This could cause components to overheat and get damaged and have to be replaced. In the worst case, an overvolted capacitor could explode causing injury, although this is very unlikely with the small capacitors and voltages used.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Only use one battery pack at a time wherever possible. Preferentially use the grey battery packs with the built-in 500 mA fuses. Always install a 100 Ω current-limiting resistor in series with any LED.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -124,11 +124,11 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Do not use this equipment out until it has been made into something more complete. Leave it in the bag.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -138,14 +138,17 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Only use 1.5V AA batteries, not power supplies and definitely not mains power! Where possible, use only one battery pack and preferentially use the ones that have integrated 500 mA fuses.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 ## Risk Assessment Check History
 
 **Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**:
+
