@@ -2,7 +2,7 @@
 
 **Working model of the lungs with diaphragm and rib cage.** - Use our interactive model to find out how we breathe.
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -75,12 +75,12 @@ Then onto how the model works…
 
 **Affected People**: All, particularly demonstrator when moving experiment
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Discourage public from handling the wooden frame, look for any rough edges and apply sandpaper/tape as necessary. When moving the experiment, do not put fingers near articulated gaps.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -90,14 +90,14 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Pump is 12V so this is negligible.
 Make sure power supply is PAT tested.
 In case of accident, switch off the pump and call a first aider.
 Refer to Electrical Parts RA
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -107,11 +107,11 @@ Refer to Electrical Parts RA
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low)
 
 **Mitigation**: Warn children not to breathe too heavily or hold their breath. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -143,4 +143,6 @@ Refer to Electrical Parts RA
 
 **Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **CHeck 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk),
