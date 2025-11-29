@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2024-12-21 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-25 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -52,7 +52,7 @@ Get children to walk over the bridge, then ask them questions. On a busy day you
 
 What holds up the roadway? You can unclip it to show that it hangs from the sagging cables. Suspension means hanging.
 
-How does it work? Have one child stand in the middle of the bridge. He's pushing down on the roadway because he's heavy. What holds up the roadway? It's hanging from the sagging rope. Pushing and pulling forces - the rope is being pulled. Trace tension in rope over the piers and down into the ground. Get them to touch the various cables feel the different tensions. Ropes are anchored to the ground by the stakes so they have something to pull on. What would happen if we took out the stakes? Which way do the wooden piers get pushed (down into the ground).
+How does it work? Have one child stand in the middle of the bridge. Their weight is pushing down on the roadway. What holds up the roadway? It's hanging from the sagging rope. Pushing and pulling forces - the rope is being pulled. Trace tension in rope over the piers and down into the ground. Get them to touch the various cables feel the different tensions. Ropes are anchored to the ground by the stakes so they have something to pull on. What would happen if we took out the stakes? Which way do the wooden piers get pushed (down into the ground).
 
 Why do we have the rope sagging and not taught horizontal? Use a seperate rope with a weight in the middle. One child holds each end. Ask them to raise the weight into the air by pulling on the ends of the cable. Need to pull very hard to get the rope horizontal. Why? Because they're pulling sideways but they're trying to pull the weight upwards. So most of their pulling is wasted. Much easier if the rope is sagging.
 
@@ -74,7 +74,7 @@ Talk about tension and compression. Rope is good under tension, brick cracks und
 
 ### **Science background for demonstrators**
 
-'Why' suspension bridges are a good idea is to do with the stability of tension - no need to waste strength and weight resisting buckling, so can make lighter and hence longer spans. Resistance to buckling is mostly a geometric effect. We really need a good demo to communicate this. This is in contrast to the strength of materials in tension and compression - most do better in compression as cracks are such a big problem in tension.
+'Why' suspension bridges are a good idea is to do with the stability of tension - no need to waste strength and weight resisting buckling, so can make lighter and hence longer spans. Resistance to buckling is mostly a geometric effect. We really need a good demo to communicate this. For now you can show that a piece of A4 paper held out in front of you horizontally won't sag if you make it into a tube, but will if you leave it flat. This is in contrast to the strength of materials in tension and compression - most do better in compression as cracks are such a big problem in tension.
 
 'How' they work is a matter of vector addition of forces. When explaining on tour, I used a knot with three strands of rope coming from it. That was enough for a very basic feel for what is happening, but I would really like something with springs in it to demo the actual vector addition, explain resolving into components and so on (i have an idea using some peg-board and newton-meters to do this, but making the geometry of the vector addition clear will be a real challenge).
 
@@ -92,12 +92,12 @@ Suspension bridges aren't used for trains because they can apply such concentrat
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (Unacceptable)
 
 **Mitigation**: When PUTTING UP, mark the pegs and/or stakes with hazard tape, and, if they are in an exposed position, cover them with boxes. Cover stakes with a cut-open tennis ball to provide cushioning.
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 <br/>
 
@@ -107,12 +107,12 @@ Call a first aider in the event of an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: The bridge must be PUT UP under the supervision of someone suitably experienced. It must be put on level ground, and pegged down adequately (or tied to an adequately fixed object). The piers must be attached to the rope so that their tops can't slide. The DEMONSTRATOR must be aware that the bridge can fall sideways if pushed hard, or swung on. The bridge must be closed if it's fallen or partly fallen or about to fall.
 Call first aider/999 if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 <br/>
 
@@ -122,7 +122,7 @@ Call first aider/999 if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: The bridge should not be PUT UP on a hard surface. Grass is preferable, or mats may be used. The DEMONSTRATOR must supervise children carefully while crossing, and be ready to catch very small children if the parent isn't.
 
@@ -132,7 +132,7 @@ Anyone tangled in the ropes may need to be untangled.
 
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 <br/>
 
@@ -142,13 +142,13 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: The crossbars should be covered with hazard tape when PUT UP, and more hazard tape tied on slightly below, to make them obvious.
 
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -158,13 +158,13 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: The rope and weight should be put safely out of the way - e.g. under the bridge - when they aren't being used by the DEMONSTRATOR.
 
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -174,13 +174,13 @@ Call first aider if required.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: The bridge is designed to minimize this problem. The DEMONSTRATOR should keep children away from the underside while it's in use, and warn that karabiners can pinch during assembly.
 
 Call first aider if required.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -215,3 +215,6 @@ Call first aider if required.
 **Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk),**Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk),**Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
