@@ -43,12 +43,14 @@ The game will last three seasons, in each of which some potatoes will die.
 Each farm will start with 20 small potatoes. It works best to split the children into teams for each farm. 
 Explain the potatoes are worth £1000 each when sold (they are very special potatoes).
 
-Players can opt for genetically modified disease-resistant potatoes. There are a series of "resistant" flags which will denote who has planted resistant potatoes. It costs £2000 for resistant and £1000 for standard. Explain that both varieties are the same except the resistant potatoes have a chance to not get sick. 
+Players can opt for genetically modified disease-resistant potatoes. There are a series of "resistant" flags which will denote who has planted resistant potatoes. It could be good to play a game, using these cards, such as a matching game where theu turn over the cards and try to match them. 
+
+It costs £2000 for resistant and £1000 for standard. Explain that both varieties are the same except the resistant potatoes have a chance to not get sick. 
 Players can then opt to spray pesticides or not spray each season, spraying will reduce their potato loss if disease hits. It costs £500 to spray each season.
 Players can also opt for fertilisers each season, giving them an extra potato each round and immunity to poor soil conditions. This costs £500 each season.
 Players can also opt for sprinklers each season, giving them immunity to drought. This costs £500 each season.
 
-The catch - some people prefer organic potatoes, and will pay more for them if you let them grow without using any of the above! Each potato at the end of the game is worth £100 less for each of the above used - discuss at the end of the game why people think so and what the overall impact of each strategy is.
+The catch - some people prefer organic potatoes, and will pay more for them if you let them grow without using any of the above! Each potato at the end of the game is worth £500 extra when none of the above are used - discuss at the end of the game why people think so and what the overall impact of each strategy is.
 
 Next, spin the wheel to determine the scenario. 
 
@@ -96,6 +98,8 @@ For older children, you can discuss the implications of GMO crops. For example, 
 In a school you probably want to group into two teams (more than 3 players is fairly chaotic). Be careful of the potatoes as children will steal them.
 
 If you try and play it properly you probably want some mechanism to restict acess to resistant potatoes (only so many bags of each) and fertilizer (only bags for half). Otherwise everyone kind of ends up with the same number as they all do the same thing.
+
+It could be good if there are two groups - one with organic and one with non-organic potatoes - to facilitate discussion of comparisons between them.
 
 **Game Explanation** 
 The game works on the assumption that you can grow 50 tonnes of potatoes per hectare and the crop value is £200/tonne. Each fake potato is 0.5 tonnes. For advanced groups you could talk about changing these paramaters. What would happen if there was a collapse in potato prices over the growing season, what factors do you think would cause this?
