@@ -2,7 +2,7 @@
 
 **Plant evolution timeline and matching plants with their pollinators** - Find out where plants come from and how their form is shaped by the pollinators interacting with them.
 
-Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-02-08 by Smiley Chan (scc93@cam.ac.uk)
+Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-29 by Adam Carreyette (ac2736@cam.ac.uk)
 
 ## Tags
 
@@ -300,4 +300,5 @@ In case of injury, call a first aider.
 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk)
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-29 - Adam Carreyette (ac2736@cam.ac.uk)
+
