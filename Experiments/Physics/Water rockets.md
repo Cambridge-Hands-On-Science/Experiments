@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle water rockets with a foot pump.** - Try not to get wet as you fire water-powered rockets into the air. Who can shoot it the highest?
 
-Last initially checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk) and double-checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk).
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by.
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -82,7 +82,7 @@ The more taut the rope is, the less friction the rocket will experience and the 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (Unacceptable)
 
 **Mitigation**: Keep people away from the rope (which the rocket travels on) by blocking off any area where the rope is below head height with chairs, hazard tape or similar. Make sure the person launching the rocket doesn't lean into its path (try to keep the pump as far away from the rocket as the hose will allow - we have lengthened the hose to make this job easier). Also locate the experiment sensibly, bearing in mind walkways that people will want to use in the venue, roads etc and wind direction.
 
@@ -94,7 +94,7 @@ If using the rope to limit range, the areas in which the rocket might land (acco
 
 It is the responsibility of the demonstrator to ensure that the area is clear and there is no chance of the rocket straying into the path of anyone.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -104,12 +104,12 @@ It is the responsibility of the demonstrator to ensure that the area is clear an
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Check bottle for cracks and other damage before use. Any damaged bottles should be cut or marked to show they cannot be used if they cannot be disposed of immediately. Only use 2L "fizzy drink" bottles (Coke, Fanta, etc.) not bottles for still drinks which are not (always) suitable for pressurising.
 In the event of an accident call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -119,11 +119,11 @@ In the event of an accident call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
 **Mitigation**: Area is fenced off to prevent people from getting too near the bottle, ensuring people do not get too close to the rope as well. Keep rope ends tucked away and off the ground if possible.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -133,13 +133,13 @@ In the event of an accident call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10
+**Before Mitigation**: Likelihood: 5, Severity: 2, Overall: 10 (High)
 
 **Mitigation**: Do the experiment outside on a surface that can take water. If done on a surface which can get slippery, keep a mop close to hand and cordon off the area. If done on grass, stop/relocate the experiment if the area becomes too muddy.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -174,3 +174,6 @@ Call a first aider in the case of an injury.
 **Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
