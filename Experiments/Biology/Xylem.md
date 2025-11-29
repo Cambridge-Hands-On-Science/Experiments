@@ -87,12 +87,12 @@ At various points in the talk, you have the opportunity to bring in the microsco
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Warn demonstrator of risk, remove scalpel before public arrive.
 Call first aider in event of cut. If scalpel goes missing, assist demonstrator in finding it and inform committee.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -102,12 +102,12 @@ Call first aider in event of cut. If scalpel goes missing, assist demonstrator i
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 **Mitigation**: Use food colourings easily available in supermarkets (non-toxic etc). Also source plants from consumer supplier. Advise the public not to touch.
 Call first aider if food colouring goes in eyes. Demonstrator can administer eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -117,12 +117,12 @@ Call first aider if food colouring goes in eyes. Demonstrator can administer eye
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: If possible, use a plastic vessel rather than a glass one. Keep containers on a stable surface, away from the edge.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -132,12 +132,12 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Set up experiment away from other power cords, have cloths/towels on hand to clear up spillage.
 In the event of spillage, ensure any electrical equipment within reasonable radius of the spill is switched off.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -172,6 +172,7 @@ In the event of spillage, ensure any electrical equipment within reasonable radi
 **Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 Isobel Gilham (ig419@cam.ac.uk) 
 
 **Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 
+
 
 
 
