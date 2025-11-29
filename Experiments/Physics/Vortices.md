@@ -2,7 +2,7 @@
 
 **Make smoke rings and see how they form** - Experiments with smoke rings and tornado formation.
 
-Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -89,12 +89,12 @@ In future, we could add a simple plug hole demo to this. Just a waterproof slope
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Clear up spills promptly. Make sure the bottles are firmly connected before inverting. 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -104,14 +104,14 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Clear up spills promptly. Isolate electrical equipment from the mains if it may have been affected.
 Try not to spin the water bottles close to the smoke machine, for example.
 In the event of an accident call a first aider. Switch off power supply to any equipment causing injury.
 See electrical RA
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -121,12 +121,12 @@ See electrical RA
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Pick up cups if scattered everywhere. Don't let people run around.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -136,12 +136,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Ensure it's kept away from naked flames, do not allow the build-up of too much smoke in an unventilated area (e.g. the darkroom tent!).
 In case of fire, follow standard procedures for fire (see venue RA). Evacuate area, use fire extinguisher only if safe to do so, call fire brigade.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -151,12 +151,12 @@ In case of fire, follow standard procedures for fire (see venue RA). Evacuate ar
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Move using the yoke (hanging bracket) if necessary. Place on a heat resistant surface. Let it cool down periodically. If burns occur run under tepid water.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -166,12 +166,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (Unacceptable)
 
 **Mitigation**: Minimise time machine is on for. Use in a well-ventilated area. Swap demonstrators on the experiment if required and warn spectators. Avoid breathing in the fumes.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -181,12 +181,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Do not run the machine for extended periods of time, or fire the air cannon too frequently. If smoke becomes too thick increase ventilation and cease demonstrating.
 Switch off power and call first aider in case of injury. In very poor visibility evacuate as if there were a fire (as per venue RA) opening windows and doors were possible to ventilate area.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -209,3 +209,6 @@ Switch off power and call first aider in case of injury. In very poor visibility
 **Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 – Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
