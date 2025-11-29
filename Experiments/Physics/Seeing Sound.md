@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by X
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,13 +106,13 @@ Recorders (and suchlike) produce standing waves of air in the tube. The concerti
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Keep oscilloscope away from edges of table, or keep in the opened box if convenient. In the event that the oscilloscope falls, switch it off. Clear up broken glass. 
 
 Call first aider in case of injury. Close experiment if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -122,11 +122,11 @@ Call first aider in case of injury. Close experiment if necessary.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Clean mouthpiece of recorder with antiseptic wipes between uses. (During COVID, maybe worth not doing this part)
+**Mitigation**: Clean mouthpiece of recorder with antiseptic wipes between uses.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -136,13 +136,13 @@ Call first aider in case of injury. Close experiment if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Take care not to have amplifier on too loud. 
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -152,11 +152,11 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: See electrical parts RA.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -190,4 +190,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk) , **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) , **Check 2**:
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) , **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
