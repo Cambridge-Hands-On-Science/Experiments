@@ -2,7 +2,7 @@
 
 **A Game you're guaranteed to win** - Make a tour of a chess board without getting stuck.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2023-XX-XX by XX
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -75,13 +75,13 @@ In fact, you can actually map out how you will respond to what your opponent doe
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Keep a close eye on the pens when in use. If child swallows, call first aider and encourage child to cough if choking.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2023-XX-XX - XX
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
 
