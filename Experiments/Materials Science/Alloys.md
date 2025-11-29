@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -310,4 +310,5 @@ Follow venue RA protocols in case of fire.
 **Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
 
