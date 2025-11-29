@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2024-12-16 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-16 by Isobel Gilham (ig419@cam.ac.uk).
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -34,6 +34,7 @@ Fruit battery:
 - Wires
 - Electrical tape
 - Voltmeter
+- Cup of water (optional)
 
 <br/>
 
@@ -84,7 +85,7 @@ This is the same idea as the coin battery, but we’re now focusing on the elect
 2.	Connect the two lemons using another copper and zinc rod, connected by a wire.
 3.	The LED should light up. If not, you may need to add more lemons to the circle. 
 
-Try different fruits/vegetables to see which work best. 
+Try different fruits/vegetables to see which work best. You can compare it to water, which has fewer electrolytes and should conduct less.
 
 **How does it work?** 
 We now have zinc as the anode: Zn --> Zn<sup>2+</sup> + 2e<sup>-</sup>
@@ -196,3 +197,5 @@ In case of accident, wash the affected area with clean water.
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-16 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-11-27 - Siena Ootes (sjo57@cam.ac.uk)
