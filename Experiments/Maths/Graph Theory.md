@@ -2,7 +2,7 @@
 
 **Find out about the mathematics of Graphs.** - Experiment with graphs finding out about what structure we can find in randomness, how to colour maps with few crayons and what shapes you can draw without taking your pen off the paper.
 
-Last initially checked on 2025-01-10 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2026-01-26 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -130,13 +130,13 @@ Lets say we take the graph with the fewest number of vertices we can't 5 colour.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Make sure you cut out any required paper before the kids arrive. If you need to have scissors on the table, have the safety scissors.
 
 If there are any cuts, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -146,11 +146,11 @@ If there are any cuts, call a first aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (Unacceptable)
 
 **Mitigation**: Watch small children with pens. Take the pens off the children, and alert parents immediately if children aren’t being sensible and call a first aider if necessary. Encourage children to cough if choking. Keep hold of pen caps if particularly small children are present.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -160,11 +160,11 @@ If there are any cuts, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: If the mug smashes, move children out of the area and sweep/vacuum for pieces. Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -174,11 +174,11 @@ If there are any cuts, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: It shouldn't be used as a mug ever. The mug should never be used for drinking or licked. Keep out of children’s reach. If children do ingest paint, inform parents to take them to GP if illness develops. Call a first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -200,4 +200,5 @@ If there are any cuts, call a first aider.
 
 **Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
