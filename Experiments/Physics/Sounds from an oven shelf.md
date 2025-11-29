@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-XX-XX by X
+Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -74,13 +74,13 @@ But, if you put a plastic cup in the top of the slinky, it couples to its vibrat
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Encourage children to put their knuckles, not their fingers, in their ears.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -90,13 +90,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Make sure the participants have sufficient space to take part.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -130,4 +130,5 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: Daniel Eaton (de354@cam.ac.uk)
+
