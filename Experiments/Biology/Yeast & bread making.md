@@ -2,7 +2,7 @@
 
 **The idea is to look at how yeast grows and how it relates to bread making. It involves getting the kids to make bread dough.** - Like all the best biology experiments, this is hands-on and messy! See what happens when you add living yeast to a bread mix, and don't forget to come back a bit later to see what's happened to your dough!
 
-Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-01-26 by Isobel Gilham (ig419@cam.ac.uk) 
+Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,8 +22,8 @@ Last initially checked on 2025-01-11 by Margaret Johncock (mllyj2@cam.ac.uk) and
 - Sugar (a couple of bags)
 - Water (warm - will have to keep getting this from tap)
 - Beakers/cups for cultures
-- 500 ml plastic drinks bottles
-- Balloons
+- Lots of 500 ml plastic drinks bottles (start collecting them ~2-3 weeks before)
+- Lots of balloons (maybe 2 or 3 packets)
 - Trays to do experiment over to contain the mess
 - Possibly somewhere for kids to wash hands as it gets a bit messy
 
@@ -63,12 +63,12 @@ Use trays as 'workstations' to contain the mess. Throw well-risen dough out afte
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Stop kids eating the dough, and tell parents of small kids it isn't clean.
+**Mitigation**: Stop kids eating the dough, and tell parents of small kids it isn't clean. 
 If dough ingested inform parents and advise them to take child to GP if they become ill.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -78,12 +78,12 @@ If dough ingested inform parents and advise them to take child to GP if they bec
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Clear up any spills immediately. Use containment trays for the experiment. Use wet floor sign if necessary.
+**Mitigation**: Demonstrators should contain everything on benches. Clear up any spills immediately. Use containment trays for the experiment. Use wet floor sign if necessary.
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -93,12 +93,12 @@ In case of injury call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Demonstrators with yeast/ flour allergies should not demonstrate this experiment. Demonstrators must ask participants about allergies to flour or yeast before commencing experiment. Check manufacture date of flour before event and ensure that flour used is not too old. 
 In case of a reaction, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -108,12 +108,12 @@ In case of a reaction, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Supervised use only. Demonstrator to dispense yeast and dispose of any broken plastic cups/spoons.
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -123,12 +123,12 @@ In case of injury call first aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep only the balloons in use on display and make sure that children don’t eat them, don't let children eat dry flour either and be careful not to knock it over and cause a flurry of flour dust.
 If child is choking, get parent to encourage child to cough it out and find first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -161,5 +161,9 @@ If child is choking, get parent to encourage child to cough it out and find firs
 **Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk) 
+
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**:
+
+
 
 
