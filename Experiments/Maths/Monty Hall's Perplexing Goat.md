@@ -2,7 +2,7 @@
 
 **A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.** - A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.
 
-Last initially checked on 2024-12-29 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228)
  
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -219,11 +219,11 @@ PS By the way, you have spent the last twenty minutes talking to a goat – I su
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High)
 
 **Mitigation**: Keep control of coins. Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -233,12 +233,12 @@ PS By the way, you have spent the last twenty minutes talking to a goat – I su
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Make sure goat / doors are not on the floor.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -248,12 +248,12 @@ Call first aider in case of injury.
 
 **Affected People**: Kids, but also anyone handling the doors
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Keep the kids under control, watch they don't lunge for the doors etc.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -277,4 +277,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2024-12-29 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
