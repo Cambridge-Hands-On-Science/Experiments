@@ -2,7 +2,7 @@
 
 **Making a natural pH indicator.** - We use a little red cabbage juice to find out more about acids and bases in the world around us.
 
-Last initially checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,7 +36,6 @@ Last initially checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk) and doub
 Cabbage juice is used as a pH indicator to demonstrate the concept of pH. Paper dipped in cabbage juice will change colours when dipped in an acid (vinegar/lemon juice) or base (bicarb).
 
 Tips for demonstrating: 
-- If the kids want to, let them take home the pH paper!
 - Adding indicator to the liquids gives a much better colour change than using the filter paper. 
 
 ### **Basic Procedure and Explanation**:
@@ -97,13 +96,13 @@ At Event:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Only demonstrators to use knives to cut cabbage, which should be done before the event starts. Knives to be kept concealed and out of reach for the duration of the experiment. Knife to be sheathed when not being used. There should only be one knife in the box, and the demonstrator should know where it is at all times.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -113,7 +112,7 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: State reagents on a sign to highlight allergens. If participant(s) are allergic, they should stand well back and not touch anything.
 
@@ -121,7 +120,7 @@ Only use small amounts, avoid pouring out more reagents while demonstrating.
 
 If in contact with eyes, wash with emergency eye wash provided if trained and confident to do so. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -131,13 +130,13 @@ If in contact with eyes, wash with emergency eye wash provided if trained and co
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
-**Mitigation**: Don't leave children with experiment unsupervised. Put all unnecessary reagents back in the box and always leave the experiment safely packed away when closed.
+**Mitigation**: Don't leave children with experiment unsupervised. Put all unnecessary reagents back in the box and always leave the experiment safely packed away when closed. 
 
 If ingested, advise parents that reactants are all edible, but to seek medical attention if child is feeling unwell as reactants may have been in box for unknown amount of time.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -147,7 +146,7 @@ If ingested, advise parents that reactants are all edible, but to seek medical a
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Do not mix the solutions in large quantities.
 
@@ -155,7 +154,7 @@ Clear spills promptly, use wet floor sign if needed.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -165,13 +164,13 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: Do not use boiling water or a kettle under any circumstances. Test water before use - as a guide, water temperature should be comfortable to immerse your hand in for an extended period of time. If the water is too hot, allow the solution to cool before proceeding with the experiment. Keep the stock of solution out of reach of children and in a place where it can't easily be knocked over.
 
 Call a first aider in case of injury. More severe burns may require hospital treatment.
 
-**After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**After Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
 
 <br/>
 
@@ -205,4 +204,5 @@ Call a first aider in case of injury. More severe burns may require hospital tre
 
 **Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-20 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+
