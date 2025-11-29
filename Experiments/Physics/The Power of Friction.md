@@ -2,8 +2,7 @@
 
 **(Brief Description)** - See how strong two interleaved books are
 
-Last initially checked on 2025-01-23 by Rowan Ong (rzmo2@cantab.ac.uk) and double-checked on 
-2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,11 +52,11 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Only perform in a clear/soft area free from trip hazards. Use sensible volunteers of reasonably even strength so one can't pull the other over.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -67,11 +66,11 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Check condition of both books before use. Only allow 1 *vs* 1 to limit forces.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -81,11 +80,11 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Encourage people just to handle the strings, not the books themselves. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -95,11 +94,11 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Inspect strings before use. Don't wrap strings around limbs
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 <!-- End of hazard section. -->
@@ -109,5 +108,7 @@ Have people try to pull them apart in a tug-of-war fashion. It's basically impos
 **Check 1**: 2023-02-18 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
