@@ -2,7 +2,7 @@
 
 **Constraining light in a stream of water, making it work like an optical fibre.** - Find out what happens when light is trapped inside a stream of water. Make a beam of light bend round corners and see how fibre optics are helping to change the world!
 
-Last initially checked on 2025-02-08 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -92,14 +92,14 @@ In the box there's also a length of optical fibre which can be used to show exac
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Clear up any spills. Use wet floor sign if necessary.
 It may be worth laying down newspaper in the area around the bucket.
 Try to do the experiment so as to minimize the amount of water getting on the floor in the first instance.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -109,7 +109,7 @@ Call a first aider in the case of an injury.
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Take care when carrying the large bucket of water, and seek assistance if necessary.
 If it is too heavy, only fill it as much as you need to fill the lemonade bottle.
@@ -117,7 +117,7 @@ Use standard lifting techniques (e.g. lift with your knees, not your back) when 
 Clear any spills either as a result of outright dropping the bucket, or from water sloshing out during transfer of bucket.
 In the event of an accident call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -127,7 +127,7 @@ In the event of an accident call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Torch should run on a low voltage (<12 V).
 Electrical torch to be well insulated from water - protect bodywork and bulb area.
@@ -135,7 +135,7 @@ Take care not to drop the torch in the water.
 Turn off torch if in contact with the water.
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -145,12 +145,12 @@ Call a first aider in the event of an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Careful handling of the fibre and not to allow children to play with it. Clear up any broken fibre quickly and dispose of it appropriately. Close the experiment if the fibre smashes.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -160,12 +160,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Do not shine torch near people's faces and warn children/visitors not to do so if they are using it.
 Using an LED torch - as these are typically low power and do not pose a risk to sight - would be desirable if possible, though natural aversion should be sufficient in most cases to avoid damage. In the event of a person being dazzled by lights, switch off lights and get them to sit down until they have recovered. Check they are ok before letting them walk around in case they walk into something!
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -198,3 +198,6 @@ Using an LED torch - as these are typically low power and do not pose a risk to 
 **Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+
