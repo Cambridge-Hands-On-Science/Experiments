@@ -2,7 +2,7 @@
 
 **Firing a projectile using a vacuum cleaner and a long tube.** - Experiment with launching projectiles using the power of a vacuum cleaner. 
 
-Last initially checked on 2025-02-01 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-02 by Rowan Ong (rzmo2@cantab.ac.uk)
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -75,7 +75,7 @@ Also see the Vacuums experiment which can be paired with this one.
 
 **Affected People**: Mainly persons not part of the experiment
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Demonstrator should maintain control of the direction the bazooka is firing in.
 If not holding the firing tube the demonstrator should have the projectile, end stop or both in his/her possession at all times to prevent bazooka being fired by anyone else.
@@ -83,7 +83,7 @@ Bazooka should be sited to allow it to be fired along the room into a wall or (i
 Projectile should be composed principally of light-weight packing material or similar (such as bubble wrap). It may be desirable to weight the front end with blu-tack or similar to encourage predictable flight but this should be done with consideration for the total resulting weight.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 <br/>
 
@@ -93,12 +93,12 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Follow electrical parts RA.
 In the event of an accident, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -108,12 +108,12 @@ In the event of an accident, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Place wires sensibly (not across middle of room). Tape down if necessary.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -123,11 +123,11 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: Ask the children to test the projectiles one at a time. Use the lower suction end to reduce the amount of force. Turn off vacuum if fingers are stuck. Call a first aider in case of injury. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -161,3 +161,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 3**: 2025-02-01 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 4**: 2025-02-02 - Rowan Ong (rzmo2@cantab.ac.uk)
 
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 
