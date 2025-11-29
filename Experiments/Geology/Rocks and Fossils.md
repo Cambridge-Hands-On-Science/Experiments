@@ -2,7 +2,7 @@
 
 **A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived millions of years ago.
 
-Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on X by X
+Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 29-11-2025 by Jessica Trevelyan (jet81@cam.ac.uk). 
 
 ## Tags
 
@@ -658,5 +658,6 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 **Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+
 
