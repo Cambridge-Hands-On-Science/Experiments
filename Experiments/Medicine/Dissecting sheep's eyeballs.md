@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (ig419@cam.ac.uk)
+Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,6 +18,7 @@ Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-
 
 ## Equipment Needed 
 - Dissection kit
+- Absorbent pads
 - Chopping board
 - Eye protection for demonstrators  
  
@@ -145,7 +146,7 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
-**Mitigation**: Wear gloves and cover any wounds on the hands with a bandage. Wash hands before and after demonstration. 
+**Mitigation**: Wear gloves and cover any wounds on the hands with a bandage. Wash hands before and after demonstration. Keep children away from touching any raw material.
 
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
  
@@ -195,4 +196,5 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+
