@@ -167,5 +167,6 @@ Call a first aider if an accident occurs.
 
 **Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: Clement Hui (smh213@cam.ac.uk)
+
 
