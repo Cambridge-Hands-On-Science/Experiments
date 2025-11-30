@@ -86,7 +86,7 @@ Bin liners can be melted.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Make the tube out of card, which isn't very conductive and will not melt and stick to people.
 Use a cool-wall toaster which will therefore not get too hot.
@@ -101,7 +101,7 @@ In case of burns run under tepid water for at least 10 minutes. In case of fire,
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -111,14 +111,14 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Use a PAT approved toaster.
 Ensure cable is either positioned where people will not be walking and taped down.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -128,14 +128,32 @@ Call first aider in case of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
 
 **Mitigation**: Make sure spectators are not standing too close where the bag could land on their heads, and try to catch before it can land on them.
 Suspend experiment if the children are getting silly and trying to catch it with their heads.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
+
+<br/>
+
+### **Hazard**: Latex Allergy
+
+**Description**: Risk of allergic reaction to latex balloons
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (High)
+
+**Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they may come into contact with latex. Do not proceed if the demonstrator has an allergy, or has an allergic reaction. 
+
+Ask guardians/teachers about any known latex allergies, and do not allow students/children to touch latex balloons unless they are certain.
+
+Monitor for allergic reactions and inform first aider if any signs appear.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
 
 <br/>
 
@@ -170,5 +188,6 @@ Call first aider in case of injury.
 **Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: Anna Ritschl Ebell (ar2182@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk), **Check 2**: ________
+
 
 
