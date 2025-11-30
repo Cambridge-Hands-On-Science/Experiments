@@ -85,6 +85,8 @@ Turn off the hotplate, allow the sodium acetate to cool and crystallise it all. 
 **Mitigation**: The samples used must already have been cooled in order to crystallise, so the hotplate/hot liquid can and should be kept out of reach of the public at all times. In practice, for a long event, this may mean that two demonstrators are needed, one to heat the solution, the other to demonstrate. Demonstrator to wear eye protection (goggles) when heating up the solution. Use the minimum possible temperature on the hot plate (around 80°C).
 Run any burns under cool water for at least 10 minutes, and call first aider.
 
+Keep hot solutions far away from the edge of the table / away from the kids, as to reduce the likelihood of spills and burns.
+
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
 
 <br/>
@@ -105,7 +107,7 @@ Run any burns under cool water for at least 10 minutes, and call first aider.
 
 ### **Hazard**: Sodium acetate solution
 
-**Description**: Risk of solution splashing into eyes - it has a high osmotic potential, so will sting like salt, although sodium acetate is not otherwise classified as hazardous.
+**Description**: Risk of solution splashing into eyes - it has a high osmotic potential, so will sting like salt, although sodium acetate is not otherwise classified as hazardous, but should still avoid contact with skin / accidental consumption.
 
 **Affected People**: All
 
@@ -113,6 +115,8 @@ Run any burns under cool water for at least 10 minutes, and call first aider.
 
 **Mitigation**: Demonstrator to try to stop the kids putting their fingers in the liquid or splashing it everywhere. Demonstrator must ensure eyewash is nearby, and know its location.  Demonstrators should wear eye protection and avoid rubbing eyes for the duration of the experiment.
 In the event of an accident, call first aider. Use eyewash to wash out of eyes if trained and confident to do so.
+
+If the kids touch the crystals/solution make sure they wash their hands afterwards / avoid it if possible by handling with spoons or by pouring the solution.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
 
@@ -191,3 +195,5 @@ Call a first aider if there’s an accident.
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2025-02-02 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+
+**Check 1**: 2025-11-30 - Clement Hui (smh213@cam.ac.uk)
