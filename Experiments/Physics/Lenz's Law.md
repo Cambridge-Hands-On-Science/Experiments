@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on  2025-11-29 by Duncan Green (dg678@cam.ac.uk) and _________
+Last initially checked on  2025-11-29 by Duncan Green (dg678@cam.ac.uk) and double checked on 2025-11-30 by Maisie Howard (mah253@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -57,7 +57,7 @@ People may say it's to do with the metal being magnetic, but it's really not. Co
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Warn visitors if you give them a magnet.
 Use the minimum number of free magnets. Keep the magnets under control.
@@ -66,7 +66,7 @@ Pad edges of magnet to reduce finger trap.
 
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -76,11 +76,11 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Recover magnets quickly but sensibly.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -90,11 +90,11 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Magnet is wrapped up to make it larger. Do not let young children handle magnets. Keep hold of magnets and pick them up quickly.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -104,13 +104,13 @@ Call first aider in case of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Demonstrator should hold pipe for younger children and monitor use for others.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -130,7 +130,8 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: ___________
+**Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-11-30 - Maisie Howard (mah253@cam.ac.uk)
+
 
 
 
