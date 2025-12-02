@@ -2,7 +2,7 @@
 
 **What is the link between earthquakes and cello strings?** 
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by Maisie Howard (mah253@cam.ac.uk) on 2025-12-02
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -202,5 +202,6 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk), **Check 2**: 2025-02-08 – Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2025-12-02 - Maisie Howard (mah253@cam.ac.uk)
+
 
