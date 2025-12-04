@@ -2,7 +2,7 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-12-04 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked - pending. 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -171,3 +171,5 @@ In case of accident, call a first aider and encourage child to cough.
 **Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock
+
+**Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: pending
