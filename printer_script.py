@@ -10,9 +10,9 @@ import pandoc
 # %%
 # OPTIONS
 PRINT_TWO_SIDED = True  # Will make sure experiments always start on an even page
-PRINT_SPECIFIC_EXPERIMENTS = None
+PRINT_SPECIFIC_EXPERIMENTS = ["Build a Penguin", "Microscopes & Cells"]  # set = None to print all
 
-OUTPUT_FILENAME = "AllRAsJuly25.pdf"
+OUTPUT_FILENAME = "buildapenguin_microscopesandcells.pdf"
 WRITE_OUTPUT_FILE = True
 DELETE_TEMP_DIRECTORY = True  # set False for debugging purposes. then delete it manually before running the code again
 
