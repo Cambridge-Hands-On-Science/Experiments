@@ -167,6 +167,7 @@ In case of contact, advise parents to take children to GP if illness develops.
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
+
 ### **Hazard**: Steel nuts 
 
 **Description**: Choking 
@@ -201,6 +202,7 @@ In case of contact, advise parents to take children to GP if illness develops.
 **Check 1**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk),  **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2025-11-26 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
 
 
 
