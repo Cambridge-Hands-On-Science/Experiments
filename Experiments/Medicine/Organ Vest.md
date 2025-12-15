@@ -2,7 +2,7 @@
 
 **A velcro apron with detachable 3D organs, to show what's inside your body.** - See if you can correctly place body organs using this wearable felt and velcro vest.
 
-Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -125,5 +125,6 @@ Ensure vest has been washed before it is used.
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+
 
