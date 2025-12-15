@@ -2,8 +2,7 @@
 
 **Working model of the lungs with diaphragm and rib cage.** - Use our interactive model to find out how we breathe.
 
-Last initially checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk)
-
+Last initially checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -145,4 +144,4 @@ Refer to Electrical Parts RA
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk),
+**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
