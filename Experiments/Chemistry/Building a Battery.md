@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-12-21 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -106,11 +106,11 @@ Lemons work well because they are acidic - they have lots of citric acid in. You
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Monitor kids when they are using metals (and take over yourself if kids are not old enough to handle safely), and make sure metals are not too sharp. Clean metals before use to remove any surface bacteria.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -120,12 +120,12 @@ Lemons work well because they are acidic - they have lots of citric acid in. You
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Encourage metal rods to be put carefully into fruit to prevent squirting of fruit juice.
+**Mitigation**: Encourage metal rods to be put carefully into fruit to prevent squirting of fruit juice and minimise how much could get in eye.
 Call a first aider if fruit juice/vinegar gets in eyes, who may perform an eyewash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -135,14 +135,14 @@ Call a first aider if fruit juice/vinegar gets in eyes, who may perform an eyewa
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
 
 **Mitigation**: Check that children don’t have uncovered cuts before starting demonstration. 
 Clean rods between use so not covered in juice when children handling them.
 Demonstrators should wear plasters over any cuts they have (there are also disposable gloves in safety if preferred).
 In case of accident, wash the affected area with clean water.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -152,11 +152,11 @@ In case of accident, wash the affected area with clean water.
 
 **Affected People**: Public (mainly children)
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Don't let the children consume anything or lick their fingers.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -166,11 +166,11 @@ In case of accident, wash the affected area with clean water.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
 
 **Mitigation**: Don't stack 10 cells or more. 
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 *(Fun fact: Volta tested how powerful his stacks were by giving himself electric shocks)*
 
@@ -182,11 +182,11 @@ In case of accident, wash the affected area with clean water.
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Watch small children carefully. In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -198,4 +198,5 @@ In case of accident, wash the affected area with clean water.
 
 **Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-16 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-11-27 - Siena Ootes (sjo57@cam.ac.uk)
+**Check 1**: 2025-11-27 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
