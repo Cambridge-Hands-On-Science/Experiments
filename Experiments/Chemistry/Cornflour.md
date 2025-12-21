@@ -2,7 +2,7 @@
 
 **Explore the remarkable properties of cornflour mixed with water.** - Slimey, gooey and messy: cornflour is one of our favourite experiments! Come and stick your hands in, and figure out if it behaves like a liquid or a solid...
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-12-21 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -143,12 +143,12 @@ Another mechanism involves the molecules joining to form small groups (“hydroc
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Clear up spilt powder. Where possible, do the experiment outside. Do not allow children to help to mix in new powder without first checking that they do not suffer from asthma.
 In the event of an adverse reaction, move child out of area and sit them down. Call first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -158,13 +158,13 @@ In the event of an adverse reaction, move child out of area and sit them down. C
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Clear up spills promptly; if the floor is smooth, ensure that a mop is available for this. Put wet floor sign down on cleaned floor.
 Set up near a sink or have a bowl of water for hand washing nearby so children don't drip cornflour on their way to a sink.
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -174,12 +174,12 @@ Call first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Avoid contact with eyes and tell children to as well. Know where the nearest eye wash is (there should at least be some in the Safety box).
 Call first aider in event of injury, who may perform an eyewash if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -189,11 +189,11 @@ Call first aider in event of injury, who may perform an eyewash if trained and h
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Encourage children to wash hands after use. Do not allow children to ingest the mixture.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -225,6 +225,7 @@ Call first aider in event of injury, who may perform an eyewash if trained and h
 
 **Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk)
+**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
 
 
