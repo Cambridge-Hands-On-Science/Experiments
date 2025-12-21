@@ -2,7 +2,7 @@
 
 **Removing copper oxides from coins.** - Those grubby coppers in your pocket or purse can be shined up in minutes, give it a try and find out how it works.
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on ... by ...
+Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-12-21 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -40,10 +40,10 @@ Copper coins are cleaned by putting them in vinegar/other acids to dissolve the 
 4) Wait a couple of minutes for coins to get clean. It may be better start trying to explain some science at this point rather than before the coins have been put in to avoid running out of things to say.
 Some potential discussion points:
 - Would the coins come clean in water? Could have a cup of water as a 'control'. Why are these liquids better at cleaning the coins?
-- What do all of the liquids have in common? All acidic
-- Which of the liquids would they expect to clean the coins fastest? We might expect this to be the strongest acid. Acids can make things taste sour, which tastes the most sour?
+- What do all of the liquids have in common? (All acidic)
+- Which of the liquids would they expect to clean the coins fastest? We might expect this to be the strongest acid. Acids can make things taste sour - which tastes the most sour?
 - What metal are the coins made of? 
-- Why does the surface copper oxide get removed, but not the copper making up the coin? Copper oxide more soluble in acids than copper
+- Why does the surface copper oxide get removed, but not the copper making up the coin? (Copper oxide is more soluble in acids than copper).
 5) Take coins out (maybe clean them with water and paper towels) and see if their predictions on what liquids clean best were correct
 
 **What you need to know during the experiment**
@@ -65,7 +65,7 @@ Some potential discussion points:
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Concentrations are very low, the tolerable ingestion limit of copper is about 10mg, much less than would be present in a container used to clean a couple of coppers.
 Change acid every 10 coins and dispose of used solution down a drain immediately. Empty and rinse container.
@@ -73,7 +73,7 @@ If cleaning large numbers of coppers to observe green colour of solution use a c
 Make sure children do not put their hands into cups with the liquids or otherwise ingest the acids.
 Call a first aider in the event of ingestion.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -83,12 +83,12 @@ Call a first aider in the event of ingestion.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Ensure children lower coins gently into solution. Encourage them to check for scratches before putting hands near solutions and to wipe fingers afterwards.
 Rinse out cuts, call first aider if required. If trained and confident to do so use sterile eye wash to clean out splash to eye.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -98,11 +98,11 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Watch small children carefully. In the event of a piece being swallowed, encourage child to cough. Call a first aider, who may perform the Heimlich if trained and happy to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -136,4 +136,5 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 
 **Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk),
+**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
