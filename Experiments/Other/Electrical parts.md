@@ -44,7 +44,7 @@ Some experiments require electricity from a mains power (240 V) supply. Read thi
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: DEMONSTRATOR must visually inspect all electrical equipment before using it. Please look for loose cables, bare wires or anything else suspicious. If you spot faults then please do not use that equipment, and report it to a committee member.
 
