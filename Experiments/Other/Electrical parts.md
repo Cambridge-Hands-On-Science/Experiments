@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-12-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 202X-XX-XX by XXX (XXX@cam.ac.uk)
 
 
 ## Tags
@@ -52,12 +52,12 @@ DEMONSTRATOR to ensure that there is a PA test sticker dated within the last two
 
 DEMONSTRATOR to ensure that electrical equipment is not placed next to or under flammable materials (eg. under a jumper, in a tent or near curtains).
 
-COMMITTEE to ensure that all mains voltage equipment is PA tested every two years, or if possible, annually. Newly purchased (unaltered) equipment need not be tested immediately, but should be tested, at the latest, within two years of purchase, and then every two years thereafter. If newly purchased equipment is not marked with a PA test sticker, it should be marked with the date of purchase. Electrical equipment that has been modified in any way should be PA tested before first use
+COMMITTEE to ensure that all mains voltage equipment is PA tested every two years, or if possible, annually. Newly purchased (unaltered) equipment need not be tested immediately, but should be tested, at the latest, within two years of purchase, and then every two years thereafter. If newly purchased equipment is not marked with a PA test sticker, it should be marked with the date of purchase. Electrical equipment that has been modified in any way should be PA tested before first use.
 
 COMMITTEE to ensure that, if equipment has not been PA tested within the past year, it is formally visually inspected by a committee member approved by the committee to carry out such checks, and marked with the date of inspection</p>
 			
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -67,7 +67,7 @@ COMMITTEE to ensure that, if equipment has not been PA tested within the past ye
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: DEMONSTRATOR must think about the danger of water coming into contact with the equipment. Ensure electrical equipment is not near water, or on the ground in a place where water might pour in event of a nearby experiment breaking.
 
@@ -80,7 +80,7 @@ VENUE SAFETY OFFICER should locate and make known the location of the cut-off sw
 If mains-powered equipment does come into contact with water, it should not be used until it is thoroughly checked to ensure there is no corrosion or damage.
 			
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -90,11 +90,11 @@ If mains-powered equipment does come into contact with water, it should not be u
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Ensure all cables are safely taped down (using hazard tape if possible); take extra care in areas where people might be walking. If possible, keep cables behind experiments.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 <br/>
 <!-- End of hazard section. -->
@@ -106,5 +106,7 @@ If mains-powered equipment does come into contact with water, it should not be u
 **Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-10 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-12-22 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 202X-XX-XX - XXX (XXX@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
