@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2024-12-16 by John Leung (cfl35@cam.ac.uk) and double-checked on 2024-12-19 by Andrew Marriott (asm206@cam.ac.uk)
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2024-12-19 by Andrew Marriott (asm206@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -88,7 +88,7 @@ If you blow into the long end and hold the short end upwards, you are able to ba
 #### A bit of theory - what are forces
 
 
-Hold a ball in mid air and ask them what is going to happen if you let go. Show them that they are right. Now ask them why the ball falls down. You should get to gravitational force. Explain what a force is. That it is what makes things move, for example pushing, pulling, gravity, magnetic force, friction. Explain that if something isn't moving, the forces must be balanced (they are pulled down by gravity but pushed up by the ground).
+Hold a ball in mid air and ask them what is going to happen if you let go. Show them that they are right. Now ask them why the ball falls down. You should get to gravitational force. Explain what a force is. That it is what makes things change course of movement ('accelerate'), for example pushing, pulling, gravity, magnetic force, friction. Explain that if something isn't accelerating, the forces must be balanced (they are pulled down by gravity but pushed up by the ground).
 Tell them about Newton's third law - action and reaction. If you push or pull something, you get pushed/pulled yourself. You can demonstrate by letting them push/pull your hand.
 
 #### Wooden Rocket 'Puzzle'
@@ -490,3 +490,4 @@ Call a first aider in the event of an accident.
 **Check 1**: 2024-01-24 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk)
+
