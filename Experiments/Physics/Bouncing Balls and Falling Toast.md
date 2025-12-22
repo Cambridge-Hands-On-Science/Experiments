@@ -2,7 +2,7 @@
 
 **Looking at odd properties of bodies with spin.** - A selection of mechanics experiments which investigate the properties of bodies with added spin. From bouncing balls off walls to dropping toast from tables we find out the hidden influence of angular momentum and why it makes our carpet buttery. 
 
-Last initially checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -93,7 +93,7 @@ We have two Rattlebacks which currently live in here due to them not really fitt
 
 **Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
 
-**Mitigation**: Keep hold of the balls not being used. Recover balls if being used inappropriately.
+**Mitigation**: Keep hold of the balls not being used. Discourage children from throwing balls randomly. Recover balls if being used inappropriately.
 Call a first aider in the event of injury.
 
 **After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
@@ -165,3 +165,4 @@ Call a first aider in the event of an accient.
 
 **Check 1**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
