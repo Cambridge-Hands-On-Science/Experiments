@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle air rockets along a rope** - 5, 4, 3, 2, 1, Lift Off! With a lemonade bottle and a bike pump, we'll show you how to make a rocket! How high can you get it to fly?
 
-Last initially checked on 2025-02-07 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -134,4 +134,7 @@ In the event of an accident call a first aider.
 
 **Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-02-07 by Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
+**Check 1**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
+
