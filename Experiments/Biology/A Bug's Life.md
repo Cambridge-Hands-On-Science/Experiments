@@ -250,7 +250,7 @@ Some sample sets:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (unacceptable)
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen tubes every time a demonstration is completed.
 Call first aider in case of injury (cut). Clear up perspex (using the dustpan and brush from Set Up and Clear Up), wrapping up in paper or similar so that it won't rip through the bin bag. Place in broken glass box if available at a school.
@@ -310,7 +310,7 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (unacceptable)
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Keep a careful eye on the jars and do not let anyone open them. They should all be taped up around the top - if the tape is coming off redo it. If any liquid leaks, clear it up straight away, preferably wearing gloves, then wash your hands immediately. Advise any children to wash their hands immediately if any liquid goes on their skin.
 
@@ -349,3 +349,4 @@ In case of a child (or adult) tripping over, call first aider.
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk), **Check 2**: 2025-11-24, Leah Helm (lkh53@cam.ac.uk)
+
