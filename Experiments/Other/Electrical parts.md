@@ -44,7 +44,7 @@ Some experiments require electricity from a mains power (240 V) supply. Read thi
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: DEMONSTRATOR must visually inspect all electrical equipment before using it. Please look for loose cables, bare wires or anything else suspicious. If you spot faults then please do not use that equipment, and report it to a committee member.
 
@@ -56,7 +56,6 @@ COMMITTEE to ensure that all mains voltage equipment is PA tested every two year
 
 COMMITTEE to ensure that, if equipment has not been PA tested within the past year, it is formally visually inspected by a committee member approved by the committee to carry out such checks, and marked with the date of inspection</p>
 			
-
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
@@ -71,14 +70,15 @@ COMMITTEE to ensure that, if equipment has not been PA tested within the past ye
 
 **Mitigation**: DEMONSTRATOR must think about the danger of water coming into contact with the equipment. Ensure electrical equipment is not near water, or on the ground in a place where water might pour in event of a nearby experiment breaking.
 
+VENUE SAFETY OFFICER to ensure appropriate placement of experiments in the venue spaces, such that experiments that use electrical equipment are not in close proximity to wet experiments. 
+
 If outdoors, DEMONSTRATOR to keep cables off ground and away from damp, especially if using the venue the next day as well (dew settles).
 
 DEMONSTRATOR please make sure that you know the location of the electric wall socket where the equipment is plugged in.
 
-VENUE SAFETY OFFICER should locate and make known the location of the cut-off switch for the room, if there is one.
-
 If mains-powered equipment does come into contact with water, it should not be used until it is thoroughly checked to ensure there is no corrosion or damage.
-			
+
+Boxes containing electrical equipment should be fully closed when packing away, with hinged lids interlocking and flat. Electrical equipment should stay dry even if boxes are left briefly in light rain. 
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
