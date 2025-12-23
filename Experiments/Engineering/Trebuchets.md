@@ -82,7 +82,7 @@ The spagetti spoon end should be on the same side of the base which has the smal
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (Unacceptable)
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Instruct kids and demonstrators to fire the trebuchet by standing to one side and pulling out the firing pin. Do not let them stand over it and put their face in the way. Safety goggles should be available for anyone who wants them.
 In the event of an accident, call a first aider.
@@ -197,4 +197,5 @@ Call first aider if required.
 **Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+
 
