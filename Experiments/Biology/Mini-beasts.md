@@ -171,9 +171,10 @@ If person gets a burn, run tepid water over affected area for at least 10 minute
 
 **Check 1**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 
+**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk)
+
 
