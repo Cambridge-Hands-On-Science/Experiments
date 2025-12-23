@@ -270,8 +270,9 @@ In case of accident, call first aider.
 
 **Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk)
+**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Charis Pang (sycp2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk) , **Check 2**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk)
+
 
 
