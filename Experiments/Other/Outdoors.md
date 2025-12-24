@@ -2,7 +2,7 @@
 
 **Read before doing any experiment outside**
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 
 
 
 ## Tags
@@ -45,11 +45,11 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Affected People**: All, particularly children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Ensure the experiment is set up on flat floor, away from potential trip hazards (e.g. steps) or drops (e.g. gutters). If experiment involves lots of motion (e.g. spinny chair), take extra care while supervising visitors, and do not leave the experiment unattended. If the experiment is to be held and carried around (e.g. floating experiments such as prism goggles) then demonstrator should ensure that the experiment is being done safely, avoiding e.g. accidentally walking into a gutter.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -59,11 +59,11 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Affected People**: All 
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: In the event of adverse weather, encourage children to behave sensibly and not run about. If the demonstrator or committee deem the weather to make the experiment too dangerous to operate, (e.g. too windy or wet), close the experiment or move it inside if possible.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -73,11 +73,11 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Demonstrators should be dressed appropriately for the weather. If hot, demonstrators should seek water from committee members. If cold, demonstrators should have sufficient layers. If very uncomfortable, demonstrators should be moved inside. Visitors should also be monitored, and offered e.g. water if severely affected by the weather.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -87,11 +87,11 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Affected People**: All (mainly visitors)
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Experiments should be set up far enough away from each other such that there is minimal risk of visitors engaged in separate experiments from taking up required space from another experiment. Experiments should be set up away from the queues, and the way in/out of the building(s). If the experiment is to be held and carried around (e.g. floating experiments such as prism goggles) then demonstrator should be aware of their surroundings at all times, and ensure visitors do not accidentally hit other people potentially walking by.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 <!-- End of hazard section. -->
@@ -103,3 +103,5 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 **Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-09 - Timothy Wong (chw55@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 
