@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2024-12-16 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2024-12-16 by Peter Methley (pm631@cam.ac.uk)
+Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 202X-XX-XX by XXX (XXX@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -56,11 +56,11 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Think about where you’re busking before you start – don’t stand in the middle of a pavement/road. If you do catch some people in the middle of a street/any kind of thoroughfare, try to take them to one side before you begin demonstrating. Take a small experiment (i.e. oven shelf) that’s self-contained and portable.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -70,11 +70,11 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Don’t demonstrate in a road. Ensure no traffic before crossing a road (Green Cross Code). Ideally, busk indoors or away from roads, unless roads are closed (e.g. Mill Road Winter Fair). In the event of an accident, call 999.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -84,11 +84,11 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Check weather forecast before busking or look at the sky. Don’t go too far from the venue (no more than 2 minutes’ walk should be a big enough radius). Take an umbrella/waterproof and dress appropriately – don’t send a demonstrator in shorts to busk in the middle of winter. Take cover until adverse weather conditions pass. Bring plenty of spare tee shirts (for example) to allow busking demonstrators to change in the event of heavy rain.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -98,11 +98,11 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Don’t busk with heavy experiments; floating experiments are the most suitable for busking. Don’t go too far from the venue and read and sign the experiment RA before demonstrating.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -126,11 +126,11 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Demonstrators and committee should agree where they’re going to busk beforehand (e.g. in a certain shopping centre, along a particular road). Agree a time to come back to the venue. Buskers to carry phones (possibly even CHaOS mobile) so they can be contacted easily. Ideally, send pairs to busk in the same area and tell them to stick together.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -145,3 +145,6 @@ It's worth noting some councils in the UK have restrictions on street trading an
 **Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+
+**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 202X-XX-XX - XXX (XXX@cam.ac.uk)
+
