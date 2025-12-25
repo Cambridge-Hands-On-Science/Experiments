@@ -194,6 +194,7 @@ Call a first aider if there’s an accident.
 
 **Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2025-02-02 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-02-02 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-30 - Clement Hui (smh213@cam.ac.uk)
+
