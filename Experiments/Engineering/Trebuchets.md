@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -69,7 +69,7 @@ Things to talk about:
 Set up instructions:
 ---------------------
 The spagetti spoon end should be on the same side of the base which has the small loop and the 2 prongs. Use the firing pins (narrow metal rods attached to brown pipe cleaners and strings) to connect the metal end of the looped rope to the ring under the spagetti spoon. The looped rope can be attached to the prongs to adjust the launch height. Fire the trebuchet by pulling out the firing pin with the string. 
-
+**Note:** currently (December 2025), the trebuchets are not in the best condition. What I (Anna) have found works best is attaching the looped string to the arm just under the spaghetti spoon, and then using a pin through the screw eye on the base and through one of the loops to hold the arm down and then launch.
 
 
 <br/>
@@ -99,7 +99,7 @@ In the event of an accident, call a first aider.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
-**Mitigation**: Weight - has been made from nuts - no sharp edges and will deform on impact. Make sure small humans stand out of the way of the weight as it drops. Also don't let them be thrown/launched.
+**Mitigation**: Weight - has been made from nuts - no sharp edges and will deform on impact. Make sure small humans stand out of the way of the weight as it drops. Also don't let them be thrown/launched. With small children, don't let them handle the weight themselves.
 Call first aider if required.
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
@@ -196,6 +196,7 @@ Call first aider if required.
 
 **Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
+
 
 
