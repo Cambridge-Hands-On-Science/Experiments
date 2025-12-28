@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2025-11-25 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-25 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-18-12 by Anna Ritschl Ebell (ar2182@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,7 +54,7 @@ What holds up the roadway? You can unclip it to show that it hangs from the sagg
 
 How does it work? Have one child stand in the middle of the bridge. Their weight is pushing down on the roadway. What holds up the roadway? It's hanging from the sagging rope. Pushing and pulling forces - the rope is being pulled. Trace tension in rope over the piers and down into the ground. Get them to touch the various cables feel the different tensions. Ropes are anchored to the ground by the stakes so they have something to pull on. What would happen if we took out the stakes? Which way do the wooden piers get pushed (down into the ground).
 
-Why do we have the rope sagging and not taught horizontal? Use a seperate rope with a weight in the middle. One child holds each end. Ask them to raise the weight into the air by pulling on the ends of the cable. Need to pull very hard to get the rope horizontal. Why? Because they're pulling sideways but they're trying to pull the weight upwards. So most of their pulling is wasted. Much easier if the rope is sagging.
+Why do we have the rope sagging and not taut horizontal? Use a seperate rope with a weight in the middle. One child holds each end. Ask them to raise the weight into the air by pulling on the ends of the cable. Need to pull very hard to get the rope horizontal. Why? Because they're pulling sideways but they're trying to pull the weight upwards. So most of their pulling is wasted. Much easier if the rope is sagging.
 
 Because the rope is sagging, we need these big wooden piers to hold it up. We don't want the whole roadway to sag though - cars would have to drive up to the top of the pier and down and up and down again - very silly! We want a flat roadway. So we hang the flat roadway from the sagging rope.
 
@@ -69,7 +69,7 @@ Why build a suspension bridge rather than another type of bridge? Imagine buildi
 
 Building them in real life. Steel cables not rope. Need to dig down through earth to bedrock to start building piers. May need to dig underwater using a pressurised diving chamber called a caisson - this was first done when building the Brooklyn Bridge in New York. Anchor cables by dropping a heavy lump of rock on them. May have two bits of rock with interlocking teeth and cable between.
 
-Talk about tension and compression. Rope is good under tension, brick cracks under tension. Making steel rope - wind strands of iron into a small length, wind many of them together. Testing for strength!
+Talk about tension and compression. Steel rope is good under tension, brick cracks under tension but is strong under compression (see Arch Bridge). Making steel rope - wind strands of iron into a small length, wind many of them together. Testing for strength!
 
 
 ### **Science background for demonstrators**
@@ -170,13 +170,13 @@ Call first aider if required.
 
 ### **Hazard**: Finger trap
 
-**Description**: Finger-trap between planks on the deck of the bridge, and in the karabiners.
+**Description**: Finger-trap between planks on the deck of the bridge, and in the carabiners.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: The bridge is designed to minimize this problem. The DEMONSTRATOR should keep children away from the underside while it's in use, and warn that karabiners can pinch during assembly.
+**Mitigation**: The bridge is designed to minimize this problem. The DEMONSTRATOR should keep children away from the underside while it's in use, and warn that carabiners can pinch during assembly.
 
 Call first aider if required.
 
@@ -216,5 +216,6 @@ Call first aider if required.
 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk),**Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-28-12 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
+
 
