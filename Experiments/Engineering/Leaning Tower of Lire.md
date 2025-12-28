@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-01-11 by Jessica Trevelyan (jet81@cam.ac.uk).
+Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -109,7 +109,7 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
-**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth. Call a first aider in the event of an injury.
+**Mitigation**: Demonstrator to make sure only wooden blocks with no splinters coming out are used. Report any blocks that aren’t smooth/sand them smooth. Stop using those blocks until they have been smoothed. Call a first aider in the event of an injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
@@ -131,5 +131,6 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 **Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Evelyn Jane Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Evelyn Jane Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk) 
+
 
