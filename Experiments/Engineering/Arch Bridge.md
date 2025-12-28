@@ -42,7 +42,7 @@ The blocks are quite heavy for small children, so you may need to lift them for 
 
 ### **Basic procedure and explanation**:
 
-To build the arch bridge, get the children to place the wooden supports between the ends of the bridge (say there like the scaffolding used around the edge of buildings or under bridges), then get them to add the blocks, starting at the ends. If they have trouble working out which way round to put the blocks try showing them the trapezium shaped side of the block. Ask them whether the longer or shorter side needs to go on top to make the arch shape.
+To build the arch bridge, get the children to place the wooden supports between the ends of the bridge (say they're like the scaffolding used around the edge of buildings or under bridges), then get them to add the blocks, starting at the ends. If they have trouble working out which way round to put the blocks try showing them the trapezium shaped side of the block. Ask them whether the longer or shorter side needs to go on top to make the arch shape.
 
 Check that the blocks are all lined up straight and that the tops of the blocks all meet. Ask them what will happen when you take the wood away - will the bridge stay up? Why?
 
@@ -177,6 +177,7 @@ Call first aider in the event of injury.
 **Check 1**: 2024-12-17 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2024-12-18 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
 
 
 
