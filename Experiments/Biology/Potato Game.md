@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,11 +117,11 @@ There's also supply and demand which will factor in.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Supervise particularly small children closely with potatoes. Don't do the full game with very young children (it's too complicated anyways). 
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -131,11 +131,11 @@ There's also supply and demand which will factor in.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Supervise children closely. Stop children from licking or chewing foam potatoes. Don't do the full game with very young children. Encourage children to wash hands after using the experiment. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -147,4 +147,4 @@ There's also supply and demand which will factor in.
 
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 
+**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
