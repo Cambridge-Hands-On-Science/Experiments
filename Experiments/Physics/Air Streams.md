@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2024-12-19 by Andrew Marriott (asm206@cam.ac.uk)
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -321,11 +321,11 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Keep visitors away from the intakes. There are guards designed specifically to keep fingers out of the danger area.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -335,11 +335,11 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Keep air conditioning generator on floor. Make sure that it is stable in the mount. Take care when moving it (refer to lifting advice on CHaOS website) and make sure bystanders are aware.
+**Mitigation**: Keep air conditioning generator on floor. Make sure that it is stable in the mount. Take care when moving it and make sure bystanders are aware.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -349,25 +349,25 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Tape wires to floor and lay sensibly (not across the middle of the room). If necessary, attach something brightly coloured so that cables are clearly visible. Ask children to put down cups of water before interacting with blower. Follow electrical parts RA.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
 ### **Hazard**: Ping pong balls
 
-**Description**: Slip hazard from ping-pong balls. Risk of child injuring mouth from falling over with a straw in his/her mouth. Also, children are liable to run across people s paths after escaped ping pong balls, which can lead to accidents.
+**Description**: Slip hazard from ping-pong balls. Risk of child injuring mouth from falling over with a straw in his/her mouth. Also, children are liable to run across people's paths after escaped ping pong balls, which can lead to accidents.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
-**Mitigation**: Keep track of where the ping pong balls are and do not leave them on the floor. Get the kids to sit down if possible when playing with the ping pong balls so that they don t run around with the straws in their mouths and fall over. Encourage them not to chase balls. Do not allow young children to take straws away with them after experiment.
+**Mitigation**: Keep track of where the ping pong balls are and do not leave them on the floor. Get the kids to sit down if possible when playing with the ping pong balls so that they don't run around with the straws in their mouths and fall over. Encourage them not to chase balls. Do not allow young children to take straws away with them after experiment.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -377,11 +377,11 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Give every child a fresh straw. Wipe the rocket with anti-bacterial wipes, after attempts at making it take off.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -391,11 +391,11 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Make sure model wing is held securely - do not let small children hold unassisted and avoid using blower at full power for this part. Discourage dropping of straws into air streams. Call a first aider if there is an accident
+**Mitigation**: Make sure model wing is held securely - do not let small children hold unassisted and avoid using blower at full power for this part. Discourage dropping of straws into air streams. Call a first aider if there is an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -405,25 +405,25 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Warn before blowing into the straws not to blow too hard and to stop if dizzy. Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
 ### **Hazard**: Wooden rocket
 
-**Description**: Rocket may hit child in face when it takes off - It s not very heavy nor does it go that high so will probably only be a problem if it hits their teeth. Splinter from wooden rocket.
+**Description**: Rocket may hit child in face when it takes off - It's not very heavy nor does it go that high so will probably only be a problem if it hits their teeth. Splinter from wooden rocket.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Make sure the child isn't too close to the rocket when blowing on it. Demonstrator to check for splinters before use and not use if any are noticed. Children should not need to touch the rocket anyway. Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -433,13 +433,13 @@ This is known as the Magnus effect. One example is rotor ships. Perhaps more com
 
 **Affected People**: All
 
-**Before Mitigation**: Likelikhood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelikhood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Be careful to check above the blower for anything that might be disturbed when choosing where to place it. If this is unavoidable, then make sure the power is sufficiently low that nothing will be disturbed. 
 
-If an incident occurs, turn off the fans, clean up and call a first aider if necessary
+If an incident occurs, turn off the fans, clean up and call a first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 ### **Hazard**: Plastic cups (PLUS)
 
@@ -447,13 +447,13 @@ If an incident occurs, turn off the fans, clean up and call a first aider if nec
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (medium)
 
 **Mitigation**: Only launch cups in a controlled manner where there is a clear area to do so allowing for things veering off course.
 
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -491,4 +491,5 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2024-12-16 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk)
 
-**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
