@@ -1,6 +1,6 @@
 # Greenhouse Effect
 
-**Illustrating the greenhouse effect with hot resistors in flasks** 
+**Illustrating the greenhouse effect with hot resistors in flasks**  We gratefully acknowledge funding from Cambridge Zero for the purchase of equipment for this experiment. 
 
 Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
  and double-checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
