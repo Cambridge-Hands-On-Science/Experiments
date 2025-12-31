@@ -2,7 +2,7 @@
 
 **Rapid crystal growth from sodium acetate.** - Find out about how handwarmers work, and see solid crystals form in seconds right in front of your eyes. 
 
-Last initially checked on 2025-02-02 by Peter Methley (pm631@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-11-30 by Clement Hui (smh213@cam.ac.uk) and double-checked on 2025-12-31 by Timothy Wong (chw55@cam.ac.uk)
 
 Tags
 
@@ -80,14 +80,14 @@ Turn off the hotplate, allow the sodium acetate to cool and crystallise it all. 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: The samples used must already have been cooled in order to crystallise, so the hotplate/hot liquid can and should be kept out of reach of the public at all times. In practice, for a long event, this may mean that two demonstrators are needed, one to heat the solution, the other to demonstrate. Demonstrator to wear eye protection (goggles) when heating up the solution. Use the minimum possible temperature on the hot plate (around 80°C).
 Run any burns under cool water for at least 10 minutes, and call first aider.
 
 Keep hot solutions far away from the edge of the table / away from the kids, as to reduce the likelihood of spills and burns.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -97,11 +97,11 @@ Keep hot solutions far away from the edge of the table / away from the kids, as 
 
 **Affected People**: All but particularly demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Ensure hotplate is kept out of reach of public and is attended while switched on. Keep hot plate away from flammable items. Don't leave metal spoons etc in the pan for more than a minute so they don't become too hot to safely touch. Be careful when handling hot pan and any metal implements that have been in it. Switch off when not in use. Have cool water nearby to cool burns.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -111,14 +111,14 @@ Keep hot solutions far away from the edge of the table / away from the kids, as 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Demonstrator to try to stop the kids putting their fingers in the liquid or splashing it everywhere. Demonstrator must ensure eyewash is nearby, and know its location.  Demonstrators should wear eye protection and avoid rubbing eyes for the duration of the experiment.
 In the event of an accident, call first aider. Use eyewash to wash out of eyes if trained and confident to do so.
 
 If the kids touch the crystals/solution make sure they wash their hands afterwards / avoid it if possible by handling with spoons or by pouring the solution.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -128,12 +128,12 @@ If the kids touch the crystals/solution make sure they wash their hands afterwar
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Use a tray to catch spills, and mop up any spills immediately.
 Call a first aider if an accident occurs.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -143,12 +143,12 @@ Call a first aider if an accident occurs.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Plastic cups are provided and should be used instead of glass (they can still be washed and re-used). If glass is being used, clear up broken glass immediately.
 Call a first aider if there’s an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -158,11 +158,11 @@ Call a first aider if there’s an accident.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: See Electrical Parts RA. The hot-plate should be suitable for use with liquids. Keep it as far away as possible from plug sockets and extension leads. Clean and dry hands before touching switches, cables, plugs, etc.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -196,5 +196,6 @@ Call a first aider if there’s an accident.
 
 **Check 1**: 2025-02-02 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-30 - Clement Hui (smh213@cam.ac.uk)
+**Check 1**: 2025-11-30 - Clement Hui (smh213@cam.ac.uk), **Check 2**: 2025-12-31 - Timothy Wong (chw55@cam.ac.uk)
+
 
