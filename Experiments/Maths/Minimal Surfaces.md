@@ -79,6 +79,7 @@ Ask parent/responsible child/leader if OK to put their hand in soapy water. Othe
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
+<br/>
 
 ### **Hazard**: Soapy water
 
@@ -93,6 +94,7 @@ Know where the nearest eye wash is (usually Safety Box). Summon first-aider to w
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
+<br/>
 
 ### **Hazard**: Soapy water
 
@@ -106,6 +108,7 @@ Know where the nearest eye wash is (usually Safety Box). Summon first-aider to w
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
+<br/>
 
 ### **Hazard**: Wire ends
 
@@ -120,6 +123,7 @@ make sure all ends are sealed away with tape / blu-tac / some other means to uns
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
+<br/>
 
 ### **Hazard**: Wire frames
 
@@ -133,6 +137,7 @@ make sure all ends are sealed away with tape / blu-tac / some other means to uns
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
+<br/>
 
 ### **Hazard**: Open containers of water
 
