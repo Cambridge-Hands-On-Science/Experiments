@@ -2,7 +2,7 @@
 
 **Peering at the outside world through a lens.** - The camera obscura uses a lens to project an image of the outside world onto a white screen inside the CHaOS event. Can you figure out why it's upside down?
 
-Last initially checked on 2025-12-22 - Max Lian (bl573@cam.ac.uk) and double-checked on 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2025-12-22 - Max Lian (bl573@cam.ac.uk) and double-checked on 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -120,13 +120,13 @@ Demonstrating
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Make sure the lens won't fall on floor, e.g. by using tape. Clear up broken glass immediately and keep people away while doing so. 
 
 Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -136,13 +136,13 @@ Call a first aider in the event of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Demonstrator to make sure that the lens is not positioned in direct sunlight. 
 
 Call a first aider in the event of an accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -176,4 +176,4 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
 
-**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
