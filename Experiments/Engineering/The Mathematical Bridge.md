@@ -2,7 +2,7 @@
 
 **How can a bridge stay up without bolts?** - Self supporting bridges using only wooden poles.
 
-Last initially checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-xx-xx by xxx xxx (xxxx@cam.ac.uk)
+Last initially checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -58,49 +58,49 @@ We could add notches to the poles - this would stop them rolling or sliding.
 
 ### **Hazard**: Sticks
 
-**Description**: People use them as swords/lightsabers/maces/etc - may injure someone through deliberate or accidental contact
+**Description**: People use them as swords/lightsabers/maces/etc - may injure someone through deliberate or accidental contact.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Keep close eye on children, firm warnings if they try anything, suspend experiment if they persist. 
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
 ### **Hazard**: Bridge
 
-**Description**: Not weight bearing, people may stand on it and it collapse, could topple sideways onto someone
+**Description**: Not weight bearing, people may stand on it and it collapse, could topple sideways onto someone.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Make sure bridge held by demonstrator, warn people not to stand on it, don't use in high wind.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
 ### **Hazard**: Entrapment
 
-**Description**: Catching fingers between poles when assembling bridge
+**Description**: Catching fingers between poles when assembling bridge.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrator to warn people about their fingers and where not to put them. Make sure no weight put on bridge.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -110,13 +110,13 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Demonstrator to visually inspect poles at the start and sand down poles if needed. If there are splinters from the wood, the experiment must be shut until the poles can be sanded down.
 
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -136,4 +136,5 @@ Call a first aider in the event of injury.
 
 **Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-**Check 1**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-xx-xx - xxx xxx (xxxx@cam.ac.uk)
+**Check 1**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
