@@ -2,7 +2,7 @@
 
 **Bubbles** - Magical bubbles!!!
 
-Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk) 
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,7 @@ Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and on 2025-0
 This experiment is designed to be a quick but attention grabbing experiment for drawing in crowds. There's currently little science involved but it can be linked to other bubble experiments.
 Firstly ask people what a bubble is? There are lots of things that might be said, however bubbles are a film of water with soap molecules on either side. 
 The hydrophilic head of soap faces into the water and hydrophobic towards air.
-Whats inside a bubble? In this case air, but can we get other fillings? Co2 bubbles in drinks.
+Whats inside a bubble? In this case air, but can we get other fillings? CO_2 bubbles in drinks.
 What shape is a bubble? Sphere, are they always? What if bubbles meet, you can see this and there's square faces. If they're differently sized then the small one bulges into the big one. 
 Why do bubbles pop? Other than being poked or hitting the floor, do they pop? Try keeping them up by fanning them. Bubbles can also pop through evaporation of the water film.
 What colour are bubbles? Light reflects on the film, thickness of the water layer affects colour. You can also see reflections in them. 
@@ -48,11 +48,11 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Have mops or paper towels ready. Clean up spills immediately, keep lid on any storage containers and stick to small volume storable in the gun. Don't shoot at the floor. Mop up spills and put a wet floor sign up in area if necessary. In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -62,11 +62,11 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Use clean water and disinfectant wipes if bubbles touch skin. Don't shoot close to people's faces. Eye wash procedure (call qualified first aider) in the event of contact with eyes.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -76,11 +76,11 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep gun with demonstrator unless confident children will be sensible (maybe OK with older, sensible children). First aider to be summoned in the event of an accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -100,5 +100,6 @@ What colour are bubbles? Light reflects on the film, thickness of the water laye
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08  - Tara Doherty (ted37@cam.ac.uk)
 
-**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30  - Timothy Wong (chw55@cam.ac.uk)
+
 
