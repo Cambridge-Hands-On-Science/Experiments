@@ -1,10 +1,8 @@
 # Build-A-Penguin
 
-**(Brief Description)** - Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour. 
+** Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour. ** 
 
-Last initially checked on 2025-10-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-10-12 by Isobel Gilham (ig419@cam.ac.uk)
-
-**Frequency of use:** n
+Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on YYYY-MM-DD by X (X@cam.ac.uk)
 
 ## Tags
 
@@ -87,11 +85,13 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Do not open the ziplock bags while demonstrating. The shortening should be replaced every six months to stop it going bad, and the date of replacement written on the bags. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4 (medium)
+
+<br/>
 
 ### **Hazard**: Vest
 
@@ -99,11 +99,11 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Discourage the children from running while wearing the vest and encourage them to take care. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -113,11 +113,13 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep the toy inside the closed box when the children are around. 
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+
+<br/>
 
 ### **Hazard**: Spilt water
 
@@ -125,11 +127,13 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Clean up spills immediately. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4 (medium)
+
+<br/>
 
 ### **Hazard**: Ice and cold water
 
@@ -137,17 +141,20 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Use a bowl with ice and water rather than just ice. Do not let the children put their hand in the bowl or touch the ice pack for more than a few seconds.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
+<br/>
 
 <!-- End of hazard section. -->
 
 ## Risk Assessment Check History
 
 **Check 1**: 2025-10-08 – Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-10-12 - Isobel Gilham (ig419@cam.ac.uk)
+
+**Check 1**: 2025-12-30 – Timothy Wong (chw55@cam.ac.uk), **Check 2**: Y-M-D - X (X@cam.ac.uk)
 
 
