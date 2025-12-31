@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2025-01-12 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on Y-M-D by X (X@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -93,12 +93,12 @@ HIP REPLACEMENT
 
 **Affected People**: Anyone touching Boris
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Make sure children do not go too near protruding parts; use tape or sugru (kind of like blue-tack but it sets, can often be found in Boris' box or toolbox) to cover up the more dangerous parts of the skeleton.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -108,11 +108,11 @@ Call first aider if necessary.
 
 **Affected People**: Anyone touching Boris
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Make sure children do not put fingers between bones, and ensure that skeleton is in a stable position when they do touch it. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -122,11 +122,11 @@ Call first aider if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Boris should be kept on his stand, and on stable, level ground. Keep a careful eye on the skeleton, and stay near it to be in a position where you can stop it from falling on anyone. Do not leave the experiment unsupervised. Consider tying skeleton to a chair if demonstrator is not able to be close to the skeleton throughout. In case of accident, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -136,11 +136,11 @@ Call first aider if necessary.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Do not let children hold the hip joint if you do not trust the group to be sensible. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -150,11 +150,11 @@ Call first aider if necessary.
 
 **Affected People**: Visitors
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell when talking about skeleton and organs. Stop if someone looks unwell/ goes pale. Fresh air/sugar/lying down all help recover or avoid injury. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -164,7 +164,7 @@ Call first aider if necessary.
 
 **Affected People**: Demonstrators
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Don't carry the box by yourself - usually need at least two people.  Use standard heavy box lifting procedures (i.e. bend knees, not back!). Take care to hold the box by the light grey lower handles instead of the lid.
 Boris himself may be light enough to carry, but only do so if confident and comfortable (and necessary).
@@ -172,7 +172,7 @@ It is difficult to keep Boris' limbs under control when single-handedly carrying
 Always watch where you're going with either the box or Boris.
 Also watch for things falling off Boris!
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -209,3 +209,5 @@ Also watch for things falling off Boris!
 **Check 1**: 2024-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1**: 2025-12-31 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: Y-M-D - X (X@cam.ac.uk)
