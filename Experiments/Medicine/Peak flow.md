@@ -2,7 +2,7 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2025-12-04 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked - pending. 
+Last initially checked on 2025-12-04 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -102,11 +102,11 @@ It might also be possible to plug the end of a mouthpiece with the rubber bung, 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Make sure to use a new mouth piece each time, and dispose of old ones.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -116,12 +116,12 @@ It might also be possible to plug the end of a mouthpiece with the rubber bung, 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Keep an eye on people using the peak flow meter to ensure that they are not over-exerting themselves to this point. If child tries to breath too rapidly, tell child to slow down. Be aware of what participants might fall on in the event of fainting. Only allow them to try the exhaling through straws part if they are SITTING DOWN, and only let them do so for a few, gentle breaths.  
 In case of accident, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -133,12 +133,12 @@ In case of accident, call a first aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Keep an eye on students if several kids are doing the exhalation through straws activity. If children are messing around/being unsafe immediately intervene and stope the experiment. If people are sitting as recommended above this should not occur.
 In case of accident, call a first aider and encourage child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -170,6 +170,7 @@ In case of accident, call a first aider and encourage child to cough.
 
 **Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: pending
+**Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
