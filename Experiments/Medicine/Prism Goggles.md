@@ -2,7 +2,7 @@
 
 **Demonstrate how the brain adapts to changes in environmental input using prism goggles.** - See how quickly your brain adapts by wearing our prism goggles whilst playing a target-hitting game.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2025-12-31 by Timothy Wong (chw55@cam.ac.uk) and double-checked on Y-M-D by X (X@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,12 +79,12 @@ When you play the beanbag toss game, were going to move where the target appears
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Ask child to stand still on one spot if they are wearing the goggles. If they feel dizzy, remove the goggles and tell them to sit down on the floor. Do not allow them to run around wearing the goggles. Remember that they may be equally disorientated on removing the goggles - do not allow them to run off immediately and again make them sit down if they are dizzy. Ensure the surrounding area is resonably clear, particularly of sharp objects and is on level ground away from any sharp drops, to prevent injuries and falls.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -94,11 +94,11 @@ Call first aider if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Keep an eye on the whereabouts of the objects, do not get too many out at once. Where possible, use objects such as beanbags which will not bounce and roll all over the floor. Do not set up the experiment in a throughfare. Call first aider if necessary.
+**Mitigation**: Keep an eye on the whereabouts of the objects, do not get too many out at once. Where possible, use objects such as beanbags which will not bounce and roll all over the floor. Do not set up the experiment in a thoroughfare. Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -108,11 +108,11 @@ Call first aider if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Do not allow children to collect objects while the subject is still throwing them. Position the experiment so that other people are not in the firing line. Use soft, light objects where possible. Warn children to high-five gently. In case of accident, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -122,12 +122,12 @@ Call first aider if necessary.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Demonstrate away from obstructions - especially shelves/tables/sharp corners - as far as possible. Pick up balls for child if hazards are nearby. Try to stand between child and hazard. Make sure child takes off goggles before picking up objects.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -158,3 +158,6 @@ Call first aider if necessary.
 **Check 1**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-01-31 - Peter Methley (pm631@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2025-12-31 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: Y-M-D - X (X@cam.ac.uk)
+
