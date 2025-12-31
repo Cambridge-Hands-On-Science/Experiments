@@ -2,7 +2,7 @@
 
 **Looking at odd properties of bodies with spin.** - A selection of mechanics experiments which investigate the properties of bodies with added spin. From bouncing balls off walls to dropping toast from tables we find out the hidden influence of angular momentum and why it makes our carpet buttery. 
 
-Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -91,12 +91,12 @@ We have two Rattlebacks which currently live in here due to them not really fitt
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
 
 **Mitigation**: Keep hold of the balls not being used. Discourage children from throwing balls randomly. Recover balls if being used inappropriately.
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -106,14 +106,14 @@ Call a first aider in the event of injury.
 
 **Affected People**: All, particularly children
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Don't set up the experiment in a thoroughfare where the balls could be a trip hazard. If a ball rolls into thoroughfare, retrieve it immediately.
 Don't let kids recover balls if under the table.
 Suspend experiment if balls being rolled/bounced too roughly such that they might rebound and stray into people's way.
 Call a first aider in the event of an accient.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -123,11 +123,11 @@ Call a first aider in the event of an accient.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (medium)
 
 **Mitigation**: Keep drop zone clear when preparing. Only let people look from the side, not underneath.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -137,11 +137,11 @@ Call a first aider in the event of an accient.
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4
+**Before Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (medium)
 
 **Mitigation**: Only demonstrate the experiment if you have no reaction to petroleum jelly. Only the demonstrator should touch the vaseline.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 <br/>
 
@@ -165,4 +165,5 @@ Call a first aider in the event of an accient.
 
 **Check 1**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk)
+**Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
