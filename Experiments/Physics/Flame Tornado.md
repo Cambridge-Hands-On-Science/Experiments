@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk).
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,10 +35,14 @@ To set up place a crucible at the centre of the tray. Let people give it a spin 
 Ensure the turntable is placed on a flat surface outside. Cover cotton wool with petroleum jelly ahead of demonstrating because a) it's not nice to do and b) it will make demonstrating easier. Place some in the centre of the turntable and (very carefully) light it using the lighter (aim for the cotton wool as the jelly itself isn't flammable and will melt). Make sure people are standing out of the way when you do this! Then, spin the turntable (first without the mesh outside, then with the mesh outside) and you should see a flame tornado when the mesh is present.
 
 ### Science explanation
-Hot gas rises* so as the fire heats the air around it this rises, pulling more air in sideways at the bottom, which then also rises.** When the setup is spun without a mesh cage on, the fuel rotating doesn't really affect the surrounding air or the glame, and so it just rises like a pretty normal flame.
-When the mesh cage is added, that air being pulled in at the base is knocked by the cage as it gets pulled in, starting it spinning. As the air keeps being pulled in, it spins up faster, because it's being pulled into the middle.*** As it reaches the flame, it heats up and rises, but whilst spinning fast at the same time, leading to the flame tornado shape.
+When the mesh isn’t present, the air above the flame mostly moves together as one block. There’s no organised inflow, no shear, and no disturbed motion, so the flame just rises like normal hot gas (hot air goes up, pulls in more air from the sides). 
 
-The flame tornado flame is higher than the normal flame. This is because the colder, denser air gets pushed to the outside due to centrifugal force, more than the hotter, lighter, flame. So, there ends up being more hot air in the centre than usual. More hot air being sucked in also allows more combustionm, so the flame gets taller. 
+When the mesh cage is added, everything changes. The air being pulled in at the base is bumped, slowed, and redirected by the mesh, creating differences in air speed and an uneven inflow toward the centre. These speed differences (shear) make the air twist into small rotating columns. As this spinning air spirals inward, it speeds up, like a figure skater pulling their arms in.
+
+When this fast-spinning air reaches the flame, it heats up and rises, carrying its rotation with it. The result is a tall, stable flame tornado.
+
+The flame tornado is higher than the normal flame because the spinning pushes colder, denser air outward, leaving more hot, light air concentrated in the centre. That extra hot air feeds the flame, allowing more combustion and stretching the flame upward.
+
 
 *hot air balloons and thermals are good examples of this. We might already be running hot air balloons as a separate experiment. You can also show this with the lighter (I'd assume) as the flame will pull upwards regardless of the orientation it's held in (mind your fingers).
 
@@ -56,7 +60,7 @@ The flame tornado flame is higher than the normal flame. This is because the col
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
 **Mitigation**: Only touch insulated surfaces (i.e. the turntable edge and not the mesh). Keep crowds back to make easier to control. Only to be done by an experienced demonstrator who has practised ahead of time. Audience to be told not to touch the experiment, and demonstrator to avoid continuously running the experiment to minimise contact with the hot mesh.
 
@@ -66,7 +70,7 @@ Before demonstrating, the demonstrator should make sure the mesh is secure. Duri
 
 In case of accident, run burned areas under cool (not cold) water for at least 20 mins or until it stops hurting - whichever is longer. Summon a first aider immediately to assist the casualty.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 <br/>
 
@@ -76,7 +80,7 @@ In case of accident, run burned areas under cool (not cold) water for at least 2
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High) 
 
 **Mitigation**: Be very careful about where it is set up so there is nothing flammable nearby - to be done on a clear piece of flat ground only. The audience should be made to stand well back. Use hazard tape to mark out a perimeter. The demonstrator should maintain a safe distance themselves while demonstrating, keeping long hair tied back and skin covered.
 
@@ -88,7 +92,7 @@ The mesh cylinder is constrained so it remains central.
 
 Smother any flames with the fire blanket. If fire spreads call 999. In case of burns follow actions for burns above.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 <br/>
 
@@ -98,11 +102,11 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**Before Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium) 
 
 **Mitigation**: Ensure demonstrator is aware of what materials are used in the experiment and that they will need to touch petroleum jelly. Do not proceed if the demonstrator has an allergy, or has an allergic reaction. Wash jelly off hands after applying it.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low) 
 
 <br/>
 
@@ -112,11 +116,11 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Affected People**: All (particularly demonstrator)
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High) 
 
-**Mitigation**: Demonstrator should use enough fuel initially to cover their whole demonstration. If they're running out of fuel then they should make the most of it whilst it's burning then give the rest of the explanation with it burnt out. Relighting should only occur once the equipment has cooled so that adding new fuel doesn't cause it to bubble/evaporate.
+**Mitigation**: Demonstrator should **use enough fuel initially to cover their whole demonstration**. If they're running out of fuel then they should make the most of it whilst it's burning then give the rest of the explanation with it burnt out. Relighting should only occur once the equipment has cooled so that adding new fuel doesn't cause it to bubble/evaporate.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -145,3 +149,5 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 **Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Vlad Penzyev (vp410@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
