@@ -2,7 +2,7 @@
 
 **Letting a chain pull itself out of a beaker under its own gravity** - Why on earth do the beads have to go up to come down?! Watch them fly out of a beaker, looping and corkscrewing, and find out about the amazing Mould Effect!
 
-Last initially checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk) and double-checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,7 +45,7 @@ The effect may be more pronounced if the beaker is placed higher up away from th
 
 The weight of the chain outside the beaker is greater than that of the free section inside the beaker, so the chain is pulled out, at some speed. However, due to Newton's 1st and 2nd laws, the individual beads of the chain can't change direction instantaneously. Instead, it takes a continuous force pulling them round in a circle until they are travelling downwards towards the floor - hence the arc. 
 
-If the chain hits the side of the beaker as it's doing this, the disturbance will attempt to travel away from the point of contact - i.e. back towards the bottom of the beaker. However, the chain is moving fast enough to counteract this, and so the net effect is that this disturbance barely moves. This is the reason for the standing coils and loops you might observe (it may be that the wave velocity equals the speed of the chain at this point, but I'd have to check this).
+If the chain hits the side of the beaker as it's doing this, the disturbance will attempt to travel away from the point of contact - i.e. back towards the bottom of the beaker. However, the chain is moving fast enough to counteract this, and so the net effect is that this disturbance barely moves and seem to hover in place. This is the reason for the standing coils and loops you might observe (it may be that the wave velocity equals the speed of the chain at this point, but I'd have to check this).
 
 **Further Points:**
 You could try drawing an analogy with siphoning a liquid using a long hose/straw.
@@ -63,13 +63,13 @@ This experiment can work well for floating however, you'll want to use the short
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High) 
 
 **Mitigation**: Do not hold directly above anyone. Do not use glass beakers; use plastic to avoid any cuts.
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2
+**After Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low) 
 
 <br/>
 
@@ -79,13 +79,13 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium) 
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If standing elevated  to demonstrate then ask audience to stand back further. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If the standing is elevated, then ask audience to stand back further. Do NOT carry out in a crowded space. Make sure audience pay attention. Pick up the beads yourself after it is done, do not let children play with it.
 
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium) 
 
 <br/>
 
@@ -95,13 +95,13 @@ In case of injury, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience is paying attention. Pick up the beads yourself after it finishes, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience pay attention. Pick up the beads yourself after it is done, do not let children play with it.
 
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium) 
 
 <br/>
 
@@ -111,13 +111,13 @@ In case of injury, call a first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
 **Mitigation**: Tidy up the beads as soon as the demonstration finishes. Ask viewers to step back until you're done. Potentially siphon beads into a large tray.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 <br/>
 
@@ -127,13 +127,13 @@ Call first aider in case of injury.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
 **Mitigation**: Do not let anyone play with the beads or place them in their mouth.
 
 If a long length has been swallowed, do NOT attempt to pull it back out, but cut off the free end. Call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium) 
 
 <br/>
 
@@ -143,30 +143,31 @@ If a long length has been swallowed, do NOT attempt to pull it back out, but cut
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 **Mitigation**: Do not let anyone play with the beads or place them in their mouth.
-Check with audience that none are allergic to nickel.
+Check with audience that **none are allergic to nickel**.
 Do not demonstrate if you are allergic to nickel.
-Call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+Call a first aider in case of emergency.
+
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low) 
 
 <br/>
 
 ### **Hazard**: Heights
 
-**Description**: Demonstrator falls from chair/high place.
+**Description**: Demonstrator falls from chair/high place
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High) 
 
 **Mitigation**: Do not climb onto very high places; a step or perhaps a chair (if safe) is plenty. If standing on a chair or at the top of steps then ensure firm footing and descend before explaining. Do not climb onto tables or other high places. Only do one elevated demonstration per group to avoid getting on/off the chair whilst distracted by explaining.
 
 Call a first aider in case of emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 <br/>
 
@@ -187,3 +188,5 @@ Call a first aider in case of emergency.
 **Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk)
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
+
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
