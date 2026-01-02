@@ -1,9 +1,8 @@
 # Greenhouse Effect
 
-**Illustrating the greenhouse effect with hot resistors in flasks.**  We gratefully acknowledge funding from Cambridge Zero for the purchase of equipment for this experiment. 
+**Illustrating the greenhouse effect with hot resistors in flasks** 
 
-Last initially checked on 2025-02-08 by Duncan Green (dg678@cam.ac.uk)
- and double-checked on 2025-02-08 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -89,7 +88,7 @@ It feels warm because heat is transferred by…
 
 - **Radiation**: it feels warmer on your front than your back when facing a campfire, because radiation (light we can’t see) travels to you in a straight line and lands on your front – the back is in the ‘shadow’ of the IR radiation. The fire glows orange, but it also glows in the IR. 
 
-Similarly, the Earth is also quite warm and loses heat via radiation. It just isn’t hot enough to glow red hot like a campfire. 
+Similarly, everything emits radiation as everything has a temperature no matter how low it is. For example, the Earth is also quite warm and loses heat via radiation. It just isn’t hot enough to glow red hot like a campfire. 
 
 Experiment Note: The thermocouples are fixed at about the same height in both flasks, so convection should not contribute to the temperature difference between flasks. 
 
@@ -138,7 +137,7 @@ Links:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High) 
 
 **Mitigation**: **Limit power dissipation in each resistor to < 5 W. This means power supply < 15 V if 2 resistors are connected in series. Keep the resistors inside the flasks if they are hot, or if the circuit is on.**
 
@@ -146,7 +145,7 @@ The glass flasks can contain shrapnel from an exploding resistor.
 
 In case of burns, run affected area under tepid (not cold) water for 10 minutes. Call a first aider. Do not attempt to remove shrapnel from wound. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium) 
 
 
 ### **Hazard**: Hot Flasks and Resistors
@@ -155,13 +154,13 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
 **Mitigation**: Resistors will be really hot – do not touch them directly. They are fixed by the crocodile clips on the bungs so there should be no need to handle them directly. If you need to change resistors (if they stop working), make sure they have cooled down before touching them. Flasks are unlikely to reach higher than 60 °C, so they are relatively safe to touch. 
 
 In case of burns, run affected area under tepid (not cold) water for 10 minutes. Call a first aider. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 
 ### **Hazard**: Glass Flasks
@@ -170,11 +169,11 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
 **Mitigation**: Secure flasks to the table with masking tape if necessary (easily removable and will not leave marks), especially if small kids are around. Keep flasks away from table edges. The bungs have holes drilled on top (where the leads come out). They are not airtight, so gas can escape when the flasks are heated. **Do not seal the holes on top the bungs, otherwise the flasks may crack during heating.**
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
 
 ### **Hazard**: Aluminium Foil and Wrapping Material
@@ -183,11 +182,11 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
 **Mitigation**: Keep out of reach of small children. 
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium) 
 
 
 ## Risk Assessment Check History 
@@ -196,3 +195,4 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
 
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
