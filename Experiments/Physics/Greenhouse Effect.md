@@ -2,7 +2,7 @@
 
 **Illustrating the greenhouse effect with hot resistors in flasks** 
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -72,8 +72,9 @@ Testing at 12.9 V shows that a 20–30 °C rise is achievable over about 20 minu
 
 Note on the resistors: These ‘vintage’ blue-green resistors are from Cavendish Stores, with a _nominal_ power rating of 5 W and resistance about 12 Ohms, so the maximum power supply voltage we should use is about 15 V. In case the resistors blow up, there are a bunch of spares in the box, but they are expensive to buy online…
 
+The two resistors are connected in series, so if the power supply is set at 15 V, the power dissipated by each resistor should be:
 ```math
-P = \frac{V^2}{R} = \frac{15^2}{12} = 18.75 V
+P = \frac{V^2}{R} = \frac{7.5^2}{12} = 4.7 W
 ```
 
 ### **Heat Transfer**
@@ -123,10 +124,9 @@ Links:
 
 ## Acknowledgements
 
-[TODO]
-- Idea website and lab manual
-- Cambridge Zero funding
-- Cavendish
+The idea for this experiment setup is taken from the online catalogue of Harvard Natural Sciences Lecture Demonstrations (https://sciencedemonstrations.fas.harvard.edu/presentations/greenhouse-bottles). Here, we wrap one flask in aluminium foil instead of using a silvered flask. 
+
+This experiment is sponsored by Cambridge Zero. We gratefully acknowledge funding from Cambridge Zero for the purchase of experiment equipment. We also thank Cavendish Laboratory Stores for providing the old resistors. 
 
 ## Risk Assessment
 
@@ -195,4 +195,4 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
