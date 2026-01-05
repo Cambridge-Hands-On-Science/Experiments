@@ -2,7 +2,7 @@
 
 **Demonstrate cloud formation as air pressure drops.**
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -127,5 +127,6 @@ Contact a first aider in the event of an accident.
 
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 – Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
+
 
