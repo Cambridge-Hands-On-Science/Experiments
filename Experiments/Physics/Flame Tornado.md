@@ -2,7 +2,7 @@
 
 **Demo of a flame tornado** - Watch a tornado form under the effects of moving air.
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -150,4 +150,4 @@ Smother any flames with the fire blanket. If fire spreads call 999. In case of b
 
 **Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
