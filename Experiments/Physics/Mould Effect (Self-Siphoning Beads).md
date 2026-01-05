@@ -2,7 +2,7 @@
 
 **Letting a chain pull itself out of a beaker under its own gravity** - Why on earth do the beads have to go up to come down?! Watch them fly out of a beaker, looping and corkscrewing, and find out about the amazing Mould Effect!
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on [date] by [name] ([crsid]@cam.ac.uk)
+Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -45,7 +45,7 @@ The effect may be more pronounced if the beaker is placed higher up away from th
 
 The weight of the chain outside the beaker is greater than that of the free section inside the beaker, so the chain is pulled out, at some speed. However, due to Newton's 1st and 2nd laws, the individual beads of the chain can't change direction instantaneously. Instead, it takes a continuous force pulling them round in a circle until they are travelling downwards towards the floor - hence the arc. 
 
-If the chain hits the side of the beaker as it's doing this, the disturbance will attempt to travel away from the point of contact - i.e. back towards the bottom of the beaker. However, the chain is moving fast enough to counteract this, and so the net effect is that this disturbance barely moves and seem to hover in place. This is the reason for the standing coils and loops you might observe (it may be that the wave velocity equals the speed of the chain at this point, but I'd have to check this).
+If the chain hits the side of the beaker as it's doing this, the disturbance will attempt to travel away from the point of contact - i.e. back towards the bottom of the beaker. However, the chain is moving fast enough to counteract this, and so the net effect is that this disturbance barely moves and seems to hover in place. This is the reason for the standing coils and loops you might observe (it may be that the wave velocity equals the speed of the chain at this point, but I'd have to check this).
 
 **Further Points:**
 You could try drawing an analogy with siphoning a liquid using a long hose/straw.
@@ -81,7 +81,7 @@ Call a first aider in the case of an injury.
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium) 
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If the standing is elevated, then ask audience to stand back further. Do NOT carry out in a crowded space. Make sure audience pay attention. Pick up the beads yourself after it is done, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. If you are standing on an elevated surface, then ask audience to stand back further. Do NOT demonstrate in a crowded space. Make sure audience members are paying attention. Pick up the beads yourself after it is done, do not let children play with it.
 
 In case of injury, call a first aider.
 
@@ -97,7 +97,7 @@ In case of injury, call a first aider.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High) 
 
-**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience pay attention. Pick up the beads yourself after it is done, do not let children play with it.
+**Mitigation**: Ask audience to step back (at least 1m) to avoid being hit and hold the beaker away from your body. Do NOT carry out in a crowded space. Make sure audience members are paying attention. Pick up the beads yourself after it is done, do not let children play with it.
 
 In case of injury, call a first aider.
 
@@ -189,4 +189,5 @@ Call a first aider in case of emergency.
 
 **Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: [date] – [name] ([crsid]@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
+
