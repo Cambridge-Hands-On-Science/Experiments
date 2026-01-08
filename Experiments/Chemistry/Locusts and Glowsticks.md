@@ -2,7 +2,7 @@
 
 **Using glow sticks to talk about chemical kinetics.** - What do glowsticks and locusts have in common? Watch what happens as we heat them up and cool them down - how long can you get your glowstick to glow? How fast can you make the locusts move?
 
-Last initially checked on 2024-12-19 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2024-12-19 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by _Name_ (_email_)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -242,3 +242,5 @@ Do not demonstrate if you find yourself to be allergic to locusts. Call a first 
 **Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk),
