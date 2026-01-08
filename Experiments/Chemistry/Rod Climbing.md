@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by _Name_ (_email_)
+Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2026-01-08 by Jesse Luo (jl2491@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,7 +17,7 @@ Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and d
 <br/>
 
 ## Equipment Needed 
-- Pot of pre-made polyacrylamide-in-glycerine. (x2)
+- Pot of pre-made polyacrylamide-in-glycerine. (x2) 
 - Stirring rod (plastic)
 - Box of string "spaghetti"
 - Fork
@@ -71,13 +71,13 @@ The glycerine that the polyacrylamide is dissolved is used as a cough mixture an
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Stop kids from eating polymer. Use a very high molecular weight of polyacrylimide so there are no monomers. Children must not handle the slime during the activity!
 
 Polyacrylimide is not harmful if ingested or touched. Advise parents if it is ingested and to see their GP should illness develop.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -87,13 +87,13 @@ Polyacrylimide is not harmful if ingested or touched. Advise parents if it is in
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Encourage children to be sensible and warn them not to run/play with the fork. Keep track of the fork location at all times and put away if necessary.
 
 Call first aider in event of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -103,13 +103,27 @@ Call first aider in event of injury
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Clear up any spills immediately.
 
 Call first aider in event of injury
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (low)
+
+### **Hazard**: Hand Drill
+
+**Description**: Fingers trapped inside hand drill
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
+
+**Mitigation**: Encourage children to be sensible and ensure they only operate the hand drill using the handles. Maybe ensure they only try using it one at a time.
+
+Call first aider in event of injury
+
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -143,4 +157,5 @@ Call first aider in event of injury
 
 **Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-08 - Jesse Luo (jl2491@cam.ac.uk)
+
