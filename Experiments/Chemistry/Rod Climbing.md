@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2025-01-12 by Katie Ward (cw848@cam.ac.uk)
+Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by _Name_ (_email_)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,7 +26,7 @@ Last initially checked on 2024-12-27 by Andrew Marriott (asm206@cam.ac.uk) and d
 <br/>
 
 ## Experiment Explanation 
-
+**Note: this experiment can be a bit tempermental, so I'd recommend checking it works before the event starts!**
 ### In a nutshell
 Twisting a rod in the polymer solution causes long molecules to wrap onto the rod and creep slowly upwards (like spaghetti on a fork).
 
@@ -141,4 +141,6 @@ Call first aider in event of injury
 
 **Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-12 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 Katie Ward (cw848@cam.ac.uk)
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk)
+
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
