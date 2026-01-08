@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2026-??-?? by ?? (??2@cam.ac.uk)
 
 Tags
 
@@ -33,7 +33,7 @@ What we're going to do is think about how our senses work, ask about what sense 
 
 ### Temperature
 
-Get three bowls of water, one hot (not so hot as it will hurt anyone), one cold, and one in between get them to put one hand in the hot, and one in the cold. Wait a few seconds, then get them to put them both in the warm one.
+Get three bowls of water, one hot (not so hot as it will hurt anyone), one cold, and one in between. Get them to put one hand in the hot, and one in the cold. Wait a few seconds, then get them to put them both in the warm one.
 
 You should find they look very confused as one hand will feel the warm water as hot and one as cold.
 
@@ -163,3 +163,7 @@ Call first aider in event of injury.
 **Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+
+**Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2026-??-?? - ?? (??@cam.ac.uk)
+
+
