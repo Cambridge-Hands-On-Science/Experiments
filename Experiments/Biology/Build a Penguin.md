@@ -2,7 +2,7 @@
 
 ** Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour. ** 
 
-Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on YYYY-MM-DD by X (X@cam.ac.uk)
+Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-08 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 
@@ -155,6 +155,6 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Check 1**: 2025-10-08 – Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-10-12 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2025-12-30 – Timothy Wong (chw55@cam.ac.uk), **Check 2**: Y-M-D - X (X@cam.ac.uk)
+**Check 1**: 2025-12-30 – Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2026-01-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
 
