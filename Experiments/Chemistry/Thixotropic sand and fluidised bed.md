@@ -2,7 +2,7 @@
 
 **Looking at floating and sinking using a bed of sand** - Find out more about quicksand and how sand can behave like a fluid.
 
-Last initially checked on 2025-02-08 by Jessica Trevelyan (jet81@cam.ac.uk) and double-checked on 2025-02-08 by Tara Doherty (ted37@cam.ac.uk)
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -160,6 +160,20 @@ If electrical equipment is soaked, unplug, disassemble and put on a radiator
 
 <br/>
 
+### **Hazard**: Blower Power Lead
+
+**Description**: The power lead is a trip hazard.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+
+**Mitigation**: Do not trail power lead across the floor (socket should be behind the table, away from children). Find a socket nearby so the lead is not pulled taut.
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+
+<br/>
+
 
 ### **Hazard**: Container pressure
 *Not sure if this is still part of the experiment!*
@@ -202,3 +216,5 @@ Call first aider in event of injury.
 **Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
