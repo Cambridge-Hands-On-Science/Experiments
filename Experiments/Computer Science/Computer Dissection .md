@@ -2,7 +2,7 @@
 
 **Dissecting a computer** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2025-11-25 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2025-01-11 by Henry Warburton (hw653@acm.ac.uk)
+Last initially checked on 2025-11-25 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-01-11 by Henry Warburton (hw653@acm.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -220,6 +220,7 @@ Call a first aider if choking occurs.
 **Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-11-25 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+
 
 
 
