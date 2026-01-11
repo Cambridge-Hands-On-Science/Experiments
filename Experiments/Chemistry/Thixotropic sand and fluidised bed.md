@@ -2,7 +2,7 @@
 
 **Looking at floating and sinking using a bed of sand** - Find out more about quicksand and how sand can behave like a fluid.
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-11 by Isobel Gilham (ig419@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -74,13 +74,13 @@ This also has a similarity to quicksand, if you have a (water) spring under sand
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Set up carefully, using blower on low power, work out correct air flow rate for amount of sand used. Less sand needs lower flow, important to work out correct settings on set-up (without the public sticking their heads over the bed) and to make sure if anything changes (for example some of the sand is tipped out).
 Call first aider in event of injury.
 If sand gets into eyes, discourage rubbing (sand may scratch), sterile eye wash should be used to flush it out (by a trained first aider).
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -90,12 +90,12 @@ If sand gets into eyes, discourage rubbing (sand may scratch), sterile eye wash 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Ensure experiment is set up near sink to wash hands in afterwards, Demonstrator ensure children wash hands after demonstration.
 If sand gets into eyes, discourage rubbing (sand may scratch), Call first aider. Sterile eye wash should be used to flush it out, only administer if trained and confident.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -105,13 +105,13 @@ If sand gets into eyes, discourage rubbing (sand may scratch), Call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Use play-pit type sand (less dusty).
 Keep an eye on the floor, and use a dust-pan and brush to clean up if necessary.
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -121,12 +121,12 @@ Call first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Mop up any water immediately. Use wet floor sign if necessary.
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -136,11 +136,11 @@ Call first aider in event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
 
 **Mitigation**: Ideally do the experiment outside or in an open space a fair distance from other experiments. Cloth over the air intake should muffle the sound somewhat. Warn people about the loud noise before turning on the blower, and allow time for anyone sensitive to loud sounds to move away or cover their ears. The demonstrator may wish to wear hearing protection if in a confined space for a long time.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 <br/>
 
@@ -150,13 +150,13 @@ Call first aider in event of injury.
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (don't do this!)
 
 **Mitigation**: Do not pour water into the electrical equipment, or leave water near the electrical parts. Dry hands before operating fluidised bed.
 See electrical parts RA.
 If electrical equipment is soaked, unplug, disassemble and put on a radiator
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -166,11 +166,11 @@ If electrical equipment is soaked, unplug, disassemble and put on a radiator
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Do not trail power lead across the floor (socket should be behind the table, away from children). Find a socket nearby so the lead is not pulled taut.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -182,12 +182,12 @@ If electrical equipment is soaked, unplug, disassemble and put on a radiator
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Check for cracks before use. Do not use if cracked.
 Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -217,4 +217,4 @@ Call first aider in event of injury.
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-11 - Isobel Gilham (ig419@cam.ac.uk)
