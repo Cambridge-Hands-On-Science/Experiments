@@ -2,7 +2,7 @@
 
 **Demonstrating the power of a carbon dioxide fire extinguisher.** - What does a fire need to burn, and how can we put it out? Find out how we can put out a candle with a cupful of gas!
 
-Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by _name_ (_email_)
+Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2026-01-11 by Henry Warburton (hw653@acm.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -151,4 +151,5 @@ If vinegar gets in eyes, we have eyewash in the first aid box (and there should 
 
 **Check 1**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+
