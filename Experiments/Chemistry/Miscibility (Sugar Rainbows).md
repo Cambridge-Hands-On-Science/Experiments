@@ -2,7 +2,7 @@
 
 **Make a rainbow in a glass** - Explore the density of different sugary syrups and make a rainbow in the process.
 
-Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on YYYY-MM-DD by _Name_ (_email_)
+Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2026-01-11 by Henry Warburton (hw653@acm.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -188,4 +188,5 @@ Call first aider in the event of an emergency.
 
 **Check 1**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**:
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+
