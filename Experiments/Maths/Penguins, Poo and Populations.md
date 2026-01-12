@@ -2,7 +2,7 @@
 
 **Counting when we can't count** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -71,14 +71,14 @@ Where are the errors? Where did our sample come from, zoos is a nice controlled 
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15
+**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
 
 **Mitigation**: Inform them they are rubber/plastic and not edible.
 Keep track of all the ducks.
 Most items are too large to cause ingest easily.
 Call first aider if child swallows, if choking encourage child to cough.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -88,12 +88,12 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Keep track of all the ducks.
 Pick up if dropped. Don't let children run around.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -103,12 +103,12 @@ Pick up if dropped. Don't let children run around.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Monitor the pens and don't let very small children use them (at least without supervision).
 In case of licking, call first aider, or tell parent to contact GP if child feels ill later.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -118,11 +118,11 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Remove squeakers if necessary. Don't allow children to have extended contact, keep track of ducks currently off the table. Don't let ducks be squeaked around ears. Sit person down if required after ear squeaking.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -142,5 +142,6 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-30 - Isobel Gilham (ig419@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk) 
+
 
