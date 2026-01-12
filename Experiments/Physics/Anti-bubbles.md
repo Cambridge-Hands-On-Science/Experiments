@@ -2,7 +2,7 @@
 
 **Make fascinating bubbles which rather than floating on water actually sink.**
 
-Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-02-08 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2026-01-12 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,5 +117,6 @@ The antibubbles seem to form best when they are dropped onto water that is falli
 
 **Check 1**: 2025-01-17 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2026-01-12 - Daniel Eaton (de354@cam.ac.uk)
+
 
