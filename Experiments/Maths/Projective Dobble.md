@@ -2,7 +2,7 @@
 
 **The maths of Dobble** - Introduction to axiomatic maths and projective geometry via the card game Dobble. Learn how to make your own Dobble decks by constructing the "axioms of Dobble" from the rules, then developing methods to build these.
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -101,11 +101,11 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Make sure sharp corners on the cards have been rounded out. Don't let very young children who could potentially hurt themselves handle the cards.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 3 (low)
 
 <br/>
 
@@ -115,11 +115,11 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Make sure cards are not on the floor and children don't drop them. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 ## Risk Assessment Check History 
 
@@ -127,6 +127,6 @@ We can also show take theorems in projective geometry and find them in Dobble. F
 
 **Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
 
 
