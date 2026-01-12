@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -84,12 +84,12 @@ By flipping two coins you can do a random walk in 2d, ask people if you think yo
 
 **Affected People**: Small children
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Duplo blocks should be sufficiently large that they are safe from swallowing for all ages, but keep an eye out just in case. Don't let small children handle coins. Take lids off pens before letting children use them.  Keep an eye on all the equipment.
 Call first aider if child swallows, if choking encourage child to cough while awaiting first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -99,12 +99,12 @@ Call first aider if child swallows, if choking encourage child to cough while aw
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Check you can flip a coin without losing control of it, otherwise just spin it on the table. It's perfectly fine to let the children (if older) toss the coin themselves, but make sure they're capable of doing it safely with a trial flip first. An easier way to flip coins is to have them clasp the coin between their hands and shake.  Don't let children retrieve lost coins.
 Call a first aider in the event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -114,12 +114,12 @@ Call a first aider in the event of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep an eye on where any objects go, and try to confine them to a desk or fixed area. Pick up anything that falls immediately.  Do not let multiple unattended children use objects at the same time.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -129,11 +129,11 @@ Call first aider in case of injury.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Keep an eye on the pens and don't let small children use them without supervision.  In the event of an incident, tell parent to contact a GP if child feels unwell later.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -163,5 +163,6 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**:2026-01-11 - Leah Helm (lkh53@cam.ac.uk)
+
 
