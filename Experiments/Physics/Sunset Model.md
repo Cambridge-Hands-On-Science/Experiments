@@ -2,7 +2,7 @@
 
 **Why is the sky blue and the sunset red?** - Have you ever wondered what makes the sky blue? Or why it stops being blue at sunset? Come along to this experiment to find out why!
 
-Last initially checked on 2026-01-12 by Duncan Green (dg678@cam.ac.uk) and double-checked on________________
+Last initially checked on 2026-01-12 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2026-01-12 by Daniel Eaton (de354@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -128,12 +128,12 @@ There is no atmosphere on the moon, so it has a black sky (nothing for light to 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Clear up any spills promptly. Use wet floor sign if necessary.
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -143,11 +143,11 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
 
 **Mitigation**: Milk powder and dilute milk solution should not be consumed. Anyone with a milk allergy should avoid handling.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -157,14 +157,14 @@ Call a first aider in the case of an injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (Unacceptable)
 
 **Mitigation**: Use 7.2V light only. Demonstrator to place power supply/transformer above the surface on which the tube stands. Keep power supply off ground and away from experiment and possible spills. All surrounding mains voltage electrical equipment must be kept clear of the ground, or in a place where it will not be compromised in the event of a major leak. When setting up experiment, pour water into tube away from unprotected electrical equipment (over the low voltage, splash-proofed light box is OK)
 Demonstrator must carefully inspect the light box before starting to ensure no damage has occurred which would affect the waterproofing (for example cracking of the light window).
 In the event of an accident, turn off electricity and call a first aider.
 Also see Electrical Parts RA.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -198,6 +198,6 @@ Also see Electrical Parts RA.
 
 **Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2026-01-12 - Duncan Green (dg678@cam.ac.uk), **Check 2**: ____________
+**Check 1**: 2026-01-12 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2026-01-12 - Daniel Eaton (de354@cam.ac.uk)
 
 
