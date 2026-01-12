@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -184,5 +184,6 @@ In the event that something is eaten, warn parents/relevant adult.
 
 **Check 1**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk) 
+
 
