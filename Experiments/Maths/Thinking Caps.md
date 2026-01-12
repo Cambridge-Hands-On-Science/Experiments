@@ -2,7 +2,7 @@
 
 **A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -76,12 +76,12 @@ Can we do better than this? It turns out that there is a better strategy. Since 
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2 , Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2 , Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: 'Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall:2 
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall:2 (low)
 
 <br/>
 
@@ -91,12 +91,12 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Make sure you know where hats are at all times and that children are not running around in a way that could be dangerous if hats fall.
 Call a first aider in the event of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -106,11 +106,11 @@ Call a first aider in the event of an injury.
 
 **Affected People**: Children
 
-**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 3
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 3 (low)
 
 **Mitigation**: Make sure that children handle hats as little as possible, and mostly just wear them. When they do handle them make sure you know who has them and whether they are being sensible.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (low)
 
 <br/>
 
@@ -132,5 +132,6 @@ Call a first aider in the event of an injury.
 
 **Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+
 
