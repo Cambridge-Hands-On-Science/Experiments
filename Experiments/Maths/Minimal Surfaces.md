@@ -4,7 +4,7 @@
 
 NOTE: RA in development...
 
-Last initially checked on 2025-08-06 by Mara-Ioana Postolache (mip32@cam.ac.uk) and double-checked on 2025-08-06 by John Leung (cfl35@cam.ac.uk)
+Last initially checked on 2026-01-12 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-xx-xx by xx (xx)
 
 ## Tags
 
@@ -87,12 +87,12 @@ Ask parent/responsible child/leader if OK to put their hand in soapy water. Othe
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Don't let anyone who touched the soapy water with their fingers touch their eyes without drying their hands first, including yourself. 
 Know where the nearest eye wash is (usually Safety Box). Summon first-aider to wash eyes if necessary. 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -106,7 +106,7 @@ Know where the nearest eye wash is (usually Safety Box). Summon first-aider to w
 
 **Mitigation**: Do not let children drink soap water or lick frames. 
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -135,7 +135,7 @@ make sure all ends are sealed away with tape / blu-tac / some other means to uns
 
 **Mitigation**: Make sure wires are on the table at all times when not in use. 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -158,5 +158,6 @@ Warn people of any spillages and clear them up promptly using the kitchen roll, 
 ## Risk Assessment Check History
 
 **Check 1**: 2025-08-06 - Mara-Ioana Postolache (mip32@cam.ac.uk), **Check 2**: 2025-08-06 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2026-01-12 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-xx-xx - xx (xx)
 
 <!-- (duplicate as necessary) -->
