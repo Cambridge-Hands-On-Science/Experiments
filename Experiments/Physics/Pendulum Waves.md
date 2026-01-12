@@ -2,7 +2,7 @@
 
 **Watching pendulum phase dynamics** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
 
-Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Duncan Green (dg678@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -145,5 +145,6 @@ In case of an injury, contact a first aider.
 
 **Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:
+**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Duncan Green (dg678@cam.ac.uk)
+
 
