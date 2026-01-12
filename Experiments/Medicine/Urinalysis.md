@@ -2,7 +2,7 @@
 
 **Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2026-??-?? by ?? (??@cam.ac.uk)
+Last initially checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2026-01-12 by Charlotte Greensmith (cg865@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -100,11 +100,11 @@ There are three main types of diabetes mellitus (DM).
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
 **Mitigation**: All spills should be cleared up immediately. Call a first aider in case of accident.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -114,13 +114,13 @@ There are three main types of diabetes mellitus (DM).
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Do not allow children to dip fingers in artificial urine, encourage use of gloves, encourage children to wash their hands afterwards. Make sure children know it's milk so if they are allergic they can make sure not to touch it. Alert parents to presence of milk if you are concerned that a child has dipped their fingers in the solution.
 
 Call a first aider in the event of reaction.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -130,11 +130,11 @@ Call a first aider in the event of reaction.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Do not allow children to dip fingers in artificial urine, encourage use of gloves, encourage children to wash their hands afterwards. Alert parents to presence of raw meat if you are concerned that a child has dipped their fingers in the solution.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
@@ -144,11 +144,11 @@ Call a first aider in the event of reaction.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Be aware that a small percentage of people may feel uneasy or unwell. Stop if someone looks unwell/goes pale. Have a chair nearby for light-headed-feeling people, and ask anyone who feels faint to sit down (may be better for them to sit on the floor as people can still faint off chairs). Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 </br>
 
@@ -158,11 +158,11 @@ Call a first aider in the event of reaction.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
 **Mitigation**: Wash containers for solutions after each day of demonstrating. Dispose of containers that are mouldy.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 <br/>
 
 ## Risk Assessment Check History 
@@ -191,5 +191,6 @@ Call a first aider in the event of reaction.
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2026-??-?? - ?? (??@cam.ac.uk)
+**Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2026-01-12 - Charlotte Greensmith (cg865@cam.ac.uk)
+
 
