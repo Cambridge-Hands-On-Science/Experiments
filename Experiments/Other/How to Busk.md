@@ -2,7 +2,7 @@
 
 **Recruiting passersby by experiments. ** - Taking experiments out of the venue to convince passersby to turn up. 
 
-Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 202X-XX-XX by XXX (XXX@cam.ac.uk)
+Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-12 by Jeovana Ip (jci25@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -54,7 +54,7 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Description**: It’s possible that you could accidentally block a thoroughfare when demonstrating or with the experiment you take to busk.
 
-**Affected People**: Demonstrator
+**Affected People**: Demonstrator, members of the public on the thoroughfare
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
@@ -146,5 +146,5 @@ It's worth noting some councils in the UK have restrictions on street trading an
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 202X-XX-XX - XXX (XXX@cam.ac.uk)
+**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2026-01-12 - Jeovana Ip (jci25@cam.ac.uk)
 
