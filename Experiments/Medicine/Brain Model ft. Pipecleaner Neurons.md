@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners!** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2025-01-19 by Marin Lee (ml2072@cam.ac.uk) and double-checked on 2025-01-26 by Margaret Johncock (mllyj2@cam.ac.uk)
+Last initially checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -126,11 +126,11 @@ Loss of myelin from axons is found in people with multiple sclerosis. They get t
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Remove broken models. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -140,11 +140,11 @@ Loss of myelin from axons is found in people with multiple sclerosis. They get t
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Make sure kids are being sensible with the model. Call a first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -154,13 +154,13 @@ Loss of myelin from axons is found in people with multiple sclerosis. They get t
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Ensure that children are carefully supervised; demonstrator to try to keep all neuron-making activity on the table. Demonstrator should calm down children if they are using the pipe cleaners in an unsafe way.
 
 In case of injury, call first aider. Do not attempt to move anything lodged in the eye.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -170,13 +170,13 @@ In case of injury, call first aider. Do not attempt to move anything lodged in t
 
 **Affected People**: Demonstrator
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Keep wire snips hidden during demonstrating - they're only used to prepare pipe cleaners beforehand so don't need to be out. Do not put your finger in the wire snips.
 
 In case of injury, call a first aider.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -210,3 +210,4 @@ In case of injury, call a first aider.
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
+**Check 1** : 2026-01-12 - Leah Helm (lkh53@cam.ac.uk), **Check 2** :
