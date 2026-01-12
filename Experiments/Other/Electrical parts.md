@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2025-12-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 202X-XX-XX by XXX (XXX@cam.ac.uk)
+Last initially checked on 2025-12-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 
 ## Tags
@@ -107,6 +107,6 @@ Boxes containing electrical equipment should be fully closed when packing away, 
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-12-22 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 202X-XX-XX - XXX (XXX@cam.ac.uk)
+**Check 1**: 2025-12-22 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
