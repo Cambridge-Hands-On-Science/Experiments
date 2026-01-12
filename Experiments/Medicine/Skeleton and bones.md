@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on Y-M-D by X (X@cam.ac.uk)
+Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -210,4 +210,5 @@ Also watch for things falling off Boris!
 
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2025-12-31 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: Y-M-D - X (X@cam.ac.uk)
+**Check 1**: 2025-12-31 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+
