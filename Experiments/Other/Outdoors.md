@@ -2,7 +2,7 @@
 
 **Read before doing any experiment outside**
 
-Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 
+Last initially checked on 2025-12-24 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-12 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 
 ## Tags
@@ -104,4 +104,4 @@ Some experiments can be demonstrated outside. Read this RA along with the experi
 
 **Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
 
-**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 
+**Check 1**: 2025-12-24 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 2026-01-12 - Jeremy Lee (rqjl2@cam.ac.uk)
