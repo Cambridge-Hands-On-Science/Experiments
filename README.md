@@ -43,3 +43,9 @@ Finally run printer_script.py
 ```
 python printer_script.py
 ```
+
+### Notes
+** 10/02/26 (Jeremy): I had some issues with running the script on Windows. The wkhtmltopdf installation on the website doesn't work that well for me somehow, but I got it to work by using an Ubuntu WSL conda environment with python 3.11 and following the instructions above. Install wkhtmltopdf with
+```
+sudo apt install wkhtmltopdf
+```
