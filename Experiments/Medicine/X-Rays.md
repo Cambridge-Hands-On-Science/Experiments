@@ -21,7 +21,6 @@ Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-
 - X-ray light box.
 - Collection of X-rays and MRIs.
 - Kettle lead with 'right-angled' end that fits.
-- Torch.
 
 <br/>
 
@@ -75,9 +74,9 @@ Human:
 12. Knee- displaced patella
 13. Forearm
 14. Skull 2 views- radiodense (bright white) tooth = filling
-15: Dislocated Elbow
-16: Angiogram Lung 
-3xMRI of spinal cord
+15. Dislocated Elbow
+16. Angiogram Lung 
+- 3x MRI of spinal cord
 
 New batch of Animal X-Rays from Queens Veterinary Schools Hospital - these have had patient/owner details cut out and could rip along cutting lines so try to avoid this! (Jennifer's X-rays folder):
 1. Dog, fractured right femur, urinary catheter in place
@@ -96,21 +95,25 @@ New batch of Animal X-Rays from Queens Veterinary Schools Hospital - these have 
 14. Dog, normal stifle for comparison
 15. Horse, lateromedial radiograph, front foot and hind foot. Can see the shoes, nails attaching the shoes, phalanges, navicular bone, proximal sesamoids and the start of the metacarpus/metatarsus. Radiopaque hairline marker helps assess the angles within the foot and possibly help diagnose laminitis
 
-Other animal X-rays in this folder (blue stickers):
-
+Other animal X-rays in this folder (blue or yellow stickers):
+1. 2x puppy angiograms dorsoventral and lateral views - same interesting points as dog angiogram, also have epiphysis at joints.
 2. Male dog angiogram - can ask about what the most important organs are (can see these as those with greatest blood supply), contrast these with limbs which have far less blood supply - important in reducing heat loss, and possible because there are no major organs in limbs and most muscles are proximal (meaning the distal limbs are mainly bone and connective tissue, which require very little blood supply)
+3. Cat Barium Contrast study - shows the presence of megaoesophagus = dilation of the oesophagus which means that most food cannot get to the stomach (instead will be regurgitated, will see weight loss because of this), can feed animals in special chairs that sit them upright like a human so gravity can help food reach the stomach.
 4. Arteries of the head (dog and sheep) - can ask about why the brain needs such a good blood supply - very important organ with high energy and oxygen demand (one of the few organs which cannot survive any period of hypoxia - neuron cell death begins 4-6 minutes after blood flow stops). It also has many different large arteries going into the brain, as if there was only one and it got damaged/blocked this would cause death as brain tissue cannot survive long without oxygen (about 2-3 minutes). As it is, only a small area of the brain will be damaged - this is what a stroke is - as the other arteries will continue to supply most of the brain.
 - Following on for this, can ask why the nose also has high blood supply (esp. clear in sheep) - smell is a vital sense for survival in both sheep (prey) and dogs (predators) and requires energy and oxygen to allow adequate sensitivity for their needs. The nose is also important in cooling blood going to the brain and heating air breathed out through the nose which allows thermoregulation.
+5. !! Ask a vet because idk, sheep maybe?
+6. Bird skull
+7. Puppy pelvis - shows left hip displacement and growth plates
+8. Dog intestines barium contrast study - shows food in stomach and poo rectum
 9. Dog intestine and pelvis lateral view - black areas in abdomen are gas build up in intestines which is normal
 
-Other Animal X-Rays in black case:
-
-For the exotic ones there's an information sheet which shows which X-ray is which and tells you about the animals. There are pictures of the animals which line up with the X-rays, which is good for young children as they enjoy matching them up. There should be:
+Exotic animals (plastic wallet):
+There are pictures of the animals which line up with the X-rays, which is good for young children as they enjoy matching them up. There should be:
 - Common marmoset
 - European rabbit
 - Joey kangaroo
-- Pumpkinseed sunfish
-- Frontsa cichlid (fish)
+- Pumpkinseed sunfish - x-ray missing!
+- Frontosa cichlid (fish) - photo missing!
 - Green tree python
 - Western diamondback rattlesnake
 - Infant green iguana
@@ -120,13 +123,6 @@ For the exotic ones there's an information sheet which shows which X-ray is whic
 - Red-tailed hawk
 - Turkey vulture
 - Leaf Frog
-
-Others:
-1. Puppy angiograms x2 dorsoventral and lateral views - same interesting points as dog angiogram, also have epiphysis at joints.
-3. Cat Barium Contrast study - shows the presence of megaoesophagus = dilation of the oesophagus which means that most food cannot get to the stomach (instead will be regurgitated, will see weight loss because of this), can feed animals in special chairs that sit them upright like a human so gravity can help food reach the stomach.
-6. Bird skull
-7. Puppy pelvis - shows left hip displacement and growth plates
-8. Dog intestines barium contrast study - shows food in stomach and poo in rectum
 
 <br/>
 
@@ -225,4 +221,5 @@ Call first aider in case of injury.
  **Check 1**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk)
+
 
