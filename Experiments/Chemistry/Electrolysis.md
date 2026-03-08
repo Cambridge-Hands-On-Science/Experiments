@@ -22,7 +22,8 @@ Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and doubl
 - **Electricity needed**
 - Electrolysis tower (~ 6' tall, white cover, don't drop it - you will need 2 people to move it)
 - 0-15V variable power supply OR Power pack of doom
-- Small red box (approx. contents): Water models, small air blower, MgSO<sub>4</sub>, deionised water, funnels etc. power connectors, green trigger button, silencer, ping-pong balls)
+- Small red wet box (electrolysis 1/2): MgSO<sub>4</sub>, deionised water, funnels, tubes 
+- Small blue dry box (electrolysis 2/2): water models, hairdryer, green triggers button, silencer, ping-pong balls 
 
 <br/>
 
@@ -255,5 +256,6 @@ In the event if an injury, call a first aider.
 **Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk)
+
 
 
