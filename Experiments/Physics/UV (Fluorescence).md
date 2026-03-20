@@ -226,12 +226,12 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (Unacceptabe)
 
 **Mitigation**: If children want to put sun cream on their skin, first make sure that they've previously used sun cream without allergic reaction.
-Call first aider in event of injury, who may perform an eye wash if trained and confident to do so.
+Call first aider in event of injury, who may perform an eye wash if trained and confident to do so. People with a suncream allergy should avoid touching anything in the box, as it is all covered in old suncream.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
