@@ -52,6 +52,8 @@ If you don't explain the aspect ratio thing to students, most of them will proba
 
 By this logic, we want an infinitely thick column. There are a couple of problems with this. Firstly, the wider the column, the more space it takes up. So we want an optimal thickness which will hold the ceiling up without using too much space. The other problem is that if the buckling stress is too high, the column will instead fail by crushing. A crushed column cannot bear any weight, but a column which is buckling still can provided it doesn't break. Therefore, it is better for a column to buckle slightly than break, and short fat columns may not be desirable.
 
+Fun fact to drop in which was told to me by a visitor, Canterbury Cathedral has an old wooden beam which is currently Euler buckling (its been reinforced to keep it that way)
+
 **3-Point Bending:**
 
 In the context of house-building, I claim that roof beams are loaded under a 3-point bend. To be honest, I have no idea if this is the case. So if someone has a better way to put it into context then let me know. You could also use the example of the typical primary school benches (the wooden ones with the rubber bumps on the ends) or a bookshelf, for something younger children might be more familiar with. For these the supports at either end and a person sitting / an object placed at the centre would provide the 3 points.
