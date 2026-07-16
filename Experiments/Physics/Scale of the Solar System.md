@@ -43,6 +43,7 @@ For 2m (roughly demonstrator height) Sun:
 Earth marble
 Jupiter ball
 c=1ms-1 (GUESS!?!)
+jupiter 1.5km away
 
 Sun marble
 Earth 2m away
