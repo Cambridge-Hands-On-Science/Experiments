@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2025-11-29 by Alice O'Hara (aeio3@cam.ac.uk)
+Last initially checked on 2026-07-23 by Andrew Marriott (asm206@cantab.ac.uk) and double-checked on 2026-07-23 by (@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,6 +24,7 @@ Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and doubl
 - 0-15V variable power supply OR Power pack of doom
 - Small red wet box (electrolysis 1/2): MgSO<sub>4</sub>, deionised water, funnels, tubes 
 - Small blue dry box (electrolysis 2/2): water models, hairdryer, green triggers button, silencer, ping-pong balls, rope to secure the tower to a wall
+- Ear defenders (in safety) - it can be very loud!
 
 <br/>
 
@@ -148,7 +149,7 @@ In the event of an incident, turn off power, remove any casualty from area, call
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
 **Mitigation**: Ignition is by modified kitchen lighter. Is on the end of a long wire, allowing everyone to stand well clear of the explosion (energy dissipates as r². A sound muffler can be attached to the top of the column. Demonstrator should use ear defenders as hearing protection, especially if demonstrating this for a long time).
-
+**There are ear defenders in the safety box - use them!**
 Use less gas if the explosions are too loud.
 
 Seek GP’s advice in the event of injury.
@@ -255,7 +256,7 @@ In the event if an injury, call a first aider.
 
 **Check 1**: 2024-12-17 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk)
+**Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk), **Check 3**: 2026-07-23 - Andrew Marriott (asm206@cantab.ac.uk), **Check 4**:
 
 
 
