@@ -13,9 +13,7 @@ Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and doub
 
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-<!-- **Active** (Experiment has working equipment at the time of last update, and is available for events.) -->
-
-**In development** (This experiment doesn't actually exist yet, but might in the future!)
+**Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
 **Chemistry**
 
@@ -35,14 +33,16 @@ Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and doub
 
 **In the box:**
 
-- SodaStream and its bottle
+- SodaStream and its bottle (in separate cardboard box)
 - Plastic dropping pipettes
 - Test tubes
 - Test tube rack
 - Waste container
-- Teaspoon measures
-- Bottles or cups to hold solutions
+- Teaspoon
+- Glass bottles for solutions
+- Plastic cups for pipetting out of
 - Funnel for filtering solutions
+- Selection of various shells
 
 **Consumables:**
 
@@ -53,14 +53,13 @@ Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and doub
 - Calcium Chloride Dihydrate, CaCl₂⋅2H₂O (sold on Amazon, etc. as a salinity balancer for swimming pools)
 - CO₂ gas cylinder for Sodastream - these can be refilled in shops like John Lewis. See [https://sodastream.co.uk/pages/store-locator](https://sodastream.co.uk/pages/store-locator) for locations
 - Universal indicator paper (with integrated colour scale) - this can be bought on Amazon, etc.
-- Teaspoon measures
 - _Eggs (CBS Only)_
 
 **Not in the box:**
 
 - Plastic tray
-- Shells? (Currently in Rocks & Fossils)
 - Sample of limestone, calcite and aragonite? (Currently in Rocks & Fossils)
+- Sharpie (for labelling)
 - _Small Tupperware for eggs (CBS Only)_
 
 <br/>
@@ -86,22 +85,23 @@ Show that making the solution acidic by adding vinegar stops carbonate precipita
 - _CBS Only: Put some eggs to soak in vinegar (any kind) for at least a day before the event. Keep them in a sealed container, but you may need to periodically open it to vent CO₂ gas. The shell should soften and eventually disappear, leaving just the membrane holding the egg bits inside. Before starting, drain the vinegar, carefully rinse the eggs with water, and put them back into a sealed tupperware._
 
 - **Solution prep**: This can be done on the day but ideally before as it takes a while! The solutions should last for a few days of demonstrating, if they are stored in sealed bottles with minimal headspace.
-  - If available, this works better with deionised water, but it can be done with tap water and some filtering
+  - If available, this works better with deionised water, but it can be done with tap water and some filtering.
   - Dissolve 28 g (~6 tsp or 2 tbsp) CaCl₂⋅2H₂O into ~500ml of water.
-  - Dissolve 6 g (~1 tsp) NaHCO₃ into ~500ml of water.
-  - If the solutions still remain cloudy after a while (this may especially be true for the calcium chloride as it doesn't seem to be 100% pure), they should be filtered by pouring through a funnel lined with several layers of kitchen roll into another bottle.
+  - Dissolve 12 g (~2 tsp) NaHCO₃ into ~500ml of water.
+  - If the solutions still remain cloudy after a while (this may especially be true for the calcium chloride as it doesn't seem to be 100% pure), they should be filtered by pouring through a funnel lined with several layers of kitchen roll or a coffee filter into another bottle.
   - Store in labelled 500 ml bottles that are as full as possible, as minimising the headspace stops CO₂ getting out of the bicarb solution and stops CO₂ getting into the calcium chloride and making it go cloudy prematurely.
   - Do a test run by mixing ~1ml of each solution in a test tube. It should go cloudy within a few seconds.
 
 - **On the day:**
-  - Fill the SodaStream bottle to the ‘max’ line (not the flavouring line) with tap water, and another bottle with tap water.
-  - Insert the water bottle and the CO₂ cylinder into the SodaStream as indicated by the SodaStream instructions.
-  - Get the bottles of calcium chloride and sodium bicarbonate solution. If necessary, tip out a small amount of each into separate cups or beakers so they are easier to pipette from.
+  - Fill the SodaStream bottle to just above the ‘max’ line with tap water. Dissolve about half a teaspoon of sodium bicarbonate to raise the pH to ~8 (this makes it align with the pH of seawater and makes the colour change on the universal indicator paper more obvious)
+  - Pour the excess water out of the SodaStream bottle into a plastic cup to act as a control. The bottle should now be filled to the ‘max’ line (not the flavouring line).
+  - Insert the bottle and the CO₂ cylinder into the SodaStream as indicated by the SodaStream instructions (if not there already).
+  - Get the bottles of calcium chloride and sodium bicarbonate solution. Tip out a small amount of each into separate labelled plastic cups so they are easier to pipette from. Place a pipette in each cup.
   - Do a test run by mixing ~1ml of each solution in a test tube. If it does not turn cloudy within 10 to 20 seconds, you may need to remake the solutions (see above).
   - Also prepare a container of white vinegar.
-  - Label containers to make sure you know which is which!
+  - Label containers and pipettes to make sure you know which is which!
   - Also have a waste container handy. Waste from this experiment is non-hazardous and can be flushed down the sink with plenty of water.
-  - Put the infographic somewhere people can see it.
+  - Place a strip of universal indicator paper on some paper towel. Have the colour scale nearby.
   - Give the Sodastream around 5 good presses to carbonate the water (or you can let the first group of the day do this instead.)
 
 ### How to demonstrate
@@ -118,12 +118,16 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 #### The Carbonate Sink
 
-- Start by showing the infographic and explain in broad terms how carbon gets into the ocean and what can happen to it.
-- Say that we will be focussing on the carbonate sink, show shells and limestone
-- These are made of calcium carbonate: Ca²⁺ + CO₃²⁻ → CaCO₃
+- You could start by saying that we are going to do some geochemistry, and get the kids to speculate about what geochemistry might involve (chemical reactions that happen naturally on planet Earth).
+- Then, show the shells, and ask what they are.
+- _Alternatively, for older visitors, you could start by showing the ocean carbon cycle infographic and explain in broad terms how carbon gets into the ocean and what can happen to it. Then say that we will be focussing on the carbonate sink; show shells and limestone._
+
+- What are shells made of? Calcium carbonate: CaCO₃
+- Shellfish (+ stony corals, sea urchins, some plankton) make shells by pumping in calcium and carbonate that are already dissolved in seawater and combining them together: Ca²⁺ + CO₃²⁻ → CaCO₃ (There is a standalone graphic to show this reaction)
 - _CHaOS+: talk about the carbonate equilibria here: how do we get CO₃²⁻ from HCO₃⁻?_
+- We are now going to pretend to be shellfish and make our own calcium carbonate.
 - Do the reaction in a test tube by pipetting in ~1 ml of the sodium bicarbonate and calcium chloride solutions. You can also demonstrate how to use the pipettes and let (sensible) children do it. Make sure to use separate pipettes for each solution and not mix them up!
-- A cloudy, white precipitate should form over the next 10 seconds or so – ask them what it is (CaCO₃).
+- A cloudy, white precipitate should form over the next 10 seconds or so – ask them what it is (solid CaCO₃).
 - _CHaOS+: When doing the reaction like this, the precipitate you see is amorphous calcium carbonate (ACC) because the carbonate saturation is high enough to form it and it has a negligible kinetic barrier to its formation. This will gradually transform over time into more stable, crystalline calcite (or aragonite if magnesium is present). Many (if not all) biomineralising organisms are now known to initially precipitate ACC or ACMC (amorphous calcium-magnesium carbonate)_
 - This is the reaction happening inside shellfish when they make their shells!
 - _CHaOS+: Rather than mixing solutions, real biomineralising organisms use ion channels to pump in Ca²⁺ or pump out H⁺ (which will increase CO₃²⁻ by the carbonate equilibria)._
@@ -138,21 +142,21 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 #### Ocean Acidification
 
-- Now ask what is changing in this system today. People will probably know that atmospheric CO₂ is increasing and that causes global warming
+- Now ask what is changing in the carbon cycle today. People will probably know that atmospheric CO₂ is increasing and that causes global warming
 - This CO₂ also dissolves in the ocean – what might it do?
 - Some people might suggest acidification; otherwise talk about what makes an acid and why CO₂ behaves as such:
 
   CO₂ + H₂O ⇌ HCO₃⁻ + H⁺
-- Next, demonstrate the acidification. In a tray, put a drop of the tap water that was used to fill the sodastream on some universal indicator paper; get someone to read off the pH. It should be around 7 (neutral).
+- Next, demonstrate the acidification. In a tray, put a drop of the control water (that you poured out of the sodastream bottle before carbonating) on one end of some universal indicator paper; get someone to read off the pH. If you have added bicarb to the Sodastream, this should be around 8 (similar to seawater today).
 - _CHaOS+: Introduce them to the pH scale if they are not already familiar: pH = −log₁₀ {H⁺}, where {} denotes activity (similar to concentration in dilute solutions such as this). Since the equilibrium constant for H₂O ⇌ H⁺ + OH⁻ is about 10⁻¹⁴, if no acid or base is present then pure water has pH = 7. Acidic solutions have a lower pH, and alkaline solutions have a higher pH._
 - Get someone to **briefly** press the sodastream button to inject more CO₂ into the (already fizzy) water.
 - Ask people what it feels like to drink sparkling water (don't give it to them though; get them to remember). They can feel the bubbles (dissolved CO₂ coming out of solution) but it also tastes a little sour due to the acidity.
-- Now, put a drop of the fizzy water onto the indicator paper. It should be around pH 6. So adding CO₂ has made our water more acidic. (N.B. do this straight away, as the pH will gradually return to neutral as the dissolved CO₂ degasses.)
+- Now, put a drop of the fizzy water from the Sodastream onto the other end of the indicator paper. It should be around pH 6. So adding CO₂ has made our water more acidic. (N.B. do this straight away, as the pH will gradually return to neutral as the dissolved CO₂ degasses.)
 
 #### Impacts of Ocean Acidification
 
 - Ask what the impacts of this on shells might be. Some may know that carbonates react with acid and dissolve. Acid can also stop carbonates from forming.
-- Repeat the precipitation experiment above in another test tube, but this time add ~ 7 drops of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
+- Repeat the precipitation experiment above in another test tube, but this time add a small pipette of vinegar before mixing the CaCl₂ and NaHCO₃ solutions.
 - _CHaOS+: Note that we cannot just use the carbonated water here, as the CaCl₂ + NaHCO₃ mixture is at an unnaturally high supersaturation, so the precipitation can happen fast enough to see. The ethanoic/acetic acid in vinegar is much more concentrated than the carbonic acid in sparkling water._
 - You might see bubbles of CO₂ degassing (as the carbonate equilibria are shifted towards CO₂) but no precipitate should form.
 - This is because the acid from the vinegar reacts with the carbonate ion to make bicarbonate, so it cannot directly be used to precipitate CaCO₃.
@@ -176,7 +180,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 #### Other (optional) points to mention
 
 - Some people may mention coral bleaching: this is not thought to be directly related to ocean acidification (the impact of acidic seawater on corals is still being studied) but is due to the higher temperatures due to rising CO₂ and climate change. The photoendosymbiotic zooxanthellae that live in coral are very sensitive and only live in a specific temperature range.
-- This experiment focusses on ‘inorganic carbon’ (i.e. carbon in the +4 oxidation state) but we can also remove CO₂ from the atmosphere by the ‘organic carbon’ (oxidation state = 0) side of the carbon cycle, through photosynthesis and burial. Instead of carbonate rocks, organic carbon is geologically stored as fossil fuels – the much more rapid than usual release of this reservoir is the primary reason for the current rise in CO₂. Some people are considering ‘fertilising’ the oceans to speed up this sink, but this may have all sorts of unintented ecological consequences.
+- This experiment focusses on ‘inorganic carbon’ (i.e. carbon in the +4 oxidation state) but we can also remove CO₂ from the atmosphere by the ‘organic carbon’ (oxidation state = -4) side of the carbon cycle, through photosynthesis and burial. Instead of carbonate rocks, organic carbon is geologically stored as fossil fuels – the much more rapid than usual release of this reservoir is the primary reason for the current rise in CO₂. Some people are considering ‘fertilising’ the oceans to speed up this sink, but this may have all sorts of unintented ecological consequences.
 - Likewise, there is a lot of research being done into adding bases to raise the pH of the ocean so it will hold more CO₂ – ‘Ocean Alkalinity Enhancement’ (OAE). This might also cause trouble... Ironically, geologists also use the acronym ‘OAE’ for ‘Oceanic Anoxic Event’, which is what could happen if OAE is not managed properly!
 
 #### After each experiment
@@ -188,7 +192,7 @@ _CHaOS+: More nuanced points for over-16s are shown in italics. These can usuall
 
 ### Packing away
 
-The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left. Make sure that the bottles are properly sealed before putting them back in the box! Everything else should be emptied down the sink along with plenty of water, rinsed and dried. The waste is not classified as hazardous. Remove the CO₂ cylinder from the Sodastream (being careful, as it could get cold). Return rock/shell samples to Rocks and Fossils. Put everything else except the tray back in the box.
+The vinegar, CaCl₂ and NaHCO₃ solutions can be saved if there are some left. Make sure that the bottles are properly sealed before putting them back in the box! Everything else should be emptied down the sink along with plenty of water, rinsed and dried. The waste is not classified as hazardous. If storing for long periods, remove the CO₂ cylinder from the Sodastream (being careful, as it could get cold). Return rock samples to Rocks and Fossils if you borrowed them. The SodaStream currently goes in its own cardboard box. Put everything else except the tray back in the box.
 
 <br/>
 
