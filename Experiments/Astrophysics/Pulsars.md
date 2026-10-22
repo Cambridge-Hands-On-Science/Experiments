@@ -11,7 +11,7 @@ Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and doubl
 
 **CBS only** (Non-transportable experiments that tend to be used for CBS only.)
 
-**Physics**
+**Astrophysics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
