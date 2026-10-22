@@ -2,7 +2,7 @@
 
 **By carefully measuring the brightness and colour of distant stars, we can discover planets which could even host alien life!**
 
-Last initially checked on 2026-10-xx by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
+Last initially checked on 2026-10-22 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
 ## Tags 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -61,34 +61,76 @@ How do we find these planets? Compare the size of the Earth to the size of the S
 
 ## Risk Assessment
 
-### **Hazard**: 
+### **Hazard**: Piezo Buzzer (sound)
 
-**Description**: 
+**Description**: Loud sound from the buzzer could hurt ears if turned on for long enough
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: , Severity: , Overall:  ()
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
-**Mitigation**: 
+**Mitigation**: Use a lower voltage battery (9V), cover buzzer in tape to muffle sound, turn off the buzzer when not actively using it, warn members of the public that it makes a loud noise before turning it on
 
-**After Mitigation**: Likelihood: , Severity: , Overall:  ()
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
-### **Hazard**: 
+### **Hazard**: Piezo Buzzer (swinging)
 
-**Description**: 
+**Description**: Someone could be hit by the buzzer as it is swung around at speed
 
-**Affected People**: 
+**Affected People**: All
 
-**Before Mitigation**: Likelihood: , Severity: , Overall:  ()
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
-**Mitigation**: 
+**Mitigation**: Hold the buzzer away from yourself and members of the public when demonstrating
 
-**After Mitigation**: Likelihood: , Severity: , Overall:  ()
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall:  (Medium)
+
+<br/>
+
+### **Hazard**: String
+
+**Description**: String attached to the polystyrene balls or the buzzer could strangle a child if they wrap it around their neck
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
+
+**Mitigation**: Supervise anyone holding any string, don't let children who are very young hold any string
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
+
+<br/>
+
+### **Hazard**: Polystyrene Balls
+
+**Description**: The smaller polystyrene ball representing an Earth-sized planet could be a choking hazard if a child chooses to put it in their mouth
+
+**Affected People**: Public
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
+
+**Mitigation**: Don't let small children take the planets, especially the smallest one
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
+
+<br/>
+
+### **Hazard**: Lamp
+
+**Description**: Very bright light could damage eyes if looked into for an extended period of time
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
+
+**Mitigation**: Point the lamp at a wall where no one will walk into the beam. Don't look directly into the light. Turn the lamp off when not in use. Don't let children pick it up 
+
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2026-10-xx - Daniel Eaton (de354@cam.ac.uk), **Check 2**:  -  ()
+**Check 1**: 2026-10-22 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:  -  ()
