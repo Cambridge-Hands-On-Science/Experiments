@@ -7,13 +7,11 @@ Last initially checked on 2021-01-21 by Polly Hooton (prh43@cam.ac.uk) and doubl
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Astrophysics**
-
 **Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Physics**
-
 **Retired** (An elderly experiment no longer in active use.)
+
+**Astrophysics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
