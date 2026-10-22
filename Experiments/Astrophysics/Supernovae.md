@@ -1,6 +1,6 @@
 # Supernovae
 
-**The biggest explosions in the universe can destroy stars, but they also create the building blocks for everything we see around us!**
+**The biggest explosions in the universe create the building blocks for everything we see around us!**
 
 Last initially checked on 2026-10-xx by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
 
