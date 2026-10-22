@@ -21,7 +21,7 @@ Last initially checked on 2026-10-22 by Daniel Eaton (de354@cam.ac.uk) and doubl
 ## Equipment Needed 
 - Piezo Buzzer covered in tape, on a string and attached to a wire to be connected to a battery
 - 9V Battery
-- Big Torch
+- Lamp
 - 3 differently sized polystyrene balls on strings
 - Some printed pictures of light curves / the doppler effect (TO BE ADDED)
 
@@ -33,11 +33,11 @@ I like to start the experiment by asking the kids what they know about planets, 
 How do we find these planets? Compare the size of the Earth to the size of the Sun - planets are wayyyyy smaller. Compare the brightness of planets to that of the Sun (either planets in the night sky or just look at the ground, is it brighter or dimmer than the daytime sun?). Clearly it's going to be very difficult to take a picture of a very small very dim thing if its right next to a very big very bright thing.
 
 **Method 1: The Transit Method**
-- Turn on the torch and set it pointing at a wall. Explain that the torch is the star, the polystyrene balls on strings are planets, and the patch of light on the wall is what we can see through a telescope.
-- Get them to make the planets 'orbit' the star, making sure that the planet passes into the beam of the torch each time. Ask them what they notice happens to the light we see through the telescope - hopefully they point out that the planet is casting a shadow (it is blocking light from the star)
+- Turn on the lamp and set it pointing at a wall. Explain that the lamp is the star, the polystyrene balls on strings are planets, and the patch of light on the wall is what we can see through a telescope.
+- Get them to make the planets 'orbit' the star, making sure that the planet passes into the beam of the lamp each time. Ask them what they notice happens to the light we see through the telescope - hopefully they point out that the planet is casting a shadow (it is blocking light from the star)
 - How does this help us? If we measure the brightness of a star for an extended period of time, we might see a dip in its light - if we see this dip happen again and again at regular intervals we can infer that it's a planet
 - When might this not work?
-  - Exoplanet orbit has to be aligned with our line of sight (only 0.5% are) - can show this by orbiting the planet in a plane perpendicular to the beam of the torch, it doesn't block any light.
+  - Exoplanet orbit has to be aligned with our line of sight (only 0.5% are) - can show this by orbiting the planet in a plane perpendicular to the beam of the lamp, it doesn't block any light.
   - Exoplanets could have orbits which take too long for us to see (e.g. Neptune takes 165 years to orbit the Sun, so an alien using the transit method to find planets would have to look at the Sun for two full orbits (330 years) to confirm the existence of Neptune)
 - Do scientists actualy do this? Yes! Kepler, TESS, and the Habitable Worlds Observatory (HWO) are dedicated exoplanet survey space telescopes (HWO to be launched in ~2040), and JWST and Roman are able to do this as well, although not their main mission
 
