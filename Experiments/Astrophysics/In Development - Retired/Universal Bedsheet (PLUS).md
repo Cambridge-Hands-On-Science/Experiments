@@ -7,13 +7,11 @@ Last initially checked on 2022-01-23 by Andrew Sellek (ads79@cam.ac.uk) and doub
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Astrophysics**
-
 **Demo only** (Demonstration type experiments and lectures, not suitable for assignment for standard events.)
 
-**Physics**
-
 **In development** (This experiment doesn't actually exist yet, but might in the future!)
+
+**Astrophysics**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
