@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Jesse Luo (jl2491) and double-checked on 2026-XX-XX by XX (XX)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -17,19 +17,19 @@ Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-
 <br/>
 
 ## Equipment Needed 
-- Valiant Roamer Turtle Robots (Currently have 4, one is cracked)
-- Valiant Roamer Control Unit (Currently have 1 and sensors)
-- Roamer Turtle Cases (I think there's two, one should be used on cracked robot)
-- 6V Lantern Batteries (2 per robot) [These are available from some shops (camping ones) but are best got on Amazon or eBay]
-- Custom wooden base plates (these are wooden and cover the batteries)
+- Valiant Roamer Turtle Robots (We currently have 4, one is cracked)
+- Valiant Roamer Control Unit (We currently have 1 and sensors)
+- Roamer Turtle Cases (I think there's two, one should be used on cracked robot to protect it)
+- 6V Lantern batteries (2 per robot) [These are available from some shops (camping ones) but are best found on Amazon or eBay]
+- Custom wooden base plates (covers the batteries)
 - Obstacles (cones)
 - Roamer User Guide
 - Roamer Activity Book
 - Pens and paper
   
 - Volty the robot (Needs 3 AAA batteries)
-- 24  large double-sided circuit puzzle piece tiles
-- 10 Circuit diagrams (with 20 different circuits to try)
+- 24 large double-sided circuit puzzle piece tiles
+- 10 circuit diagrams (with 20 different circuits to try)
 - 40 command cards (small arrow cards)
 - Instruction booklet (helpful to have)
 
@@ -63,7 +63,7 @@ If you press by mistake, press another key, or wait 10 seconds. The Roamer will 
 
 #### DEMONSTRATION PROGRAM
 If you press GO after you switch on the Roamer, it will carry out the Demonstration Program. This can be used to show beginners the basic Roamer functions. 
-REMEMBER TO CLEAR THE DEMONSTRATION PROGRAM From THE GO MEMORY BEFORE PROGRAMMING. 
+REMEMBER TO CLEAR THE DEMONSTRATION PROGRAM FROM THE GO MEMORY BEFORE PROGRAMMING. 
 
 #### FORWARD AND BACK
 Pressing (forward) or (back) followed by a number from 1 to 99 tells the Roamer to move forward or back that number of units. (See UNITS OF DISTANCE AND TURN). (These examples are illustrated in the style suggested on the programming sheet). 
@@ -111,7 +111,7 @@ The activity book has ideas for courses to build (we mostly use the maze one-eas
 
 Bottom up programming - solving a new problem by combining existing solutions.
 
-Top down programming - dividing a complex problem into smaller sub problems.
+Top down programming - decomposing a complex problem into smaller sub problems.
 
 #### CONTROL UNIT 
 We now own one Control Unit, this is in a cardboard box with lots of electronic sensors. It hasn't been used in demonstrations before.
@@ -122,7 +122,7 @@ The control unit screws into the depression on the bottom and the cable goes int
 #### VOLTY ROBOT
 This can be run alongside the turtle robots, or as its own separate, smaller experiment (especially useful in space limited venues).
 
-There is also one volty robot. This comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how to construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in a algorithm or flowchart.
+The Volty robot comes with the power tracks set, including 10 double-sided circuit cards, tracks to build them, and direction cards to help kids plan a route. The tracks come in two types, one for the corners and one for the straights. The tiles are double sided and have a variety of sounds and lights commands Volty will do. The first three diagrams on the diagram cards are like a tutorial showing how to construct the circuit. You can use the tracks to explain how basic circuits work (flow of electricity following the path, as the robot does) or stick to explanations on giving the robot a set of instructions to follow, carried out one after the other, like in an algorithm or flowchart.
 
 Once the circuit is completed, the command cards come into play. This helps the kids plan out coding Volty to follow the circuit. This is especially useful when you get to the more complicated diagram examples.
 
@@ -150,15 +150,15 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 ### **Hazard**: Battery covers
 
-**Description**: Batteries may become loose/caught/punctured if improvised covering fails.
+**Description**: Batteries may become loose/caught/punctured if improvised covering fails. Loose batteries can then be a choking hazard.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Check covering before beginning experiment and duct tape if needed. Call first aider in the event of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 2 (medium)
 
 <br/>
 
@@ -168,7 +168,7 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Affected People**: Particularly demonstrator when handling batteries
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Don't use in rain. Call first aider in case of injury. Check batteries for signs of corrosion before demonstrating the experiment.
 
@@ -196,11 +196,11 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Don't use in thoroughfare and section off area for operation with hazard tape. Call first aider in the event of accident.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (medium)
 
 <br/>
 
@@ -226,7 +226,7 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
-**Mitigation**: Laminated paper while possible, cards placed on the ground so minimal handling needed.
+**Mitigation**: Laminated paper if possible, cards placed on the ground so minimal handling needed.
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
@@ -252,5 +252,4 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
 
-
-
+**Check 1**: 2026-11-08 - Jesse Luo (jl2491), **Check 2**: 2026-XX-XX - XX (XX)
