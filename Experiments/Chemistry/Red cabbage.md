@@ -206,4 +206,4 @@ Call a first aider in case of injury. More severe burns may require hospital tre
 
 **Check 1**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Daya Shergill (dks37)
+**Check 1**: 2026-11-08 - Daya Shergill (dks37), **Check 2**: 2026-11-08 - Millie Medwell (mem203)
