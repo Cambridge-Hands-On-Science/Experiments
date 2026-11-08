@@ -4,7 +4,7 @@
 Now with added Covid-19!
 Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-8 by Aiden Blay (agb85@cam.ac.uk) and double-checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -450,15 +450,15 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 ### **Hazard**: Sensitive Topics
 
-**Description**: We have a cancer cell and some things here which can cause cancer which affects lots of people. There are also several other potentially fatal diseases, in particular SARS-CoV-2 which is responsible for the ongoing pandemic and could lead to distress.
+**Description**: We have a cancer cell and some things here which can cause cancer which affects lots of people. There are also several other potentially fatal diseases, in particular SARS-CoV-2 which is responsible for the recent pandemic and could lead to distress.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
+**Before Mitigation**: Likelihood: 5, Severity: 1, Overall: 5 (Medium)
 
-**Mitigation**: Deal with topic respectfully, move on if it seems distressing. Move to different experiment if required.
+**Mitigation**: Start/setup without sensitive (microbes, bacteria & viruses) visible, focus on other (microbes, bacteria & viruses) and bring up sensitive ones, only if mentioned. Deal with topic respectfully, move on if it seems distressing. Move to different experiment if required.
 
-**After Mitigation**: Likelihood: 4, Severity: 1, Overall: 4 (Medium)
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low)
 
 <br/>
 
@@ -483,5 +483,7 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 **Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk) , **Check 2**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-8 - Aiden Blay (agb85@cam.ac.uk)
 
 
