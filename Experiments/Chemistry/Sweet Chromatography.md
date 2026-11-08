@@ -2,14 +2,14 @@
 
 **Using chromatography to investigate the colour of food.** - Using just water and bits of paper, split up the colours in pens and food colourings to see how they're made up of a mixture of differently coloured dyes.
 
-Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on 2025-11-30 by Clement Hui (smh213@cam.ac.uk).
+Last initially checked on 2026-11-08 by Jessica Trevelyan (jet81) and double-checked on ???
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
 
-**CBS only** (Non-transportable experiments that tend to be used for CBS only.)
+**Standard** (A standard CHaOS experiment, useable for all hands-on events.)
 
 **Chemistry**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -139,35 +139,35 @@ Call a first aider if an accident occurs.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
+**Check 1**: 2011-12-22 - Hannah Ford (hf257), **Check 2**: 2012-01-20 - Catherine Collett (chc47)
 
-**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
+**Check 1**: 2012-12-12 - Nunu Tao (nmt26), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251)
 
-**Check 1**: 2014-02-05 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-02-13 - Nunu Tao (nmt26@cam.ac.uk)
+**Check 1**: 2014-02-05 - Peter Maynes (peter.maynes), **Check 2**: 2014-02-13 - Nunu Tao (nmt26)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-02 - Holly Davis (hd308@cam.ac.uk)
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795), **Check 2**: 2015-01-02 - Holly Davis (hd308)
 
-**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-16 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2015-12-28 - Haydn James Lloyd (hjl413), **Check 2**: 2016-01-16 - Charis Watkins (czrw2)
 
-**Check 1**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
+**Check 1**: 2017-02-09 - Tim Morgan Boyd (tmb58), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2018-01-17 - Georgia Harris (grh37), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43), **Check 2**: 2019-02-04 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-17 - Sian Boughton (seb216), **Check 2**: 2020-01-17 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43), **Check 2**: 2022-02-06 - Peter Methley (pm631)
 
-**Check 1**: 2023-02-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2023-02-04 - Andrew Sellek (ads79), **Check 2**: 2023-02-18 - Joshua Wu (jw2311)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-14 - Timothy Wong (chw55)
 
-**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206), **Check 2**: 2025-01-01 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2025-11-30 - Clement Hui (smh213@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2025-11-30 - Clement Hui (smh213)
 
-
+**Check 1**: 2026-11-08 - Jessica Trevelyan (jet81)
 
