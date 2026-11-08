@@ -2,7 +2,7 @@
 
 **Demonstrate cloud formation as air pressure drops.**
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-08 by rkg32 and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,7 +26,7 @@ Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double
 
 A smoking (recently blown-out) match is dropped into a lemonade bottle containing a little water. The bottle is closed and then squeezed, held for a few moments, and released. This step may need to be repeated a few times. When you release the bottle clouds should nucleate on the nuclei provided by the smoke particles.
 
-By squeezing the bottle you increase the pressure inside it and also the temperature. This causes the liquid inside to evaporate and form water vapor. Then, when the bottle is released, the pressure decreases again and the temperature drops. This fall in temperature allows the water molecules in the bottle to condense around the smoke particles, forming a cloud. 
+By squeezing the bottle you increase the pressure inside it and also the temperature. This causes the liquid inside to evaporate and form water vapor. The bottle will exchange energy with the environment, cooling slightly. Then, when the bottle is released, the pressure decreases again and the temperature drops below the original temperature. This fall in temperature allows the water molecules in the bottle to condense around the smoke particles, forming a cloud. 
 
 <br/>
 
@@ -129,4 +129,5 @@ Contact a first aider in the event of an accident.
 
 **Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - rkg32 
 
