@@ -2,7 +2,7 @@
 
 **Removing copper oxides from coins.** - Those grubby coppers in your pocket or purse can be shined up in minutes, give it a try and find out how it works.
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-12-21 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,7 +79,7 @@ Call a first aider in the event of ingestion.
 
 ### **Hazard**: Acids
 
-**Description**: Use of lemon juice, coke, other culinary acids - will sting if they get into people's eyes or cuts.
+**Description**: Use of lemon juice, cola, other culinary acids - will sting if they get into people's eyes or cuts.
 
 **Affected People**: All
 
@@ -108,34 +108,34 @@ Rinse out cuts, call first aider if required. If trained and confident to do so 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
+**Check 1**: 2011-12-22 - Hannah Ford (hf257), **Check 2**: 2012-01-21 - Catherine Collett (chc47)
 
-**Check 1**: 2013-01-07 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
+**Check 1**: 2013-01-07 - Rachel Chapman (rc506), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Brett Abram (ba305@cam.ac.uk)
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Brett Abram (ba305)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-28 - Holly Davis (hd308@cam.ac.uk)
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795), **Check 2**: 2014-12-28 - Holly Davis (hd308)
 
-**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk)
+**Check 1**: 2015-12-13 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-12-30 - Haydn James Lloyd (hjl43)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
 
-**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Grace Exley (gae23), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-07 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2020-01-07 - Holly Smith (hs606), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-18 - Polly Hooton (prh43), **Check 2**: 2021-01-17 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81), **Check 2**: 2021-01-19 - Andrew Sellek (ads79)
 
-**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75), **Check 2**: 2023-02-18 - John Leung (cfl35)
 
-**Check 1**: 2023-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-12-27 - Andrew Marriott (asm206), **Check 2**: 2024-01-11 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206), **Check 2**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-29 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-11-29 - Siena Ootes (sjo57), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37@cam.ac.uk)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37), **Check 2**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796)
