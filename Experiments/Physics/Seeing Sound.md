@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,7 +53,7 @@ Tips for demonstrating:
 
 ### **Basic Procedure and Explanation**
 
-- Start by explaining how we can hear things. Ask the children if they know anything about waves - water waves, sound waves etc.
+- Start by explaining how we can hear things. Ask the children if they know anything about waves (e.g. water waves, sound waves...)
 
 - When sound travels through the air, it is in the form of a wave, a little bit like the waves that you get on the surface of water (although longitudinal compression wave rather than transverse).
  
@@ -61,13 +61,15 @@ Tips for demonstrating:
 
 - Using the signal generator and amplifier, get the loudspeaker oscillating at 10-20 Hz and get the kids to notice this. If they are careful they can touch the speaker gently to feel it move. 
 
-- Then turn up the frequency so you can hear it (make the connection between the wobbling and the sound) and can still feel it 50-80Hz. Get them to feel the air above the speaker they should be able to feel it moving. Say that the air wobbles above the speaker, and then wobbles all the way to their ear (you could use the slinky to demonstrate this - a picture of an ear and loudspeaker may help here too) and your ear hears the wobbles as sound. 
+- Then turn up the frequency so you can hear it (make the connection between the wobbling and the sound) and can still feel it 50-80 Hz. Get them to feel the air above the speaker: they should be able to feel it moving. Say that the air wobbles above the speaker, and then wobbles all the way to their ear (you could use the slinky to demonstrate this - a picture of an ear and loudspeaker may help here too) and your ear hears the wobbles as sound. 
 
 - Turn up the frequency again, and get the kids to make the connection between speed of vibration and pitch.
 
-- See what they highest they and their accompanying adults (and you!) can hear - should be just below 20 kHz for us and them, can easily be around 15 kHz for (proper) adults. If they seem to have superhuman hearing and claim to hear e.g. 30 kHz, secretly turn it off and see if they can still hear it!
+- See what the highest pitch they and their accompanying adults (and you!) can hear - should be just below 20 kHz for us and them, can easily be around 15 kHz for (proper) adults. If they seem to have superhuman hearing and claim to hear e.g. 30 kHz, secretly turn it off and see if they can still hear it!
 
-- Explain that you can't see sound, because the air is transparent and it's moving too fast anyway. Then introduce the microphone and oscilloscope and look at the sound from the loudspeaker. (If the oscilloscope isn't working well, there are free mobile phone apps make a reasonable alternative if your battery can hold out. The following explanations still hold though the output isn't always as clean!) The children can also make some simple noises into the microphone. Vowels are good for this. Explain that each sound has its own particular shape - saying the alphabet can prove invaluable here. A long vowel sound should create a quite stable wave on the 'scope.
+- Explain that you can't see sound, because the air is transparent and it's moving too fast anyway. Then introduce the microphone and oscilloscope and look at the sound from the loudspeaker. (If the oscilloscope isn't working well, there are free mobile phone apps that make a reasonable alternative if your battery can hold out. The following explanations still hold though the output isn't always as clean!)
+
+- The children can also make some simple noises into the microphone. Vowels are good for this. Explain that each sound has its own particular shape - saying the alphabet can prove invaluable here. A long vowel sound should create a quite stable wave on the 'scope.
 
 - Ask the child to sing a quiet note and a loud note, and see that the picture drawn gets taller with volume.
 
@@ -162,33 +164,34 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
+**Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-16 - Jachym Sykora (js973@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-16 - Jachym Sykora (js973)
 
-**Check 1**: 2014-01-25 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk)
+**Check 1**: 2014-01-25 - Nunu Tao (nmt26), **Check 2**: 2014-02-15 - Brett Abram (ba305)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-22 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-30 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-01-30 - Andrew Sellek (ads79)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-13 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70), **Check 2**: 2018-01-13 - Andrew Sellek (ads79)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-02 - Grace Exley (gae23), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-13 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
+**Check 1**: 2020-01-13 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622)
 
-**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2021-01-02 - Lucy Hart (ljfh2), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-18 - John Leung (cfl35), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk) , **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-01-06 - Lucy Bland (lb831) , **Check 2**: 2024-02-15 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk) , **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2024-12-27 - Lauren Mason (llm34) , **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) , **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796) , **Check 2**: 2025-11-29 - Daniel Eaton (de354)
 
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796) , **Check 2**:
