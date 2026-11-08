@@ -2,7 +2,7 @@
 
 **Splitting water into hydrogen and oxygen, and using the recombination of these to launch ping-pong balls.** - Electrolysis in the process of splitting water into hydrogen and oxygen using electricity, and then recombining them explosively! We'll use talking about energy as an excuse to launch a ping pong ball into the air...
 
-Last initially checked on 2026-07-23 by Andrew Marriott (asm206@cantab.ac.uk) and double-checked on 2026-07-23 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on --- by ----
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -258,6 +258,6 @@ In the event if an injury, call a first aider.
 
 **Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk), **Check 3**: 2026-07-23 - Andrew Marriott (asm206@cantab.ac.uk), **Check 4**: 2026-07-23 - Daniel Eaton (de354@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37@cam.ac.uk)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37)
 
 
