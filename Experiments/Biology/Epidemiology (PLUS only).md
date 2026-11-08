@@ -2,7 +2,7 @@
 
 **Show kids how disease dynamics, with a model of Citrus Canker spreading through a population of orange trees** - Exploring the concept of disease spread and biological modelling. 
 
-Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -271,4 +271,5 @@ Call a first aider in the event of an emergency.
 
 **Check 2**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - Lauren Xiong (lx295)
 
