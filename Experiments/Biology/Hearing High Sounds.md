@@ -2,7 +2,7 @@
 
 **See who is better at hearing high pitched sounds: kids or adults!** - See who is better at hearing high pitched sounds: kids or adults!
 
-Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 Lauren Xiong (lx295) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -25,9 +25,30 @@ Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and d
 
 ## Experiment Explanation 
 
+This experiment uses a sound generator app to test the frequency ranges humans can hear at. You might like to explore: how age impacts hearing range; biology of sensing sound; nature of sound. 
+
+## Activity Procedue
+
 Download a frequency sound generator app on your phone. It should be able to play sounds at different frequencies.
 Starting at 1000 Hz, gradually increase the frequency. What is the highest frequency you can hear? What about the lowest?
 Test the hearing of people of lots of different ages. Record your results. 
+
+Depending on the audience, explain parts of the below background information.
+
+## Background
+
+**Hearing Range**
+
+Humans typically hear from 20Hz-20kHz. The older you are, the less you can hear. Typically, losing range at higher frequencies first. 
+
+**Sensing Sound**
+
+Human ears are adapted to sense sound (vibrations) in air. We have an eardrum in the mid ear, which transduces vibrations in air into vibrations in fluid, which our inner ear is filled in. The inner ear has cilia which are swayed by vibrations in the fluid. This ultimately causes the signal to the brain. 
+
+**Sound Waves**
+
+Sound waves are longitudinal waves which must propagate through a medium (mostly air for us). This may be counterintuitive for the kids: does sound propagate better in air or in water? Answer: in water. Related fun fact: speed of sound in air is approximately 340m/s, speed of sound in water is 1500m/s. Related fun fact 2: whale songs can propagate over 6000km! 
+
 
 <br/>
 
@@ -41,7 +62,7 @@ Test the hearing of people of lots of different ages. Record your results.
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Ask the participants if they are ok with you playing a sound before beginning the experiment. Only listen to each sound for as long as you need to tell if you can hear it or not. Make sure you don't have the volume too loud, especially if using headphones to listen to the noise. If you start to get a headache, stop the experiment.
+**Mitigation**: Ask the participants if they are ok with you playing a sound before beginning the experiment. Only listen to each sound for as long as you need to tell if you can hear it or not. Make sure you don't have the volume too loud, especially if using headphones to listen to the noise. If you start to get a headache, stop the experiment. Do not allow children to adjust volume. 
 
 **After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
@@ -61,3 +82,5 @@ Test the hearing of people of lots of different ages. Record your results.
 **Check 1**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk) , **Check 2**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk) 
+
+**Check 1** 2026-11-08 - Lauren Xiong (lx295)
