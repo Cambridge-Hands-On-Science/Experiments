@@ -2,7 +2,7 @@
 
 **A velcro apron with detachable 3D organs, to show what's inside your body.** - See if you can correctly place body organs using this wearable felt and velcro vest.
 
-Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
+Last initially checked on 2026-11-08 by Jamie Gold (jag257@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -32,32 +32,44 @@ HEART:
 Ask them to look at the colour and guess what goes inside it.
 Tell them that it acts as a pump, and is needed to push blood around the body.
 
-Keen: could go into why blood is needed etc.
-Ultra keen, try and grab a spare stethoscope and find their their heart beat at the appropriate place.
+Keen: could go into why blood is needed, blood components etc.
+Ultra keen: try and grab a spare stethoscope and find their their heart beat at the appropriate place.
 
 LUNGS:
-Talk about breathing; try and get them to link up lungs to the mouth with the trachea (NB trachea does not currently exist as a component of the vest, but you can talk about it anyway!). Interesting fact: If the inner surface of the lungs could be stretched out flat, they would occupy an area of around 80 to 100 square meters – about half of a tennis court!
+Talk about breathing; try and get them to link up lungs to the mouth with the trachea (NB trachea does not currently exist as a component of the vest, but you can talk about it anyway!). 
+
+Keen: the left lung is smaller than the right lung – why might this be? (to make space for the heart which sits to the left)
 
 DIGESTIVE SYSTEM: 
 Try and get them to link it all up, and explain what it does in terms of breaking your food down into smaller bits so it can be used to re-build things inside your body. Also talk about what happens in the end, and try and get them to guess what it comes out as (usually good for getting a giggle, but be warned sometimes the kids come up with very rude words much to the embarrassment of everyone around...)
- 
 
 KIDNEYS/ BLADDER: 
-Get them to link them up and talk about what happens when you drink too much water etc. Get them to try and guess what's in the bladder by its colour (also often gets another giggle). A surprising number of kids know about kidneys, or at least that they exist- ask them about why there are 2, whether they think we could survive with just 1-some may know people who have had kidney transplants etc.
+Get them to link them up and talk about what happens when you drink too much water etc. Get them to try and guess what's in the bladder by its colour (also often gets another giggle). A surprising number of kids know about kidneys, or at least that they exist. Ask them about why there are 2, whether they think we could survive with just 1- some may know people who have had kidney transplants etc.
 
 LIVER: 
 Difficult one to explain. I usually go along the lines of it's like a big factory in your body where things are broken down and important things like stuff in your blood is made.
+
 Ultra keen: talk about it also being needed to break things like poisons and alcohol, and try and mention what might happen to the liver for instance in alcohol poisoning.
 
 
+INTERESTING FACTS:
 
-INTERESTING FACTS / TIPS:
-Small intestine is 7m long, but is coiled up to fit inside the body.
-Furthermore, due to villi total surface area is 2000 square meters = half a football pitch.
+Heart: 
+The heart beats approximately 100,000 times a day!
 
 By the time you turn 70, your heart will have beaten two-and-a-half billion times (figuring on an average of 70 beats per minute) = 175 million litres of blood = 50 Olympic swimming pools! 
 
-The liver is able to regenerate to a certain extent, so you can donate part of your liver and the donor and acceptor will both be fine.
+Lungs: 
+If the inner surface of the lungs could be stretched out flat, they would occupy an area of around 80 to 100 square meters – about half of a tennis court!
+
+You inhale (and then exhale) about 10,000 litres of air a day! (for children aged 12+ and adults)
+
+Digestive system:
+Small intestine is 7m long, but is coiled up to fit inside the body.
+Furthermore, due to villi total surface area is 2000 square meters = half a football pitch.
+
+Liver:
+The liver is able to regenerate to a certain extent, so someone can donate part of their liver and then the remaining liver in the donor and the part given to the recipient will grow in size back to normal size within months.
 
 <br/>
 
@@ -125,7 +137,6 @@ Ensure vest has been washed before it is used.
 
 **Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
-
+**Check 1**: 2026-11-08 - Jamie Gold (jag257@cam.ac.uk), **Check 2**: 
 
 
