@@ -2,7 +2,7 @@
 
 **Why are blood groups important?** - What are 'blood groups'? Why is it important to match blood groups for transfusion? Find out with our colourful demonstration.
 
-Last initially checked on 2025-11-29 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
+Last initially checked on 2026-11-08 by Jamie Gold (jag257@cam.ac.uk) and double-checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -80,26 +80,30 @@ Another important blood group system in transfusion is the RhD system.
 The remaining 15% lack the D antigen and are RhD negative.  
 Your blood group is defined by your ABO group together with your RhD group. For instance, someone who is group A and RhD negative is known as A negative.  
 
-| ABO Blood Group | Rh(D)Type | Percentage of Population with this Group |
+| ABO Blood Group | Rh(D)Type | Percentage of UK blood donors with this group |
 |---|---|---|
-| O + | Pos | 37% |
-| O - | Neg | 7% |
-| Total Blood Type O | 44% |
-| A + | Pos | 35% |
-| A - | Neg | 7% |
-| Total Blood Type A | 42% |
+| O + | Pos | 36% |
+| O - | Neg | 14% |
+| Total Blood Type O | 50% |
+| A + | Pos | 28% |
+| A - | Neg | 8% |
+| Total Blood Type A | 36% |
 | B + | Pos | 8% | 
-| B - | Neg | 2% |
+| B - | Neg | 3% |
 | Total Blood Type B | 10% |
-| AB + | Pos | 3% |
+| AB + | Pos | 2% |
 | AB - | Neg | 1% |
 | Total Blood Type AB | 4% |
-| Total Pos | 83% |
-| Total Neg | 17% |
+| Total Pos | 74% |
+| Total Neg | 26% |
 
+(correct as of February 2026)
+(From: https://www.blood.co.uk/why-give-blood/blood-types/)
 
 **Why is the Rhesus system important for pregnant ladies?**  
-Unlike A and B antibodies, RhesusD antibodies are not found in people who are RhesusD negative. Therefore they won’t react to RhesusD positive blood unless they have already been sensitised. If a RhD- mother has a RhD+ foetus (only possible if the father is RhD+), feto-maternal transfusion may occur during pregnancy/childbirth, causing the mother to produce anti-RhD antibodies. If the mother subsequently has a second Rh+ pregnancy, the anti-RhD antibodies can cross the placenta and cause agglutination and degradation of the red blood cells in the foetus. This causes ‘haemolytic disease of the newborn’, features of which include enlarged liver, spleen or heart in the foetus and anaemia, jaundice, enlarged organs and difficulty breathing in the newborn. To prevent this, RhD- mothers can be given IgG anti-D antibodies by intramuscular injection. These antibodies then cause destruction of foetal RhD+ blood cells before the maternal immune system can react to them. These are administered at 28 weeks of pregnancy, sometimes 34 weeks and within 72 hours of birth. This is passive immunity and wears off after 4-6 weeks so treatment is required with each pregnancy. A new pharmaceutical is called RhoGam, which is an anti-Rh antibody that masks or eliminates Rh antigen before the mother has a chance to react to it. It may also induce lymphocyte tolerance by producing the antibody against the anti-Rh antibody.
+Unlike A and B antibodies, RhesusD antibodies are not found in people who are RhesusD negative. Therefore they won’t react to RhesusD positive blood unless they have already been sensitised. If a RhD- mother has a RhD+ foetus (only possible if the father is RhD+), feto-maternal transfusion may occur during pregnancy/childbirth, causing the mother to produce anti-RhD antibodies. If the mother subsequently has a second Rh+ pregnancy, the anti-RhD antibodies can cross the placenta and cause destruction of the red blood cells in the foetus. This causes ‘haemolytic disease of the newborn’, features of which include enlarged liver, spleen or heart in the foetus and anaemia, jaundice, enlarged organs and difficulty breathing in the newborn. 
+
+To prevent haemolytic disease of the newborn in a subsequent pregnancy, RhD- mothers can be given IgG anti-RhD antibodies (sometimes called RhoGAM) by intramuscular injection. These antibodies attach to and 'hide' the RhD antigen from the maternal immune system, so the maternal immune system does not produce antibodies against RhD. These are administered at 28 weeks of pregnancy, sometimes 34 weeks, and within 72 hours of birth. The IgG anti-D antibodies are cleared within 4-5 months (half-life of 1 month) so treatment is required with each pregnancy. IgG anti-D antibodies are a preventative measure and do not help if a mother has already produced antibodies against RhD.
 
 **Why do people have antibodies against the A and B antigens if they don’t have those antigens themselves?**  
 It's thought that blood groups are very similar to some bacterial/food sugars which act as antigens so you get cross reactivity. Because ABO antigens are expressed quite widely in tissues (all endothelium and all epithelial cells, and other cell types express the H antigen which is a precursor and can still react with antibody) your natural tolerance mechanisms kick in to protect the sugar you do have, but obviously not to the ones you don't.  
@@ -192,6 +196,6 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk), , **Check 2**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+**Check 1**: 2026-11-08 – Jamie Gold (jag257@cam.ac.uk), **Check 2**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
 
 
