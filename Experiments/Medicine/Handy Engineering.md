@@ -2,7 +2,7 @@
 
 **Build a small working model hand from card and straws!** - Build a model of the inner workings of your hand! Learn about how muscles and tendons work together to control the movements of our fingers, and have a model to take home, made of simple household objects!
 
-Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Wisteria Chatterjee (ac2732) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -27,6 +27,7 @@ Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk) and doubl
 
 ## Experiment Explanation 
 
+A finished version of this is likely to be packed with Emily (The Hand Model) and is good to demonstrate alongside!
 1. Cut out around the hand.
 2. Collect 5 pre-cut straws.
 3. Tape down a piece of string over the end of each finger.
@@ -58,9 +59,9 @@ Damage to the tendons will compromise flexion of the fingers.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Younger children should be supervised by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors. 
+**Mitigation**: Younger children should be supervised by an adult. CHaOS volunteers to oversee carefully. Ensure kids are behaving sensibly at all times. Use safety scissors which are less sharp. 
 
 Call a first aider in the event of injury.
 
@@ -108,3 +109,4 @@ Call a first aider in the event of injury.
 
 **Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - Wisteria Chatterjee (ac2732), 
