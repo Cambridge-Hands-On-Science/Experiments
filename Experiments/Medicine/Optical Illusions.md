@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on by 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -146,26 +146,29 @@ Could result in feeling ill, or wandering into walls / hitting things.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith)
 
-**Check 1**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk), **Check 2**: 2013-02-02 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2013-01-24 - Jaimie Oldham (jlo40), **Check 2**: 2013-02-02 - Alex Davies (ad578)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47), **Check 2**: 2019-01-30 - Conor Cafolla (ctc43)
 
-**Check 1**: 2019-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-30 - Conor Cafolla (ctc43), **Check 2**: 2019-02-05 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-12 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-01-27 - Samuel Amey (sra44@cam.ac.uk)
+**Check 1**: 2020-01-12 - Beatrix Huissoon (beh37), **Check 2**: 2020-01-27 - Samuel Amey (sra44)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-22 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2022-01-14 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-01-14 - Polly Hooton (prh43), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-15 - Amy Migunda (aom36), **Check 2**: 2023-02-15 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2), **Check 2**: 2025-02-08 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk),  **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865),  **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758)
+
+**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2),  **Check 2**: 
+
 
 
