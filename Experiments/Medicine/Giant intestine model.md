@@ -2,7 +2,7 @@
 
 **Functional model of the intestine** - Everyone knows that your intestines are long, but how long is long? Find out with our scale fabric model, and you might be surprised!
 
-Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) 
+Last initially checked on 2026-11-08 by Wisteria Chatterjee (ac2732) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -78,14 +78,14 @@ What happens to the food we don’t absorb?
 
 ### Other things to talk about
 
-- There are two types of intestine (small and large) - they have different functions (parents may ask you about this.)
+- There are two types of intestine (small and large) - they have different functions (parents may ask you about this. Broadly the large intestine absorbs water, after the small intestine absorbs nutrients)
 - Things that can go wrong: diarrhoea, constipation, malabsorption, inflammatory bowel disease etc... see below for ideas:
 
 **Diarrhoea** – ask who knows what this is?! 
 
 - It’s watery, frequent stool. 
 - Very important to kids in developing countries especially – losing so much water (and you can lose blood too – this is called dysentery, which happens with Shigella and Amboebiasis) can be fatal. 
-- With cholera you are losing so much water so quickly that it is pretty much literally a battle to give the patient enough water. 
+- With cholera you are losing so much water so quickly that it is pretty much literally a battle to give the patient enough water. (Can discuss oral rehydration salts if the children or parents have some experience with diarrhoea)
 - Common agents: 
 - Bacterial: E. Coli 0157 (the E Coli K we have on display is entirely safe though), Salmonella
 - Protozoa (one-celled, primitive, parasites in this case): Amoeba, giardia - much commoner in the third world. 
@@ -199,6 +199,8 @@ Call first aider in case of accident
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk),**Check 2**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Wisteria Chatterjee (ac2732), 
 
 
 
