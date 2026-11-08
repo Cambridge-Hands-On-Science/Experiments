@@ -2,7 +2,7 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -34,16 +34,17 @@ Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-c
 
 ### Suggested activity 1: Play with DNA model
 
-- DNA is a chemical which encodes genetic information, these units/words of genetic information are genes. Genes are units made of DNA
+- DNA is a polymer which encodes genetic information; its monomer is a nucleotide make of a nitrogenous base (identifier), a pentose sugar, and a phosphate group
+- The functional unit of genetic information are genes, which are stretches of DNA
 - Genes are (mostly) instructions for making proteins
 - 46 DNA molecules per human cell nucleus (23 chromosomes, two of each pair, one from each parent).
 - Helix is about 20 x 10^-10 m wide, about 2m of DNA per human cell
-- Shape is double helix, as two strands wrap around each other
+- Shape is antiparallel double helix, as two strands running opposite each other wrap around each other 
 - Structure of double helix discovered partly from work in Cambridge (Francis Crick & James Watson in 1953, with help from Maurice Wilkins and Rosalind Franklin in London)
 - Straighten out, looks like a ladder
 - Sides are ladder stay the same and protect the steps - information is in variable steps of the ladder
-- Colours of steps: there are only 4. 4 letters in the DNA alphabet. 
-- Base pairing - only certain pairs allowed. This enables one strand to act as a template for another.
+- Colours of steps: there are only 4. They correspond to different DNA bases, which are represented by different letters in the DNA alphabet. 
+- Base pairing - pairings are unique. This enables one strand to act as a template for another.
 - Split first few base pairs, as DNA makes a template for itself, can make two identical molecules.
 - As DNA can replicate exactly, enables one cell to divide into two daughter cells with identical genetic material.
 - This is how all our body cells can have the same DNA! 
@@ -137,3 +138,5 @@ Call a first aider in the event of an injury.
 **Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+
+**Check 1** 2026-11-08 - Lauren Xiong (lx295@cam.ac.uk)
