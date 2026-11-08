@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2025-11-23 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -12,6 +12,8 @@ Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and d
 **Biology**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
+Note - a couple of the perspex blocks have been lost and require replacement.
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -252,7 +254,7 @@ Some sample sets:
 
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
-**Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen tubes every time a demonstration is completed.
+**Mitigation**: It is very unlikely that the perspex blocks would break, even with a significant amount of force. However, demonstrators should keep a careful eye on the blocks and jars and magnifying glass, account for all specimen blocks every time a demonstration is completed.
 Call first aider in case of injury (cut). Clear up perspex (using the dustpan and brush from Set Up and Clear Up), wrapping up in paper or similar so that it won't rip through the bin bag. Place in broken glass box if available at a school.
 In case of injury, call first aider.
 
@@ -282,11 +284,11 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Take away from kids if they are being silly with them. Keep all perspex blocks in sight during the demonstration.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -296,7 +298,7 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 **Mitigation**: Prevent kids from removing magnifying glasses. Take away from kids (and scold demonstrators) if they are deliberately trying to set fire to things. If possible, avoid setting up this experiment somewhere with bright light or near the window.
 
@@ -318,35 +320,50 @@ In case of a child (or adult) tripping over, call first aider.
 
 <br/>
 
+
+### **Hazard**: Theft
+
+**Description**: Children may choose to steal perspex blocks/jars
+
+**Affected People**: CHaOS
+
+**Before Mitigation**: Likelihood: 3, Severity: 1, Overall: 3 (low)
+
+**Mitigation**: Keep an eye on all the equipment, and do not have more items on the table than can be tracked at the same time by the demonstrator. Check all items remain on the table before children leave the demonstration. Pack up items before leaving the table.
+
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (low)
+
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628)
 
 **Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-06 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2016-01-07 - Natalie Cree (nc434), **Check 2**: 2016-01-23 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2017-01-13 - Alfred Chia (ac939), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2018-01-08 - Gemma Shaw (gcs33@cam.ac.uk), **Check 2**: 2018-01-29 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2018-01-08 - Gemma Shaw (gcs33), **Check 2**: 2018-01-29 - Sarah Wiseman (sw628)
 
-**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53@cam.ac.uk)
+**Check 1**: 2019-01-20 - Matt Worssam (mdw47), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53)
 
-**Check 1**: 2019-12-23 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2019-12-23 - Polly Hooton (prh43), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2021-01-19 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-01-29 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-10 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81), **Check 2**: 2023-02-10 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2024-02-21 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2024-02-22 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2024-02-21 - Isaac Howell (ih393), **Check 2**: 2024-02-22 - John Leung (cfl35)
 
-**Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2024-12-23 - Smiley Chan (scc93), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk), **Check 2**: 2025-11-24, Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
+
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-24, Leah Helm (lkh53)
 
