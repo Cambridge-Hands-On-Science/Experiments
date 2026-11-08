@@ -2,7 +2,7 @@
 
 **What happens when we drop a magnet through a pipe?** - What happens when we drop a magnet through a pipe? Experiment with dropping them through perspex and metal pipes and see if there's any differences.
 
-Last initially checked on  2025-11-29 by Duncan Green (dg678@cam.ac.uk) and double checked on 2025-11-30 by Maisie Howard (mah253@cam.ac.uk)
+Last initially checked on  2026-11-08 by Logan Ripley (lr654@cam.ac.uk) and double checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -33,7 +33,7 @@ _Note that the equipment for this experiment is stored in the Electromagnetism b
 
 ## Experiment Explanation 
 
-Lives in Electromagnetism Box.
+Lives in Electromagnetism Box. A good addition to the experiment to further demonstrate Faradays' Law. 
 
 Get a volunteer to hold the pipe and challenge them to put the magnet in it and catch it as it comes out. If you've got a group ask them if they'd like the copper or perspex pipe, the copper pipe is the much better choice as it means you'll have more time. 
 
@@ -131,6 +131,8 @@ Call first aider in case of injury.
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-11-30 - Maisie Howard (mah253@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Logan Ripley (lr654@cam.ac.uk),  **Check 2**: 
 
 
 
