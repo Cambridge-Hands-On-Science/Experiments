@@ -202,7 +202,7 @@ See electrical parts RA.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
-**Mitigation**: Ensure the tower is stable (i.e. on level ground). Affix to a stable support structure in the venue using bungee cord. Do not allow children to climb/push the tower.
+**Mitigation**: Ensure the tower is stable (i.e. on level ground). Affix to a stable support structure in the venue using bungee cord. Do not allow children to climb/push the tower. Have two people set up / secure the tower. 
 
 In the event if an injury, call a first aider.
 
@@ -258,6 +258,6 @@ In the event if an injury, call a first aider.
 
 **Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk), **Check 3**: 2026-07-23 - Andrew Marriott (asm206@cantab.ac.uk), **Check 4**: 2026-07-23 - Daniel Eaton (de354@cam.ac.uk)
 
-
+**Check 1**: 2026-11-08 - Sarah Ng (scn37@cam.ac.uk)
 
 
