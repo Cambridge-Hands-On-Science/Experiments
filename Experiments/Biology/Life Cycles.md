@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -12,6 +12,8 @@ Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-c
 **Biology**
 
 **Active** (Experiment has working equipment at the time of last update, and is available for events.)
+
+
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
 
 <br/>
@@ -21,6 +23,8 @@ Last initially checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk) and double-c
 - Honeybee - egg, larvae, and pupa; worker bee, drone, and queen bee; pollen, honey, and royal jelly; foundation honeycomb, drone cells, and queen cell; worker bees collecting nectar
 - Frog - eggs, tadpole, various stages from tadpole to frog, adult, magnifying glass
 - Beeswax candle set
+
+Note: Honeybee equipment may be incomplete, needs checking
 
 <br/>
 
@@ -138,7 +142,7 @@ In case of injury, call first aider.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall:  (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Demonstrators should make sure that blocks are not played with by young children without supervision. 
 If a block is dropped, it should be picked back up as soon as the area is safe to do so. 
@@ -192,33 +196,34 @@ In case of a child (or adult) tripping over, call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-02-02 - Raghd Rostom (rr415)
 
-**Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-23 - Zephyr Penoyre (jp576@cam.ac.uk)
+**Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-23 - Zephyr Penoyre (jp576)
 
-**Check 1**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-01-24 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2016-01-07 - Natalie Cree (nc434), **Check 2**: 2016-01-24 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2017-01-13 - Alfred Chia (ac939), **Check 2**: 2017-02-09 - Matt Worssam (mdw47)
 
-**Check 1**: 2018-01-08 - Gemma Shaw (gcs33@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-01-08 - Gemma Shaw (gcs33), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-13 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2019-01-13 - Polly Hooton (prh43), **Check 2**: 2019-01-13 - Grace Exley (gae23)
 
-**Check 1**: 2020-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2020-01-07 - Polly Hooton (prh43), **Check 2**: 2020-01-25 - Matt Worssam (mdw47)
 
-**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2021-01-19 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796), **Check 2**: 2023-02-06 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-02-15 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2025-01-20 - Jeremy Lee (rqjl2), **Check 2**: 2025-01-26 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 1**: 2025-11-24 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
