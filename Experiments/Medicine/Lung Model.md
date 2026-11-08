@@ -6,9 +6,9 @@ Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Standard** (A standard CHaOS experiment, useable for all hands-on events.)
+**Active** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Minor repairs needed** 
+**Repairs needed** 
 
 **Medicine**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
