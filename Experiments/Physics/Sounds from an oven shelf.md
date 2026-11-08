@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -86,9 +86,9 @@ Call a first aider in the case of an injury.
 
 ### **Hazard**: Head
 
-**Description**: Head banging - with the slinky version, over-vigorous nodding not in a clear space may cause someone to bang their head.
+**Description**: Head banging - with the slinky version, over-vigorous nodding not in a clear space may cause someone to bang their head or hit someone.
 
-**Affected People**: Public
+**Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
@@ -104,31 +104,32 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2012-01-02 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk)
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576), **Check 2**: 2014-01-21 - Holly Davis (hd308)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2017-02-01 - Matthew Le Maitre (msl54), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-02 - Grace Exley (gae23), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2020-01-04 - Andrew Sellek (ads79), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-17 - Sian Boughton (seb216), **Check 2**: 2021-01-19 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79), **Check 2**: 2022-01-28 - Lauren Mason (llm34)
 
-**Check 1**: 2023-01-18 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-18 - John Leung (cfl35), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: Arian Pourabadey (asfp2@cam.ac.uk)
+**Check 1**: 2024-02-15 - Timothy Wong (chw55), **Check 2**: Arian Pourabadey (asfp2)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2024-12-27 - Lauren Mason (llm34), **Check 2**: Rowan Ong (rzmo2)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: Daniel Eaton (de354)
 
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**:
