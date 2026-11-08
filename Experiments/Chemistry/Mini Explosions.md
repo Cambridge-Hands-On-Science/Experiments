@@ -99,11 +99,11 @@ Call first aider in case of injury.
 
 **Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
 
-**Mitigation**: Do experiment in a clear lidded fish tank so kids are not peering over the top to see what is happening and tell them to stay a good distance back, keep lid opening faced towards demonstrator. It is important to keep the kids under control. Try to keep control over at least one of the reagents, so the kids can't just do it themselves.
+**Mitigation**: Do experiment in a clear lidded fish tank so kids are not peering over the top to see what is happening and tell them to stay a good distance back, keep lid opening faced towards demonstrator. It is important to keep the kids under control. Try to keep control over at least one of the reagents, so the kids can't just do it themselves. Use a small amount of bicarbonate unless it is not very reactive.
 
 Ensure the top of the tank is not at eye level (it is common for a small volume of the reagents to be propelled through the crack between the top of the tank and the lid). **Run a length of plastic tape along the hinged side (which should be closest to your audience) to prevent splattering.**
 
-Only assemble the cannisters when in the box and the lid is partially closed. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes.
+Only assemble the cannisters when in the box and the lid is partially closed. Shut the box quickly after assembling the cannisters. Tissue paper may be used as a "fuse" to increase the time taken for the reactants to come into contact with each other - this gives more time to get the canister into the tank. Lemon juice is usually better than vinegar, as it reacts more slowly, so again, there is more time to get the canister into the tank. In addition, eye protection should be provided for demonstrators to minimise possible risk of solution splashing into demonstrator's eyes.
 
 Eyewash should be kept on hand when demonstrating (but put back in Safety for storage between demonstrating days). If solution or reactants have entered eyes, call first aider, who will use eyewash to wash out of eyes if trained and confident to do so.
 
