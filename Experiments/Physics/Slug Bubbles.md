@@ -1,8 +1,8 @@
 # Slug Bubbles
 
-**Does a tube of water drain more slowly with a bung in the top?** - Does the diameter effect how fast water drains from a sealed tube? Watch the bubbles produced and see which is fastest. 
+**Does a tube of water drain more slowly with a bung in the top?** - Does the diameter affect how fast water drains from a sealed tube? Watch the bubbles produced and see which is fastest. 
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,7 +39,7 @@ Put a bung in the bottom of a tube.
 Fill it up with water using funnel and jug. Kids really want to help fill them up, and this is a good way of getting them involved.
 Ask what they think will happen when the bung is removed: does the water rush out, drip out slowly, stay in etc.?
 Ask if they think it'll come out fast enough to get their shoes wet.
-Then ask if they're willing to test their hypothesis in reality, or take a few steps back and remember where their shoes were at the time (I normally look at the parents for confirmation of feet wetting next!)
+**Then ask if they're willing to test their hypothesis in reality, or take a few steps back and remember where their shoes were at the time (I normally look at the parents for confirmation of feet wetting next!)**
 Count down and remove the plug. SPLASH :-)
 What happened?
 Water rushed out etc...
@@ -109,31 +109,32 @@ In case of injury, call a first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-15 - Brett Abram (ba305@cam.ac.uk)
+**Check 1**: 2014-02-14 - Nunu Tao (nmt26), **Check 2**: 2014-02-15 - Brett Abram (ba305)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-22 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-20 - Matthew Le Maitre (msl54), **Check 2**: 2018-01-20 - Benjamin Akrill (bja32)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-02 - Grace Exley (gae23), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43), **Check 2**: 2020-01-19 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-02-09 - Emma Crickmore (elc75), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-17 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369), **Check 2**: 2023-01-17 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2@cam.ac.uk)
+**Check 1**: 2024-02-15 - Timothy Wong (chw55), **Check 2**: 2024-02-15 - Lachlan Rooney (lgmr2)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2025-01-30 - Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2024-12-27 - Lauren Mason (llm34), **Check 2**: 2025-01-30 - Rowan Ong (rzmo2)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-11-29 - Daniel Eaton (de354)
 
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
