@@ -2,7 +2,7 @@
 
 **Making electricity, and using it to spin a motor.** - Generate electricity and learn all about how it works!
 
-Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -124,7 +124,7 @@ There is a real motor in the box too, which you can compare it to.
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
-**Mitigation**: Do not put too much current through a coil/wire: if it is getting hot, turn it down. Demonstrator to turn off power supply to motor when not in use.  If there is a burn, run under tepid water for ten minutes. In the event of any injury, turn off electricity at mains, and call first aider.  In event of fire, follow procedure in venue RA (raise alarm, evacuate).
+**Mitigation**: Do not put too much current through a coil/wire: if it is getting hot, turn it down. Demonstrator to turn off power supply to motor when not in use.  If there is a burn, run under cold water for ten minutes. In the event of any injury, turn off electricity at mains, and call first aider.  In event of fire, follow procedure in venue RA (raise alarm, evacuate).
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
@@ -146,15 +146,15 @@ There is a real motor in the box too, which you can compare it to.
 
 ### **Hazard**: Copper pipe
 
-**Description**: Copper pipe hitting people in face.
+**Description**: Copper pipe hitting people in face or falling on toes.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (High)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Demonstrator should hold pipe for younger kids and monitor use for others. Call first aider in event of injury.
+**Mitigation**: Demonstrator should hold pipe for younger kids and monitor use for others (children told to hold it still and away from faces). Copper pipe should be firmly held still by demonstrator and away from faces. The copper pipe used is hollow and fairly light, to minimise possible injury. Call first aider in event of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (Medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
@@ -194,7 +194,7 @@ There is a real motor in the box too, which you can compare it to.
 
 **Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (High)
 
-**Mitigation**: Place generator on flat surface so visitors can't catch their fingers underneath so easily. Tell visitors to hold only the rotating part of the generator handle and not the entire handle. Keep control of the visitors at all times and don't let them get overexcited while turning the handle. Call first aider in event of injury.
+**Mitigation**: Place generator on flat surface so visitors can't catch their fingers underneath as easily. Tell visitors to hold only the rotating part of the generator handle and not the entire handle. Keep control of the visitors at all times and don't let them get overexcited while turning the handle. Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
 
@@ -202,32 +202,34 @@ There is a real motor in the box too, which you can compare it to.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-16 - Jachym Sykora (js973@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-16 - Jachym Sykora (js973)
 
-**Check 1**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk), **Check 2**: 2014-01-26 - Zephyr Penoyre (jp576@cam.ac.uk)
+**Check 1**: 2014-01-22 - Brett Abram (ba305), **Check 2**: 2014-01-26 - Zephyr Penoyre (jp576)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-22 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2016-12-28 - Andrei Ruskuc (ar720), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2018-01-01 - Jared Jeyaretnam (jaj55), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-01 - Grace Exley (gae23), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-14 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2020-01-22 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-14 - Jared Jeyaretnam (jaj55), **Check 2**: 2020-01-22 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-02-09 - Maggie Goulden (mcg58), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2023-02-18 - Peter Methley (pm631), **Check 2**: 2023-02-18 - Timothy Wong (chw55)
 
-**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Timothy Wong (chw55), **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2)
 
-**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-23 - John Leung (cfl35), **Check 2**: 2025-11-23 - Daniel Eaton (de354)
+
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
