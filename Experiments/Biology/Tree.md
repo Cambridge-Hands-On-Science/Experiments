@@ -2,7 +2,7 @@
 
 **Tree** - Tree? Tree!
 
-Last initially checked on 2026-11-08 by Isobel Gilham (ac2736@cam.ac.uk) and double-checked on  by 
+Last initially checked on 2026-11-08 by Isobel Gilham (ac2736@cam.ac.uk) and double-checked on 2026-11-08 by Olivia Duddy (ocd28)
 
 ## Tags
 
@@ -264,5 +264,5 @@ In case of injury, call first aider.
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Isobel Gilham (ig419@cam.ac.uk) , **Check 2** 
+**Check 1**: 2026-11-08 - Isobel Gilham (ig419@cam.ac.uk) , **Check 2** 2026-11-08 - Olivia Duddy (ocd28)
 
