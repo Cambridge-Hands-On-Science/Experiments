@@ -2,7 +2,7 @@
 
 This experiment uses uncooked spaghetti to explore elastic buckling of vertical columns and 3-point bending of horizontal beams.
 
-Last initially checked on 2025-11-26 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2026-11-08 by Maisie Howard (mah253)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -124,13 +124,13 @@ Call a first aider in event of injury.
 
 ### **Hazard**: Spaghetti shards
 
-**Description**: Loose pieces of spaghetti flying into eyes when bent and fractured.
+**Description**: Loose pieces of spaghetti flying into eyes or face when bent and fractured.
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Forewarn students and when bending spaghetti, bend away from self and away from others.
+**Mitigation**: Forewarn students and when bending spaghetti, bend away from self and away from others, ideally pointing downwards into a tray, it flies much further than expected!
 
 In case of injury call first aider.
 
@@ -205,6 +205,7 @@ In case of contact, advise parents to take children to GP if illness develops.
 
 **Check 1**: 2025-11-26 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - Maisie Howard (mah253)
 
 
 
