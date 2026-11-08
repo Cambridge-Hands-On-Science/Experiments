@@ -146,25 +146,25 @@ Call first aider in event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi), **Check 2**: 2014-01-27 - Sharmila Walters (sw632)
 
-**Check 1**: 2019-01-18 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2019-01-18 - Thomas Webster (tw432), **Check 2**: 2019-01-25 - Matt Worssam (mdw47)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2019-12-26 - Thomas Webster (tw432), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk)
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47), **Check 2**: 2021-01-21 - Samuel Amey (sra44)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-10 - Amy Migunda (aom36), **Check 2**: 2023-02-11 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-18 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2024-02-19 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-02-18 - Emily Wolfenden (elw74), **Check 2**: 2024-02-19 - Lucy Bland (lb831)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2026-01-12 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758), **Check 2**: 2026-01-12 - Jeremy Lee (rqjl2)
 
-
+**Check 1**: 2026-08-11 - Amy Patterson (alp95)
 
