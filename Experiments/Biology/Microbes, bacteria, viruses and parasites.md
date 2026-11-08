@@ -35,15 +35,15 @@ In the box:
 - 9 x cuddly bacteria
 - 1 x cuddly penicillin bug (to talk about antibiotics)
 - 1 x cuddly yeast (to say that not all microbes are bacteria)
-- 1 x plate of plastic bacteria (E.coli)
-- 2 x bacteria viewers (look a bit like small microscopes)
-- 3 x slides sets for bacteria viewers
-- 1 x flask for growing bacteria
-- Packets of tools for growing bacteria
+- 1 x plate of plastic bacteria (E.coli) (missing?)
+- 2 x bacteria viewers (look a bit like small microscopes) (missing?)
+- 3 x slides sets for bacteria viewers (missing?)
+- 1 x flask for growing bacteria (missing?)
+- Packets of tools for growing bacteria (missing?)
 - Laminated fact sheets for cuddly bacteria
-- Laminated instructions sheets for hand washing activity
-- UV hand wash cream (this is £15 per bottle, so use only minimum amount per group)
-- UV light for hand wash activity
+- Laminated instructions sheets for hand washing activity (missing?)
+- UV hand wash cream (this is £15 per bottle, so use only minimum amount per group) (missing?)
+- UV light for hand wash activity (missing?)
 
 If you want to do the hand wash activity you'll need a soap, warm water and bowl and some paper towels to dry hands on.
 
@@ -484,6 +484,6 @@ Call first aider in case of injury. If washing up liquid gets into an eye, demon
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk) , **Check 2**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk)
 
-**Check 1**: 2026-11-8 - Aiden Blay (agb85@cam.ac.uk)
+**Check 1**: 2026-11-08 - Aiden Blay (agb85@cam.ac.uk), **Check 2**: 2026-11-08 - Jamie Gold (jag257@cam.ac.uk)
 
 
