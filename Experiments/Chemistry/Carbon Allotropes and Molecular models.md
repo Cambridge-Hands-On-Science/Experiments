@@ -2,7 +2,7 @@
 
 **Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2025-11-23 by Tara Doherty (ted37@cam.ac.uk) and double-checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk)
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on ---- by ----
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -116,4 +116,4 @@ Call first aider in case of injury
 
 **Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2024-11-29 - Siena Ootes (sjo57@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37@cam.ac.uk)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37)
