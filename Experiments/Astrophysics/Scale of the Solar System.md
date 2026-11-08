@@ -2,7 +2,7 @@
 
 **By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!** - By comparing sizes and distances we can scale our solar system all the way up from the Earth and the Moon, up to our nearest star, and you might be surprised how far that actually is!
 
-Last initially checked on 2026-11-08 by Daniel Eaton (de354) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Daniel Eaton (de354) and double-checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796)
 
 ## Tags 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,7 +79,7 @@ Pinprick hole Sun:
 
 **Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
-**Mitigation**: Demonstrator must emphasise that children must walk, should stop everyone walking to actually do explanations. Take note of any trip hazards (cables, other experiments, etc.) that may block the path of children walking & warn them to be careful of these if necessary.
+**Mitigation**: Demonstrator must emphasise that children must walk instead of run, should stop everyone walking to actually do explanations. Take note of any trip hazards (cables, other experiments, etc.) that may block the path of children walking & warn them to be careful of these if necessary.
 Must be made very clear to children that they may not kick or throw the balls ever.
 Call first aider in case of injury.
 
@@ -107,7 +107,7 @@ Call a first aider in the event of swallowing/choking
 
 **Check 1**: 2014-12-06 - Zephyr Penoyre (jp576), **Check 2**: 2014-12-07 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2016-11-28 - Roxanne Armfield (rea41), **Check 2**: 2016-07-02 - Tom Comerford (tafc2@)
+**Check 1**: 2016-11-28 - Roxanne Armfield (rea41), **Check 2**: 2016-07-02 - Tom Comerford (tafc2)
 
 **Check 1**: 2017-01-11 - Roxanne Armfield (rea41), **Check 2**: 2017-02-01 - Matthew Le Maitre (msl54)
 
@@ -121,7 +121,7 @@ Call a first aider in the event of swallowing/choking
 
 **Check 1**: 2022-12-23 - Andrew Sellek (ads79), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465)
 
-**Check 1**: 2023-01-18 - John Leung (cfl35), **Check 2**: 2023-01-19 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2023-01-18 - John Leung (cfl35), **Check 2**: 2023-01-19 - Lauren Mason (llm34)
 
 **Check 1**: 2024-01-31 - Lauren Mason (llm34), **Check 2**: 2024-02-15 - John Leung (cfl35)
 
@@ -129,6 +129,6 @@ Call a first aider in the event of swallowing/choking
 
 **Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-11-29 - Daniel Eaton (de4354), **Check 3**: 2026-07-27 - Daniel Eaton (de354), **Check 4**: 2026-07-27 - Andrew Marriott (asm206)
 
-**Check 1**: 2026-11-08 - Daniel Eaton (de354), **Check 2**:
+**Check 1**: 2026-11-08 - Daniel Eaton (de354), **Check 2**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796)
 
 
