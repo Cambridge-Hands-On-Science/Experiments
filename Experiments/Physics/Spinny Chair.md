@@ -2,8 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk) and double-checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk)
-
+Last initially checked on 2026-11-08 by Logan Ripley (lr654@cam.ac.uk) and double-checked on 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -31,6 +30,8 @@ Last initially checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.u
 By using a spinning chair, weird effects due to conservation of angular momentum can be felt. 
 
 ### Set up
+
+The chair must be assembled from the stool, the stool pole and three stands. The stool should be attached to the pole first to provide a base to help attach the stands.
 
 Try to make sure the chair is level, there is more than a metre of clear space around it in all directions, and the floor is something that won't graze anyone who lands on it (e.g. carpet). 
 
@@ -238,6 +239,10 @@ Call a first aider in the case of an injury.
 **Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),**Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),**Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Logan Ripley (lr654@cam.ac.uk),**Check 2**: 
+
+
 
 
 
