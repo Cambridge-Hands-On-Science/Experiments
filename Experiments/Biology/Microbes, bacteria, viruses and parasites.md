@@ -4,7 +4,7 @@
 Now with added Covid-19!
 Use our cuddly poliovirus to learn how we can prevent and eradicate diseases!
 
-Last initially checked on 2026-11-8 by Aiden Blay (agb85@cam.ac.uk) and double-checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-8 by Aiden Blay (agb85@cam.ac.uk) and double-checked on 2026-11-08 by Jamie Gold (jag257@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
