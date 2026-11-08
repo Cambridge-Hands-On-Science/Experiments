@@ -2,7 +2,7 @@
 
 **Find out about the mathematics of Graphs.** - Experiment with graphs finding out about what structure we can find in randomness, how to colour maps with few crayons and what shapes you can draw without taking your pen off the paper.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
