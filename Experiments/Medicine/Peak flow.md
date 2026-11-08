@@ -2,11 +2,11 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2025-12-04 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on by
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
-**Active** (Experiment has working equipment at the time of last update, and is available for events.)
+**Not active** (Needs to be checked if equipment is still working)
 
 **CBS only** (Non-transportable experiments that tend to be used for CBS only.)
 
@@ -20,7 +20,7 @@ Last initially checked on 2025-12-04 by Mafalda Merladet Moreno (mm2758@cam.ac.u
 - Peak flow meter
 - Models of normal and constricted airways (made from foam and tape)
 - Straws
-- Bung with a hole in it, plus blu-tac (possibly, if I have finished making it!)
+- Bung with a hole in it, plus blu-tac
 
 <br/>
 
@@ -118,7 +118,7 @@ It might also be possible to plug the end of a mouthpiece with the rubber bung, 
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: Keep an eye on people using the peak flow meter to ensure that they are not over-exerting themselves to this point. If child tries to breath too rapidly, tell child to slow down. Be aware of what participants might fall on in the event of fainting. Only allow them to try the exhaling through straws part if they are SITTING DOWN, and only let them do so for a few, gentle breaths.  
+**Mitigation**: People with respiratory conditions should not participate in the activity. Keep an eye on people using the peak flow meter to ensure that they are not over-exerting themselves to this point. If child tries to breath too rapidly, tell child to slow down. Be aware of what participants might fall on in the event of fainting. Only allow them to try the exhaling through straws part if they are SITTING DOWN, and only let them do so for a few, gentle breaths. 
 In case of accident, call a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
@@ -144,33 +144,34 @@ In case of accident, call a first aider and encourage child to cough.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-26 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi), **Check 2**: 2014-01-26 - Sharmila Walters (sw632)
 
-**Check 1**: 2015-01-08 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2014-01-23 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2015-01-08 - Charlotte Attwood (ca402), **Check 2**: 2014-01-23 - Jessica Gorman (jrg63)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk)
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry), **Check 2**: 2016-02-02 - Jiali Gao (jg732)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-05 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-05 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-02-04 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47), **Check 2**: 2019-02-04 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2020-01-27 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-27 - Samuel Amey (sra44), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2021-01-21 - Samuel Amey (sra44), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-17 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-23 - Andrew Sellek (ads79@@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emily Wolfenden (elw74), **Check 2**: 2023-02-23 - Andrew Sellek (ads79)
 
-**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758), **Check 2**: 2025-12-30 - Timothy Wong (chw55)
 
+**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2), **Check 2**: 
