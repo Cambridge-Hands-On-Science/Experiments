@@ -2,7 +2,7 @@
 
 **Probabilities of rolling dice.** - Understanding the probabilities behind throwing pairs of dice.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
+Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -102,13 +102,13 @@ Write the initials on each brick that someone places on the distribution and wat
 
 ### **Hazard**: Small parts
 
-**Description**: Children swallowing dice, Duplo or Lego pieces
+**Description**: Children swallowing dice,pen lids, Duplo or Lego pieces
 
 **Affected People**: Public
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing. Do not use Lego with very small children and keep a close eye on the box of Lego and dice.
+**Mitigation**: The Duplo pieces should be sufficiently large to discourage swallowing. Do not use Lego with very small children and keep a close eye on the box of Lego and dice. Do not let younger children use the pens to write on the dice, take pens away from children if they are being irresponsible. 
 If child swallows, call first aider and encourage child to cough if choking.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
@@ -158,3 +158,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk)
 
+**Check 1** 2026-11-08 - Ben Laking (bl578)
