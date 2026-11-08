@@ -21,6 +21,7 @@ Last initially checked on 2026-11-8 by Aiden Blay (agb85@cam.ac.uk) and double-c
 ## Equipment Needed 
 - One large black box containing all types of microbes.
 
+Needs a review of what is still in the box.
 <br/>
 
 ## Experiment Explanation 
