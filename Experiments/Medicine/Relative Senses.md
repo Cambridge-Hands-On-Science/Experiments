@@ -2,7 +2,7 @@
 
 **A variety of experiments to show how our senses are relative rather than absolute:** - Find out for yourself how our senses are relative and not absolute, and experience this phenomenon with this demonstration working on sight, touch and temperature.
 
-Last initially checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk) and double-checked on 2026-01-12 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2026-11-08 by Amy Patterson (alp95) and double-checked on - by - ()
 
 Tags
 
