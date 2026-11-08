@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Evelyn Bassett (ejb228@cam.ac.uk)
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -102,13 +102,13 @@ Call first aider in case of injury.
 
 ### **Hazard**: Contaminated golden syrup
 
-**Description**: Ingestion/ inhaling of golden syrup/ icing sugar that's been in a lab environment.
+**Description**: Ingestion / inhalation of golden syrup or icing sugar that's been in a lab environment.
 
 **Affected People**: Children
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: If syrup gets on hands/arms, make sure children don't lick it off, and that they wash their hands once they've finished the experiment. Have a pack of wet wipes or tissues nearby to give to them. Warn children not to inhale when you are pouring any icing sugar.
+**Mitigation**: If syrup gets on hands/arms, make sure children don't lick it off, and that they wash their hands once they've finished the experiment. Have a pack of wet wipes or tissues nearby to give to them. Warn children not to inhale when you are pouring any icing sugar and ensure they are not too close.
 Call a first aider in the event of an emergency.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
@@ -119,32 +119,32 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk)
+**Check 1**: 2014-02-14 - Nunu Tao (nmt26), **Check 2**: 2014-02-16 - Benjamin Lai (bl337)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-22 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32)
 
-**Check 1**: 2018-01-20 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-01-20 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2018-01-20 - Benjamin Akrill (bja32), **Check 2**: 2018-01-20 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-02 - Grace Exley (gae23), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-23 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-23 - Conor Cafolla (ctc43), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Holly Smith (hs606@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Holly Smith (hs606)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79), **Check 2**: 2022-02-09 - Joshan Parmar (jp862)
 
-**Check 1**: 2023-02-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2023-02-18 - Jessica Trevelyan (jet81), **Check 2**: 2023-02-18 - Peter Methley (pm631)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2024-02-15 - Lauren Mason (llm34), **Check 2**: 2024-02-15 - John Leung (cfl35)
 
-**Check 1**: 2025-02-08 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
+**Check 1**: 2025-02-08 - John Leung (cfl35), **Check 2**: 2025-02-08 - Duncan Green (dg678)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**: 2026-01-12 - Evelyn Bassett (ejb228)
 
-
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
