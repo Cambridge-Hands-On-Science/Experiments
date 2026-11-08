@@ -68,7 +68,9 @@ There are three main types of diabetes mellitus (DM).
 
 **Type 1 diabetes**
 
-Type 1 diabetes mellitus is characterized by loss of the insulin-producing beta cells of the islets of Langerhans in the pancreas, leading to insulin deficiency. This type can be further classified as immune-mediated or idiopathic. The majority of type 1 diabetes is of the immune-mediated nature, in which beta cell loss is a T-cell-mediated autoimmune attack. There is no known preventive measure against type 1 diabetes, which causes approximately 10% of diabetes mellitus cases in North America and Europe. Most affected people are otherwise healthy and of a healthy weight when onset occurs. Sensitivity and responsiveness to insulin are usually normal, especially in the early stages. Type 1 diabetes can affect children or adults, but was traditionally termed "juvenile diabetes" because a majority of these diabetes cases were in children. 
+Type 1 diabetes mellitus is characterized by loss of the insulin-producing beta cells of the islets of Langerhans in the pancreas, leading to insulin deficiency. This type can be further classified as immune-mediated or idiopathic. The majority of type 1 diabetes is of the immune-mediated nature, in which beta cell loss is due to a T-cell-mediated autoimmune attack . Type 1 diabetes causes approximately 10% of diabetes mellitus cases in North America and Europe. Most affected people are otherwise healthy and of a healthy weight when onset occurs. Sensitivity and responsiveness to insulin are usually normal, especially in the early stages. Type 1 diabetes can affect children or adults, but was traditionally termed "juvenile diabetes" because a majority of these diabetes cases were in children. 
+
+The majority of people with type 1 diabetes have detectable autoantibodies against beta cells. If people are identified as having these autoantibodies before the development of symptoms, the onset of symptoms may be able to be delayed by treatment with the immunotherapy drug teplizumab (which deactivates the attacking T cells). 
 
 **Type 2 diabetes**
 
@@ -76,7 +78,7 @@ Type 2 diabetes mellitus is characterized by insulin resistance, which may be co
 
 **Diabetic Emergencies**
 
-People (usually with type 1 diabetes) may also present with diabetic ketoacidosis, a state of metabolic dysregulation characterized by the smell of acetone, a rapid, deep breathing known as Kussmaul breathing, nausea, vomiting and abdominal pain, and altered states of consciousness. It occurs when the body breaks down lots of fat to fuel cells as glucose cannot enter them. In ketoacidosis the pH of the blood rapidly drops which affects a variety of bodily functions.
+People (usually with type 1 diabetes) may also present with diabetic ketoacidosis, a state of metabolic dysregulation characterized by the smell of acetone, a rapid, deep breathing known as Kussmaul breathing, nausea, vomiting and abdominal pain, and altered states of consciousness. It occurs when the body breaks down lots of fat to fuel cells as glucose cannot enter them. In ketoacidosis the pH of the blood rapidly drops which affects a variety of bodily functions. 
 
 **Diagnosis**
 
@@ -102,11 +104,14 @@ Historically, people would have taken two doses of short-acting insulin and had 
 
 **What about insulin pumps?**
 
-These are increasing in popularity. They are small electronic pumps which are clipped to the waistband and have a narrow tube with a small plastic cannula inserted into the subcutaneous tissue in the abdomen (this set is changed every few days). They allow a constant infusion of insulin with ‘boluses’ added at the press of a button on eating. They allow freedom in choice and timing of food, but some people find them restrictive because of the tubing and the device clipped to the belt. 
+These are increasing in popularity. They are small electronic pumps which are clipped to the waistband and have a narrow tube with a small plastic cannula inserted into the subcutaneous tissue in the abdomen (this set is changed every few days). They allow a constant infusion of rapid-acting insulin with ‘boluses’ added at the press of a button on eating. They allow freedom in choice and timing of food, but some people find them restrictive because of the tubing and the device clipped to the belt. 
 
-**Is this the same as an ‘artificial pancreas’?**
+**Continuous glucose monitors and hybrid closed-loop systems**
 
-Not quite – it’s sort of half of one! The aim of an ‘artificial pancreas’ is to monitor blood glucose levels and respond to this by alteration of insulin infusion – i.e. a closed unit where the user does not have to have any input themselves and without having to do finger-prick blood glucose tests. One of the major difficulties in this is devising a way of monitoring glucose levels in the body. 
+Continuous glucose monitors (CGMs) are devices which allow people to see real-time glucose levels without needing to test their blood. The CGM has a cannula that goes just under the skin, allowing the levels of glucose in the interstitial fluid (fluid bathing the cells) to be measured. CGM readings are not quite as accurate as a finger prick test as interstitial fluid glucose levels lag behind blood glucose levels by up to 15 minutes.  
+
+Some CGMs and insulin pumps are able to 'talk to each other', allowing the amount of insulin delivered to be altered based on glucose levels. This is called a 'hybrid closed-loop'. However, this is not a perfect 'artificial pancreas' as the system cannot anticipate changes in glucose levels due to food, exercise etc so the user would have to input information about the carbohydrate content of what they are eating and tell the system if they are exercising.  
+
 
 **Can’t we test real blood?**
 
@@ -189,4 +194,6 @@ In case of injury call first aider.
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+
+**Check 1**: 2025-11-08 - Jamie Gold (jag257@cam.ac.uk), **Check 2**: 
 
