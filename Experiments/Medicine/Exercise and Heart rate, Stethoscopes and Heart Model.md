@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2025-11-23 by Alice O'Hara (aeio3@cam.ac.uk) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Wisteria Chatterjee (ac2732) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -131,7 +131,7 @@ Use the 'heart rate and exercise' explanation too!
 Normal Lungs:
 - Normally turbulent air going in and out of bronchi.
 - Sounds different over bronchi/trachea and lung fields.
-- Same noise, but in the lung fields it is heard through large amounts of other tissue and so is soften (I think it cuts out specific frequencies - high or low -but don't quote me on that).
+- Same noise, but in the lung fields it is heard through large amounts of other tissue and so is softened (I think it cuts out specific frequencies - high or low -but don't quote me on that).
 
 Abnormal Lung (probably talk about Asthma as most kids now about it)
 
@@ -322,6 +322,8 @@ Call first aider if necessary.
 
 **Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
 
-**Check 1** 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Wisteria Chatterjee (ac2732) , 
 
 
