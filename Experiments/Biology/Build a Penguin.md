@@ -2,7 +2,7 @@
 
 ** Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour. ** 
 
-Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-08 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by Jeremy Lee ([])
 
 ## Tags
 
@@ -35,6 +35,8 @@ Last initially checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk) and doubl
 - Ice packs, or a bowl of icy water (optional – use ice packs from the cool boxes if on tour, or use the ice blocks to freeze ice in the school freezer)
 - Plastic box containing a penguin toy (you will need to half-fill this with water)
 - Model of penguin egg (about 12 cm long)
+
+Note: At time of checking, ice cube tray, ice packs and penguin egg model missing but not required for experiment. Vegetable shortening and zip lock bags require replacing
 
 <br/>
 
@@ -89,7 +91,7 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Mitigation**: Do not open the ziplock bags while demonstrating. The shortening should be replaced every six months to stop it going bad, and the date of replacement written on the bags. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -131,7 +133,7 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Mitigation**: Clean up spills immediately. 
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -141,11 +143,11 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (low)
 
 **Mitigation**: Use a bowl with ice and water rather than just ice. Do not let the children put their hand in the bowl or touch the ice pack for more than a few seconds.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (low)
 
 <br/>
 
@@ -153,8 +155,8 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 ## Risk Assessment Check History
 
-**Check 1**: 2025-10-08 – Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-10-12 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2025-10-08 – Jessica Trevelyan (jet81), **Check 2**: 2025-10-12 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-12-30 – Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2026-01-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-12-30 – Timothy Wong (chw55), **Check 2**: 2026-01-08 - Jeremy Lee (rqjl2)
 
-
+**Check 1**: 2026-11-08 – Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
