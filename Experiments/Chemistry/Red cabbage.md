@@ -2,7 +2,7 @@
 
 **Making a natural pH indicator.** - We use a little red cabbage juice to find out more about acids and bases in the world around us.
 
-Last initially checked on 2026-11-08 by Daya Shergill (dks37) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Daya Shergill (dks37) and double-checked on 2026-11-08 by Millie Medwell (mem203)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -96,13 +96,13 @@ At Event:
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 9 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (high)
 
 **Mitigation**: Only demonstrators to use knives to cut cabbage, which should be done before the event starts. Knives to be kept concealed and out of reach for the duration of the experiment. Knife to be sheathed when not being used. There should only be one knife in the box, and the demonstrator should know where it is at all times.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 <br/>
 
