@@ -2,7 +2,7 @@
 
 **Talk about the different parts of a tree whilst building one out of craft materials** - Can you build a tree?
 
-Last initially checked on 2025-11-25 by Charlotte Greensmith (cg865@cam.ac.uk) and double-checked on 2025-11-24 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -26,6 +26,8 @@ Last initially checked on 2025-11-25 by Charlotte Greensmith (cg865@cam.ac.uk) a
 - Elastic bands
 - Black fabric with velcro
 - Selotape and scissors
+
+Note: box needs clearing and sorting! Lots of items are hard to find/missing
 
 <br/>
 
@@ -92,7 +94,7 @@ Call first aider in event of injuries.
 **Mitigation**: Encourage children to be sensible with elastic bands, ask to leave if they won't.
 In case of injury call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Low)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -127,26 +129,27 @@ Warn parents of the possibility of germ transfer if child has been eating straws
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2016-02-12 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2016-02-12 - Sarah Wiseman (sw628), **Check 2**: 2016-02-12 - Charis Watkins (czrw2)
 
-**Check 1**: 2017-01-03 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2017-01-03 - Sarah Wiseman (sw628), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-25 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-01-25 - Sarah Wiseman (sw628), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-08 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-08 - Amanda Buckingham (abb53), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk)
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43), **Check 2**: 2020-01-23 - Holly Smith (hs606)
 
-**Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2020-12-31 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2020-12-28 - Bryony Yates (by250), **Check 2**: 2020-12-31 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-02-09 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2), **Check 2**: 2023-02-10 - Amy Migunda (aom36)
 
-**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham(ig419@cam.ac.uk)
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham(ig419)
 
-**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk)
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419), **Check 2**: 2025-02-08 - Smiley Chan (scc93)
  
-**Check 1**: 2025-11-23 - Charlotte Greensmith (cg865@cam.ac.uk), **Check 2**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-23 - Charlotte Greensmith (cg865), **Check 2**: 2025-11-24 - Leah Helm (lkh53)
 
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
 
