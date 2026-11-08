@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2026-01-08 by Andrew Marriott (asm206@cam.ac.uk) and double-checked on 2026-01-08 by Jesse Luo (jl2491@cam.ac.uk)
+Last initially checked on 2026-11-08 by Millie Medwell (mem203) and double-checked on 2026-01-08 by  ()
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -99,7 +99,7 @@ Call first aider in event of injury
 
 ### **Hazard**: Slime
 
-**Description**: Slip hazard if on floor.
+**Description**: Slip hazard if on floor, could be consumed by children.
 
 **Affected People**: All
 
@@ -107,7 +107,7 @@ Call first aider in event of injury
 
 **Mitigation**: Clear up any spills immediately.
 
-Call first aider in event of injury
+Call first aider in event of injury. Keep an eye on children especially young children to prevent consumption.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (low)
 
@@ -159,3 +159,4 @@ Call first aider in event of injury
 
 **Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-08 - Jesse Luo (jl2491@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - Millie Medwell (mem203),
