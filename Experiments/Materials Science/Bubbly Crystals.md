@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2025-11-27 by Asmita Niyogi (an637@cam.ac.uk)
+Last initially checked on 2026-11-08 by Maisie Howard (mah253)
 
 **Frequency of use:** 4
 
@@ -222,7 +222,7 @@ Carefully empty the tray and gas generator and dry with the paper towel provided
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
-**Mitigation**: I would advise against demonstrating if you are irritated by soapy water. Use a sign to indicate the presence of soap. Ask parent/ responsible child if OK to put their hands in soapy water. Otherwise, can do as demo only or only let them touch the water via the skewers. Do not let children drink the soapy water.
+**Mitigation**: Advise against demonstrating if you are irritated by soapy water. Use a sign to indicate the presence of soap. Ask parent/ responsible child if OK to put their hands in soapy water. Otherwise, can do as demo only or only let them touch the water via the skewers. Do not let children drink the soapy water.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
@@ -252,7 +252,7 @@ Summon first-aider to wash eyes if necessary.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: I would advise doing this experiment outside or in a room with a wipeable floor. Do not put near electrical equipment. Do not use more water than is necessary (5mm depth is fine), and if possible fill the tray using a water bottle and then don’t move it. Keep the gas generator in a place where it is difficult to knock over. Warn people of any spillages and clear them up promptly using the kitchen roll.
+**Mitigation**: Advise doing this experiment outside or in a room with a wipeable floor. Do not put near electrical equipment. Do not use more water than is necessary (5mm depth is fine), and if possible fill the tray using a water bottle and then don’t move it. Keep the gas generator in a place where it is difficult to knock over. Warn people of any spillages and clear them up promptly using the kitchen roll.
 
 Summon first-aider in event of someone tripping and hurting themselves.
 
@@ -285,5 +285,7 @@ Summon first-aider in event of someone tripping and hurting themselves.
 **Check 1**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
+
+**Check 1**: 2026-11-08 - Maisie Howard (mah253),
 
 <!-- (duplicate as necessary) -->
