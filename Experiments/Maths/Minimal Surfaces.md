@@ -1,10 +1,10 @@
 # Minimal Surfaces
 
-**(Brief Description)** - (Sentence to advertise experiment.)
+**Making minimal surfaces** - We dip wire frames into soapy water to create soap films which are physical models of minimal surfaces, which are surfaces that minimise surface area
 
 NOTE: RA in development...
 
-Last initially checked on 2026-01-12 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-xx-xx by xx (xx)
+Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on  by  ()
 
 ## Tags
 
@@ -116,12 +116,12 @@ Know where the nearest eye wash is (usually Safety Box). Summon first-aider to w
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 5, Overall: 20 (unacceptable)
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: Demonstrators to be very careful of where open ends are, and to grip metal frames away from these. If children handle frames, 
 make sure all ends are sealed away with tape / blu-tac / some other means to unsharpen them. 
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (low)
 
 <br/>
 
@@ -158,6 +158,9 @@ Warn people of any spillages and clear them up promptly using the kitchen roll, 
 ## Risk Assessment Check History
 
 **Check 1**: 2025-08-06 - Mara-Ioana Postolache (mip32@cam.ac.uk), **Check 2**: 2025-08-06 - John Leung (cfl35@cam.ac.uk)
+
 **Check 1**: 2026-01-12 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-xx-xx - xx (xx)
+
+**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54@cam.ac.uk)
 
 <!-- (duplicate as necessary) -->
