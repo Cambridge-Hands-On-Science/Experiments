@@ -2,7 +2,7 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
+Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on  by  ()
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -181,3 +181,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
 
+**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54@cam.ac.uk), 
