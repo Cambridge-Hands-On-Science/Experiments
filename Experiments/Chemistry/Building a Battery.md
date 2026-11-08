@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2025-11-29 by Siena Ootes (sjo57@cam.ac.uk) and double-checked on 2025-12-21 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on YYYY-MM-DD by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -200,4 +200,4 @@ In case of accident, wash the affected area with clean water.
 
 **Check 1**: 2025-11-27 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37@cam.ac.uk)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37)
