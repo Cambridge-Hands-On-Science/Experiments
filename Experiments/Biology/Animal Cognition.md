@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-23 by Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -17,7 +17,7 @@ Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-
 
 ## Equipment Needed 
 - 2 Large measuring cylinders
-- Jug
+- Jug and funnel
 - Water
 - Gravel/stones
 - Balloons
@@ -106,12 +106,12 @@ If ingested encourage child to spit out water and rinse out mouth with clean wat
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Don't carry out experiment near a thoroughfare and be careful when emptying/refilling the tube (do over a sink if there is one next to you), don't let the children add too much gravel at once or add with too much vigour.
 Mop up any spilt water as soon as possible. Call first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 <br/>
 
@@ -129,40 +129,41 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 <br/>
 
-### **Hazard**: Sharp elements of skulls
+### **Hazard**: Injury from handling of skulls
 
-**Description**: Damage from sharp elements of skulls on sensitive areas (eyes)
+**Description**: Inappropriate handling of skulls by children may cause damage from sharp elements of skulls on sensitive areas (eyes), or cuts/scraps which can become infected.
 
 **Affected People**: All; especially children
 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
-**Mitigation**: Minimise handling time from the children, and do not take multiple skulls out at the same time. Ensure all handling is done while a demonstrator is present.
+**Mitigation**: Minimise handling time from the children, and do not take multiple skulls out at the same time. Ensure all handling is done while a demonstrator is present. If injury occurs, advise a parent or teacher to treat with antiseptic, and to go to a doctor or pharmacist in case of infection.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-02-11 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2015-12-27 - Sarah Wiseman (sw628), **Check 2**: 2016-02-11 - Charis Watkins (czrw2)
 
-**Check 1**: 2016-12-26 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2016-12-26 - Sarah Wiseman (sw628), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2018-02-07 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-16 - Amanda Buckingham (abb53@cam.ac.uk)
+**Check 1**: 2019-01-07 - Polly Hooton (prh43), **Check 2**: 2019-01-16 - Amanda Buckingham (abb53)
 
-**Check 1**: 2020-01-23 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2020-01-23 - Polly Hooton (prh43), **Check 2**: 2020-01-25 - Matt Worssam (mdw47)
 
-**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2021-01-19 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79), **Check 2**: 2021-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
+**Check 1**: 2023-02-05 - Chiara Delpiano Cordeiro (cd796), **Check 2**: 2023-02-10 - Amy Migunda (aom36)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-14 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-14 - Timothy Wong (chw55)
 
-**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-02-08 - Isaac Howell (ih393), **Check 2**: 2025-02-08 - Timothy Wong (chw55)
 
-**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796)
 
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ()
