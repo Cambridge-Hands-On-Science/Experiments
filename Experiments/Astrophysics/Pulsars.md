@@ -2,8 +2,7 @@
 
 An experiment to introduce children to pulsars, explain what they are and how they can be used as clocks and to find out about the interstellar medium. 
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 
-2025-12-01 by Maisie Howard (mah253@cam.ac.uk)
+Last initially checked on 2026-11-09 by Daniel Eaton (de354) and double-checked on  by  ()
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -88,23 +87,23 @@ Call a first aider in the event of an emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-01 - Grace Exley (gae23), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-02-02 - Lucy Hart (ljfh2), **Check 2**: 2020-02-03 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465)
 
-**Check 1**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-09 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2023-02-09 - John Leung (cfl35), **Check 2**: 2023-02-09 - Joshua Wu (jw2311)
 
-**Check 1**: 2023-12-23 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2023-12-23 - Lauren Mason (llm34), **Check 2**: 2024-01-06 - Lucy Bland (lb831)
 
-**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk)
+**Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-02-08 - Tara Doherty (ted37)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:2025-12-01 - Maisie Howard (mah243@cam.ac.uk)
+**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**:2025-12-01 - Maisie Howard (mah243)
 
 
 
