@@ -2,7 +2,7 @@
 
 **By carefully measuring the brightness and colour of distant stars, we can discover planets which could even host alien life!**
 
-Last initially checked on 2026-10-22 by Daniel Eaton (de354@cam.ac.uk) and double-checked on  by
+Last initially checked on 2026-11-09 by Daniel Eaton (de354) and double-checked on  by
 
 ## Tags 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -131,4 +131,4 @@ How do we find these planets? Compare the size of the Earth to the size of the S
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2026-10-22 - Daniel Eaton (de354@cam.ac.uk), **Check 2**:  -  ()
+**Check 1**: 2026-11-09 - Daniel Eaton (de354), **Check 2**:  -  ()
