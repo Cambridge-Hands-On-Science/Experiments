@@ -2,7 +2,7 @@
 
 **Turn syrup one way, then the other, and see that it gets back where it started.**
 
-Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 2026-11-09 by Daniel Eaton (de354)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,7 +117,7 @@ Call a first aider in the event of an emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti)
 
 **Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
@@ -147,4 +147,4 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**: 2026-01-12 - Evelyn Bassett (ejb228)
 
-**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: - Daniel Eaton (de354)
