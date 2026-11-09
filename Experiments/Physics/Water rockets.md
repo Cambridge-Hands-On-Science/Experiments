@@ -177,4 +177,4 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2025-11-29 - Daniel Eaton (de354), **Check 2**: 22026-01-12 - Jesse Luo (jl2491)
 
-
+**Check 1**: 2026-11-09 - Daniel Eaton (de354), **Check 2**: 
