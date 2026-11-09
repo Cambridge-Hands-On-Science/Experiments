@@ -2,7 +2,7 @@
 
 **Launching lemonade bottle water rockets with a foot pump.** - Try not to get wet as you fire water-powered rockets into the air. Who can shoot it the highest?
 
-Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Jesse Luo (jl2491@cam.ac.uk)
+Last initially checked on 2026-11-09 by Daniel Eaton (de354) and double-checked on by  ()
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -145,36 +145,36 @@ Call a first aider in the case of an injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net)
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee), **Check 2**: 2012-01-14 - Richard Ingham (richardingham)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795), **Check 2**: 2015-01-25 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-04 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-04 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55), **Check 2**: 2017-02-02 - Benjamin Akrill (bja32)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70), **Check 2**: 2018-02-04 - Benjamin Akrill (bja32)
 
-**Check 1**: 2019-02-03 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2019-02-03 - Conor Cafolla (ctc43), **Check 2**: 2019-02-05 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-10 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-02 - Lucy Hart (ljfh2@cam.ac.uk), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2021-01-02 - Lucy Hart (ljfh2), **Check 2**: 2021-01-03 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2021-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-07 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2021-01-07 - Polly Hooton (prh43), **Check 2**: 2021-01-07 - Lucy Hart (ljfh2)
 
-**Check 1**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-02-09 - Andrew Sellek (ads79), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-01-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2023-01-12 - Andrew Sellek (ads79), **Check 2**: 2023-02-18 - Peter Methley (pm631)
 
-**Check 1**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-02-04 - Lauren Mason (llm34), **Check 2**: 2024-02-15 - Timothy Wong (chw55)
 
-**Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-07 - Duncan Green (dg678@cam.ac.uk)
+**Check 1**: 2025-01-12 - Katie Ward (cw848), **Check 2**: 2025-02-07 - Duncan Green (dg678)
 
-**Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 22026-01-12 - Jesse Luo (jl2491@cam.ac.uk)
+**Check 1**: 2025-11-29 - Daniel Eaton (de354), **Check 2**: 22026-01-12 - Jesse Luo (jl2491)
 
 
