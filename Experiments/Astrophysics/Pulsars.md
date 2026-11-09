@@ -103,7 +103,7 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-02-08 - Tara Doherty (ted37)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**:2025-12-01 - Maisie Howard (mah243)
+**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**: 2025-12-01 - Maisie Howard (mah243)
 
-
+**Check 1**: 2026-11-09 - Daniel Eaton (de354), **Check 2**: 
 
