@@ -1,8 +1,8 @@
 # Build-A-Penguin
 
-** Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour. ** 
+**Dress up as a penguin to learn about adaptations to extreme environments. This experiment is sponsored by the Association for the Study of Animal Behaviour.** 
 
-Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by Jeremy Lee ([])
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on 2026-11-10 by Leah Helm (lkh53)
 
 ## Tags
 
@@ -159,4 +159,4 @@ penguinsinternational.org has lots more interesting information about penguins! 
 
 **Check 1**: 2025-12-30 – Timothy Wong (chw55), **Check 2**: 2026-01-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2026-11-08 – Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
+**Check 1**: 2026-11-08 – Charlotte Greensmith (cg865), **Check 2**: 2026-11-10 - Leah Helm (lkh53)
