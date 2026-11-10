@@ -2,7 +2,7 @@
 
 **This experiment aims to introduce kids to a wonderful model organism, the Drosophila fruit fly.** - You'll have seen some of these fruit flies before: these cool and beautiful little creatures have shown us how genes can be inherited (by following patterns of features like eye colours), and how genes work.
 
-Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2026-11-10 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -87,37 +87,37 @@ In the event of an incident, demonstrator must regain the petri dish/vial and di
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628)
 
-**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-01-07 - Chloe Hammond (cjh214@cam.ac.uk)
+**Check 1**: 2014-12-27 - Sarah Wiseman (sw628), **Check 2**: 2015-01-07 - Chloe Hammond (cjh214)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-01-05 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2015-12-28 - Natalie Cree (nc434), **Check 2**: 2016-01-05 - Sarah Wiseman (sw628)
 
-**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2017-01-13 - Alfred Chia (ac939), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2018-01-29 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-01-29 - Sarah Wiseman (sw628), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2021-01-22 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81), **Check 2**: 2021-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-18 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81), **Check 2**: 2023-01-18 - Chiara Delpiano Cordeiro (cd796)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 1**: 2025-11-23 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-08 - Lauren Xiong (lx295)
+**Check 1**: 2026-11-08 - Lauren Xiong (lx295), **Check 2**: 2026-11-10 - Leah Helm (lkh53)
 
 
 
