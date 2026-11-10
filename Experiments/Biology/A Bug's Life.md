@@ -2,7 +2,7 @@
 
 **All sorts of arthropods preserved in perspex blocks or jars.** - All sorts of arthropods preserved in perspex blocks or jars.
 
-Last initially checked on 2025-11-23 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on 2026-11-10 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -363,7 +363,8 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2024-12-23 - Smiley Chan (scc93), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-24, Leah Helm (lkh53) 
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-24, Leah Helm (lkh53)
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: 2026-11-08 - Leah Helm (lkh53)
+
 
