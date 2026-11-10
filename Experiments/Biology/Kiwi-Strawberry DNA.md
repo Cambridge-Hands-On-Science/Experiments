@@ -2,7 +2,7 @@
 
 **Breaking open cells of a fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked by
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -252,34 +252,37 @@ If child ingests small part of model, call first aider immediately.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628)
 
 **Check 1**: 2015-01-06 - Kym Neil (kym.e.neil@gmail.com), **Check 2**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-02 - Jiali Gao (jg732@cam.ac.uk)
+**Check 1**: 2015-12-28 - Natalie Cree (nc434), **Check 2**: 2016-02-02 - Jiali Gao (jg732)
 
-**Check 1**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2017-02-08 - Alfred Chia (ac939), **Check 2**: 2017-02-09 - Matt Worssam (mdw47)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628)
 
-**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-14 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-12 - Amanda Buckingham (abb53), **Check 2**: 2019-01-14 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-23 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2020-01-23 - Holly Smith (hs606), **Check 2**: 2020-01-25 - Matt Worssam (mdw47)
 
-**Check 1**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2021-01-19 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43)
 
-**Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-02-26 - Hayoung Choi (hc585), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-10 - Amy Migunda (aom36), **Check 2**: 2023-02-11 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-04 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-04 - Peter Methley (pm631), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2), **Check 2**: 2025-01-26 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 1**: 2025-11-23 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
+
+**Check 1**: 2026-11-10 - Leah Helm (lkh53) 
+
 
 
