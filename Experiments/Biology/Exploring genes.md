@@ -2,7 +2,8 @@
 
 **Props to explain DNA and molecular biology, including a plastic DNA gel!**
 
-Last initially checked on 2026-11-08 by Lauren Xiong (lx295@cam.ac.uk) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2026-11-10 by Leah Helm (lkh53) 
+
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -111,32 +112,33 @@ Call a first aider in the event of an injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-24 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628)
 
-**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)
+**Check 1**: 2014-12-27 - Sarah Wiseman (sw628), **Check 2**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net)
 
-**Check 1**: 2015-12-28 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-01-06 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2015-12-28 - Natalie Cree (nc434), **Check 2**: 2016-01-06 - Sarah Wiseman (sw628)
 
-**Check 1**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk)
+**Check 1**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2017-02-08 - Alfred Chia (ac939)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-08 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2018-02-08 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-14 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53), **Check 2**: 2019-01-14 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Bryony Yates (by250@cam.ac.uk)
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Bryony Yates (by250)
 
-**Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2020-12-28 - Bryony Yates (by250), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-18 - Peter Methley (pm631), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2024-12-23 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2024-12-23 - Smiley Chan (scc93), **Check 2**: 2025-01-20 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-11-23 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2)
 
-**Check 1** 2026-11-08 - Lauren Xiong (lx295@cam.ac.uk)
+**Check 1** 2026-11-08 - Lauren Xiong (lx295) **Check 2**: 2026-11-10 - Leah Helm (lkh53) 
+
