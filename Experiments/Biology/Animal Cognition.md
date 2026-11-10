@@ -2,7 +2,7 @@
 
 **A challenge to get people thinking about animal intelligence** - Intelligence tests for animals.
 
-Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on 2026-11-10 by Leah Helm (lkh53)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -166,4 +166,4 @@ Mop up any spilt water as soon as possible. Call first aider in the event of an 
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796)
 
-**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ()
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: 2026-11-10 - Leah Helm (lkh53)
