@@ -2,7 +2,7 @@
 
 **Show kids how disease dynamics, with a model of Citrus Canker spreading through a population of orange trees** - Exploring the concept of disease spread and biological modelling. 
 
-Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2026-11-10 by Leah Helm (lkh53) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -247,29 +247,30 @@ Call a first aider in the event of an emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
+**Check 1**: 2014-12-27 - Sarah Wiseman (sw628), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-04 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk)
+**Check 1**: 2016-01-04 - Sarah Wiseman (sw628), **Check 2**: 2016-01-07 - Natalie Cree (nc434)
 
-**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2017-02-12 - Joanna Tumelty (jt574@cam.ac.uk)
+**Check 1**: 2017-02-09 - Matt Worssam (mdw47), **Check 2**: 2017-02-12 - Joanna Tumelty (jt574)
 
-**Check 1**: 2017-12-04 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2017-12-04 - Sarah Wiseman (sw628), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2010-01-25 - Bryony Yates (by250@cam.ac.uk)
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47), **Check 2**: 2010-01-25 - Bryony Yates (by250)
 
-**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-22 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79), **Check 2**: 2021-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-14 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-01-18 - Jessica Trevelyan (jet81), **Check 2**: 2022-02-14 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2), **Check 2**: 2025-01-26 - Isobel Gilham (ig419)
 
-**Check 2**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 2**: 2025-11-23 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-08 - Lauren Xiong (lx295)
+**Check 1**: 2026-11-08 - Lauren Xiong (lx295), **Check 1**: 2026-11-10 - Leah Helm (lkh53) 
+
 
