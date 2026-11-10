@@ -2,7 +2,7 @@
 
 **See who is better at hearing high pitched sounds: kids or adults!** - See who is better at hearing high pitched sounds: kids or adults!
 
-Last initially checked on 2026-11-08 Lauren Xiong (lx295) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 Lauren Xiong (lx295) and double-checked on 2026-11-10 by Leah Helm (lkh53) 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -70,17 +70,17 @@ Sound waves are longitudinal waves which must propagate through a medium (mostly
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-18 - Polly Hooton (prh43), **Check 2**: 2021-01-19 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2023-02-10 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2023-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
+**Check 1**: 2025-02-08 - Smiley Chan (scc93), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-02-08 - Smiley Chan (scc93@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736) , **Check 2**: 2025-11-23 - Leah Helm (lkh53) 
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk) , **Check 2**: 2025-11-23 - Leah Helm (lkh53@cam.ac.uk) 
+**Check 1** 2026-11-08 - Lauren Xiong (lx295) , **Check 2**: 2026-11-10 - Leah Helm (lkh53) 
 
-**Check 1** 2026-11-08 - Lauren Xiong (lx295)
