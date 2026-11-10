@@ -2,7 +2,7 @@
 
 **Looking at a variety of small creatures that you can find in your garden** - Insects, worms, bugs and more: what lives in your garden? Get up close and personal and see for yourself!
 
-Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+Last initially checked on 2026-11-08 by Lauren Xiong (lx295) and double-checked on 2026-11-10 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -136,35 +136,35 @@ If bitten, reassure that there probably won't be a problem, pull out any visible
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-22 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-22 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2013-12-25 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-01-01 - Sarah Wiseman (sw628)
 
-**Check 1**: 2014-12-27 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
+**Check 1**: 2014-12-27 - Sarah Wiseman (sw628), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-05 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk)
+**Check 1**: 2016-01-05 - Sarah Wiseman (sw628), **Check 2**: 2016-01-07 - Natalie Cree (nc434)
 
-**Check 1**: 2017-01-13 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2017-01-13 - Alfred Chia (ac939), **Check 2**: 2017-02-06 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2018-01-29 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-01-29 - Sarah Wiseman (sw628), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-16 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-18 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-16 - Amanda Buckingham (abb53), **Check 2**: 2019-01-18 - Polly Hooton (prh43)
 
-**Check 1**: 2019-12-23 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2019-12-23 - Polly Hooton (prh43), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-07 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2021-01-07 - Samuel Amey (sra44), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2023-02-10 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Isaac Howell (ih393), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-11-24 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2026-11-08 - Lauren Xiong (lx295)
+**Check 1**: 2026-11-08 - Lauren Xiong (lx295), **Check 2**: 2026-11-10 - Leah Helm (lkh53)
 
