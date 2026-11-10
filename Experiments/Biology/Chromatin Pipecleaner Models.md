@@ -114,23 +114,23 @@ Call a first aider in the event of an accident.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-09-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-09-25 - Laura Wells (lbw28@cam.ac.uk)
+**Check 1**: 2018-09-25 - Matt Worssam (mdw47), **Check 2**: 2018-09-25 - Laura Wells (lbw28)
 
-**Check 1**: 2019-01-09 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Amanda Buckingham (abb53), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-25 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-22 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2021-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81), **Check 2**: 2021-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2023-02-15 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-24 - Leah Helm (lkh53@cam.ac.uk), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 1**: 2025-11-24 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
 **Check 1** 2026-11-08 - Lauren Xiong (lx295) , **Check 2**: 2026-11-10 - Leah Helm (lkh53)
 
