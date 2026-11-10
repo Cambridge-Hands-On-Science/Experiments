@@ -2,8 +2,7 @@
 
 **Investigate a sheep skeleton and see if you can reconstruct it** - Put together a sheep skeleton like a jigsaw puzzle! How is a sheep skeleton different to a human skeleton? How is it the same?
 
-Last initially checked on 2025-11-23 by Adam Carreyette (ac2736@cam.ac.uk) and double-checked on 2025-11-29 by Alice O'Hara (aeio3@cam.ac.uk)
-
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on
 ## Tags
 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -184,11 +183,13 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-19 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2023-02-19 - John Leung (cfl35), **Check 2**: 2023-02-19 - Peter Methley (pm631)
 
-**Check 1**: 2024-03-13- Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-03-13 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2024-03-13- Lauren Mason (llm34), **Check 2**: 2024-03-13 - John Leung (cfl35)
 
-**Check 1**: 2025-01-11- Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-13 - Smiley Chan (scc93@cam.ac.uk)
+**Check 1**: 2025-01-11- Margaret Johncock (mllyj2), **Check 2**: 2025-01-13 - Smiley Chan (scc93)
 
-**Check 1**: 2025-11-23 - Adam Carreyette (ac2736@cam.ac.uk), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3@cam.ac.uk)
+**Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3)
+
+**Check 1**: 2026-11-10 - Leah Helm (lkh53)
 <!-- (duplicate as necessary) -->
