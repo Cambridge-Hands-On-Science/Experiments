@@ -2,7 +2,7 @@
 
 **Showing one of the transport systems in plants.** - Combine food colouring with water transport in stem and flowers- you can then see where all the water goes!
 
-Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on 2025-11-29 by Alice O'Hara (aeio3@cam.ac.uk)
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double checked by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -92,7 +92,7 @@ At various points in the talk, you have the opportunity to bring in the microsco
 **Mitigation**: Warn demonstrator of risk, remove scalpel before public arrive.
 Call first aider in event of cut. If scalpel goes missing, assist demonstrator in finding it and inform committee.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 3 (low)
 
 <br/>
 
@@ -107,7 +107,7 @@ Call first aider in event of cut. If scalpel goes missing, assist demonstrator i
 **Mitigation**: Use food colourings easily available in supermarkets (non-toxic etc). Also source plants from consumer supplier. Advise the public not to touch.
 Call first aider if food colouring goes in eyes. Demonstrator can administer eye wash if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 2 (low)
 
 <br/>
 
@@ -143,35 +143,37 @@ In the event of spillage, ensure any electrical equipment within reasonable radi
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
+**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-02-02 - Raghd Rostom (rr415)
 
-**Check 1**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com), **Check 2**: 2015-01-24 - Chloe Hammond (cjh214@cam.ac.uk)
+**Check 1**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com), **Check 2**: 2015-01-24 - Chloe Hammond (cjh214)
 
-**Check 1**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-01 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2016-01-07 - Natalie Cree (nc434), **Check 2**: 2016-02-01 - Charis Watkins (czrw2)
 
-**Check 1**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2017-02-09 - Matt Worssam (mdw47), **Check 2**: 2017-02-12 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628)
 
-**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53@cam.ac.uk)
+**Check 1**: 2019-01-20 - Matt Worssam (mdw47), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53)
 
-**Check 1**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Bryony Yates (by250@cam.ac.uk)
+**Check 1**: 2020-01-25 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Bryony Yates (by250)
 
-**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2021-01-18 - Polly Hooton (prh43)
 
-**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-15 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-11 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-26 Isobel Gilham (ig419@cam.ac.uk) 
+**Check 1**: 2025-01-11 - Margaret Johncock (mllyj2), **Check 2**: 2025-01-26 Isobel Gilham (ig419) 
 
-**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk), **Check 2**: 2026-11-29 - Alice O'Hara (aeio3@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2026-11-29 - Alice O'Hara (aeio3)
+
+**Check 1** : 2026-11-10 - Leah Helm (lkh53), 
 
 
 
