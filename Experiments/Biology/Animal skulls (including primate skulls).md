@@ -293,4 +293,4 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736), 2025-11-23 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2026-11-8 - Aiden Blay (agb85), **Check 2**: 2026-11-08 - Leah Helm (lkh53)
+**Check 1**: 2026-11-08 - Aiden Blay (agb85), **Check 2**: 2026-11-10 - Leah Helm (lkh53)
