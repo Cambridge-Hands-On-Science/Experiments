@@ -2,7 +2,7 @@
 
 **Examining a variety of objects under a microscope, including a variety of slides** - All sorts of things can be viewed down a microscope! This might include the biology lesson classic of an onion skin, the shapes of salt and sugar crystals, the eye of the insect you found in your tent, a drop of puddle water... 
 
-Last initially checked on 2026-11-8 - Aiden Blay (agb85@cam.ac.uk) and double-checked on 2025-11-26 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-8 - Aiden Blay (agb85) and double-checked on 2026-11-11 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -244,34 +244,34 @@ In case of accident, call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
+**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-02-02 - Raghd Rostom (rr415)
 
 **Check 1**: 2015-01-05 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-08 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2015-12-30 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-11 - Craig Burns (cpb57@cam.ac.uk)
+**Check 1**: 2015-12-30 - Natalie Cree (nc434), **Check 2**: 2016-02-11 - Craig Burns (cpb57)
 
-**Check 1**: 2017-01-11 - Roxanne Armfield (rea41@cam.ac.uk), **Check 2**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk)
+**Check 1**: 2017-01-11 - Roxanne Armfield (rea41), **Check 2**: 2017-02-08 - Alfred Chia (ac939)
 
-**Check 1**: 2018-01-08 - Gemma Shaw (gcs33@cam.ac.uk), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2018-01-08 - Gemma Shaw (gcs33), **Check 2**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2019-01-12 - Amanda Buckingham (abb53@cam.ac.uk), **Check 2**: 2019-01-14 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-12 - Amanda Buckingham (abb53), **Check 2**: 2019-01-14 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Bryony Yates (by250@cam.ac.uk)
+**Check 1**: 2020-01-25 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Bryony Yates (by250)
 
-**Check 1**: 2020-12-28 - Bryony Yates (by250@cam.ac.uk), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2020-12-28 - Bryony Yates (by250), **Check 2**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-02-09 - Jessica Trevelyan (jet81), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2023-02-10 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58)
 
-**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - John Leung (cfl35), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-02-08 - Isaac Howell (ih393@cam.ac.uk), **Check 2**: 2025-02-08 - Charis Pang (sycp2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Isaac Howell (ih393), **Check 2**: 2025-02-08 - Charis Pang (sycp2)
 
-**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk) , **Check 2**: 2025-11-26 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25) , **Check 2**: 2025-11-26 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-8 - Aiden Blay (agb85@cam.ac.uk)
+**Check 1**: 2026-11-8 - Aiden Blay (agb85) , **Check 2**: 2026-11-11 - Leah Helm (lkh53)
