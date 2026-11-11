@@ -2,7 +2,7 @@
 
 **Perpex blocks with specimens of frogs and bees from different lifecycle stages.** - Ever wondered what happened to a creature between it being an egg and an adult? Look at our life cycles collection for Bees and Frogs and see for yourself!
 
-Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on [] by [] ([])
+Last initially checked on 2026-11-08 by Charlotte Greensmith (cg865) and double-checked on 2026-11-11 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -226,4 +226,4 @@ In case of a child (or adult) tripping over, call first aider.
 
 **Check 1**: 2025-11-24 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: [] - [] ([])
+**Check 1**: 2026-11-08 - Charlotte Greensmith (cg865), **Check 2**: 2026-11-11 by Leah Helm (lkh53)
