@@ -8,7 +8,7 @@ Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on
 
 **Active** (A standard CHaOS experiment, useable for all hands-on events.)
 
-**Repairs needed** 
+**Repairs needed (RA is outdated, needs to be updated to what's in the box)** 
 
 **Medicine**
 <!--- End Tags (DO NOT REMOVE THIS COMMENT) --->
