@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2025-11-29 by Charlie Owen (co458@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-11 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -141,10 +141,12 @@ There's also supply and demand which will factor in.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2023-06-22 - Tom Webster (tw432@cantab.ac.uk), **Check 2**: 2023-07-02 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2023-06-22 - Tom Webster (tw432), **Check 2**: 2023-07-02 - Timothy Wong (chw55)
 
-**Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2024-03-15 - Peter Methley (pm631), **Check 2**: 2024-03-15 - Lauren Mason (llm34)
 
-**Check 1**: 2025-01-26 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-01-26 - Isobel Gilham (ig419), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-29 - Charlie Owen (co458@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Owen (co458), **Check 2**: 2025-12-30 - Timothy Wong (chw55)
+
+**Check 1**: 2026-11-11 - Leah Helm (lkh53)
