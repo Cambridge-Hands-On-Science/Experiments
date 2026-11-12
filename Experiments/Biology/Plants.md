@@ -2,7 +2,7 @@
 
 **Plants - looking at germination, their structure and how they produce energy by photosynthesis** - nan
 
-Last initially checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk) and double-checked on 2025-11-29 by Charlotte Greensmith (cg865@cam.ac.uk)
+Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-checked on
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -150,34 +150,36 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-17 - Michael Darling (md510@cam.ac.uk), **Check 2**: 2012-01-24 - Alex Davies (ad578@cam.ac.uk)
+**Check 1**: 2012-01-17 - Michael Darling (md510), **Check 2**: 2012-01-24 - Alex Davies (ad578)
 
-**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23@cam.ac.uk), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2012-12-28 - Beatrice Tyrrell (bet23), **Check 2**: 2012-12-30 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2014-02-02 - Raghd Rostom (rr415@cam.ac.uk)
+**Check 1**: 2013-12-26 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2014-02-02 - Raghd Rostom (rr415)
 
 **Check 1**: 2015-01-11 - Arporn Wangwiwatsin (Koi) (aw584@cantab.net), **Check 2**: 2015-01-23 - Kym Neil (kym.e.neil@gmail.com)
 
-**Check 1**: 2016-01-07 - Natalie Cree (nc434@cam.ac.uk), **Check 2**: 2016-02-03 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2016-01-07 - Natalie Cree (nc434), **Check 2**: 2016-02-03 - Sarah Wiseman (sw628)
 
-**Check 1**: 2017-02-08 - Alfred Chia (ac939@cam.ac.uk), **Check 2**: 2017-02-09 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2017-02-08 - Alfred Chia (ac939), **Check 2**: 2017-02-09 - Matt Worssam (mdw47)
 
-**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628@cam.ac.uk)
+**Check 1**: 2018-02-02 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2018-02-07 - Sarah Wiseman (sw628)
 
-**Check 1**: 2019-01-20 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53@cam.ac.uk)
+**Check 1**: 2019-01-20 - Matt Worssam (mdw47), **Check 2**: 2019-01-21 - Amanda Buckingham (abb53)
 
-**Check 1**: 2020-01-08 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-08 - Matt Worssam (mdw47), **Check 2**: 2020-01-25 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-12 - Richard "Miffles" Mifsud (rwm41), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-02-15 - Amy Migunda (aom36@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-15 - Amy Migunda (aom36), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-13 - Smiley Chan (scc93@cam.ac.uk)
+**Check 1**: 2025-01-12 - Margaret Johncock (mllyj2), **Check 2**: 2025-01-13 - Smiley Chan (scc93)
 
-**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2@cam.ac.uk, **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
+
+**Check 1**:2026-11-11 - Leah Helm (lkh53)
 
 
