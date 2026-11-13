@@ -2,7 +2,7 @@
 
 **Learn about codes and ciphers** - Learn about codes and ciphers through a selection of demonstrations of different methods using whiteboards and padlocks. 
 
-Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-13 by Jesse Luo (jl2491) and double-checked on xx by xx (xx)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -32,7 +32,7 @@ Paper Telephones and Envelopes
 - Third paper cup on a string
 - Some envelopes
 
-Ceaser Shifts
+Caesar Shifts
 - X Whiteboards and pens
 - Laminated alphabet wheels
 
@@ -40,13 +40,13 @@ Scytale
 - Wrap around code strips (if more needed-excel spreadsheet on Github-under images in CompSci folder)
 - Sections of pipe insulation
 
-Asymetric Encryption (PLUS)
+Asymmetric Encryption (PLUS)
 - X Two padlocks with keys
 - X Box with two padlock holes
 
 Public key encryption (PLUS)
 - X 2 Padlocks with key (which needs a key to lock)
--  X Padlock with key (which locks WITHOUT a key)
+- X Padlock with key (which locks WITHOUT a key)
 - X Box with at least one padlock hole
 
 Diffie-Helmann
@@ -70,7 +70,7 @@ The main thing you'll get confused about is this technicality
 
 Code - converts whole words
 
-Cipher - acts letter by letter
+Cipher - converts letter by letter
 
 This means lots of things we call codes are ciphers! 
 
@@ -105,11 +105,11 @@ Some ideas for discussion: Seal envelopes to make it harder to open and close. S
 #### Caesar Shifts
 These are named after Julius Caesar even though they've existed long before him. They work by rotating the alphabet by a certain amount and replacing letters like this. The code wheels are very useful to do this, they can do both the encryption and decryption. This code is really easy to break, as there are only 26 options for the code, so we just have to try a few. You can even get people to try this. Just by trying a few letters you can decide to move on and try the next rotation, e.g. it's very unlikely the message starts 'zm'.
 
-This encryption sees only one common use, since it's so insecure it's mainly used for spoilers (security vunerability on CPU). 
+This encryption sees only one common use, since it's so insecure it's mainly used for spoilers (security vulnerability on CPU). 
 
 Spoilers commonly use a form called ROT13 which rotates 13 places, try it and try encrypting something twice! You'll find it's self inverting which saves on code. I.e. you decode the message by doing the same thing as encoding it!
 
-In a generic caesar shift, for someone else to decrypt it they just need to know the number you've rotated by. 
+In a generic Caesar shift, for someone else to decrypt it they just need to know the number you've rotated by. 
 Because it's so simple, one way to add complexity is by also agreeing a word, write this under the start of the alphabet and then write out the remaining letters of the alphabet which haven't been used in the word in order. This makes it harder for someone to decode your message, as there are many more options for the encryption - they need to guess your word.
 
 Can we still break this code? Yes, quite easily, write a long message in English, count up how many times each letter appears, are they all equal? Which letters appear most often? If we find these in a long coded message we can see which letter is most common and try and match them up. E, T, A and O are the most common, while Z, Q and X are rarest. We can also do this looking at pairs and find TH, ER, ON, and AN are the most common pairs of letters (termed bigrams or digraphs), and SS, EE, TT, and FF are the most common repeated letters.
@@ -208,9 +208,9 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 <br/>
 
-### **Hazard**: Stick Flags
+### **Hazard**: Stick Flags / Pipe Insulation
 
-**Description**: Someone could be poked or hit by the sticks in the semaphore flags
+**Description**: Someone could be poked or hit by the sticks in the semaphore flags / pipe insulation
 
 **Affected People**: All
 
@@ -238,7 +238,7 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 ### **Hazard**: PLUS - Padlocks
 
-**Description**: Fingers caught in padlock. Persons could accidentally become padlocked together
+**Description**: Fingers caught in padlock. People could accidentally become padlocked together
 
 **Affected People**: All
 
@@ -281,6 +281,8 @@ Diffie-Helmann
 **Check 1**: 2025-01-27 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-13 - Jesse Luo (jl2491), **Check 2**: 
 
 
 
