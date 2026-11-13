@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2025-11-23 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk). 
+Last initially checked on 2026-11-13 by Celso Laque (Cel66) and double-checked on yyyy-mm-dd by Name (Crsid). 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -24,7 +24,7 @@ Last initially checked on 2025-11-23 by Henry Warburton (hw653@cam.ac.uk) and do
 <br/>
 
 ## Experiment Overview 
-Polydron kits are a great way to build up 3D shapes. They should easily and intuitively clip together. The goal of this experiment is to build 3D shapes and talk about them mathematically.
+Polyhedron kits are a great way to build up 3D shapes. They _should_ easily and intuitively clip together (chidren often need the mechanism demonstrated once or twice). The goal of this experiment is to build 3D shapes and talk about them mathematically.
 
 The basic key concepts for all ages should be that of faces, vertices and edges. Hopefully, they'll be able to name many of the 2D faces and some of the 3D shapes at the end too.
 
@@ -39,7 +39,7 @@ These are two ideas of a story to use when demonstrating this, one targeted at y
 ### Younger Story (by Lake)
 With younger groups, you will likely find it harder to motivate the definitions of ``Platonic'' and ``Archimedean'' since they are quite abstract. However many younger children will be happy building away and there's an opportunity to sneak in facts relating to what they're doing.
 
-You may find that young children get attached to the shapes they make. One way to deal with this is to have a special area to ``save shapes''. You may want to actually save any shapes that are interesting to talk about however unfortunately we don't have enough pieces to keep Barry's giant rocket that uses nearly every pentagon. It's worth emphasising we need to keep the pieces and it'll get broken down eventually, they need to leave the shape at some point and it's time for other people to have a go. It's also an experiment children can easily get absorbed in doing none maths things, don't be afraid to tell them to see something else or that someone else wants a go.
+You may find that young children get attached to the shapes they make. One way to deal with this is to have a special area to ``save shapes''. You may want to actually save any shapes that are interesting to talk about however unfortunately we don't have enough pieces to keep Barry's giant rocket that uses nearly every pentagon. It's worth emphasising we need to keep the pieces and it'll get broken down eventually, they need to leave the shape at some point and it's time for other people to have a go. It's also an experiment children can easily get absorbed in doing no maths things, don't be afraid to tell them to see something else or that someone else wants a go.
 
 **Pre-built Platonic Solids** - If you have an example of each of the 5 built ask them to compare it to what they've built. What's different about them? What might the shapes be useful for? (dice) Would their shapes make good dice? 
 
@@ -49,9 +49,9 @@ You may find that young children get attached to the shapes they make. One way t
 
 **Filling 3D Space** - The cube is the only regular solid that tesselates 3D space.
 
-**Prisms and Antiprisms** - These are cool to mention and build. You can then link to the fact that you can chop an icosahedron into a pentagonal anti-prism and two pentagonal pyramids, leading to its other name a ``gyroelongated pentagonal bipyramid''.  
+**Prisms and Antiprisms** - These are cool to mention and build. You can then link to the fact that you can chop an icosahedron into a pentagonal anti-prism and two pentagonal pyramids, leading to its other name a ``gyroelongated pentagonal bipyramid''. Kids may want to build an icosahedron because it looks impressive- by splitting it into a pentagonal anti-prism and to pentagonal pyramids several children can work together and combine their pieces at the end for a sense of achievement. 
 
-### Older Children Script (by Tom)
+### Older Children Script (by Tom) (according to Celso the proof is fun to do with younger kids as well)
 For older children, I like to focus on the ``about maths'' aspect. To do this I usually start by showing a cube. I ask what they think is special about a cube, and what properties we might see as nice or interesting. You can then start guiding them to the definition of Archimedean. Adding in a tetrahedron usually gets the key properties so you can write down the definition. I usually mention here these shapes make good dice and other properties that make them useful.
 
 For mathematicians, once we've got a definition there are a few natural questions. First off is usually ``How many shapes satisfy this property?''. So take some guesses. They've seen at least 2 shapes so can guess anywhere between 2 and infinity. Once guesses are in, ask how they might find out if they are correct. You can do some building to show there are at least 5.
@@ -66,7 +66,7 @@ Following the how maths works theme I usually then talk about relaxing the defin
 
 It's worth asking again how many shapes like this there are. Produce a few new examples to show there are definitely new ones. It turns out the answer is infinite. We can show this nicely by producing an infinite family, the prisms. If students look harder they may also find the anti-prisms. Mathematicians like to keep asking how many, and the next question here is how many are there which aren't prisms or antiprisms? 
 
-From here you can talk about truncation and how that affects symmetries. Chirality and what actually counts as different shapes or ask the question in higher dimensions or other generalisations. 
+From here you can talk about truncation and how that affects symmetries. Chirality (build two snub cubes and ask if they are exactly the same)  and what actually counts as different shapes or ask the question in higher dimensions or other generalisations. 
 
 ## Other Topics
 These are an assortment of topics. This experiment is quite open-ended and you will likely want to vary what you do for different ages. The topics below are mentioned in some of the above-suggested scripts.
@@ -130,7 +130,7 @@ The platonic solids have been historically important, with Greek philosophers be
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: Keep the experiment attended at all times. Do not give small plastic parts to very young children (or let them take them).
+**Mitigation**: Keep the experiment attended at all times. Do not give small plastic parts to very young children (or let them take them). Do not have too many kids building separately at once. 
 
 Call first aider if child swallows, if choking encourage child to cough.
 
@@ -188,6 +188,7 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-23 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
+**check 1**: 2026-11-13 - Celso Laque (cel66), **Check 2**: yyyy-mm-dd - Name (crsid)
 
 
 
