@@ -2,7 +2,7 @@
 
 **A counting game with a winning strategy**
 
-Last initially checked on 2026-11-08 by Jessica Trevelyan (jet81) and double-checked on yyyy-mm-dd by Name (crsid)
+Last initially checked on 2026-11-08 by Jessica Trevelyan (jet81) and double-checked on 2026-11-13 by Celso Laque (cel66)
 
 **Frequency of use:** n
 
@@ -60,6 +60,6 @@ Play a few rounds with the child(ren) until they are suitably frustrated and wan
 
 ## Risk Assessment Check History
 
-**Check 1**: 2026-11-08 - Jessica Trevelyan (jet81), **Check 2**: yyyy-mm-dd - Name (crsid)
+**Check 1**: 2026-11-08 - Jessica Trevelyan (jet81), **Check 2**: 2026-11-13 - Celso Laque (Cel66)
 
 <!-- (duplicate as necessary) -->
