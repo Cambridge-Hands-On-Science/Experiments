@@ -2,7 +2,7 @@
 
 **Make a rainbow in a glass** - Explore the density of different sugary syrups and make a rainbow in the process.
 
-Last initially checked on 2026-11-08 by Daya Shergill (dks37) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Daya Shergill (dks37) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -90,12 +90,12 @@ Try to avoid using gel food coloring. It is difficult to mix the gels into the s
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Pour solutions carefully so as to minimise splashing.
 Call first aider in event of incident. Use eyewash to wash out of eyes if trained and confident to do so.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -106,13 +106,13 @@ Children may try to drink water/oil or eat the sugar.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Watch children carefully, don’t allow them to do experiment unsupervised. 
 Explain to children that they must not eat/drink anything used in any experiment.
 Call first aider in event of ingestion.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -122,12 +122,12 @@ Call first aider in event of ingestion.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
 **Mitigation**: Watch small children, and don't let them handle the ice.  Do not let children do the experiment unsupervised.
 Call first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
 <br/>
 
@@ -137,12 +137,12 @@ Call first aider in the event of an emergency.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep solutions in secure locations. Mop up any spillages immediately. Use wet floor sign if necessary.
 Call first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (low)
 
 <br/>
 
@@ -152,43 +152,43 @@ Call first aider in the event of an emergency.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Keep glasses away from the edge the table. Do not allow the children to play with the glass. 
 If possible, use clear plastic beakers instead of glass.
 Call first aider in the event of an emergency.
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-02-13 - Joseph Hooton (jh795)
 
-**Check 1**: 2015-12-27 - Charis Watkins (czrw2@cam.ac.uk), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43@cam.ac.uk)
+**Check 1**: 2015-12-27 - Charis Watkins (czrw2), **Check 2**: 2016-01-09 - Haydn James Lloyd (hjl43)
 
-**Check 1**: 2016-02-06 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2016-02-06 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2016-02-06 - Tim Morgan Boyd (tmb58), **Check 2**: 2016-02-06 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-07 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43), **Check 2**: 2016-01-07 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2018-01-17 - Georgia Harris (grh37), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43), **Check 2**: 2019-02-05 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2)
 
-**Check 1**: 2021-01-12 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2021-01-17 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-12 - Matt Worssam (mdw47), **Check 2**: 2021-01-17 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43), **Check 2**: 2022-01-31 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-08 - Johan Kidger (jpk51@cam.ac.uk)
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2), **Check 2**: 2023-02-08 - Johan Kidger (jpk51)
 
-**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2024-02-01 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - John Leung (cfl35)
 
-**Check 1**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk)
+**Check 1**: 2024-12-21 - Andrew Marriott (asm206), **Check 2**: 2025-01-12 - Katie Ward (cw848)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206), **Check 2**: 2026-01-11 - Henry Warburton (hw653)
 
-**Check 1**: 2026-11-08 - Daya Shergill (dks37)
+**Check 1**: 2026-11-08 - Daya Shergill (dks37), **Check 2**: 2026-11-13 - Henry Warburton (hw653)
 

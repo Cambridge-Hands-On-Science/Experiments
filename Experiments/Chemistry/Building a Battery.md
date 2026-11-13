@@ -2,7 +2,7 @@
 
 **Build batteries from fruit and coins** - How does electricity work? Find out by building your own battery!
 
-Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on YYYY-MM-DD by 
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -192,12 +192,12 @@ In case of accident, wash the affected area with clean water.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2023-11-18 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-11-18 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2023-11-18 - Jessica Trevelyan (jet81), **Check 2**: 2023-11-18 - Timothy Wong (chw55)
 
-**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
+**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81), **Check 2**: 2024-01-11 - Andrew Marriott (asm206)
 
-**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-16 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206), **Check 2**: 2024-12-16 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-11-27 - Siena Ootes (sjo57@cam.ac.uk), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-11-27 - Siena Ootes (sjo57), **Check 2**: 2025-12-21 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

@@ -2,7 +2,7 @@
 
 **Building molecular models** - Explore some elements and different types of bond and explore ways carbon can bond to form different allotropes. 
 
-Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on ---- by ----
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -86,34 +86,34 @@ Call first aider if required.
 **Mitigation**: Warn visitors if you give them a magnet. Use the minimum number of free magnets. Keep the magnets under control. Cover with tape to reduce impact, and contain any shards.
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 3 (Low)
+**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-02-13 - Joseph Hooton (jh795)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-06 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2017-02-06 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2017-02-06 - Andrew Sellek (ads79)
 
-**Check 1**: 2018-01-01 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2018-01-01 - Georgia Harris (grh37), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-02-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-02-02 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2019-02-02 - Grace Exley (gae23), **Check 2**: 2019-02-02 - Conor Cafolla (ctc43)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-17 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-12-26 - Thomas Webster (tw432), **Check 2**: 2020-01-17 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-23 - Emma Crickmore (elc75@cam.ac.uk)
+**Check 1**: 2022-01-23 - Jessica Trevelyan (jet81), **Check 2**: 2022-01-23 - Emma Crickmore (elc75)
 
-**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2023-02-08 - Johan Kidger (jpk51@cam.ac.uk)
+**Check 1**: 2023-02-06 - Margaret Johncock (mllyj2), **Check 2**: 2023-02-08 - Johan Kidger (jpk51)
 
-**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
+**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81), **Check 2**: 2024-01-11 - Andrew Marriott (asm206)
 
-**Check 1**: 2024-12-16 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-12-16 - Andrew Marriott (asm206), **Check 2**: 2024-12-19 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-11-23 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2024-11-29 - Siena Ootes (sjo57@cam.ac.uk)
+**Check 1**: 2025-11-23 - Tara Doherty (ted37), **Check 2**: 2024-11-29 - Siena Ootes (sjo57)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

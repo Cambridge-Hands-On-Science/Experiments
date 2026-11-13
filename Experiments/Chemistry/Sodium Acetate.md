@@ -2,7 +2,7 @@
 
 **Rapid crystal growth from sodium acetate.** - Find out about how handwarmers work, and see solid crystals form in seconds right in front of your eyes. 
 
-Last initially checked on 2026-11-08 by Jessica Trevelyan (jet81) and double-checked on ???
+Last initially checked on 2026-11-08 by Jessica Trevelyan (jet81) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 Tags
 
@@ -198,4 +198,4 @@ Call a first aider if there’s an accident.
 
 **Check 1**: 2025-11-30 - Clement Hui (smh213), **Check 2**: 2025-12-31 - Timothy Wong (chw55)
 
-**Check 1**: 2026-11-08 - Jessica Trevelyan (jet81)
+**Check 1**: 2026-11-08 - Jessica Trevelyan (jet81), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

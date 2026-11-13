@@ -2,7 +2,7 @@
 
 **Players follow playing cards around a circle and watch as they magically come together** - Players follow playing cards around a circle and watch as they magically come together
 
-Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -149,36 +149,36 @@ Call first aider in case of injury.
 **Mitigation**: Discourage people from actually stepping on the cards.
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 2 (Low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-01-20 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-27 - Nunu Tao (nmt26@cam.ac.uk)
+**Check 1**: 2014-01-20 - Zephyr Penoyre (jp576), **Check 2**: 2014-01-27 - Nunu Tao (nmt26)
 
-**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2015-01-07 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-01-31 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2015-12-31 - Joanna Tumelty (jt574@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-12-31 - Joanna Tumelty (jt574), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2016-12-09 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk)
+**Check 1**: 2016-12-09 - Thomas Webster (tw432), **Check 2**: 2017-02-06 - Mithuna Yoganathan (my332)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2018-01-02 - Thomas Webster (tw432), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-30 - Jean Pichon (jp622@cam.ac.uk)
+**Check 1**: 2019-01-01 - Thomas Webster (tw432), **Check 2**: 2019-01-30 - Jean Pichon (jp622)
 
-**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
+**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54), **Check 2**: 2020-01-16 - Jean Pichon (jp622)
 
-**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Emma Crickmore (elc75@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Emma Crickmore (elc75)
 
-**Check 1**: 2023-02-12 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-14 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-12 - Emma Crickmore (elc75), **Check 2**: 2023-02-14 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-15 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Lauren Mason (llm34), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-17 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-17 - Asmita Niyogi (an637), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228)
 
-**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54@cam.ac.uk), 
+**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

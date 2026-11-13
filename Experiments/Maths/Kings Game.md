@@ -2,7 +2,7 @@
 
 **A Game you're guaranteed to win** - Make a tour of a chess board without getting stuck.
 
-Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
+Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -83,6 +83,6 @@ In fact, you can actually map out how you will respond to what your opponent doe
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257), **Check 2**: 2025-11-29 - Evelyn Bassett (ejb228)
 
-**Check 1**: 2026-11-08 - Ben Laking (bl578)
+**Check 1**: 2026-11-08 - Ben Laking (bl578), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

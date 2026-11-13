@@ -2,7 +2,7 @@
 
 **Demonstrating the power of a carbon dioxide fire extinguisher.** - What does a fire need to burn, and how can we put it out? Find out how we can put out a candle with a cupful of gas!
 
-Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on --- by -----
+Last initially checked on 2026-11-08 by Sarah Ng (scn37) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -73,7 +73,7 @@ Other types of fire extinguishers are powder or foam which work by smothering th
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: Use a tealight rather than a more standard candle: short, stable candle contained within metal holder. Make sure tealight is on a ceramic plate or something that will not burn.  Also make sure it's not in a location where it is under or can be accidentally knocked onto something flammable (e.g. knocking it from a table to the carpet).
 
@@ -83,7 +83,7 @@ Keep tight control of matches. Ensure no flammable materials are near the lighte
 
 In case of fire follow local procedure (see venue RA).
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -93,13 +93,13 @@ In case of fire follow local procedure (see venue RA).
 
 **Affected People**: Demonstrator mainly - Kids shouldn't be holding the candle / matches.
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6
+**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 **Mitigation**: Put the candle in a good place to run the whole experiment before lighting it, then do not touch the candle once it's been lit. Don't let kids get hold of candle/matches. Don’t leave the tealight lit for extended periods. 
 
 Call first aider in event of injury. Run burns under cold water for at least 10 minutes.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -109,7 +109,7 @@ Call first aider in event of injury. Run burns under cold water for at least 10 
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Ensure children have no exposed cuts before starting the demonstration. Minimal contact with vinegar anyway. Use a small amount of reactants to avoid bubbles spilling out.
 
@@ -117,40 +117,40 @@ Don't let kids lean in too close to vinegar + bicarb reaction (to avoid possibil
 
 If vinegar gets in eyes, we have eyewash in the first aid box (and there should be some in the Mini Explosions box). The demonstrator must know where the eyewash is located and allow a trained first aider to perform eyewash.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-21 - Catherine Collett (chc47@cam.ac.uk)
+**Check 1**: 2011-12-22 - Hannah Ford (hf257), **Check 2**: 2012-01-21 - Catherine Collett (chc47)
 
-**Check 1**: 2012-12-12 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk)
+**Check 1**: 2012-12-12 - Nunu Tao (nmt26), **Check 2**: 2012-12-16 - Rachel Chapman (rc506)
 
-**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
+**Check 1**: 2014-01-23 - Peter Maynes (peter.maynes@cantab.net), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795), **Check 2**: 2014-12-31 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2015-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43), **Check 2**: 2015-01-09 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net), **Check 2**: 2016-01-09 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2018-01-17 - Georgia Harris (grh37), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-04 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43), **Check 2**: 2019-02-04 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-18 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-18 - Conor Cafolla (ctc43), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
-**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-01-25 - Jessica Trevelyan (jet81), **Check 2**: 2022-01-29 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-15 - Peter Methley (pm631), **Check 2**: 2023-01-16 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-11 - Andrew Marriott (asm206@cam.ac.uk)
+**Check 1**: 2024-01-01 - Jessica Trevelyan (jet81), **Check 2**: 2024-01-11 - Andrew Marriott (asm206)
 
-**Check 1**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-12-19 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-12-19 - Andrew Marriott (asm206), **Check 2**: 2024-12-19 - Asmita Niyogi (an637)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206), **Check 2**: 2026-01-11 - Henry Warburton (hw653)
 
-**Check 1**: 2026-11-08 - Sarah Ng (scn37)
+**Check 1**: 2026-11-08 - Sarah Ng (scn37), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

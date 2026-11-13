@@ -2,7 +2,7 @@
 
 **Explore the five platonic solids and other 3D shapes.** - Making 3D shapes out of 2D ones. Look at how angles combine to tessellate and then form 3D corners. 
 
-Last initially checked on 2026-11-13 by Celso Laque (Cel66) and double-checked on yyyy-mm-dd by Name (Crsid). 
+Last initially checked on 2026-11-13 by Celso Laque (Cel66) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -138,7 +138,7 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 <br/>
 
-## **Hazard**: Polydron pieces
+### **Hazard**: Polydron pieces
 
 **Description**: Fingers could get caught in them.
 
@@ -150,7 +150,7 @@ Call first aider if child swallows, if choking encourage child to cough.
 
 Call first aider in case of injury.
 
-**After Miigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (low)
 
 <br/>
 
@@ -172,23 +172,23 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2019-01-01 - Thomas Webster (tw432), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43)
 
-**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-16 - Jean Pichon (jp622), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2020-12-28 - Esmae Jemima Woods (ejw89), **Check 2**: 2021-01-22 - Conor Cafolla (ctc43)
 
-**Check 1**: 2022-02-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-02-05 - Andrew Sellek (ads79), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-02-12 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-02-18 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2023-02-12 - Andrew Sellek (ads79), **Check 2**: 2023-02-18 - Peter Methley (pm631)
 
-**Check 1**: 2024-02-15 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
+**Check 1**: 2024-02-15 - John Leung (cfl35), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69)
 
-**Check 1**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk), **Check 2**: 2025-02-02 - Tara Doherty (ted37@cam.ac.uk)
+**Check 1**: 2025-01-12 - Katie Ward (cw848), **Check 2**: 2025-02-02 - Tara Doherty (ted37)
 
-**Check 1**: 2025-11-23 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-11-23 - Henry Warburton (hw653), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81)
 
-**check 1**: 2026-11-13 - Celso Laque (cel66), **Check 2**: yyyy-mm-dd - Name (crsid)
+**Check 1**: 2026-11-13 - Celso Laque (cel66), **Check 2**: 2026-11-13 - Henry Warburton (hw653)
 
 
 

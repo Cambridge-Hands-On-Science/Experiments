@@ -2,7 +2,7 @@
 
 **Make invisible ink with vitamin C solution and iodine** - Explain the use of iodine as an indicator using potatoes, paper and vitamin C solution! Potato game's chemist cousin. 
 
-Last initially checked on 2026-11-08 by Millie Medwell (mem203@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Millie Medwell (mem203) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -102,11 +102,11 @@ Likelihood and severity scores are out of five and overall score is out of twent
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (high)
+**Before Mitigation**: Likelihood: 4, Severity: 4, Overall: 16 (unacceptable)
 
 **Mitigation**: See COSHH assessment below. Iodine must only be used at low concentrations (0.01M), which makes it not very harmful, but it can stain skin. Explain to the participants that iodine is harmful and they should not touch anything except what they are directed to touch (paintbrushes with vitamin C, dry paper). Demonstrator to wear gloves. No one but the demonstrator should touch the paper until it is dried. Great care should be taken to not flick the paintbrush when removing it from the bottle. If iodine gets on the skin, wash immediately with plenty of water. If it gets in the eyes it should be washed out by a parent/first aider with plenty of water. If swallowed, the person should drink water (at most two glasses) and be advised to see a doctor if they feel unwell. In case of spills, evacuate area and wipe up immediately. Iodine cannot be poured down the sink and must be taken to a chemistry lab for disposal.
 
-**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (moderate)
+**After Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **COSHH**
 
@@ -130,11 +130,11 @@ Likelihood and severity scores are out of five and overall score is out of twent
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (moderate)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Demonstrator to ensure glassware remains on the table and away from the edges. If glassware breaks, the area should be closed until it is cleared away. 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (moderate)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
  
@@ -144,11 +144,11 @@ Likelihood and severity scores are out of five and overall score is out of twent
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (moderate)
+**Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
 **Mitigation**: Keep the retort stands away from the edges of the table. Demonstrator to ensure children don't knock the retort stands. 
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (moderate)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -158,11 +158,11 @@ Likelihood and severity scores are out of five and overall score is out of twent
 
 **Affected people**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (moderate)
+**Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (high)
 
 **Mitigation**: Advise the participants not to eat the food. Keep out of reach of children when not in use. 
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (low)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -172,18 +172,18 @@ Likelihood and severity scores are out of five and overall score is out of twent
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (moderate)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Vitamin C should not be handled by the participants. The solution will be diluted down to <0.1M. Any vitamin C solution on the skin or eyes should be rinsed. 
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (low)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2025-03-06 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: : Y-M-D - Name (crsid@cam.ac.uk)
+**Check 1**: 2025-03-06 - Jessica Trevelyan (jet81), **Check 2**: : Y-M-D - Name (crsid)
 
-**Check 1**: 2026-01-11 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: : 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2026-01-11 - Isobel Gilham (ig419), **Check 2**: : 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-08 - Millie Medwell (mem203@cam.ac.uk)
+**Check 1**: 2026-11-08 - Millie Medwell (mem203), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

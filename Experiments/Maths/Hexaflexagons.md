@@ -2,7 +2,7 @@
 
 **Groups, symmetries and hexaflexagons** - Turning a hexaflexagon inside out almost seems like magic. Find out what kind of cool patterns emerge as you do it. 
 
-Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
+Last initially checked on 2026-11-08 by Ben Laking (bl578) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -93,24 +93,24 @@ Glue isn't toxic, however, do alert parents immediately of ingestion and call a 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2017-02-06 - Mithuna Yoganathan (my332@cam.ac.uk), **Check 2**: 2017-02-08 - Thomas Webster (tw432@alumni.cam.ac.uk)
+**Check 1**: 2017-02-06 - Mithuna Yoganathan (my332), **Check 2**: 2017-02-08 - Thomas Webster (tw432)
 
-**Check 1**: 2018-01-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2018-01-02 - Thomas Webster (tw432), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-18 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2019-01-01 - Thomas Webster (tw432), **Check 2**: 2019-01-18 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-01-27 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-22 - Andrew Sellek (ads79), **Check 2**: 2021-01-22 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75), **Check 2**: 2023-02-16 - Lauren Mason (llm34)
 
-**Check 1**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk)
+**Check 1**: 2024-02-15 - Asmita Niyogi (an637), **Check 2**: 2024-02-15 - Charlotte Marshall (csm69)
 
-**Check 1**: 2025-01-10 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-01-10 - Asmita Niyogi (an637), **Check 2**: 2025-01-26 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlie Harrison (cjh257), **Check 2**: 2025-11-29 - Jesse Luo (jl2491)
 
-**Check 1**: 2026-11-08 - Ben Laking (bl578)
+**Check 1**: 2026-11-08 - Ben Laking (bl578), **Check 2**: 2026-11-13 - Henry Warburton (hw653)

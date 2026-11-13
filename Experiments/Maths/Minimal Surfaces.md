@@ -4,7 +4,7 @@
 
 NOTE: RA in development...
 
-Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Gemma Heinrich (gmh54) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 
@@ -121,7 +121,7 @@ Know where the nearest eye wash is (usually Safety Box). Summon first-aider to w
 **Mitigation**: Demonstrators to be very careful of where open ends are, and to grip metal frames away from these. If children handle frames, 
 make sure all ends are sealed away with tape / blu-tac / some other means to unsharpen them. 
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (low)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -157,10 +157,10 @@ Warn people of any spillages and clear them up promptly using the kitchen roll, 
 
 ## Risk Assessment Check History
 
-**Check 1**: 2025-08-06 - Mara-Ioana Postolache (mip32@cam.ac.uk), **Check 2**: 2025-08-06 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-08-06 - Mara-Ioana Postolache (mip32), **Check 2**: 2025-08-06 - John Leung (cfl35)
 
-**Check 1**: 2026-01-12 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-xx-xx - xx (xx)
+**Check 1**: 2026-01-12 - Jesse Luo (jl2491), **Check 2**: 2026-xx-xx - xx (xx)
 
-**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54@cam.ac.uk)
+**Check 1**: 2026-11-08 - Gemma Heinrich (gmh54), **Check 2**: 2026-11-13 - Henry Warburton (hw653)
 
 <!-- (duplicate as necessary) -->

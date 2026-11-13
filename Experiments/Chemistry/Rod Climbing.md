@@ -2,7 +2,7 @@
 
 **A polyacrylamide solution, which "climbs up" a rod when it is rotated in the solution** - Discover a strange goo with some strange properties. Watch as it is able to climb up a rod in front of your eyes!
 
-Last initially checked on 2026-11-08 by Millie Medwell (mem203) and double-checked on 2026-01-08 by  ()
+Last initially checked on 2026-11-08 by Millie Medwell (mem203) and double-checked on 2026-11-13 by Henry Warburton (hw653)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -109,7 +109,7 @@ Call first aider in event of injury
 
 Call first aider in event of injury. Keep an eye on children especially young children to prevent consumption.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (low)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 ### **Hazard**: Hand Drill
 
@@ -129,34 +129,34 @@ Call first aider in event of injury
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-22 - Hannah Ford (hf257@cam.ac.uk), **Check 2**: 2012-01-20 - Catherine Collett (chc47@cam.ac.uk)
+**Check 1**: 2011-12-22 - Hannah Ford (hf257), **Check 2**: 2012-01-20 - Catherine Collett (chc47)
 
-**Check 1**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
+**Check 1**: 2012-12-16 - Rachel Chapman (rc506), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251)
 
-**Check 1**: 2014-01-27 - Nunu Tao (nmt26@cam.ac.uk), **Check 2**: 2014-02-16 - Benjamin Lai (bl337@cam.ac.uk)
+**Check 1**: 2014-01-27 - Nunu Tao (nmt26), **Check 2**: 2014-02-16 - Benjamin Lai (bl337)
 
-**Check 1**: 2014-12-27 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2014-12-28 - Holly Davis (hd308@cam.ac.uk)
+**Check 1**: 2014-12-27 - Joseph Hooton (jh795), **Check 2**: 2014-12-28 - Holly Davis (hd308)
 
-**Check 1**: 2015-12-27 - Charis Watkins (czrw2@cam.ac.uk), **Check 2**: 2015-12-28 - Haydn James Lloyd (hjl43@cam.ac.uk)
+**Check 1**: 2015-12-27 - Charis Watkins (czrw2), **Check 2**: 2015-12-28 - Haydn James Lloyd (hjl43)
 
-**Check 1**: 2017-02-09 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
+**Check 1**: 2017-02-09 - Tim Morgan Boyd (tmb58), **Check 2**: 2017-02-09 - Jared Jeyaretnam (jaj55)
 
-**Check 1**: 2018-01-17 - Georgia Harris (grh37@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2018-01-17 - Georgia Harris (grh37), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Grace Exley (gae23), **Check 2**: 2019-01-13 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37), **Check 2**: 2020-02-02 - Lucy Hart (ljfh2)
 
-**Check 1**: 2020-12-27 - Holly Smith (hs606@cam.ac.uk), **Check 2**: 2020-01-17 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2020-12-27 - Holly Smith (hs606), **Check 2**: 2020-01-17 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-29 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-06 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2022-01-29 - Conor Cafolla (ctc43), **Check 2**: 2022-02-06 - Peter Methley (pm631)
 
-**Check 1**: 2023-01-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-15 - Peter Methley (pm631), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-12 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-01-04 - Andrew Marriott (asm206), **Check 2**: 2024-01-12 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-12-27 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2025-01-12 - Katie Ward (cw848@cam.ac.uk)
+**Check 1**: 2024-12-27 - Andrew Marriott (asm206), **Check 2**: 2025-01-12 - Katie Ward (cw848)
 
-**Check 1**: 2026-01-08 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2026-01-08 - Jesse Luo (jl2491@cam.ac.uk)
+**Check 1**: 2026-01-08 - Andrew Marriott (asm206), **Check 2**: 2026-01-08 - Jesse Luo (jl2491)
 
-**Check 1**: 2026-11-08 - Millie Medwell (mem203),
+**Check 1**: 2026-11-08 - Millie Medwell (mem203), **Check 2**: 2026-11-13 - Henry Warburton (hw653)
