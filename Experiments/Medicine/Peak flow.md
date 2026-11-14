@@ -2,7 +2,7 @@
 
 **Using a peak flow meter to measure peak flow rates** - A peak flow meter often used by medical staff to measure the maximum speed you can expel a 'huff' of air. This can be used to gather useful information about the function of the lungs.
 
-Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on by
+Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on 2026-11-14 by Jamie Gold (jag257)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -50,30 +50,30 @@ BASIC PROCEDURE AND EXPLANATION
 Peak Flow  
 
 1. Establish how much the child knows already:
-- Ask them if they know what a peak flow meter is.
-- If they do ask them what it's used for (chances are a good chunk of them have asthma and will have used one).
-- If they don't know what it is, ask them what they think it might be used for.
-- This should be quite easy to guess from the design, but if they're struggling, work them round to it.
-- Point out the meter - i.e. it's for measuring something.
-- At the 0 end of the meter there's a wacking great mouth shaped hole, so how do you think you get the meter to move?
-- If they say blowing into, then ask them what sort of diseases it might be used for. asthma, emphysema, bronchitis.
+  - Ask them if they know what a peak flow meter is.
+  - If they do ask them what it's used for (chances are a good chunk of them have asthma and will have used one).
+  - If they don't know what it is, ask them what they think it might be used for.
+  - This should be quite easy to guess from the design, but if they're struggling, work them round to it.
+  - Point out the meter - i.e. it's for measuring something.
+  - At the 0 end of the meter there's a wacking great mouth shaped hole, so how do you think you get the meter to move?
+  - If they say blowing into, then ask them what sort of diseases it might be used for – lung diseases e.g. asthma, emphysema, bronchitis.
 
 2. Then link what it's for to a discussion on asthma.
-- So if it's for seeing how well someone with asthma breaths, do you think asthmatics can blow more or less on it?
-- Why do they blow less. (see diagram below)
-- Lungs = set of bags at end of set of tubes.
-- Ref them to lung model for how lungs work, but basically say muscles make air move in and out.
-- In asthmatics, the tubes are narrower.
-- Tubes are narrower because...
-- Need to pitch this depending on age of kid.
-- Mention allergy.
-- Mention other things that can trigger, eg asthma, cold air.
+  - So if it's for seeing how well someone can breathe, do you think asthmatics can blow more or less on it (compared to someone who doesn't have asthma)?
+  - Why do they blow less. (see diagram below)
+  - Lungs = set of bags at end of set of tubes.
+  - Ref them to lung model for how lungs work, but basically say muscles make air move in and out.
+  - In asthmatics, the tubes are narrower.
+  - Tubes are narrower because...
+  - Need to pitch this depending on age of kid.
+  - Mention allergy.
+  - Mention other things that can trigger asthma, e.g. cold air, exercise.
 
 3. Do only kids have asthma?
-- No - adults can get it as well. Late in life onset and child onset forms of asthma are common.
+  - No - adults can get it as well. Late in life onset and child onset forms of asthma are common.
 
-4. So do you thinks astmatics blow the same thing on the peak flow all day?
-- No - they are usually worse in the morning that they are in the evening.
+4. So do you thinks asthmatics blow the same number on the peak flow at all times of day?
+  - No - they are usually worse in the morning that they are in the evening.
 
 5. Finally, see what the kids can blow and match it vs. the diagram below.
 
@@ -84,9 +84,9 @@ Image 2:
 ![](https://old.chaosscience.org.uk/sites/default/files/peakflow2.jpg)
 
 6. For older kids it might be worth going into:
-- Why narrower tubes stop you blowing as well.
-- Inflammation.
-- Other things that you use lung function tests for: COPD, Sarcoidosis, Fibrosis etc.  
+  - Why narrower tubes stop you blowing as well. 
+  - Inflammation.
+  - Other things that you use peak flow tests for: COPD, Sarcoidosis, Fibrosis etc.
 
 You can also get kids to put a straw in their mouth and breathe out through it for a few breaths, to demonstrate how much more difficult it is to exhale through smaller tubes. Only let them do this if they are sensible, breathe normally for only a few breaths, and are SITTING DOWN while they do so!  
 
@@ -174,4 +174,4 @@ In case of accident, call a first aider and encourage child to cough.
 
 **Check 1**: 2025-12-04 - Mafalda Merladet Moreno (mm2758), **Check 2**: 2025-12-30 - Timothy Wong (chw55)
 
-**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2), **Check 2**: 
+**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2), **Check 2**: 2026-11-14 - Jamie Gold (jag257)
