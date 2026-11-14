@@ -2,7 +2,7 @@
 
 **A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.** - A wonderful experiment of probability involving a cuddly goat called Bertrand, a couple of coins, three doors, and three boxes.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk)
+Last initially checked on 2026-11-14 by Maisie Howard (mah253)
  
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -226,6 +226,19 @@ PS By the way, you have spent the last twenty minutes talking to a goat – I su
 **After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
+### **Hazard**: Coins
+
+**Description**: Choking 
+
+**Affected People**: Small children
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (High)
+
+**Mitigation**: Don't give really small children the coins, and keep an eye on them so they don't go near mouths
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (Medium)
+
+<br/>
 
 ### **Hazard**: Bertrand the Goat
 
@@ -279,4 +292,5 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check2**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk)
 
+**Check 1**: 2026-11-14 - Maisie Howard (mah253)
 
