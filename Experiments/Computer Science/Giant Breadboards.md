@@ -2,7 +2,7 @@
 
 **Make circuits using giant components** - Explore circuit basics, different components, logic gates, speakers, buzzers and build your own heat alarms and more.
 
-Last initially checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-14 by Jesse Luo (jl2491) and double-checked on 2026-XX-XX by XX (XX)
 
 ## Tags
 
@@ -110,11 +110,11 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 5, Overall: 15 (unacceptable)
+**Before Mitigation**: Likelihood: 3, Severity: 4, Overall: 12 (unacceptable)
 
 **Mitigation**: Only use one battery pack at a time wherever possible. Preferentially use the grey battery packs with the built-in 500 mA fuses. Always install a 100 Ω current-limiting resistor in series with any LED.
 
-**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (medium)
 
 <br/>
 
@@ -151,4 +151,7 @@ Remove batteries from battery box and store in separate bag. Separate components
 **Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
 
 **Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-14 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 
+
 
