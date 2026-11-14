@@ -2,7 +2,7 @@
 
 **Building a series of cantilever bridges** - Can you build bridges across wider and wider rivers?
 
-Last initially checked on 2026-11-08 by Olivia Duddy (ocd28) and double-checked on  by 
+Last initially checked on 2026-11-08 by Olivia Duddy (ocd28) and double-checked on 2026-11-14 by Laura Irving (lhi21)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -35,7 +35,8 @@ Basically you want to get across that you have to balance everything, and if the
 Setting up the experiment:
 --------------------------
 
-Kids: works best on the floor, as the blocks don't fall too far when stacks topple! Get everyone to sit on the floor around the board/ pile of bricks
+Kids: works best on the floor, as the blocks don't fall too far when stacks topple! Get everyone to sit on the floor around the board/ pile of bricks.
+
 Grown ups: we've run this at an adults-only science evening, on a table, which worked fine. But adults are much less confident about stacking blocks than kids are!
 
 The challenge:
@@ -212,4 +213,4 @@ Call first aider in the event of injury.
 
 **Check 1**: 2025-11-23 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-23 - Chiara Delpiano Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Olivia Duddy (ocd28), **Check 2**: 
+**Check 1**: 2026-11-08 - Olivia Duddy (ocd28), **Check 2**: 2026-11-14 - Laura Irving (lhi21)
