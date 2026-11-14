@@ -2,7 +2,7 @@
 
 **The idea is to look at how yeast grows and how it relates to bread making. It involves getting the kids to make bread dough.** - Like all the best biology experiments, this is hands-on and messy! See what happens when you add living yeast to a bread mix, and don't forget to come back a bit later to see what's happened to your dough!
 
-Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on 
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on 2026-11-14 by Jamie Gold (jag257)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -59,14 +59,16 @@ Use trays as 'workstations' to contain the mess. Throw well-risen dough out afte
 
 ### **Hazard**: Dough
 
-**Description**: Kids may eat the dough, which is not good, as the kids' hands will not be clean and it is in a lab.
+**Description**: Kids may eat the dough. The kids' hands will not be clean and it is in a lab, and there may be harmful bacteria in raw flour.
 
 **Affected People**: Public
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (high)
 
-**Mitigation**: Stop kids eating the dough, and tell parents of small kids it isn't clean. 
-If dough ingested inform parents and advise them to take child to GP if they become ill.
+**Mitigation**: 
+Don't leave children with the experiment unsupervised. 
+
+Tell kids that the dough shouldn't be eaten (as it is raw and we are in a lab). Stop any kids eating the dough, and tell parents of small kids it isn't clean. If dough is ingested, inform parents and advise them to take child to GP if they become ill.
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
@@ -89,14 +91,30 @@ In case of injury call first aider.
 
 ### **Hazard**: Flour/yeast
 
-**Description**: Possible risk of allergy to flour or yeast, potentially resulting in anaphylactic shock. Possible risk of mould in very old flour that can also cause allergies if breathed in. 
+**Description**: Possible risk of allergy to flour or yeast, potentially resulting in anaphylactic shock. 
 
 **Affected People**: All
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: Demonstrators with yeast/ flour allergies should not demonstrate this experiment. Demonstrators must ask participants about allergies to flour or yeast before commencing experiment. Check manufacture date of flour before event and ensure that flour used is not too old. 
-In case of a reaction, call a first aider.
+**Mitigation**: Demonstrators with yeast/ flour allergies should not demonstrate this experiment. Demonstrators must ask participants about allergies to flour or yeast before commencing experiment. In case of a reaction, call a first aider.
+
+**After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
+
+<br/>
+
+### **Hazard**: Flour
+
+**Description**: Flour dust in air may cause an asthma attack if breathed in, and possible risk of mould in very old flour that could cause a reaction if breathed in.
+
+**Affected People**: All
+
+**Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
+
+**Mitigation**: Check manufacture date of flour before event and ensure that flour used is not too old. Stop children from mixing the 
+flour and water and yeast mix too vigorously so less flour dust ends up in the air.  
+
+In the event of an adverse reaction, move the affected person out of the area and sit them down. Call first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
@@ -164,7 +182,7 @@ If child is choking, get parent to encourage child to cough it out and find firs
 
 **Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2025-11-29 - Adam Carreyette (ac2736)
 
-**Check 1** : 2026-11-10 - Leah Helm (lkh53), 
+**Check 1** : 2026-11-10 - Leah Helm (lkh53), **Check 2**: 2026-11-14 - Jamie Gold (jag257)
 
 
 
