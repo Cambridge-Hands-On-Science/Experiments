@@ -2,7 +2,7 @@
 
 **How can a bridge stay up without bolts?** - Self supporting bridges using only wooden poles.
 
-Last initially checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -137,4 +137,6 @@ Call a first aider in the event of injury.
 **Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2026-11-17 - Tara Doherty (ted37), **Check 2**: 
 
