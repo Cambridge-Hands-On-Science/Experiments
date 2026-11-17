@@ -2,7 +2,7 @@
 
 **Modelling crystals with soap bubbles** - Using a raft of tiny bubbles, see how materials are made up of crystals and watch the atoms move when the material is deformed! (Or it’s just fun for little kids to play with the bubbles)
 
-Last initially checked on 2026-11-08 by Maisie Howard (mah253)
+Last initially checked on 2026-11-08 by Maisie Howard (mah253) and double checked on 2026-11-17 by Tara Doherty (ted37)
 
 **Frequency of use:** 4
 
@@ -268,7 +268,7 @@ Summon first-aider in event of someone tripping and hurting themselves.
 
 **Before Mitigation**: Likelihood: 2, Severity: 5, Overall: 10 (high)
 
-**Mitigation**: Use a larger crystal for demonstrations if possible. Don't let young children hold it, and if you do hand it out then keep an eye on it and don't let it go near anyone's mouth! Keep demonstratees from messing with gass generator tube.
+**Mitigation**: Use a larger crystal for demonstrations if possible. Don't let young children hold it, and if you do hand it out then keep an eye on it and don't let it go near anyone's mouth! Keep demonstratees from messing with gas generator tube.
 
 **After Mitigation**: Likelihood: 1, Severity: 5, Overall: 5 (medium)
 
@@ -286,6 +286,6 @@ Summon first-aider in event of someone tripping and hurting themselves.
 
 **Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
 
-**Check 1**: 2026-11-08 - Maisie Howard (mah253),
+**Check 1**: 2026-11-08 - Maisie Howard (mah253), **Check 2**: 2026-11-17 - Tara Doherty (ted37)
 
 <!-- (duplicate as necessary) -->
