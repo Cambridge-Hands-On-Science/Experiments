@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk)
+Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2026-11-17 by Tara Doherty (ted37)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -53,7 +53,7 @@ Finally, demonstrate the shape memory alloys. Ask members of the audience to def
 
 **Plasticine Models**
 No longer included
-I have made some Plasticine alloy models which you can play around with. They're made by taking Plasticine (duh) and varying quantities of sand. Please pack them away in the nice sealed containers so they don't dry out! Get kids to play with some they're body temperature and then roll them into a cylinder (approx 1.5cm diameter x 6cm length, although having the different alloys similar size is more important) then gently pull apart till you get a gentle failure (no arms flying around, that's not gentle). You should get a ductile fracture, small pockets form, these coalesce, then a crack propagates until we reach separation. Compare the forces needed, the fracture surfaces (using a magnifying glass, you could even compare to a tear or snap you make) and make theories about what adding the sand has done.
+I have made some Plasticine alloy models which you can play around with. They're made by taking Plasticine (duh) and varying quantities of sand. Please pack them away in the nice sealed containers so they don't dry out! Get kids to play with some once they're body temperature and then roll them into a cylinder (approx 1.5cm diameter x 6cm length, although having the different alloys similar size is more important) then gently pull apart till you get a gentle failure (no arms flying around, that's not gentle). You should get a ductile fracture, small pockets form, these coalesce, then a crack propagates until we reach separation. Compare the forces needed, the fracture surfaces (using a magnifying glass, you could even compare to a tear or snap you make) and make theories about what adding the sand has done.
 
 PLUS Explanation
 ----------------
@@ -162,7 +162,7 @@ Can talk about:
 
 1. Thermal expansion/contraction (roads, bridges, buildings, train tracks...)
 2. Heat transfer (conduction, convection, radiation) – in this case: Heating through conduction (with your hand) or forced convection (heat gun, which is sort of a mix of conduction and convection); Cooling through conduction and radiation. Possible extension to blackbody radiation (though strictly, the heated discs are not in thermodynamic equilibrium with the surroundings)
-3. Bimetalic strips work the same as these discs. Applications such as circuit breakers (fuses, rice cookers, thermostats). 
+3. Bimetallic strips work the same as these discs. Applications such as circuit breakers (fuses, rice cookers, thermostats). 
 
 ## Risk Assessment
 
@@ -310,5 +310,7 @@ Follow venue RA protocols in case of fire.
 **Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+
+**Check 1**: , **Check 2**: 2026-11-17 - Tara Doherty (ted37)
 
 
