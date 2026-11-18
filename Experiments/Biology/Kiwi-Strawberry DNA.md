@@ -2,7 +2,7 @@
 
 **Breaking open cells of a fruit and making the DNA inside visible to the human eye** - In this experiment we get DNA out of living cells in fruit. The DNA can be made fully visible to the human eye - no microscopes or magnifying glass needed! Done in less than 5 minutes in front of your eyes.
 
-Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked by
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on 2026-11-18 by Lauren Xiong (lx295)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -282,7 +282,7 @@ If child ingests small part of model, call first aider immediately.
 
 **Check 1**: 2025-11-23 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-10 - Leah Helm (lkh53) 
+**Check 1**: 2026-11-10 - Leah Helm (lkh53), **Check 2**: 2026-11-18 – Lauren Xiong (lx295)
 
 
 
