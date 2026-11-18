@@ -173,7 +173,7 @@ In the event of spillage, ensure any electrical equipment within reasonable radi
 
 **Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2026-11-29 - Alice O'Hara (aeio3)
 
-**Check 1** : 2026-11-10 - Leah Helm (lkh53), **Check 2 **: 2026-11-18 – Lauren Xiong (lx295)
+**Check 1** : 2026-11-10 - Leah Helm (lkh53), **Check 2**: 2026-11-18 – Lauren Xiong (lx295)
 
 
 
