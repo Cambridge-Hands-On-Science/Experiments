@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2025-12-22 by Max Lian (bl573@cam.ac.uk) and double-checked on 2025-12-30 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -492,4 +492,6 @@ Call a first aider in the event of an accident.
 **Check 1**: 2024-12-16 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2024-12-19 - Andrew Marriott (asm206@cam.ac.uk)
 
 **Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+
+**Check 1**: 2026-11-19 – Lauren Xiong (lx295)
 
