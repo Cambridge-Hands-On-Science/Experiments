@@ -2,7 +2,7 @@
 
 **Demonstrate how the brain adapts to changes in environmental input using prism goggles.** - See how quickly your brain adapts by wearing our prism goggles whilst playing a target-hitting game.
 
-Last initially checked on 2026-11-11 by Jeremy Lee (rqjl2) and double-checked on by
+Last initially checked on 2026-11-11 by Jeremy Lee (rqjl2) and double-checked on 2026-11-19 by Charlotte Greensmith (cg865)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -108,11 +108,11 @@ Call first aider if necessary.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
 
 **Mitigation**: Do not allow children to collect objects while the subject is still throwing them. Position the experiment so that other people are not in the firing line. Use soft, light objects where possible. Warn children to high-five gently. In case of accident, call a first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -122,12 +122,12 @@ Call first aider if necessary.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (high)
+**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
 
 **Mitigation**: Demonstrate away from obstructions - especially shelves/tables/sharp corners - as far as possible. Pick up balls for child if hazards are nearby. Try to stand between child and hazard. Make sure child takes off goggles before picking up objects.
 Call first aider if necessary.
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 <br/>
 
@@ -161,5 +161,5 @@ Call first aider if necessary.
 
 **Check 1**: 2025-12-31 - Timothy Wong (chw55), **Check 2**: 2026-01-08 - Mafalda Merladet Moreno (mm2758)
 
-**Check 1**: 2026-11-11 - Jeremy Lee (rqjl2), **Check 2**: 
+**Check 1**: 2026-11-11 - Jeremy Lee (rqjl2), **Check 2**: 2026-11-19 - Charlotte Greensmith (cg865)
 
