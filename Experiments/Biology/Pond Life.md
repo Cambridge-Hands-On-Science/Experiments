@@ -2,7 +2,7 @@
 
 **A selection of organisms from a local pond or rock pool** - nan
 
-Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-check on
+Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-check on 2026-11-19 by Lauren Xiong (lx295)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -86,7 +86,7 @@ creatures can get in and out."
 **Mitigation**: Send two demonstrators to collect specimens and exercise caution when choosing location (e.g. make sure there is something solid to stand on near the edge of the water). Check tide tables/observe the tide movement before going to rock pools to collect specimens.
 In case of injury, call first aider.
 
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -163,5 +163,5 @@ Call first aider in case of injury. If child ingests anything from the aquarium,
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-11 - Leah Helm (lkh53)
+**Check 1**: 2026-11-11 - Leah Helm (lkh53), **Check 2**: 2026-11-19 – Lauren Xiong (lx295)
 
