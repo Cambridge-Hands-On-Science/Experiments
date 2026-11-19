@@ -2,8 +2,7 @@
 
 **A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2026-11-19 by Gemma Heinrich (gmh54@cam.ac.uk) and double-checked on  by  (@cam.ac.uk)
-
+Last initially checked on 2026-11-19 by Gemma Heinrich (gmh54) and double-checked on 2026-11-19 by Leah Helm (lkh53)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -116,22 +115,22 @@ Call a first aider in the event of an injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-16 - Thomas Webster (tw432@alumni.cam.ac.uk)
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70), **Check 2**: 2018-01-16 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43)
 
-**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-07 - Matthew Le Maitre (msl54), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23@cam.ac.uk), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2020-12-12 - Yian Aaron Koh (yak23), **Check 2**: 2021-01-22 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-02-09 - Grace Exley (gae23), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2023-02-15 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-16 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2023-02-15 - Emma Crickmore (elc75), **Check 2**: 2023-02-16 - Lauren Mason (llm34)
 
-**Check 1**: 2024-02-19 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-19 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2024-02-19 - Peter Methley (pm631), **Check 2**: 2024-02-19 - Lauren Mason (llm34)
 
-**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-26 - Jessica Trevelyan (jet81), **Check 2**: 2025-02-08 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2026-01-11 - Henry Warburton (hw653), **Check 2**: 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54), **Check 2**: 2026-11-19 - Leah Helm (lkh53)
