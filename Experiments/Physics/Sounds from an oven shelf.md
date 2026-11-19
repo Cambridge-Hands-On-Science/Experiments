@@ -2,7 +2,7 @@
 
 **Get very strange sounds from an oven shelf.**
 
-Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 2026-11-19 by Daniel Eaton (de354)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,7 +31,7 @@ Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and dou
 
 ## Experiment Explanation 
 
-Get very strange sounds from an oven shelf. Hang it from two pieces of string, wrap string around your fingers, put your fingers in your ears, hit the oven shelf. It will sound like big ben!
+Get very strange sounds from an oven shelf. Hang it from two pieces of string, wrap string around your fingers, put your knuckles against the bone in front of your ears, hit the oven shelf. It will sound like big ben!
 
 **Why does it happen?**
 
@@ -76,7 +76,7 @@ But, if you put a plastic cup in the top of the slinky, it couples to its vibrat
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Encourage children to put their knuckles, not their fingers, in their ears.
+**Mitigation**: Encourage children to put their knuckles on the bone in front of their ears, not their fingers in their ears. This also makes the effect more noticeable
 
 Call a first aider in the case of an injury.
 
@@ -130,6 +130,6 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2024-12-27 - Lauren Mason (llm34), **Check 2**: Rowan Ong (rzmo2)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: Daniel Eaton (de354)
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-11-29 - Daniel Eaton (de354)
 
-**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**:
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2026-11-19 - Daniel Eaton (de354)
