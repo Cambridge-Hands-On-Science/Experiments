@@ -2,7 +2,7 @@
 
 **A suspension bridge made from rope and wood that children can walk across.** - Walk across our bridge, then find out what makes it stay up.
 
-Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double-checked on 
+Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double-checked on 2026-11-19 by Laura Irving (lhi21).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -218,6 +218,6 @@ Call first aider if required.
 
 **Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-28-12 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
 
-**Check 1**: 2026-11-17 - Tara Doherty (ted37), **Check 2**: 
+**Check 1**: 2026-11-17 - Tara Doherty (ted37), **Check 2**: 2026-11-19 - Laura Irving (lhi21)
 
 
