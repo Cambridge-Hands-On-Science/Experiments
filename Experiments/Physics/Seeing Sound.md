@@ -2,7 +2,7 @@
 
 **Use an oscilloscope and slinky spring to see how sound travels** - Find out what sound is, the difference between low and high sounds, and loud and quiet sounds, and learn about sounds we can't hear
 
-Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on
+Last initially checked on 2026-11-08 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 2026-11-19 by Daniel Eaton (de354)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -194,4 +194,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796) , **Check 2**: 2025-11-29 - Daniel Eaton (de354)
 
-**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796) , **Check 2**:
+**Check 1**: 2026-11-08 - Chiara Delpiano-Cordeiro (cd796) , **Check 2**: 2026-11-19 - Daniel Eaton (de354)
