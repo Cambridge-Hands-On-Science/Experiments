@@ -1,8 +1,8 @@
 # Rocks and Fossils
 
-**A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived millions of years ago.
+**A box of rocks and fossils** - Find out about explosive volcanoes, shiny crystals, and the exotic animals that lived hundreds of millions of years ago.
 
-Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 29-11-2025 by Jessica Trevelyan (jet81@cam.ac.uk). 
+Last initially checked on 19-11-2026 by Beth Crellin (bhc28) and double-checked on 29-11-2025 by Jessica Trevelyan (jet81@cam.ac.uk). 
 
 ## Tags
 
@@ -593,12 +593,12 @@ In case of injury call first-aider.
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Low) 
+**Before Mitigation**: Likelihood: 2, Severity: 1, Overall: 2 (Low) 
 
 **Mitigation**: Take care with woolly mammoth bone, turtle shell and vesicular basalt.
 If a child is distressed, put away the sample, assure the child that it's just a rock, and allow them to calm down elsewhere.
 
-**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low) 
+**After Mitigation**: Likelihood: 1, Severity: 1, Overall: 1 (Low) 
 
 <br/>
 
@@ -660,4 +660,4 @@ If a child is distressed, put away the sample, assure the child that it's just a
 
 **Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
 
-
+**Check 1**: 2026-19-26 - Beth Crellin (bhc28)
