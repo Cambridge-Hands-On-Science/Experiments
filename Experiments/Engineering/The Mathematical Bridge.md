@@ -2,7 +2,7 @@
 
 **How can a bridge stay up without bolts?** - Self supporting bridges using only wooden poles.
 
-Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double-checked on 
+Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double-checked on 2026-11-19 by Laura Irving (lhi21).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -122,21 +122,21 @@ Call a first aider in the event of injury.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-12 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2018-12-12 - Thomas Webster (tw432), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43)
 
-**Check 1**: 2020-01-05 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-05 - Andrew Sellek (ads79), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-21 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-21 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-06 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79), **Check 2**: 2022-02-06 - Lauren Mason (llm34)
 
-**Check 1**: 2023-01-16 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-16 - Emma Crickmore (elc75), **Check 2**: 2023-01-17 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81), **Check 2**: 2024-02-15 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-27 - Anna Ritschl Ebell (ar2182), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-12-28 - Anna Ritschl Ebell (ar2182), **Check 2**: 2025-12-30 - Timothy Wong (chw55)
 
-**Check 1**: 2026-11-17 - Tara Doherty (ted37), **Check 2**: 
+**Check 1**: 2026-11-17 - Tara Doherty (ted37), **Check 2**: 2026-11-19 - Laura Irving (lhi21)
 
