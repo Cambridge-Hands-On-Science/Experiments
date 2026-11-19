@@ -2,7 +2,7 @@
 
 **Watching pendulum phase dynamics** - Different length pendulums swing at different frequencies - see pattern of waves develop as they come in and out of phase with each other.
 
-Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Duncan Green (dg678@cam.ac.uk)
+Last initially checked on 2026-11-19 by Celso (cel66@cam.ac.uk) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,16 +18,13 @@ Last initially checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk) and doubl
 
 ## Equipment Needed 
 - Long Wooden Piece with dangling strings and washers (uncoupled pendulums)
-- Cardboard with string and washers wrapped around (weakly coupled pendulums)
-- Long pipe segment
-- The piece of wood with all the washers hanging off of it.
 - Another long pole to set it off
 
 <br/>
 
 ## Experiment Explanation 
 
-2 pendulum experiments - one that usually gets wrapped in clingfilm? which can be done alone and one in a cardboard box that can be done with resonance
+2 pendulum experiments - one that usually gets wrapped in a cute bedsheet? which can be done alone and one in a cardboard box that can be done with resonance
 
 **Uncoupled Pendulums**
 To set this up you'll need to have two equal height supports, using a combination of tables and boxes works well. You'll want to view them from above or down the length (e.g. from under the table). 
@@ -46,7 +43,7 @@ James Flaten and Kevin Parendo have mathematically modelled the collective motio
 You can also talk about Reset times: after t seconds we're back to where we started and the system has reset. This is an important part of Markov chains and other probabilistic results, if the system resets (or regenerates). This means we can treat parts of the process as independent statistically.
 It could(??) be used to simulate quantum revival. So here you have quantum revival versus classical periodicity! Quantum revival is when we complete a full period of the system wave function, something which often takes a long time - but not always, when components of the superposition have equal spacing in frequency!
 
-**Coupled Pendulums**
+**Coupled Pendulums** (doesnt work or look good at last checking) 
 You want to hang the string between two fixed boxes and then try swinging various pendulums, you'll notice as there weakly coupled you can occasionally get other pendulums to also swing due to them having resonant periods. 
 
 
@@ -63,7 +60,7 @@ You want to hang the string between two fixed boxes and then try swinging variou
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High)
 
-**Mitigation**: Make sure weights are attached properly before demonstration.
+**Mitigation**: Make sure weights are attached properly before demonstration. Potential to use ratchet straps from marquee?...
 Make sure the stand is secured properly.
 In case of emergency contact a first aider.
 
@@ -81,6 +78,7 @@ In case of emergency contact a first aider.
 
 **Mitigation**: Do not let people run around, or play around the strings.
 In case of an accident, untie/cut the string if necessary. If necessary, call a first aider.
+use tape to make an exclusion zone. 
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
@@ -96,6 +94,7 @@ In case of an accident, untie/cut the string if necessary. If necessary, call a 
 
 **Mitigation**: Make sure the wood is smooth, if not, sand it smooth.
 In case of an injury, contact a first aider.
+only wood that needs touching by volunteers is the pole used to set the pendulums swinging 
 
 **After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
@@ -127,6 +126,19 @@ In case of an injury, contact a first aider.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
+
+### **Hazard**: swinging Washers
+
+**Description**: getting hit in the face by swinging washers
+
+**Affected People**: All (shorter people more so)
+
+**Before Mitigation**: Likelihood: 4, Severity: 2, Overall: 8 (high)
+
+**Mitigation**: Tell people to stand back behind a tape line on the floor and dont let people swing the pendulums too high. 
+
+**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 3 (medium)
+
 <br/>
 
 ## Risk Assessment Check History 
@@ -147,4 +159,5 @@ In case of an injury, contact a first aider.
 
 **Check 1**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Duncan Green (dg678@cam.ac.uk)
 
+**check1**: 2026-11-19 - Celso (cel66@cam.ac.uk), 
 
