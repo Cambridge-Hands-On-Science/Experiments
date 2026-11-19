@@ -2,7 +2,7 @@
 
 **Learn about the issues that affect the food we eat** - The plants that make our food need a lot of love and care! Find out how these issues affect farmers, the environment and our food supply. 
 
-Last initially checked on 2026-11-11 by Leah Helm (lkh53)
+Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double checked on 2026-11-18 by Lauren Xiong (lx295)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -149,4 +149,4 @@ There's also supply and demand which will factor in.
 
 **Check 1**: 2025-11-29 - Charlie Owen (co458), **Check 2**: 2025-12-30 - Timothy Wong (chw55)
 
-**Check 1**: 2026-11-11 - Leah Helm (lkh53)
+**Check 1**: 2026-11-11 - Leah Helm (lkh53), **Check 2**: 2026-11-18 – Lauren Xiong (lx295)
