@@ -2,7 +2,7 @@
 
 **Meet Boris, the friendly CHaOS skeleton.** - Boris is a friendly life-sized plastic skeleton- come and say hello!
 
-Last initially checked on 2026-11-08 by Amy Patterson (alp95) and double-checked on - by - ()
+Last initially checked on 2026-11-08 by Amy Patterson (alp95) and double-checked on 2026-11-19 by Jamie Gold (jag257)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -212,4 +212,4 @@ Also watch for things falling off Boris!
 
 **Check 1**: 2025-12-31 - Timothy Wong (chw55), **Check 2**: 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-08 - Amy Patterson (alp95)
+**Check 1**: 2026-11-08 - Amy Patterson (alp95), **Check 1**: 2026-11-19 - Jamie Gold (jag257)
