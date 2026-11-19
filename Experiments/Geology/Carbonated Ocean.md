@@ -2,7 +2,7 @@
 
 **What happens to CO₂ in Earth's oceans?** - Make your own carbonate minerals, and discover the effects of ocean acidification using a SodaStream.
 
-Last initially checked on 2025-11-23 by Isobel Gilham (ig419@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk) 
+Last initially checked on 2026-11-19 by Beth Crellin (bhc28) and double-checked on 2026-11-19 by Amy Patterson (alp95) 
 **Frequency of use:** N/A
 
 ## Tags
@@ -262,7 +262,7 @@ If in contact with eyes, wash with emergency eye wash provided if trained and co
 
 **Before Mitigation**: Likelihood: 2, Severity: 4, Overall: 8 (High) 
 
-**Mitigation**: Keep test tubes in rack at all times unless emptying/washing them. Don't let children handle test tubes.
+**Mitigation**: Keep test tubes in rack at all times unless emptying/washing them. Keep test tube rack away from the edge of the table. Don't let children handle test tubes.
 
 Do not seal test tubes when doing a reaction as the CO₂ pressure produced could cause them to shatter.
 
@@ -329,10 +329,12 @@ Call first aider in case of injury.
 
 ## Risk Assessment Check History
 
-**Check 1**: 2024-08-05 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2024-08-05 - Peter Methley (pm631)
 
-**Check 1**: 2025-02-08 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-02-08 - Peter Methley (pm631), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-23 - Isobel Gilham (ig419@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-11-23 - Isobel Gilham (ig419), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81)
+
+**Check 1**: 2026-11-19 - Beth Crellin (bhc28), **Check 2**: 2026-11-19 - Amy Patterson (alp95)
 
 <!-- (duplicate as necessary) -->
