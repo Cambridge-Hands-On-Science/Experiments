@@ -2,7 +2,7 @@
 
 **Why are blood groups important?** - What are 'blood groups'? Why is it important to match blood groups for transfusion? Find out with our colourful demonstration.
 
-Last initially checked on 2026-11-08 by Jamie Gold (jag257@cam.ac.uk) and double-checked on 2026-01-08 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
+Last initially checked on 2026-11-08 by Jamie Gold (jag257) and double-checked on 2026-11-19 by Charlotte Greensmith (cg865).
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -146,11 +146,11 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: All spills should be cleared up immediately, get children to be careful using pipettes. Call first aider in case of injury. Use wet floor sign if necessary.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
@@ -160,42 +160,42 @@ The A and B alleles are codominant so both A and B antigens will be expressed on
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
 
 **Mitigation**: Remind people that the blood isn't real and ask them to tell you if they feel faint. Chair nearby for light-headed-feeling people ask them to sit down and remove 'blood' from line of site. If they feel very faint ask them to sit on the floor to remove risk of falling of chair. Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2013-03-05 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2013-03-05 - Anna Hughes (aeh60@cam.ac.uk)
+**Check 1**: 2013-03-05 - Elizabeth Mooney (erm40), **Check 2**: 2013-03-05 - Anna Hughes (aeh60)
 
-**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi), **Check 2**: 2014-01-22 - Sharmila Walters (sw632)
 
-**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil@gmail.com)
+**Check 1**: 2015-01-06 - Charlotte Attwood (ca402), **Check 2**: 2015-01-09 - Kym Neil (kym.e.neil)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63)
 
-**Check 1**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-10 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-10 - Jessica Gorman (jrg63)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-01-27 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47), **Check 2**: 2019-01-27 - Polly Hooton (prh43)
 
-**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-26 - Samuel Amey (sra44), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Conor Cafolla (ctc43)
 
-**Check 1**: 2022-01-29 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-10 - Amy Migunda (aom36@cam.ac.uk)
+**Check 1**: 2022-01-29 - Emily Wolfenden (elw74), **Check 2**: 2023-02-10 - Amy Migunda (aom36)
 
-**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-19 - Marin Lee (ml2072), **Check 2**: Margaret Johncock (mllyj2)
 
-**Check 1**: 2026-11-08 – Jamie Gold (jag257@cam.ac.uk), **Check 2**: 2026-01-08 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+**Check 1**: 2026-11-08 – Jamie Gold (jag257), **Check 2**: 2026-11-19 - Charlotte Greensmith (cg865)
 
 
