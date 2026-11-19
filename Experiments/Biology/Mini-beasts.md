@@ -2,7 +2,7 @@
 
 **A variety of sea life and freshwater animals observed using microscopes** - nan
 
-Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-checked on 2026-11-19 by Lauren Xiong (lx295)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -177,6 +177,6 @@ If person gets a burn, run tepid water over affected area for at least 10 minute
 
 **Check 1**: 2025-11-26 - Leah Helm (lkh53), **Check 2**: 2025-11-29 - Charlie Owen (co458)
 
-**Check 1**: 2026-11-11 - Leah Helm (lkh53)
+**Check 1**: 2026-11-11 - Leah Helm (lkh53), **Check 2**: 2026-11-19 – Lauren Xiong (lx295)
 
 
