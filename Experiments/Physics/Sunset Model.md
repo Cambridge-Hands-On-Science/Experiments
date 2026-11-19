@@ -2,7 +2,7 @@
 
 **Why is the sky blue and the sunset red?** - Have you ever wondered what makes the sky blue? Or why it stops being blue at sunset? Come along to this experiment to find out why!
 
-Last initially checked on 2026-11-11 by Lenny Hall (lph33) and double-checked on 20xx-xx-xx by 
+Last initially checked on 2026-11-11 by Lenny Hall (lph33) and double-checked on 2026-11-19 by Daniel Eaton (de354)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -200,6 +200,6 @@ Also see Electrical Parts RA.
 
 **Check 1**: 2026-01-12 - Duncan Green (dg678), **Check 2**: 2026-01-12 - Daniel Eaton (de354)
 
-**Check 1**: 2026-01-12 - Lenny Hall (lph33), **Check 2**:
+**Check 1**: 2026-01-12 - Lenny Hall (lph33), **Check 2**: 2026-11-19 - Daniel Eaton (de354)
 
 
