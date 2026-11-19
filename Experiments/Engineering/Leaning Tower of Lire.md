@@ -2,7 +2,7 @@
 
 **Balancing blocks on the edge** - Explore this famous block stacking problem and see how far you can build off the edge of a table. 
 
-Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-12-28 by Anna Ritschl Ebell (ar2182@cam.ac.uk).
+Last initially checked on 2026-11-19 by Laura Irving (lhi21) and double-checked on by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -117,20 +117,22 @@ You can allow multiple blocks per level if you like, this copies cantilever brid
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-01-09 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2019-01-09 - Thomas Webster (tw432), **Check 2**: 2019-02-04 - Conor Cafolla (ctc43)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54), **Check 2**: 2020-01-24 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-01 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2022-02-06 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2022-02-01 - Polly Hooton (prh43), **Check 2**: 2022-02-06 - Lauren Mason (llm34)
 
-**Check 2**: 2023-02-09 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-02-11 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 2**: 2023-02-09 - John Leung (cfl35), **Check 2**: 2023-02-11 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81), **Check 2**: 2024-01-30 - Lucy Bland (lb831)
 
-**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-11-29 - Evelyn Jane Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk) 
+**Check 1**: 2025-11-29 - Evelyn Jane Bassett (ejb228), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182) 
+
+**Check 1**: 2026-11-19 - Laura Irving (lhi21), **Check 2**: 
 
 
