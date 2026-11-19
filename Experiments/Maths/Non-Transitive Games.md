@@ -2,7 +2,7 @@
 
 **What's the best option in games of chance?** - Some games really aren't fair. Even if your opponent knows your exact move you can still beat them. Explore some of these games and find out there might not be a sensible best choice.
 
-Last initially checked on 2025-11-29 by Charlie Harrison (cjh257@cam.ac.uk) and double-checked on 2025-11-29 by Jesse Luo (jl2491@cam.ac.uk)
+Last initially checked on 2026-11-19 by Gemma Heinrich (gmh54@cam.ac.uk) and double-checked on  by  (@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -164,7 +164,7 @@ Call first aider in case of injury.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (medium)
+**Before Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (medium)
 
 **Mitigation**: Encourage kids to be calm. Make them stop if they are being silly / don't play RPS with them
 Call first aider in case of injury.
@@ -195,3 +195,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257@cam.ac.uk), **Check 2**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk)
 
+**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk), **Check 2**: 
