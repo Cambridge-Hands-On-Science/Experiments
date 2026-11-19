@@ -5,7 +5,7 @@
 PLUS experiment includes: Newton's laws, stable equilibria, drag, lift and the Magnus Effect.
 
 
-Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 
+Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 2026-11-19 by Jesse Luo (jl2491)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -94,12 +94,12 @@ Tell them about Newton's third law - action and reaction. If you push or pull so
 #### Wooden Rocket 'Puzzle'
 
 
-Put the rocket on a flat surface with the tip of the orange 'rocket' pointing upwards. Explain that the aim is to get the rocket out of the container without touching the container. (Hopefully they'll come up with blowing on it after doing the ping-pong straw experiment - though it's really not obvious when you first look at it that it's going to work!). You can then demonstrate that indeed the rocket does jump out of it's container (literally!) if you blow on it. I find that it works best if you blow at about 45 degrees to horizontal - have a practice yourself before hand. (I can generally get it to go the highest when I blow straight across the rocket, but this makes it harder to aim and half the time I just end up blowing the whole thing across the desk). The kids can then have a go themselves. **Please use anti-bacterial wipes on the rocket afterwards**. Explain that the air in the container with the rocket is forced out, bringing the rocket with it - another example of air creating a force. (Air pressure decreases over the top of the rocket when you blow over it creating a pressure gradient, the air needs to be replenished from somewhere and part of it comes from inside the container. The explanation inside the rocket box says 'A short, sharp breath of air directed across the top of the puzzle creates a fierce vacuum, causing the wooden rocket to take off' , however I think vacuum is a bit extreme but if that makes more sense to the group you're explaining it to?)
+Put the rocket on a flat surface with the tip of the orange 'rocket' pointing upwards. Explain that the aim is to get the rocket out of the container without touching the container. (Hopefully they'll come up with blowing on it after doing the ping-pong straw experiment - though it's really not obvious when you first look at it that it's going to work!). You can then demonstrate that indeed the rocket does jump out of its container (literally!) if you blow on it. I find that it works best if you blow at about 45 degrees to horizontal - have a practice yourself before hand. (I can generally get it to go the highest when I blow straight across the rocket, but this makes it harder to aim and half the time I just end up blowing the whole thing across the desk). The kids can then have a go themselves. **Please use anti-bacterial wipes on the rocket afterwards**. Explain that the air in the container with the rocket is forced out, bringing the rocket with it - another example of air creating a force. (Air pressure decreases over the top of the rocket when you blow over it creating a pressure gradient, the air needs to be replenished from somewhere and part of it comes from inside the container. The explanation inside the rocket box says 'A short, sharp breath of air directed across the top of the puzzle creates a fierce vacuum, causing the wooden rocket to take off' , however I think vacuum is a bit extreme but if that makes more sense to the group you're explaining it to?)
 
 #### Blowers and beach balls
 
 
-Preferably use the big blower for this. If you place the ball in the air stream it will balance on it and not fall off. You can demosnstrate that it always balances at the same height. If you hold the ball at the edge of the stream you can feel how it is pulled in. You can let the kids to feel it too. You can use the screwdriver with haztape to demonstrate the direction of the stream.
+Preferably use the big blower for this. If you place the ball in the air stream it will balance on it and not fall off. You can demonstrate that it always balances at the same height. If you hold the ball at the edge of the stream you can feel how it is pulled in. You can let the kids to feel it too. You can use the screwdriver with haztape to demonstrate the direction of the stream.
 
 Explaining why the ball doesn't fall directly down is easy and the kids might tell you that on their own. The tricky part is why is it pulled to the middle of the airstream. There are two ways to go about the explanation. The first is using Newton's third law. When you look at the airstream around the ball when it is at the edge of the stream, you will see that it is bend around the ball. After passing the ball, the stream is not strictly vertical (it is going a bit sideways). That means that the ball effectively pulls the passing air towards itself. The equal and opposite reaction on the ball then is that it is pulled inside. The other way of explaining it is using the Bernoulli's principle - the fact that the pressure is lower where the air has greater speed. (You can demonstrate it by blowing between two parallel sheets of paper hanging vertically next to each other.) So there is atmospheric pressure on one side of the ball and lower on the side of the airstream. The difference in pressure results in a force towards the stream. 
 
@@ -493,5 +493,5 @@ Call a first aider in the event of an accident.
 
 **Check 1**: 2025-12-22 - Max Lian (bl573@cam.ac.uk), **Check 2**: 2025-12-30 - Timothy Wong (chw55@cam.ac.uk)
 
-**Check 1**: 2026-11-19 – Lauren Xiong (lx295)
+**Check 1**: 2026-11-19 – Lauren Xiong (lx295), **Check 2**: 2026-11-19 - Jesse Luo (jl2491)
 
