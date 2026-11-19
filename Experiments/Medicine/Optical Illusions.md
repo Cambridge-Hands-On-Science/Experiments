@@ -2,7 +2,7 @@
 
 **Display of several optical illusions, to illustrate the way the brain perceives certain visual stimuli** - Confusing our brains and eyes.
 
-Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on by 
+Last initially checked on 2026-11-08 by Jeremy Lee (rqjl2) and double-checked on 2026-11-19 by Leah Helm (lkh53)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -168,7 +168,7 @@ Could result in feeling ill, or wandering into walls / hitting things.
 
 **Check 1**: 2025-11-29 - Charlotte Greensmith (cg865),  **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758)
 
-**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2),  **Check 2**: 
+**Check 1**: 2026-11-08 - Jeremy Lee (rqjl2),  **Check 2**: 2026-11-19 - Leah Helm (lkh53)
 
 
 
