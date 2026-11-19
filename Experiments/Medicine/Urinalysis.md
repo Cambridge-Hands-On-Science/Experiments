@@ -2,7 +2,7 @@
 
 **Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2026-11-19 by Mafalda Merladet Moreno (alp95) and double-checked on  by  ()
+Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on  by  ()
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
