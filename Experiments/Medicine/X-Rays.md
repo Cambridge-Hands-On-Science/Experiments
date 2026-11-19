@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2025-11-23 by Jeovana Ip (jci25@cam.ac.uk) and double-checked on 2025-11-23 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on  by  ()
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -158,68 +158,54 @@ Call a first aider in the event of injury.
 
 <br/>
 
-### **Hazard**: Light box (weight)
 
-**Description**: Possible risk of light box falling off table onto people.
-
-**Affected People**: All
-
-**Before Mitigation**: Likelihood: 3, Severity: 2, Overall: 6 (Medium)
-
-**Mitigation**: Ensure that the light box is not close to the edge of the table and is in a stable position. 
-
-Call first aider in case of injury.
-
-**After Mitigation**: Likelihood: 2, Severity: 2, Overall: 4 (Medium)
-
-<br/>
 
 ### **Hazard**: Light box (heat)
 
-**Description**: Possible risk of light box getting too hot and scalding users.
+**Description**: Possible risk of light box getting too hot and burning users.
 
 **Affected People**: All
 
-**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (High)
+**Before Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
 
-**Mitigation**: Warn the students that the light box is hot at the start of the experiment.
+**Mitigation**: Warn the students that the light box is hot at the start of the experiment. Turn off light box when not demonstrating.
 
 Call first aider in case of injury.
 
-**After Mitigation**: Likelihood: 4, Severity: 3, Overall: 12 (High)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 <br/>
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-27 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi), **Check 2**: 2014-01-27 - Sharmila Walters (sw632)
 
-**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2015-01-10 - Alisha Burman (arb95), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-02-07 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2016-02-07 - Charis Watkins (czrw2)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry), **Check 2**: 2017-02-12 - Andrew Sellek (ads79)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32)
 
-**Check 1**: 2019-01-13 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk)
+**Check 1**: 2019-01-13 - Polly Hooton (prh43), **Check 2**: 2019-01-25 - Matt Worssam (mdw47)
 
-**Check 1**: 2019-12-23 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2019-12-23 - Polly Hooton (prh43), **Check 2**: 2020-01-10 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk)
+**Check 1**: 2021-01-18 - Polly Hooton (prh43), **Check 2**: 2021-01-20 - Conor Cafolla (ctc43)
 
-**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2022-02-09 - Grace Exley (gae23), **Check 2**: 2022-02-09 - Maggie Goulden (mcg58)
 
-**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2023-01-22 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-22 - Jessica Trevelyan (jet81), **Check 2**: 2023-01-22 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Asmita Niyogi (an637)
 
- **Check 1**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk)
+ **Check 1**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-01-12 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-11-23 - Jeovana Ip (jci25@cam.ac.uk), **Check 2**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-11-23 - Jeovana Ip (jci25), **Check 2**: 2025-11-23 - Timothy Wong (chw55)
 
-
+**Check 1**: 2026-11-19 - Amy Patterson (alp95)
