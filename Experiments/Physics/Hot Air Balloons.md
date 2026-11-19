@@ -2,7 +2,7 @@
 
 **Making hot air balloons with plastic bags and a toaster.** - Make your own hot air balloon with a plastic bag and a toaster!
 
-Last initially checked on 2025-11-29 by Duncan Green (dg678@cam.ac.uk) and double-checked on 2025-11-30 by Maisie Howard (mah253@cam.ac.uk) 
+Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -189,6 +189,7 @@ Monitor for allergic reactions and inform first aider if any signs appear.
 
 **Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-11-30 Maisie Howard (mah253@cam.ac.uk)
 
+**Check 1**: 2026-11-19 – Lauren Xiong (lx295)
 
 
 
