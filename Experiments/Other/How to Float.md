@@ -2,7 +2,7 @@
 
 **Keeping demonstrators happy.**
 
-Last initially checked on 2025-11-23 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2025-11-29 by Jessica (jet81@cam.ac.uk)
+Last initially checked on 2026-11-19 by Asmita Niyogi (an637) and double-checked on XXXX-XX-XX by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -141,16 +141,18 @@ After the injury it is useful to have an idea of what caused it and how to preve
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2019-02-04 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2019-02-04 - Grace Exley (gae23), **Check 2**: 2019-02-04 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-01-28 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2020-01-15 - Beatrix Huissoon (beh37), **Check 2**: 2020-01-28 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-22 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81), **Check 2**: 2024-12-16 - Peter Methley (pm631)
 
-**Check 1**: 2025-11-23 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-11-23 - Timothy Wong (chw55), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81)
+
+**Check 1**: 2026-11-19 - Asmita Niyogi (an637), **Check 2**: 
 
 
