@@ -80,7 +80,7 @@ But, if you put a plastic cup in the top of the slinky, it couples to its vibrat
 
 Call a first aider in the case of an injury.
 
-**After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
+**After Mitigation**: Likelihood: 1, Severity: 2, Overall: 2 (Low)
 
 <br/>
 
