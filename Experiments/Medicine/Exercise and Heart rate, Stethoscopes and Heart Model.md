@@ -2,7 +2,7 @@
 
 **When you exercise your heart beats faster!** - Why does your heat beat faster after exercise?  Come and find out why in this demonstration where you are the subject.
 
-Last initially checked on 2026-11-08 by Wisteria Chatterjee (ac2732) and double-checked on 2025-11-23 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-08 by Wisteria Chatterjee (ac2732) and double-checked on 2026-11-19 by Charlotte Greensmith (cg865)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -294,36 +294,36 @@ Call first aider if necessary.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith@cantab.net), **Check 2**: 2012-01-25 - Daniel Obute (rdo23@cam.ac.uk)
+**Check 1**: 2012-01-05 - Ashley Smith (ashley.smith), **Check 2**: 2012-01-25 - Daniel Obute (rdo23)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40)
 
-**Check 1**: 2014-01-09 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-09 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632)
 
-**Check 1**: 2015-01-06 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk)
+**Check 1**: 2015-01-06 - Charlotte Attwood (ca402), **Check 2**: 2015-01-10 - Alisha Burman (arb95)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2016-01-14 - Jessica Gorman (jrg63)
 
-**Check 1**: 2017-02-09 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-10 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2017-02-09 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-10 - Jessica Gorman (jrg63)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-06 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-06 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-02-02 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47), **Check 2**: 2019-02-02 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-26 - Samuel Amey (sra44), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-26 - Hayoung Choi (hc585@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-26 - Hayoung Choi (hc585), **Check 2**: 2022-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-01-20 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-01-31 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-20 - Emily Wolfenden (elw74), **Check 2**: 2023-01-31 - Jamie Barrett (jb2369)
 
-**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2024-02-15 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2024-02-14 - Margaret Johncock (mllyj2), **Check 2**: 2024-02-15 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-01-19 - Marin Lee (ml2072@cam.ac.uk), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2025-01-19 - Marin Lee (ml2072), **Check 2**: 2025-01-26 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-11-23 - Alice O'Hara (aeio3@cam.ac.uk) , **Check 2** 2025-11-24 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-23 - Alice O'Hara (aeio3) , **Check 2** 2025-11-24 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-08 - Wisteria Chatterjee (ac2732) , 
+**Check 1**: 2026-11-08 - Wisteria Chatterjee (ac2732) , **Check 2** 2026-11-19 - Charlotte Greensmith (cg865)
 
 
