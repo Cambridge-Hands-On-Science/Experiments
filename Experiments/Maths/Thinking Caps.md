@@ -2,7 +2,7 @@
 
 **A logical puzzle** - Can you work out the colour of your own hat?
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-19 by Gemma Heinrich (gmh54@cam.ac.uk) and double-checked on  by  (@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,7 +18,7 @@ Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and do
 
 ## Equipment Needed 
 **This experiment can take place outdoors**
-- Paper hats in 4 colours, with at least 5 in 2 different colours. Contact Josh (jlg70) for instructions on how to make paper hats, or just watch a youtube video.
+- Paper hats in 4 colours, with at least 5 in 2 different colours. You can watch a youtube video to figure out how to make them.
 - Charts detailing possible configurations of hats for a couple of the problems.
 
 <br/>
@@ -134,4 +134,4 @@ Call a first aider in the event of an injury.
 
 **Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
 
-
+**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk), **Check 2**: 
