@@ -2,8 +2,7 @@
 
 **Game introducing the phases of matter and phase changes** - Outside game introducing the concept of different phases of matter and the different ways to transition between them.
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2025-11-29 by Duncan Green (dg678@cam.ac.uk)
-
+Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked on 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -137,5 +136,7 @@ For example:
 **Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk),  **Check 2**: 2025-02-08 - Lachlan Rooney (lgmr2@cam.ac.uk)
 
 **Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk)
+
+**Check 1**: 2026-11-18 – Lauren Xiong (lx295)
 
 
