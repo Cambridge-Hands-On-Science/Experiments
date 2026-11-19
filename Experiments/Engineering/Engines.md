@@ -2,7 +2,7 @@
 
 **What are the different types of engine, and how do they work?** - Have you ever wondered what an engine is? Learn about how various types of engines work from the ubiquitous Internal Combustion Engine found in almost every car ever made to a small engine which runs on nothing but hot water!
 
-Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and double-checked on 2025-11-29 by Daniel Eaton (de354@cam.ac.uk).
+Last initially checked on 2026-11-19 by Laura Irving (lhi21) and double-checked on by 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -22,7 +22,7 @@ Last initially checked on 2025-11-29 by Evelyn Bassett (ejb228@cam.ac.uk) and do
 
 - WARNING: STIRLING ENGINE MUST NEVER BE LUBRICATED WITH OIL. It will gum it up. Lubricate bearings with graphite from soft pencil only.
 
-- As of this update, only one of the stirling engines works.
+- As of this update, only one of the Stirling engines works (the less shiny one), and the jet engine model is broken so the fan must be spun manually. 
 
 <br/>
 
@@ -187,29 +187,31 @@ How can we make jet engines more environemtally friendly? (It is very difficult 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-02-23 - Philip Garsed (pgarsed@gmail.com), **Check 2**: 2014-02-24 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2014-02-23 - Philip Garsed (pgarsed@gmail.com), **Check 2**: 2014-02-24 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2015-02-12 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41@cam.ac.uk)
+**Check 1**: 2015-02-12 - Sarah Wiseman (sw628), **Check 2**: 2015-02-12 - Richard "Miffles" Mifsud (rwm41)
 
-**Check 1**: 2015-12-16 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-12-16 - Robert Gayer (rg478), **Check 2**: 2016-01-02 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2017-01-22 - Robert Gayer (rg478), **Check 2**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32)
 
-**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54@cam.ac.uk), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2019-12-29 - Käthe-Marie White (kmw54), **Check 2**: 2020-01-24 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-01-30 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-01-09 - Jessica Trevelyan (jet81), **Check 2**: 2024-01-30 - Lucy Bland (lb831)
 
-**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182@cam.ac.uk), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-21 - Anna Ritschl Ebell (ar2182), **Check 2**: 2025-01-11 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-29 - Evelyn Bassett (ejb228), **Check 2**: 2025-11-29 - Daniel Eaton (de354)
+
+**Check 1**: 2026-11-19 - Laura Irving (lhi21), **Check 2**: 
 
 
 
