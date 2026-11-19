@@ -2,7 +2,7 @@
 
 **Modelling Evolution by Game Theory** - Simulate populations and explore stable and unstable equilibrium by using Game Theory to model animal behaviour in sharing a food supply.  
 
-Last initially checked on 2026-11-13 by Henry Warburton (hw653) and double-checked on yyyy-mm-dd by Name (crsid)
+Last initially checked on 2026-11-13 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-11-19 by Gemma Heinrich (gmh54@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -155,6 +155,6 @@ In case of injury call first aider.
 
 **Check 1**: 2025-11-29 - Charlie Harrison (cjh257), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2026-11-13 - Henry Warburton (hw653), **Check 2**: yyyy-mm-dd - Name (crsid)
+**Check 1**: 2026-11-13 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk)
 
 
