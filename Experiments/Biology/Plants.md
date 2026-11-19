@@ -2,7 +2,7 @@
 
 **Plants - looking at germination, their structure and how they produce energy by photosynthesis** - nan
 
-Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-11 by Leah Helm (lkh53) and double-checked on 2026-11-18 by Lauren Xiong (lx295)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -180,6 +180,6 @@ In case of accident, call a first aider and encourage children to run burns unde
 
 **Check 1**: 2025-11-29 - Jeremy Lee (rqjl2), **Check 2**: 2025-11-29 - Charlotte Greensmith (cg865)
 
-**Check 1**:2026-11-11 - Leah Helm (lkh53)
+**Check 1**:2026-11-11 - Leah Helm (lkh53), **Check 2**: 2026-11-18 by Lauren Xiong (lx295)
 
 
