@@ -2,7 +2,7 @@
 
 **Investigating the interesting properties of alloys** - Using stainless steel as an example of how composition affects magnetic properties and Nitinol as an example of a shape memory alloy
 
-Last initially checked on 2025-11-23 by Maisie Howard (mah253@cam.ac.uk) and double-checked on 2026-11-17 by Tara Doherty (ted37)
+Last initially checked on 2026-11-17 by Tara Doherty (ted37) and double checked on 2026-11-19 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -283,34 +283,34 @@ Follow venue RA protocols in case of fire.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-02-13 - Joseph Hooton (jh795@cam.ac.uk)
+**Check 1**: 2015-02-12 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-02-13 - Joseph Hooton (jh795)
 
-**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-12-30 - Haydn James Lloyd (hjl43), **Check 2**: 2016-01-20 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
+**Check 1**: 2017-01-22 - Haydn James Lloyd (hjl43), **Check 2**: 2017-01-23 - James Nicholas (james.nicholas@cantab.net)
 
-**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43@cam.ac.uk), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508@cam.ac.uk)
+**Check 1**: 2017-02-09 - Haydn James Lloyd (hjl43), **Check 2**: 2018-02-04 - Giedre Sirvinskaite (gs508)
 
-**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-05 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2018-12-13 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-01-05 - Grace Exley (gae23)
 
-**Check 1**: 2019-01-20 - Yaron Bernstein (yb258@cam.ac.uk), **Check 2**: 2019-01-21 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2019-01-20 - Yaron Bernstein (yb258), **Check 2**: 2019-01-21 - Grace Exley (gae23)
 
-**Check 1**: 2020-01-11 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-11 - Emma Crickmore (elc75), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-21 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-21 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2022-02-06 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-07 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2022-02-06 - Andrew Sellek (ads79), **Check 2**: 2022-02-07 - Peter Methley (pm631)
 
-**Check 1**: 2023-01-19 - Toni Renz (ir331@cam.ac.uk), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-19 - Toni Renz (ir331), **Check 2**: 2023-01-19 - Jamie Barrett (jb2369)
 
-**Check 1**: 2023-07-04 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2023-07-04 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2023-07-04 - Andrew Sellek (ads79), **Check 2**: 2023-07-04 - Timothy Wong (chw55)
 
-**Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2024-01-30 - Lauren Mason (llm34), **Check 2**: 2024-01-31 - Joshua Wu (jw2311)
 
-**Check 1**: 2024-12-20 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2024-12-21 - Andrew Marriott (asm206@cam.ac.uk), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2024-12-20 - Asmita Niyogi (an637), **Check 2**: 2024-12-21 - Andrew Marriott (asm206), **Check 3**: 2024-12-29 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2025-11-23 - Maisie Howard (mah253@cam.ac.uk), **Check 2**: 2025-11-29 - Daniel Eaton (de354@cam.ac.uk)
+**Check 1**: 2025-11-23 - Maisie Howard (mah253), **Check 2**: 2025-11-29 - Daniel Eaton (de354)
 
-**Check 1**: , **Check 2**: 2026-11-17 - Tara Doherty (ted37)
+**Check 1**:2026-11-17 - Tara Doherty (ted37) , **Check 2**: 2026-11-19 - Leah Helm (lkh53)
 
 
