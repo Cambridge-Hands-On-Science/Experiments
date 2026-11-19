@@ -2,7 +2,7 @@
 
 **Choosing direction using a coin flip.** - See how biased coins and random chance can lead to surprising conclusions.
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-19 by Gemma Heinrich (gmh54@cam.ac.uk) and double-checked on  by  (@cam.ac.uk)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -163,6 +163,8 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-01-26 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
 
-**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**:2026-01-11 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-11 - Leah Helm (lkh53@cam.ac.uk)
+
+**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk), **Check 2**:  -  (@cam.ac.uk)
 
 
