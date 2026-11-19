@@ -2,7 +2,7 @@
 
 **Use a freely spinning chair, some masses and a bicycle wheel to see some unintuitive physics.**
 
-Last initially checked on 2026-11-08 by Logan Ripley (lr654@cam.ac.uk) and double-checked on 
+Last initially checked on 2026-11-08 by Logan Ripley (lr654) and double-checked on 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -212,35 +212,35 @@ Call a first aider in the case of an injury.
 
 **Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-14 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23@cam.ac.uk)
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576), **Check 2**: 2014-01-23 - Vamsee Bheemireddy (vrb23)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-22 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795), **Check 2**: 2015-01-22 - Tom Comerford (tafc2)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-13 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2018-01-29 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2018-01-13 - Andrew Sellek (ads79), **Check 2**: 2018-01-29 - Lucy Hart (ljfh2)
 
-**Check 1**: 2019-01-07 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2019-01-09 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2019-01-07 - Polly Hooton (prh43), **Check 2**: 2019-01-09 - Grace Exley (gae23)
 
-**Check 1**: 2020-01-19 - Daniel Cropper (djc96@cam.ac.uk), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-19 - Daniel Cropper (djc96), **Check 2**: 2020-01-20 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-12 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-12 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2021-01-12 - Conor Cafolla (ctc43), **Check 2**: 2021-01-12 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2022-01-09 - Sophie Miocevich (srm81@cam.ac.uk), **Check 2**: 2022-02-09 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2022-01-09 - Sophie Miocevich (srm81), **Check 2**: 2022-02-09 - Peter Methley (pm631)
 
-**Check 1**: 2023-01-20 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-29 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2023-01-20 - Jamie Barrett (jb2369), **Check 2**: 2023-01-29 - John Leung (cfl35)
 
-**Check 1**: 2024-01-04 - Andrew Marriott (asm206@cam.ac.uk), **Check 2**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk)
+**Check 1**: 2024-01-04 - Andrew Marriott (asm206), **Check 2**: 2024-01-06 - Lucy Bland (lb831)
 
-**Check 1**: 2024-12-27 - Lauren Mason (llm34@cam.ac.uk),**Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2024-12-27 - Lauren Mason (llm34), **Check 2**: 2025-01-11 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk),**Check 2**: 2025-11-27 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2025-11-23 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2025-11-27 - Asmita Niyogi (an637)
 
-**Check 1**: 2026-11-08 - Logan Ripley (lr654@cam.ac.uk),**Check 2**: 
+**Check 1**: 2026-11-08 - Logan Ripley (lr654), **Check 2**: 2026-11-19 - Daniel Eaton (de354)
 
 
 
