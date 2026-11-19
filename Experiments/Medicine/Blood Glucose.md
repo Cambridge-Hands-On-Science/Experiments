@@ -167,13 +167,13 @@ In case of injury call first aider.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-22 - Sharmila Walters (sw632)
+**Check 1**: 2014-01-06 - Catherine Bi (catherine.bi), **Check 2**: 2014-01-22 - Sharmila Walters (sw632)
 
 **Check 1**: 2015-01-06 - Charlotte Attwood (ca402), **Check 2**: 2015-01-21 - Jessica Gorman (jrg63)
 
 **Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2015-01-14 - Jessica Gorman (jrg63)
 
-**Check 1**: 2017-02-07 - Jessica Gorman (jrg63), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry@cantab.net)
+**Check 1**: 2017-02-07 - Jessica Gorman (jrg63), **Check 2**: 2017-02-08 - Fiona Coventry (fiona.coventry)
 
 **Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-04 - Esmae Jemima Woods (ejw89)
 
@@ -181,7 +181,7 @@ In case of injury call first aider.
 
 **Check 1**: 2020-01-26 - Samuel Amey (sra44), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
 **Check 1**: 2022-01-14 - Polly Hooton (prh43), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
