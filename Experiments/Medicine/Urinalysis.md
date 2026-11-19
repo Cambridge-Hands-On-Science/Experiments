@@ -2,7 +2,7 @@
 
 **Practise diagnosing patients using this simple bedside test** - use the dipsticks to analyse "urine" from our patients.
 
-Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on  by  ()
+Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on 2026-11-19 by Jamie Gold (jag257)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -79,7 +79,7 @@ Kidney stones typically leave the body by passage in the urine stream, and many 
 
 **Diabetes Mellitus**
 
-Diabetes mellitus, or simply diabetes, is a group of metabolic diseases in which a person has high blood sugar, either because the pancreas does not produce enough insulin, or because cells do not respond to the insulin that is produced.[2] This high blood sugar produces the classical symptoms of polyuria (frequent urination), polydipsia (increased thirst) and polyphagia (increased hunger). The cause of the polyuria is simply osmotic diuresis – the glucose content of the blood is so high that it cannot all be reabsorbed by the renal tubules and thus glucose is excreted in the urine. This increases osmotic pressure in the tubule, causing retention of water and thus high volumes of urine.
+Diabetes mellitus, or simply diabetes, is a group of metabolic diseases in which a person has high blood sugar, either because the pancreas does not produce enough insulin, or because cells do not respond to the insulin that is produced. This high blood sugar produces the classical symptoms of polyuria (frequent urination), polydipsia (increased thirst) and polyphagia (increased hunger). The cause of the polyuria is simply osmotic diuresis – the glucose content of the blood is so high that it cannot all be reabsorbed by the renal tubules and thus glucose is excreted in the urine. This increases osmotic pressure in the tubule, causing retention of water and thus high volumes of urine.
 
 There are three main types of diabetes mellitus (DM).
 
@@ -193,4 +193,4 @@ Call a first aider in the event of reaction.
 
 **Check 1**: 2026-01-08 - Mafalda Merladet Moreno (mm2758), **Check 2**: 2026-01-12 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-19 - Amy Patterson (alp95)
+**Check 1**: 2026-11-19 - Amy Patterson (alp95), **Check 2**: 2026-11-19 - Jamie Gold (jag257)
