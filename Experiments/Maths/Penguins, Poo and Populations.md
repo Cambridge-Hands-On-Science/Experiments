@@ -2,7 +2,7 @@
 
 **Counting when we can't count** - How can we count the number of penguins, there's far too many? Investigate several ecological techniques to use statistics to help us out. 
 
-Last initially checked on 2026-01-11 by Henry Warburton (hw653@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-01-11 by Gemma Heinrich (gmh54@cam.ac.uk) and double-checked on  by  ()
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -39,7 +39,12 @@ We want to estimate how many ducks are in the pond, take out a large handful and
 
 **Capture Recapture**
 
-One way we could do this is via sampling. Take a sample of ducks (around 12-16 works well if you've removed a dozen or so) and mark on the whiteboard which numbers you saw. Replace the ducks and mix well. This represents our first sample and we've now made sure our next sample is 'independent' by shuffling it. Take another sample of ducks and count how many are in both. We then need to do some maths, the sample size over total number of ducks will be our probability of picking any given duck from the first sample in sample 2. So if we times this by the sample size it gives how many ducks we'd expect to see both times. Doing the product of sample sizes divided by the number in both gives us our estimate. You can now ask questions about the population. Drawing a Venn diagram may be useful. 
+One way we could do this is via sampling. Take a sample of ducks (around 12-16 works well if you've removed a dozen or so from the total amount) and mark on the whiteboard which numbers you saw. Replace the ducks and mix well. This represents our first sample and we've now made sure our next sample is 'independent' by shuffling it. Take another sample of ducks and count how many are in both. 
+
+We then need to do some maths, the sample size over total number of ducks will be our probability of picking any given duck from the first sample in sample 2. So if we times this by the sample size it gives how many ducks we'd expect to see both times. Doing the product of sample sizes divided by the number in both gives us our estimate. 
+
+You can now ask questions about the population. Drawing a Venn diagram may be useful. 
+
 Can we say anything about the minimum size? Yes, it's at least the number of unique ducks we saw... What about the maximum? Nothing at all, however we can think about it, if there were lots of ducks we'd not get any repeats and if there were only a few more than the sample size we'd get mostly repeats. Other ways to improve include making the sample size bigger. 
 (Presumably with a vague prior on duck populations you could use Bayesian inference to get the most likely population size?)
 
@@ -58,7 +63,9 @@ This is a quick demo to talk about it and isn't majorly about animals. Take an o
 **Penguins by poo**
 
 Even capture recapture gets expensive if we want to estimate penguins. Why? They're far away, not good infrastructure, it's chilly, etc. So we want to find a better way. As penguins live on ice sheets which are white we can use photos to pick them out. Show some photos from a satellite (a few are actually drone photos but very similar). It's hard to count penguins in this as they move and are slightly camouflaged. Huddles are confusing due to varying density. So we count the amount of poo! You can pick it out in the photos. So how might we estimate the number of penguins. Count the area of poo, use the grids over the picture to work out the poo area. We now need to work out poo area a penguin produces! Here are some penguins, lift them up to reveal their poo areas.
+
 You'll need to take a sample and average. You'll also notice the babies are a source of bias... This is similar to before. If you do the maths you can estimate the population.
+
 Where are the errors? Where did our sample come from, zoos is a nice controlled environment for it, but might not give the best accuracy for wild penguins - different food and environment. There's also the depth factor which we ignore. Our measurements weren't perfect for the area either, however satellites can do much better. 
 
 <br/>
@@ -143,5 +150,7 @@ In case of licking, call first aider, or tell parent to contact GP if child feel
 **Check 1**: 2025-01-12 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-01-30 - Isobel Gilham (ig419@cam.ac.uk)
 
 **Check 1**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk) 
+
+**Check 1**: 2026-11-19 - Gemma Heinrich (gmh54@cam.ac.uk), **Check 2**:  -  (@cam.ac.uk) 
 
 
