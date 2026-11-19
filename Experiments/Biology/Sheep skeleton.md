@@ -2,7 +2,7 @@
 
 **Investigate a sheep skeleton and see if you can reconstruct it** - Put together a sheep skeleton like a jigsaw puzzle! How is a sheep skeleton different to a human skeleton? How is it the same?
 
-Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-10 by Leah Helm (lkh53) and double-checked on 2026-11-19 by Lauren Xiong (lx295)
 ## Tags
 
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -191,5 +191,5 @@ Call first aider to properly dress and sterilise wounds. Warn parents of the pos
 
 **Check 1**: 2025-11-23 - Adam Carreyette (ac2736), **Check 2**: 2025-11-29 - Alice O'Hara (aeio3)
 
-**Check 1**: 2026-11-10 - Leah Helm (lkh53)
+**Check 1**: 2026-11-10 - Leah Helm (lkh53), **Check 2**: 2026-11-19 – Lauren Xiong (lx295)
 <!-- (duplicate as necessary) -->
