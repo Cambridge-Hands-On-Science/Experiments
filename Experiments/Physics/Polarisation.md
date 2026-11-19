@@ -2,7 +2,7 @@
 
 **Discover how polaroid filters block light as you turn them round** - Experiment with the properties of light as certain filters block light, but only in certain directions!
 
-Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked on 
+Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked on 2026-11-19 by Celso (cel66)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -18,8 +18,8 @@ Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked 
 
 ## Equipment Needed 
 - **Electricity needed**
-- Blue light box
-- Two polaroid filters.
+- light box
+- polaroid filters. (small round ones in correct orientation work best)
 - Some bits of clear polythene
 - Rulers, set squares etc, for bending.
 - Some pieces of calcite
@@ -27,9 +27,12 @@ Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked 
 - Card model for demonstrating birefringence
 - Slinky
 - A bunch of photographic CPL (see explanation)
-
+- sellotape on acrylic 
+- Two pairs of circularly polarising glasses
+- potentially a mirror
+  
 PLUS only:
-- Two circularly polarising glasses
+
 - Michel-Levy Chart + diagram of LCD screen and of twisted nematic structure
 
 <br/>
@@ -80,11 +83,11 @@ Demonstrating the use of polarisers with crossed polars, polythene strips, plast
 - Explain that light is a wave using a wave sketch on a bit of paper
 - Light can wobble in different orientations - polarisations. It can wobble up-down, side-to-side, and everything in between
 - You can imagine this as a 2D wave like the one sketched on the paper
-(Yes, we know that there's a second component of the wave, but if you consistently talk about the same component of the wave the explanation is right..)
+(Yes, we know that there's a second component of the wave, but if you consistently talk about the same component of the wave the explanation is "right..")
 
 **Polarising filters are like grills that let light through in only in some directions**
 
-- Using your fingers as a grill demonstrate what the polariser looks like. Get them to try and get the piece of paper in the through the grill parallel and perpendicular to the grill, i.e. in the two different polarisations.
+- Using your fingers as a grill demonstrate what the polariser looks like. Get them to try and get the piece of paper in the through the grill (of pens...) parallel and perpendicular to the grill, i.e. in the two different polarisations.
 - Only half the light can get through - this is why the plastic looks slightly darker normally.
 - Then add another grill parallel to the first which will allow the light from the first grill to get through. Rotate it by 90 degrees to demonstrate that light can't get through with any orientation. This makes the polariser look black.
 
@@ -314,6 +317,6 @@ Call a first aider in the event of an emergency.
 
 **Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk)
 
-**Check 1**: 2026-11-18 – Lauren Xiong (lx295)
+**Check 1**: 2026-11-18 – Lauren Xiong (lx295), **Check 2**: 2026-11-19 - Celso (cel66)
 
 
