@@ -2,8 +2,7 @@
 
 **Functional model of the larynx** - A working model of the larynx which uses a hand pump to force air across two closely-apposed rubber sheets (i.e. vocal cords) to make a sound.
 
-Last initially checked on 2026-11-08 by Jamie Gold (jag257@cam.ac.uk) and double-checked on 2025-12-15 by Mafalda Merladet Moreno (mm2758@cam.ac.uk).
-
+Last initially checked on 2026-11-08 by Jamie Gold (jag257) and double-checked on 2026-11-19 by Leah Helm (lkh53)
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -112,36 +111,36 @@ I was running this model alongside the lung model, so after asking them why you 
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40@cam.ac.uk), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
+**Check 1**: 2012-01-11 - Elizabeth Mooney (erm40), **Check 2**: 2012-01-23 - Ashley Smith (ashley.smith@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-24 - Jaimie Oldham (jlo40)
 
-**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-25 - Sharmila Walters (sw632@cam.ac.uk)
+**Check 1**: 2014-01-21 - Catherine Bi (catherine.bi@cantab.net), **Check 2**: 2014-01-25 - Sharmila Walters (sw632)
 
-**Check 1**: 2015-01-10 - Alisha Burman (arb95@cam.ac.uk), **Check 2**: 2015-01-23 - Jessica Gorman (jrg63@cam.ac.uk)
+**Check 1**: 2015-01-10 - Alisha Burman (arb95), **Check 2**: 2015-01-23 - Jessica Gorman (jrg63)
 
-**Check 1**: 2016-01-05 - Charlotte Attwood (ca402@cam.ac.uk), **Check 2**: 2016-02-12 - Charis Watkins (czrw2@cam.ac.uk)
+**Check 1**: 2016-01-05 - Charlotte Attwood (ca402), **Check 2**: 2016-02-12 - Charis Watkins (czrw2)
 
-**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2017-02-11 - Fiona Coventry (fiona.coventry@cantab.net), **Check 2**: 2017-02-12 - Andrew Sellek (ads79)
 
-**Check 1**: 2018-01-27 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2018-01-27 - Matt Worssam (mdw47), **Check 2**: 2018-02-07 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-25 - Matt Worssam (mdw47@cam.ac.uk), **Check 2**: 2019-02-03 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2019-01-25 - Matt Worssam (mdw47), **Check 2**: 2019-02-03 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2020-01-26 - Samuel Amey (sra44@cam.ac.uk), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-26 - Samuel Amey (sra44), **Check 2**: 2020-01-27 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-22 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2022-01-28 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2022-01-28 - Sian Boughton (seb216), **Check 2**: 2022-02-09 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2023-02-14 - Emily Wolfenden (elw74@cam.ac.uk), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58@cam.ac.uk)
+**Check 1**: 2023-02-14 - Emily Wolfenden (elw74), **Check 2**: 2023-02-18 - Maggie Goulden (mcg58)
 
-**Check 1**: 2024-02-15 - Charlotte Marshall (csm69@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Charlotte Marshall (csm69), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-02-08 - Jessica Trevelyan (jet81), **Check 2**: 2025-02-08 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865@cam.ac.uk), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758@cam.ac.uk)
+**Check 1**: 2025-11-29 - Charlotte Greensmith (cg865), **Check 2**: 2025-12-15 - Mafalda Merladet Moreno (mm2758)
 
-**Check 1**: 2026-11-08 - Jamie Gold (jag257@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-11-08 - Jamie Gold (jag257), **Check 2**: 2026-11-19 - Leah Helm (lkh53)
 
 
