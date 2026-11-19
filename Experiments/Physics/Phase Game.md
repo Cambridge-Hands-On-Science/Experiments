@@ -2,7 +2,7 @@
 
 **Game introducing the phases of matter and phase changes** - Outside game introducing the concept of different phases of matter and the different ways to transition between them.
 
-Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked on 
+Last initially checked on 2026-11-18 by Lauren Xiong (lx295) and double-checked on 2026-11-19 by Celso (cel66) 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -31,7 +31,7 @@ When you have a large number of children to entertain for an unknown period of t
 The principles of the game are simple. You yell a phase, or a phase transition, and the children act in a manner akin to molecules in that phase.
 
 ### Basic calls
-**Solid**: The children stand still, with their hands by their sides. Some huddling may be encouraged, but isn't necessary. You could get them to sway while keeping their feet in the same place, representing thermal vibrations.
+**Solid**: The children stand still, with their hands by their sides. Some huddling may be encouraged, but isn't necessary. You should get them to sway while keeping their feet in the same place, representing thermal vibrations (talk about zero point energy!).
 
 **Liquid**: The children walk slowly, I generally also bring my hands up, palms together, wiggling in front of me to worm around. They should probably come close together too.
 
@@ -137,6 +137,6 @@ For example:
 
 **Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk)
 
-**Check 1**: 2026-11-18 – Lauren Xiong (lx295)
+**Check 1**: 2026-11-18 – Lauren Xiong (lx295), **Check 2**: 2026-11-19 - Celso (cel66) 
 
 
