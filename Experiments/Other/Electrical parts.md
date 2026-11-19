@@ -2,7 +2,7 @@
 
 **Read before demonstrating any experiment that uses mains electricity** 
 
-Last initially checked on 2025-12-22 by Timothy Wong (chw55@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-19 by Asmita Niyogi (an637) and double-checked on XXXX-XX-XX by 
 
 
 ## Tags
@@ -101,12 +101,14 @@ Boxes containing electrical equipment should be fully closed when packing away, 
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-19 - Emma Crickmore (elc75), **Check 2**: 2023-02-19 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-07-09 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-07-10 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-07-09 - Peter Methley (pm631), **Check 2**: 2024-07-10 - Timothy Wong (chw55)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk),  **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81),  **Check 2**: 2024-12-16 - Peter Methley (pm631)
 
-**Check 1**: 2025-12-22 - Timothy Wong (chw55@cam.ac.uk),  **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-12-22 - Timothy Wong (chw55),  **Check 2**: 2026-01-12 - Leah Helm (lkh53)
+
+**Check 1**: 2026-11-19 - Asmita Niyogi (an637),  **Check 2**: 
 
 <!-- (duplicate as necessary) -->
