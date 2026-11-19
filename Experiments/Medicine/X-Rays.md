@@ -2,7 +2,7 @@
 
 **A collection of X-rays and other forms of medical diagnostic imagery.** - Have you ever had an X-ray? Have you ever wondered how they work? Take a look at our collection of exciting X-rays and MRI scans, test your anatomical knowledge and diagnostic skills and find out about the physics behind the images. 
 
-Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on  by  ()
+Last initially checked on 2026-11-19 by Amy Patterson (alp95) and double-checked on 2026-11-19 by Leah Helm (lkh53)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -208,4 +208,4 @@ Call first aider in case of injury.
 
 **Check 1**: 2025-11-23 - Jeovana Ip (jci25), **Check 2**: 2025-11-23 - Timothy Wong (chw55)
 
-**Check 1**: 2026-11-19 - Amy Patterson (alp95)
+**Check 1**: 2026-11-19 - Amy Patterson (alp95), **Check 2**: 2026-11-19 - Leah Helm (lkh53)
