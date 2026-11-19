@@ -2,7 +2,7 @@
 
 **To be read before doing experiments in a dark room**
 
-Last initially checked on 2025-11-23 by John Leung (cfl35@cam.ac.uk) and double-checked on 2025-11-29 by Jessica Trevelyan (jet81@cam.ac.uk)
+Last initially checked on 2026-11-19 by Asmita Niyogi (an637) and double-checked on XXXX-XX-XX by 
 
 
 ## Tags
@@ -111,10 +111,12 @@ Some experiments are best performed in a dark room, read this RA in along with t
 
 ## Risk Assessment Check History
 
-**Check 1**: 2023-02-19 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-19 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-19 - Emma Crickmore (elc75), **Check 2**: 2023-02-19 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81@cam.ac.uk), **Check 2**: 2024-12-16 - Peter Methley (pm631@cam.ac.uk)
+**Check 1**: 2024-12-16 - Jessica Trevelyan (jet81), **Check 2**: 2024-12-16 - Peter Methley (pm631)
 
-**Check 1**: 2025-11-23 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2025-11-23 - John Leung (cfl35), **Check 2**: 2025-11-29 - Jessica Trevelyan (jet81)
+
+**Check 1**: 2026-11-19 - Asmita Niyogi (an637), **Check 2**: 
 
 <!-- (duplicate as necessary) -->
