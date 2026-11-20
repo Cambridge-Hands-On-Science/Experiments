@@ -3,7 +3,7 @@
 **Anatomical model of the half jaw, parts can be removed to show structure of the teeth.** - An enlarged model of the jaw with some giant teeth that can be opened up.  Find out why we have milk teeth, why there are different types of teeth, and why different species have different teeth.
 
 
-Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -110,5 +110,5 @@ Focus your explanation on the age of the audience.
 
 **Check 1**: 2025-11-23 - Alice O'Hara (aeio3) , **Check 2**: 2025-11-24 - Leah Helm (lkh53) 
 
-**Check 1**: 2026-11-19 - Leah Helm (lkh53)
+**Check 1**: 2026-11-19 - Leah Helm (lkh53) , **Check 2**: 2026-11-20 - Amy Patterson (alp95)
 
