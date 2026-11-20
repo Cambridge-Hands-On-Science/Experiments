@@ -2,7 +2,7 @@
 
 **Anatomical model of the brain and making model neurons from coloured pipe cleaners!** - Have you ever wondered what the brain looks like and what it's made of? Come and discover the structure of the brain and the different functions each part has, as well as making your own brain cells out of brightly coloured pipecleaners!
 
-Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -212,5 +212,5 @@ In case of injury, call a first aider.
 
 **Check 1** : 2026-01-12 - Leah Helm (lkh53), **Check 2** : 2026-01-12 - Charlotte Greensmith (cg865)
 
-**Check 1**: 2026-11-19 - Leah Helm (lkh53)
+**Check 1**: 2026-11-19 - Leah Helm (lkh53), **Check 2** : 2026-11-20 - Amy Patterson (alp95)
 
