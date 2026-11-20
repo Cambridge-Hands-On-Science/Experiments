@@ -2,7 +2,7 @@
 
 **Dissecting a sheep's eyeball to show the structure of the eye** - Only at "Crash, Bang, Squelch!": see the inner workings of the eye first-hand by dissecting a sheep's eyeball! Feel the smoothness of the lens, prod the gelatinous fluid and see the amazing coloured sheen of the layers that help sheep see better in the dark. 
 
-Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 
+Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -198,5 +198,5 @@ If equipment gets stolen, assisting demonstrator to relocate it and inform commi
 
 **Check 1**: 2025-11-29 - Jeovana Ip (jci25), **Check 2**: 2025-11-29 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2026-11-19 - Leah Helm (lkh53)
+**Check 1**: 2026-11-19 - Leah Helm (lkh53), **Check 2**: 2026-11-20 - Amy Patterson (alp95)
 
