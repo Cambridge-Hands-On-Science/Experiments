@@ -3,7 +3,7 @@
 **Using pulleys and levers to explore mechanical advantage** - Check out this huge tripod with weights and pulleys, then try using pulleys and levers to explore the idea of "mechanical advantage"
 
 
-Last initially checked on 2026-11-14 by Laura Irving (lhi21) and double-checked on by
+Last initially checked on 2026-11-14 by Laura Irving (lhi21) and double-checked on 2026-11-20 by Tara Doherty (ted37)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -31,7 +31,7 @@ Here is a hopefully not too ropey write-up of what is an awesome experiment (I h
 
 **The bag**
 
-First, get the kids try and lift the bag, and then like a Christmas turkey get them to guess the weight. Wild guesses will ensue. Tell them there are 4x2L bottles in the bag. Ask them how heavy 1L of water is. (Wild guesses). Tell them that 1kg = 1L of water. Then get them to tell you how heavy the bag is (4x2=8 is surprisingly difficult). 8kg of weight is how heavy the bag is (or 80N downwards), so how much force do you need to apply to lift it slowly? Just over 8kg worth of weight (or 80N). I think we have bagged that idea, let’s move on. Maybe say that as far as you pull down, the bag lifts up, as it maybe is useful to say that at this point so they are thinking of it…
+First, get the kids to try and lift the bag, and then like a Christmas turkey get them to guess the weight. Wild guesses will ensue. Tell them there are 4x2L bottles in the bag. Ask them how heavy 1L of water is. (Wild guesses). Tell them that 1kg = 1L of water. Then get them to tell you how heavy the bag is (4x2=8 is surprisingly difficult). 8kg of weight is how heavy the bag is (or 80N downwards), so how much force do you need to apply to lift it slowly? Just over 8kg worth of weight (or 80N). I think we have bagged that idea, let’s move on. Maybe say that as far as you pull down, the bag lifts up, as it maybe is useful to say that at this point so they are thinking of it…
 
 **First Pulley**
 
@@ -226,4 +226,4 @@ Call first aider if required.
 
 **Check 1**: 2025-11-29 - Evelyn Bassett (ejb228@cam.ac.uk), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182@cam.ac.uk)
 
-**Check 1**: 2026-11-14 - Laura Irving (lhi21), **Check 2**: 
+**Check 1**: 2026-11-14 - Laura Irving (lhi21), **Check 2**: 2026-11-20 - Tara Doherty (ted37)
