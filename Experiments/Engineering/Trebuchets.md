@@ -2,7 +2,7 @@
 
 **Using a medieval inspired siege-weapon to launch bean bag bunnies** - Fire projectiles across the room using our trebuchets! Can you work out how to make them go really far?
 
-Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 
+Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 2026-11-20 by Tara Doherty (ted37)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -198,7 +198,7 @@ Call first aider if required.
 
 **Check 1**: 2025-11-29 - Evelyn Bassett (ejb228), **Check 2**: 2025-12-28 - Anna Ritschl Ebell (ar2182)
 
-**Check 1**: 2026-11-19 - Leah Helm (lkh53)
+**Check 1**: 2026-11-19 - Leah Helm (lkh53), **Check 2**: 2026-11-20 - Tara Doherty (ted37)
 
 
 
