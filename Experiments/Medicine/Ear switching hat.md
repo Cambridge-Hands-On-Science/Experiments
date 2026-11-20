@@ -3,7 +3,7 @@
 **This magical hat will confuse your senses!** - Sound cues can help us figure out where things are located in the environment - try confusing your brain with the Ear-Switching Hat!
 
 
-Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on
+Last initially checked on 2026-11-19 by Leah Helm (lkh53) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -152,7 +152,7 @@ Call a first aider in case of injury.
 
 **Check 1**: 2025-11-23 - Alice O'Hara (aeio3), **Check 2**: Timothy Wong (chw55)
 
-**Check 1**: 2026-11-19 - Leah Helm (lkh53)
+**Check 1**: 2026-11-19 - Leah Helm (lkh53), **Check 2**: Amy Patterson (alp95)
 
 
 
