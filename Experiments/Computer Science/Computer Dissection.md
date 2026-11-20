@@ -2,7 +2,7 @@
 
 **Dissecting a computer** - Break open a computer and see how it works inside. 
 
-Last initially checked on 2026-11-08 by Jesse Luo (jl2491) and double-checked on 2026-XX-XX by XX (hw653)
+Last initially checked on 2026-11-08 by Jesse Luo (jl2491) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -227,20 +227,20 @@ Call a first aider if choking occurs.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2018-10-02 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2018-12-12 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-27 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-12-26 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2020-01-27 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-22 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-22 - Conor Cafolla (ctc43), **Check 2**: 2021-01-22 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-01 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-02-01 - Andrew Sellek (ads79), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Peter Methley (pm631), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2025-01-31 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-11-25 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-11 - Henry Warburton (hw653@cam.ac.uk)
+**Check 1**: 2025-11-25 - Jesse Luo (jl2491), **Check 2**: 2026-01-11 - Henry Warburton (hw653)
 
-**Check 1**: 2026-11-08 - Jesse Luo (jl2491),
+**Check 1**: 2026-11-08 - Jesse Luo (jl2491), **Check 2**: 2026-11-20 - Amy Patterson (alp95)
