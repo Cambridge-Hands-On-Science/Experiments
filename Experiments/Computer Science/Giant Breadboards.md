@@ -2,7 +2,7 @@
 
 **Make circuits using giant components** - Explore circuit basics, different components, logic gates, speakers, buzzers and build your own heat alarms and more.
 
-Last initially checked on 2026-11-14 by Jesse Luo (jl2491) and double-checked on 2026-XX-XX by XX (XX)
+Last initially checked on 2026-11-14 by Jesse Luo (jl2491) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 
@@ -146,12 +146,12 @@ Remove batteries from battery box and store in separate bag. Separate components
 
 ## Risk Assessment Check History
 
-**Check 1**: 2024-03-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-03-15 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2024-03-15 - Peter Methley (pm631), **Check 2**: 2024-03-15 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2025-01-23 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491), **Check 2**: 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-14 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 
+**Check 1**: 2026-11-14 - Jesse Luo (jl2491), **Check 2**: 2026-11-20 - Amy Patterson (alp96)
 
 
