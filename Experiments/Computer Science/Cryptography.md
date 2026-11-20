@@ -2,7 +2,7 @@
 
 **Learn about codes and ciphers** - Learn about codes and ciphers through a selection of demonstrations of different methods using whiteboards and padlocks. 
 
-Last initially checked on 2026-11-13 by Jesse Luo (jl2491) and double-checked on xx by xx (xx)
+Last initially checked on 2026-11-13 by Jesse Luo (jl2491) and double-checked on 2026-11-20 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -218,7 +218,7 @@ https://spookyactionbook.com/2016/04/12/demonstrate-quantum-encryption-with-a-fl
 
 **Mitigation**: Sand down the points on the flags, encourage people using them to be careful and monitor for bad behaviour
 
-**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 4 (medium)
+**After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (medium)
 
 <br/>
 
@@ -268,21 +268,21 @@ Diffie-Helmann
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-12-12 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)
+**Check 1**: 2018-12-12 - Matthew Le Maitre (msl54), **Check 2**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2020-02-04 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-02-04 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-02-04 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-17 - Sian Boughton (seb216), **Check 2**: 2021-01-22 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Peter Methley (pm631), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-27 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2025-01-27 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491), **Check 2**: 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-13 - Jesse Luo (jl2491), **Check 2**: 
+**Check 1**: 2026-11-13 - Jesse Luo (jl2491), **Check 2**: 2026-11-20 - Amy Patterson (alp95)
 
 
 
