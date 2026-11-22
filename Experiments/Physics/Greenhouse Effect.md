@@ -2,7 +2,7 @@
 
 **Illustrating the greenhouse effect with hot resistors in flasks** 
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -171,7 +171,7 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 **Before Mitigation**: Likelihood: 3, Severity: 3, Overall: 9 (High) 
 
-**Mitigation**: Secure flasks to the table with masking tape if necessary (easily removable and will not leave marks), especially if small kids are around. Keep flasks away from table edges. The bungs have holes drilled on top (where the leads come out). They are not airtight, so gas can escape when the flasks are heated. **Do not seal the holes on top the bungs, otherwise the flasks may crack during heating.**
+**Mitigation**: Secure flasks to the table with masking tape if necessary (easily removable and will not leave marks), especially if small kids are around. Keep flasks away from table edges. The bungs have holes drilled on top (where the leads come out). They are not airtight, so gas can escape when the flasks are heated. **Do not seal the holes on top of the bungs, otherwise the flasks may crack during heating.**
 
 **After Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium) 
 
@@ -191,8 +191,10 @@ In case of burns, run affected area under tepid (not cold) water for 10 minutes.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2024-02-22 - Timothy Wong (chw55@cam.ac.uk), **Check 2**: 2024-02-22 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2024-02-22 - Timothy Wong (chw55), **Check 2**: 2024-02-22 - Lauren Mason (llm34)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - John Leung (cfl35@cam.ac.uk)
+**Check 1**: 2025-02-08 - Duncan Green (dg678), **Check 2**: 2025-02-08 - John Leung (cfl35)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43), **Check 2**: 2026-01-04 – Timothy Wong (chw55)
+
+**Check 1**: 2026-11-22 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
