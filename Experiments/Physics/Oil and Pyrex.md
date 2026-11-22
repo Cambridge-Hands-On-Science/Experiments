@@ -2,7 +2,7 @@
 
 **Using the refractive index of vegetable oil to make a glass bowl 'disappear'.** - Ordinary glass objects seem to disappear as you submerge them in a bath of oil. This experiment is spectacular and very messy!
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Leah Helm (lkh53@cam.ac.uk)
+Last initially checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -73,7 +73,7 @@ In a non-cross linked form the polymer absorbs water much more quickly but sadly
 
 At CHaOS+ events, or if you are confident at public events, this can be used to demonstrate how waves change speed in different mediums. To set up, clamp the wave model between 2 tables and add weights to skewers on one end. Playing around with this you should be able to see reflected waves and a noticeable change in wave speed at the boundary.
 
-<br/>
+
 
 ## Risk Assessment
 
@@ -124,7 +124,7 @@ Call a first aider in the case of an injury, who may perform an eyewash if train
 
 <br/>
 
-### **Hazard**: Skewers
+### **Hazard**: Skewers (part of wavemodel)
 
 **Description**: Ends of skewers could be sharp (could stab/cut people)
 
@@ -139,7 +139,7 @@ Call a first aider in the case of an injury.
 
 <br/>
 
-### **Hazard**: Swallowing sweets/marshmallows
+### **Hazard**: Swallowing sweets/marshmallows (part of wavemodel)
 
 **Description**: Audience could try to eat them, which is unsanitary.
 
@@ -158,32 +158,32 @@ In the event that something is eaten, warn parents/relevant adult.
 
 **Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Richard Ingham (richardingham@cantab.net)
 
-**Check 1**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk), **Check 2**: 2013-01-20 - Richard Hall (rjh216@cam.ac.uk)
+**Check 1**: 2013-01-08 - Ophelia Crawford (oc251), **Check 2**: 2013-01-20 - Richard Hall (rjh216)
 
-**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-02-14 - Nunu Tao (nmt26@cam.ac.uk)
+**Check 1**: 2014-01-17 - Zephyr Penoyre (jp576), **Check 2**: 2014-02-14 - Nunu Tao (nmt26)
 
-**Check 1**: 2015-01-05 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-25 - Tom Comerford (tafc2@cam.ac.uk)
+**Check 1**: 2015-01-05 - Joseph Hooton (jh795), **Check 2**: 2015-01-25 - Tom Comerford (tafc2)
 
-**Check 1**: 2015-12-26 - Charis Watkins (czrw2@cam.ac.uk), **Check 2**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk)
+**Check 1**: 2015-12-26 - Charis Watkins (czrw2), **Check 2**: 2016-01-03 - Andrei Ruskuc (ar720)
 
 **Check 1**: 2017-01-15 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2017-02-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-27 - Hannah Thorne (hbt23@cam.ac.uk), **Check 2**: 2018-02-03 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2018-01-27 - Hannah Thorne (hbt23), **Check 2**: 2018-02-03 - Andrew Sellek (ads79)
 
-**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2019-01-25 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2019-01-07 - Josh Garfinkel (jlg70), **Check 2**: 2019-01-25 - Grace Exley (gae23)
 
-**Check 1**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk), **Check 2**: 2020-01-18 - Esmae Jemima Woods (ejw89@cam.ac.uk)
+**Check 1**: 2020-01-16 - Jean Pichon (jp622), **Check 2**: 2020-01-18 - Esmae Jemima Woods (ejw89)
 
-**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2021-01-18 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2020-12-27 - Esmae Jemima Woods (ejw89), **Check 2**: 2021-01-18 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk)
+**Check 1**: 2022-02-09 - Conor Cafolla (ctc43), **Check 2**: 2022-02-09 - Joshan Parmar (jp862)
 
-**Check 1**: 2023-01-29 - John Leung (cfl35@cam.ac.uk), **Check 2**: 2023-01-29 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2023-01-29 - John Leung (cfl35), **Check 2**: 2023-01-29 - Joshua Wu (jw2311)
 
-**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-15 - Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2024-01-25 - Joshua Wu (jw2311), **Check 2**: 2024-02-15 - Timothy Wong (chw55)
 
-**Check 1**: 2025-02-08 - Tara Doherty (ted37@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-02-08 - Tara Doherty (ted37), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk) 
+**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**: 2026-01-12 - Leah Helm (lkh53) 
 
-
+**Check 1**: 2026-11-22 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
