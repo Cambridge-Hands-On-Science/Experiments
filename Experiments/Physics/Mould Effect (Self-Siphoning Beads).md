@@ -2,7 +2,7 @@
 
 **Letting a chain pull itself out of a beaker under its own gravity** - Why on earth do the beads have to go up to come down?! Watch them fly out of a beaker, looping and corkscrewing, and find out about the amazing Mould Effect!
 
-Last initially checked on 2025-11-29 by Teresa Chan (ytc43@cam.ac.uk) and double-checked on 2026-01-04 by Timothy Wong (chw55@cam.ac.uk)
+Last initially checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -173,21 +173,22 @@ Call a first aider in case of emergency.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2018-01-26 - Sarah Wiseman (sw628@cam.ac.uk), **Check 2**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
+**Check 1**: 2018-01-26 - Sarah Wiseman (sw628), **Check 2**: 2018-02-03 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-02 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-02 - Grace Exley (gae23), **Check 2**: 2019-01-02 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-19 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-19 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2020-01-19 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-01-19 - Polly Hooton (prh43)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-02-09 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2022-02-09 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2022-02-09 - Grace Exley (gae23), **Check 2**: 2022-02-09 - Andrew Sellek (ads79)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369), **Check 2**: 2023-01-13 - Johan Kidger (jpk51)
 
-**Check 1**: 2024-01-25 - Joshua Wu (jw2311@cam.ac.uk), **Check 2**: 2024-02-04 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2024-01-25 - Joshua Wu (jw2311), **Check 2**: 2024-02-04 - Lauren Mason (llm34)
 
-**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2@cam.ac.uk), **Check 2**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk)
+**Check 1**: 2025-01-26 - Margaret Johncock (mllyj2), **Check 2**: 2025-02-08 - Duncan Green (dg678)
 
-**Check 1**: 2025-11-29 - Teresa Chan (ytc43@cam.ac.uk), **Check 2**: 2026-01-04 – Timothy Wong (chw55@cam.ac.uk)
+**Check 1**: 2025-11-29 - Teresa Chan (ytc43), **Check 2**: 2026-01-04 – Timothy Wong (chw55)
 
+**Check 1**: 2026-11-22 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
