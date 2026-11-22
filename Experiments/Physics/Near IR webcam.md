@@ -2,8 +2,7 @@
 
 **Use a modified webcam to see into the near infrared.** - There's a whole spectra of light beyond the visible, why not see one side of it through a modified webcam?
 
-Last initially checked on 2025-11-23 by Daniel Eaton (de354@cam.ac.uk) and double-checked on 2026-01-12 by Duncan Green (dg678@cam.ac.uk)
-
+Last initially checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796) and double-checked on 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -105,7 +104,7 @@ http://www.hoagieshouse.com/IR/
 
 ### Link to UV
 
-This experiment often links well if placed near UV or demonstrated as a pair. You'll find the lights in IR can be too bright to see UV florescence. If separate demonstrations try and place slightly further apart or use the boxes as a screen if paired then switch off when moving across. 
+This experiment often links well if placed near UV or demonstrated as a pair. You'll find the lights in IR can be too bright to see UV fluorescence. If separate demonstrations, try and place slightly further apart or use the boxes as a screen if paired then switch off when moving across. 
 
 <br/>
 
@@ -156,7 +155,7 @@ If lamp becomes broken, keep the public well away from the area, and ventilate a
 
 Call first aider in case of injury
 
-**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Meduim)
+**After Mitigation**: Likelihood: 1, Severity: 4, Overall: 4 (Medium)
 
 <br/>
 
@@ -222,31 +221,33 @@ Call first aider in case of injury
 
 **Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-03-13 - Anna Kalorkoti (anna.kalorkoti@cantab.net)
 
-**Check 1**: 2014-01-21 - Holly Davis (hd308@cam.ac.uk), **Check 2**: 2014-01-22 - Brett Abram (ba305@cam.ac.uk)
+**Check 1**: 2014-01-21 - Holly Davis (hd308), **Check 2**: 2014-01-22 - Brett Abram (ba305)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-02-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2@cam.ac.uk)
+**Check 1**: 2018-01-12 - Josh Garfinkel (jlg70), **Check 2**: 2018-01-17 - Lucy Hart (ljfh2)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-01 - Grace Exley (gae23), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-16 - Jean Pichon (jp622@cam.ac.uk)
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-01-16 - Jean Pichon (jp622)
 
-**Check 1**: 2021-01-20 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-20 - Conor Cafolla (ctc43), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
-**Check 1**: 2022-01-23 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465@cam.ac.uk)
+**Check 1**: 2022-01-23 - Andrew Sellek (ads79), **Check 2**: 2022-01-30 - Lavinia Finalde Delfini (lf465)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-13 - Johan Kidger (jpk51@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369), **Check 2**: 2023-01-13 - Johan Kidger (jpk51)
 
-**Check 1**: 2024-01-30 - Lauren Mason (llm34@cam.ac.uk), **Check 2**: 2024-01-31 - Joshua Wu (jw2311@cam.ac.uk)
+**Check 1**: 2024-01-30 - Lauren Mason (llm34), **Check 2**: 2024-01-31 - Joshua Wu (jw2311)
 
-**Check 1**: 2025-02-08 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk)
+**Check 1**: 2025-02-08 - Duncan Green (dg678), **Check 2**: 2025-02-08 - Chiara Delpiano-Cordeiro (cd796)
 
-**Check 1**: 2025-11-23 - Daniel Eaton (de354@cam.ac.uk), **Check 2**: 2026-01-12 - Duncan Green (dg678@cam.ac.uk)
+**Check 1**: 2025-11-23 - Daniel Eaton (de354), **Check 2**: 2026-01-12 - Duncan Green (dg678)
+
+**Check 1**: 2026-11-22 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 
 
 
 
