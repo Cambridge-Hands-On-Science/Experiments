@@ -2,7 +2,7 @@
 
 **Looking at how materials fluoresce in UV light.** - The world looks different when it's lit by UV... see how you can use this type of light to make clothes look extra-bright, find out whether banknotes are real or fake, and revive dead glowsticks.
 
-Last initially checked on 2026-11-08 by Daniel Eaton (de354) and double-checked on  by  ()
+Last initially checked on 2026-11-08 by Daniel Eaton (de354) and double-checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -36,7 +36,6 @@ Last initially checked on 2026-11-08 by Daniel Eaton (de354) and double-checked 
 
 ### In a nutshell..
 
-
 Show kids that there's more to light than the colours that they can see- and how this can explain why some ordinary things glow in "black light"
 
 ### How to set up the equipment
@@ -48,7 +47,7 @@ This is best set up on the floor so that you don't look directly at the bulb. Pu
 
 Turn over the box **with both lights switched off**, and show the kids the two bulbs. One is for "ordinary/normal" white light. The other bulb is a UV bulb- a kind of light human eyes can't see. There is a switch for each on the back. Turn it back over as soon as you're done with this to avoid UV directly into people's eyes.
 
-See Risk Assessment for more details, but briefly: this particular UV light is pretty safe- it's not that far into the UV, so isn't as energetic/ dangerous as some other sources. You should hopefully spot that it gives off weak visible light too. It's also fairly weak - but *don't use it while it is facing up* just in case!!
+See Risk Assessment for more details, but briefly: this particular UV light is pretty safe - it's not that far into the UV, so isn't as energetic/ dangerous as some other sources. You should hopefully spot that it gives off weak visible light too. It's also fairly weak - but *don't use it while it is facing up* just in case!!
 
  ### What is light/ UV light?
 
@@ -95,7 +94,7 @@ Ask if they've ever seen notes being checked in shops. You can ask parents if th
 
 You might have seen this!
 
-Fluorescent objects in the box
+## Fluorescent objects in the box
 Highlighters:
 - Fairly boring in white light, but spectacular under UV. Draw on white paper or non-fluorescent card, on even a smiley face on the back of your hand!
 
@@ -103,7 +102,7 @@ Glowsticks:
 - Show them glow sticks in the UV - which will glow. Glow sticks get their energy from a chemical reaction rather than UV, if you give them energy from UV they will still glow though
 
 Tonic water:
-- This is probably the brightest fluorescence in the box, so I usually leave it until last. It's quinine that's causing the glow- this compound is more famous for helping to kill malaria parasites when it was added to tonic water. In the past it was in much higher doses than it is now.
+- This is probably the brightest fluorescence in the box, so I usually leave it until last. It's quinine that's causing the glow - this compound is more famous for helping to kill malaria parasites when it was added to tonic water. In the past it was in much higher doses than it is now.
 
 Glow in the dark board:
 - There is also a board coated with the phosphorescent paint - put it under the UV light for 10 seconds (or more - doesn't do any harm), then turn the light off and let them see how the board carries on glowing. Turn the light back on and invite them to put their hands on the board. Make sure they keep their hands in the same place for at least 10 seconds, and see if they can guess what the board will look like after they take their hands away - the effect will be most long-lasting if you turn the UV light off at almost the same time as they take their hands off the board. Some parents may want to take photos!
@@ -226,7 +225,7 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 
 **Affected People**: Public
 
-**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (Unacceptabe)
+**Before Mitigation**: Likelihood: 5, Severity: 3, Overall: 15 (Unacceptable)
 
 **Mitigation**: If children want to put sun cream on their skin, first make sure that they've previously used sun cream without allergic reaction.
 Call first aider in event of injury, who may perform an eye wash if trained and confident to do so. People with a suncream allergy should avoid touching anything in the box, as it is all covered in old suncream.
@@ -244,7 +243,7 @@ Call first aider in event of injury, who may perform an eye wash if trained and 
 **Before Mitigation**: Likelihood: 2, Severity: 3, Overall: 6 (Medium)
 
 **Mitigation**: Don't let children repeatedly play with and bend glowsticks.
-Make sure anyone in contact with the glow stick washes their hands immediately and clear up spillages before continuing. Call first aider in event of injury.
+Make sure anyone in contact with a broken glow stick washes their hands immediately and clear up spillages before continuing. Call first aider in event of injury.
 
 **After Mitigation**: Likelihood: 1, Severity: 3, Overall: 3 (Low)
 
@@ -282,6 +281,6 @@ Make sure anyone in contact with the glow stick washes their hands immediately a
 
 **Check 1**: 2025-11-29 - Daniel Eaton (de354), **Check 2**: 2026-01-12 - Jeremy Lee (rqjl2)
 
-**Check 1**: 2026-11-08 Daniel Eaton (de354), **Check 2**: 
+**Check 1**: 2026-11-08 Daniel Eaton (de354), **Check 2**: 2026-11-22 - Chiara Delpiano-Cordeiro (cd796) 
 
 
