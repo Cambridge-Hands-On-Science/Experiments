@@ -2,7 +2,7 @@
 
 **Making hot air balloons with plastic bags and a toaster.** - Make your own hot air balloon with a plastic bag and a toaster!
 
-Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 
+Last initially checked on 2026-11-19 by Lauren Xiong (lx295) and double-checked on 2026-11-22 by Chiara Delpiano-Cordeiro (cd796)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -159,37 +159,37 @@ Monitor for allergic reactions and inform first aider if any signs appear.
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78@cam.ac.uk)
+**Check 1**: 2011-12-30 - Mark Durkee (mark.durkee@cantab.net), **Check 2**: 2012-01-14 - Aaron Barker (arb78)
 
-**Check 1**: 2012-12-16 - Rachel Chapman (rc506@cam.ac.uk), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251@cam.ac.uk)
+**Check 1**: 2012-12-16 - Rachel Chapman (rc506), **Check 2**: 2013-01-08 - Ophelia Crawford (oc251)
 
-**Check 1**: 2014-01-10 - Zephyr Penoyre (jp576@cam.ac.uk), **Check 2**: 2014-01-17 - Ophelia Crawford (oc251@cam.ac.uk)
+**Check 1**: 2014-01-10 - Zephyr Penoyre (jp576), **Check 2**: 2014-01-17 - Ophelia Crawford (oc251)
 
-**Check 1**: 2015-01-04 - Joseph Hooton (jh795@cam.ac.uk), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58@cam.ac.uk)
+**Check 1**: 2015-01-04 - Joseph Hooton (jh795), **Check 2**: 2015-01-07 - Tim Morgan Boyd (tmb58)
 
-**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22@cam.ac.uk)
+**Check 1**: 2016-01-03 - Andrei Ruskuc (ar720), **Check 2**: 2016-01-17 - Frances Victoria Western (fvw22)
 
-**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720@cam.ac.uk), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2016-12-29 - Andrei Ruskuc (ar720), **Check 2**: 2017-01-29 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2018-01-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70@cam.ac.uk)
+**Check 1**: 2018-01-01 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-01-12 - Josh Garfinkel (jlg70)
 
-**Check 1**: 2019-01-01 - Grace Exley (gae23@cam.ac.uk), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-01 - Grace Exley (gae23), **Check 2**: 2019-01-01 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89@cam.ac.uk), **Check 2**: 2020-01-05 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2020-01-05 - Esmae Jemima Woods (ejw89), **Check 2**: 2020-01-05 - Andrew Sellek (ads79)
 
-**Check 1**: 2021-01-17 - Sian Boughton (seb216@cam.ac.uk), **Check 2**: 2021-01-19 - Andrew Sellek (ads79@cam.ac.uk)
+**Check 1**: 2021-01-17 - Sian Boughton (seb216), **Check 2**: 2021-01-19 - Andrew Sellek (ads79)
 
-**Check 1**: 2022-01-22 - Andrew Sellek (ads79@cam.ac.uk), **Check 2**: 2022-01-28 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2022-01-22 - Andrew Sellek (ads79), **Check 2**: 2022-01-28 - Lauren Mason (llm34)
 
-**Check 1**: 2023-01-12 - Jamie Barrett (jb2369@cam.ac.uk), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81@cam.ac.uk)
+**Check 1**: 2023-01-12 - Jamie Barrett (jb2369), **Check 2**: 2023-01-12 - Jessica Trevelyan (jet81)
 
-**Check 1**: 2024-01-06 - Lucy Bland (lb831@cam.ac.uk), **Check 2**: 2024-01-23 - Lauren Mason (llm34@cam.ac.uk)
+**Check 1**: 2024-01-06 - Lucy Bland (lb831), **Check 2**: 2024-01-23 - Lauren Mason (llm34)
 
-**Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: Anna Ritschl Ebell (ar2182@cam.ac.uk)
+**Check 1**: 2024-12-17 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: Anna Ritschl Ebell (ar2182)
 
-**Check 1**: 2025-11-29 - Duncan Green (dg678@cam.ac.uk), **Check 2**: 2025-11-30 Maisie Howard (mah253@cam.ac.uk)
+**Check 1**: 2025-11-29 - Duncan Green (dg678), **Check 2**: 2025-11-30 Maisie Howard (mah253)
 
-**Check 1**: 2026-11-19 – Lauren Xiong (lx295)
+**Check 1**: 2026-11-19 – Lauren Xiong (lx295), **Check 2**: 2026-11-22 Chiara Delpiano-Cordeiro (cd796)
 
 
 
