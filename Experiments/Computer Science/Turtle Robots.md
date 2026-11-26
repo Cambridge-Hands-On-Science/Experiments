@@ -2,7 +2,7 @@
 
 **These turtles want to draw you shapes.** - Learn the basics of robotics by teaching simple robots to move and draw. 
 
-Last initially checked on 2026-11-08 by Jesse Luo (jl2491) and double-checked on 2026-XX-XX by XX (XX)
+Last initially checked on 2026-11-08 by Jesse Luo (jl2491) and double-checked on 2026-11-26 by Amy Patterson (alp95)
 
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
@@ -236,20 +236,20 @@ Side note: Volty needs to be used with the tracks, it can move forward and backw
 
 **Check 1**: 2018-07-22 - Benjamin Akrill (bja32@alumni.cam.ac.uk), **Check 2**: 2018-07-24 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Matthew Le Maitre (msl54@cam.ac.uk)
+**Check 1**: 2019-01-01 - Thomas Webster (tw432@alumni.cam.ac.uk), **Check 2**: 2019-02-04 - Matthew Le Maitre (msl54)
 
-**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37@cam.ac.uk), **Check 2**: 2020-02-04 - Emma Crickmore (elc75@cam.ac.uk)
+**Check 1**: 2020-01-31 - Beatrix Huissoon (beh37), **Check 2**: 2020-02-04 - Emma Crickmore (elc75)
 
-**Check 1**: 2021-01-22 - Polly Hooton (prh43@cam.ac.uk), **Check 2**: 2021-01-22 - Grace Exley (gae23@cam.ac.uk)
+**Check 1**: 2021-01-22 - Polly Hooton (prh43), **Check 2**: 2021-01-22 - Grace Exley (gae23)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Sian Boughton (seb216@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Sian Boughton (seb216)
 
-**Check 1**: 2023-02-17 - Emma Crickmore (elc75@cam.ac.uk), **Check 2**: 2023-02-18 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-02-17 - Emma Crickmore (elc75), **Check 2**: 2023-02-18 - Asmita Niyogi (an637)
 
-**Check 1**: 2024-02-15 - Peter Methley (pm631@cam.ac.uk), **Check 2**: 2024-02-15 - Isobel Gilham (ig419@cam.ac.uk)
+**Check 1**: 2024-02-15 - Peter Methley (pm631), **Check 2**: 2024-02-15 - Isobel Gilham (ig419)
 
-**Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2025-01-21 - Rowan Ong (rzmo2@cantab.ac.uk), **Check 2**: 2025-02-08 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-11-29 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2026-01-12 - Leah Helm (lkh53@cam.ac.uk)
+**Check 1**: 2025-11-29 - Jesse Luo (jl2491), **Check 2**: 2026-01-12 - Leah Helm (lkh53)
 
-**Check 1**: 2026-11-08 - Jesse Luo (jl2491), **Check 2**: 2026-XX-XX - XX (XX)
+**Check 1**: 2026-11-08 - Jesse Luo (jl2491), **Check 2**: 2026-11-26 - Amy Patterson (alp95)
