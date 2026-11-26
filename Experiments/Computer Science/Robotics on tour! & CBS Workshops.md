@@ -2,7 +2,7 @@
 
 **Challenges that can be done with robots in a relatively short time period. Robotics workshops run during CBS.** - Learn to programme LEGO Mindstorms and learn about IF statements and LOOPs.
 
-Last initially checked on 2026-11-19 by Jesse Luo (jl2491) and double-checked on 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk).
+Last initially checked on 2026-11-19 by Jesse Luo (jl2491) and double-checked on 2026-11-26 by Amy Patterson (alp95).
 ## Tags
 <!--- Start Tags (DO NOT REMOVE THIS COMMENT) --->
 
@@ -248,30 +248,30 @@ Check that motors are properly sealed before setting up experiment, do not demon
 
 ## Risk Assessment Check History 
 
-**Check 1**: 2015-10-23 - Tim Morgan Boyd (tmb58@cam.ac.uk), **Check 2**: 2015-10-23 - Robert Gayer (rg478@cam.ac.uk)
+**Check 1**: 2015-10-23 - Tim Morgan Boyd (tmb58), **Check 2**: 2015-10-23 - Robert Gayer (rg478)
 
-**Check 1**: 2017-01-22 - Robert Gayer (rg478@cam.ac.uk), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk)
+**Check 1**: 2017-01-22 - Robert Gayer (rg478), **Check 2**: 2017-02-06 - Thomas Webster (tw432@alumni.cam.ac.uk)
 
-**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574@cam.ac.uk)
+**Check 1**: 2018-02-06 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2018-02-06 - Joanna Tumelty (jt574)
 
-**Check 1**: 2019-02-04 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2019-02-05 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2019-02-04 - Conor Cafolla (ctc43), **Check 2**: 2019-02-05 - Polly Hooton (prh43)
 
-**Check 1**: 2019-08-31 - Matthew Le Maitre (msl54@cam.ac.uk), **Check 2**: 2019-09-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
+**Check 1**: 2019-08-31 - Matthew Le Maitre (msl54), **Check 2**: 2019-09-01 - Benjamin Akrill (bja32@alumni.cam.ac.uk)
 
-**Check 1**: 2020-01-30 - Conor Cafolla (ctc43@cam.ac.uk), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37@cam.ac.uk)
+**Check 1**: 2020-01-30 - Conor Cafolla (ctc43), **Check 2**: 2020-01-30 - Beatrix Huissoon (beh37)
 
-**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43@cam.ac.uk)
+**Check 1**: 2021-01-19 - Jared Jeyaretnam (jaj55@alumni.cam.ac.uk), **Check 2**: 2021-01-20 - Polly Hooton (prh43)
 
-**Check 1**: 2022-02-09 - Joshan Parmar (jp862@cam.ac.uk), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2@cam.ac.uk)
+**Check 1**: 2022-02-09 - Joshan Parmar (jp862), **Check 2**: 2022-02-09 - Margaret Johncock (mllyj2)
 
-**Check 1**: 2023-01-21 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369@cam.ac.uk)
+**Check 1**: 2023-01-21 - Asmita Niyogi (an637), **Check 2**: 2023-01-30 - Jamie Barrett (jb2369)
 
-**Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796@cam.ac.uk), **Check 2**: 2024-01-11 - Asmita Niyogi (an637@cam.ac.uk)
+**Check 1**: 2023-12-31 - Chiara Delpiano-Cordeiro (cd796), **Check 2**: 2024-01-11 - Asmita Niyogi (an637)
 
-**Check 1**: 2025-01-12 - Asmita Niyogi (an637@cam.ac.uk), **Check 2**: 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
+**Check 1**: 2025-01-12 - Asmita Niyogi (an637), **Check 2**: 2025-01-17 by Rowan Ong (rzmo2@cantab.ac.uk)
 
-**Check 1**: 2025-11-24 - Jesse Luo (jl2491@cam.ac.uk), **Check 2**: 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2025-11-24 - Jesse Luo (jl2491), **Check 2**: 2025-11-29 by Jeremy Lee (rqjl2)
 
-**Check 1**: 2026-11-19 - Jesse Luo (jl2491), **Check 2**: 2025-11-29 by Jeremy Lee (rqjl2@cam.ac.uk)
+**Check 1**: 2026-11-19 - Jesse Luo (jl2491), **Check 2**: 2026-11-26 by Amy Patterson (alp95)
 
 
